@@ -5082,7 +5082,7 @@ Break Shackles: Attack with increased accuracy and damage based on the duration 
 Blood infusion: Sacrifice <Num0>% of your current hp to deal an attack with <Num1>% increased accuracy and damage, with a guaranteed set effect activation on hit. This special attack requires the full Bloodrager set to be worn. (<Num2>%)		interface	mainTabs	combatOptionsTab
 Eclipse: Attack with <Num0>% increased accuracy, consuming all remaining burn damage affecting the target and raising the max hit by that amount. This special attack requires the full Eclipse set to be worn. (<Num1>%)		interface	mainTabs	combatOptionsTab
 Virulence: Instantly metabolize any poison you are suffering from to buff your next attack by that amount of damage. (<Num0>%)		interface	mainTabs	combatOptionsTab
-Combat Level:	<noAutoBr>Nv Combate:</noAutoBr>	interface	mainTabs	characterSummaryTab
+Combat Level:	Combate:	interface	mainTabs	characterSummaryTab
 Total Level:	Nv Total:	interface	mainTabs	characterSummaryTab
 Total XP: <colNum0><Num0></col>	EXP total: <colNum0><Num0></col>	interface	mainTabs	characterSummaryTab
 Quests Completed:	Missões concluídas:	interface	mainTabs	characterSummaryTab
@@ -5164,7 +5164,7 @@ W<Num0>	M<Num0>	interface	mainTabs	groupTab
 Vacancy		interface	mainTabs	groupTab
 <colNum0>Settings</col>	<colNum0>Config.</col>	interface	mainTabs	groupTab
 <colNum0><colNum1>Connecting...</col></col>	<colNum0><colNum1>Conectando...</col></col>	interface	mainTabs	groupTab
-<colNum0>Join</col>	<colNum0>Entrar</col>	interface	mainTabs	groupTab
+<colNum0>Join</col>	Entrar	interface	mainTabs	groupTab
 Setup	Config.	interface	mainTabs	groupTab
 <colNum0>Leave</col>	<colNum0>Sair</col>	interface	mainTabs	groupTab
 <colNum0>Chat-channel</col>	<colNum0>Canal de chat</col>	interface	mainTabs	groupTab
@@ -6113,7 +6113,7 @@ Playing:		interface	mainTabs	musicTab
 Area		interface	mainTabs	musicTab
 Man		interface	mainTabs	musicTab
 Rand		interface	mainTabs	musicTab
-Filters	<noAutoBr>Filtros</noAutoBr>	interface	mainTabs	prayerTab
+Filters	Filtro	interface	mainTabs	prayerTab
 Prayer Filters	Filtros de oração	interface	mainTabs	prayerTab
 Show lower tiers of tiered prayers	Orações de níveis inferiores	interface	mainTabs	prayerTab
 Show tiered prayers even if multi-skill prayers are available	Manter visíveis orações<br>de um stat	interface	mainTabs	prayerTab
@@ -6237,7 +6237,7 @@ Free Total Level:	Nível total (hab. gratuitas):	interface	mainTabs	skillsTab
 <colNum0>Thieving:</col>	<colNum0>Roubo:</col>	interface	mainTabs	skillsTab
 <colNum0>Herblore:</col>	<colNum0>Herbologia:</col>	interface	mainTabs	skillsTab
 <colNum0>Agility:</col>	<colNum0>Agilidade:</col>	interface	mainTabs	skillsTab
-Filters	<noAutoBr>Filtros</noAutoBr>	interface	mainTabs	spellBookTab
+Filters	Filtro	interface	mainTabs	spellBookTab
 Lumbridge Home Teleport	Telerretorno p/ Lumbridge	interface	mainTabs	spellBookTab
 Requires no runes - recharge time <Num0> mins. Warning: This spell takes a long time to cast and will be interrupted by combat.	Sem custo - tempo de recarga<br><Num0> mins. Aviso: Leva alguns<br>segundos para lançar e pode ser<br>interrompido em combate.	interface	mainTabs	spellBookTab
 Level <Num0>: Wind Strike	Nível <Num0>: Aerobala	interface	mainTabs	spellBookTab
