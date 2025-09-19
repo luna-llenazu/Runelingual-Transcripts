@@ -7231,7 +7231,7 @@ Rare fossilised skull	Crânio fossilizado raro	name	item	Rare fossilised skull
 Rare fossilised tusk	Presa fossilizada rara	name	item	Rare fossilised tusk
 Volcanic ash	Cinza vulcânica	name	item	Volcanic ash
 Hoop snake	Cobra-coroa	name	item	Hoop snake
-Sulliuscep cap	Chapéu sulliuscep	name	item	Sulliuscep cap
+Sulliuscep cap	Chapéu suliuscepe	name	item	Sulliuscep cap
 Archaeologist's diary	Diário do arqueólogo	name	item	Archaeologist's diary
 Ancient diary	Diário antigo	name	item	Ancient diary
 Ancient wyvern shield	Escudo antigo de dragão alado	name	item	Ancient wyvern shield
@@ -8535,16 +8535,16 @@ Dragon axe (or)	Machado dragônico (or)	name	item	Dragon axe (or)
 Trailblazer relic hunter (t1) armour set	Conj. de arm. caçador de relíquias Trailblazer (t1)	name	item	Trailblazer relic hunter (t1) armour set
 Trailblazer relic hunter (t2) armour set	Conj. de arm. caçador de relíquias Trailblazer (t2)	name	item	Trailblazer relic hunter (t2) armour set
 Trailblazer relic hunter (t3) armour set	Conj. de arm. caçador de relíquias Trailblazer (t3)	name	item	Trailblazer relic hunter (t3) armour set
-Swampbark body	Cota de casca de pântano	name	item	Swampbark body
-Swampbark gauntlets	Manoplas de casca de pântano	name	item	Swampbark gauntlets
-Swampbark boots	Botas de casca de pântano	name	item	Swampbark boots
-Swampbark helm	Elmo de casca de pântano	name	item	Swampbark helm
-Swampbark legs	Perneiras de casca de pântano	name	item	Swampbark legs
-Bloodbark body	Cota de casca de sangue	name	item	Bloodbark body
-Bloodbark gauntlets	Manoplas de casca de sangue	name	item	Bloodbark gauntlets
-Bloodbark boots	Botas de casca sangrenta	name	item	Bloodbark boots
-Bloodbark helm	Elmo de casca sangrenta	name	item	Bloodbark helm
-Bloodbark legs	Perneiras de casca sangrenta	name	item	Bloodbark legs
+Swampbark body	Cota de tronco de pântano	name	item	Swampbark body
+Swampbark gauntlets	Manoplas de tronco de pântano	name	item	Swampbark gauntlets
+Swampbark boots	Botas de tronco de pântano	name	item	Swampbark boots
+Swampbark helm	Elmo de tronco de pântano	name	item	Swampbark helm
+Swampbark legs	Perneiras de tronco de pântano	name	item	Swampbark legs
+Bloodbark body	Cota de tronco de sangue	name	item	Bloodbark body
+Bloodbark gauntlets	Manoplas de tronco de sangue	name	item	Bloodbark gauntlets
+Bloodbark boots	Botas de tronco sangrenta	name	item	Bloodbark boots
+Bloodbark helm	Elmo de tronco sangrenta	name	item	Bloodbark helm
+Bloodbark legs	Perneiras de tronco sangrenta	name	item	Bloodbark legs
 Urium remains	Restos de urium	name	item	Urium remains
 Bleached bones	Ossos branqueados	name	item	Bleached bones
 Gold key red	Chave dourada vermelha	name	item	Gold key red
@@ -8574,8 +8574,8 @@ Open silver coffin	Caixão de prata aberto	name	item	Open silver coffin
 Open gold coffin	Caixão de ouro aberto	name	item	Open gold coffin
 Tree wizards' journal	Diário dos magos das árvores	name	item	Tree wizards' journal
 Bloody notes	Notas sangrentas	name	item	Bloody notes
-Runescroll of swampbark	Pergaminho rúnico de casca de pântano	name	item	Runescroll of swampbark
-Runescroll of bloodbark	Pergaminho rúnico de casca sangrenta	name	item	Runescroll of bloodbark
+Runescroll of swampbark	Pergaminho rúnico de tronco de pântano	name	item	Runescroll of swampbark
+Runescroll of bloodbark	Pergaminho rúnico de tronco de sangue	name	item	Runescroll of bloodbark
 Soulreaper axe	Machado Ceifador de Almas	name	item	Soulreaper axe
 Ultor ring	Anel de Ultor	name	item	Ultor ring
 Magus ring	Anel de Magus	name	item	Magus ring
@@ -10830,7 +10830,7 @@ Eye of ayak (uncharged)	Olho de ayak (sem carga)	name	item	Eye of ayak (uncharge
 Old letter	Carta antiga	name	item	Old letter
 Blueberry muffin	Bolinho de mirtilo	name	item	Blueberry muffin
 Dom	Dom	name	item	Dom
-level	nível-	name	level	
+level	nível	name	level	
 Redemption	Redenção	name	menu	prayerTab
 Protect Item	Proteção de Item	name	menu	prayerTab
 Incredible Reflexes	Megarreflexo	name	menu	prayerTab
@@ -18727,8 +18727,8 @@ Willow birdhouse	Casinha de pássaro de salgueiro	name	object	Willow birdhouse
 Teak birdhouse (empty)	Casinha de pássaro de teca (vazia)	name	object	Teak birdhouse (empty)
 Teak birdhouse	Casinha de pássaro de teca	name	object	Teak birdhouse
 Barge controls	Controles da barcaça	name	object	Barge controls
-Sulliuscep	Sulliuscep	name	object	Sulliuscep
-Sulliuscep sprout	Brotinho de Sulliuscep	name	object	Sulliuscep sprout
+Sulliuscep	Suliuscepe	name	object	Sulliuscep
+Sulliuscep sprout	Brotinho de Suliuscepe	name	object	Sulliuscep sprout
 Mud pit	Poço de lama	name	object	Mud pit
 Mushy Bed	Cama meio mole	name	object	Mushy Bed
 Rubber cap mushroom	Cogumelo com tampa de borracha	name	object	Rubber cap mushroom
@@ -19279,7 +19279,7 @@ Crystal spire	Aguilhão de cristal	name	object	Crystal spire
 Staff barrel	Barril de cajado	name	object	Staff barrel
 Wand rack	Suporte para varinhas	name	object	Wand rack
 Scroll	Pergaminho	name	object	Scroll
-Rune pouches	Bolsas de runas	name	object	Rune pouches
+Rune pouches	Alforges rúnicos	name	object	Rune pouches
 Table saw	Serra de mesa	name	object	Table saw
 Amlodd Banner	Bandeira de Amlodd	name	object	Amlodd Banner
 Cadarn Banner	Bandeira de Cadarn	name	object	Cadarn Banner

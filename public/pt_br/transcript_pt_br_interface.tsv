@@ -3426,9 +3426,9 @@ Robes of darkness (with <Num0> Defence)	Túnica das trevas (com <Num0> Defesa)	i
 Splitbark armour (with <Num0> Defence)	Armadura de tronco (com <Num0> Defesa)	interface	generalUI	skillGuide
 Skeletal armour (after The Fremmenik Trials, with <Num0> Defence)	Armadura esquelética (após The Fremmenik Trials, com <Num0> Defesa)	interface	generalUI	skillGuide
 Infinity robes (with <Num0> Defence)	Túnica do infinito (com <Num0> Defesa)	interface	generalUI	skillGuide
-Swampbark armour (with <Num0> Defence)	Armadura de casca de pântano (com <Num0> Defesa)	interface	generalUI	skillGuide
+Swampbark armour (with <Num0> Defence)	Armadura de tronco de pântano (com <Num0> Defesa)	interface	generalUI	skillGuide
 God capes (after Mage Arena)	Capa dos deuses (após Mage Arena)	interface	generalUI	skillGuide
-Bloodbark armour (with <Num0> Defence)	Armadura de casca de sangue (com <Num0> Defesa)	interface	generalUI	skillGuide
+Bloodbark armour (with <Num0> Defence)	Armadura de tronco de sangue (com <Num0> Defesa)	interface	generalUI	skillGuide
 Lunar armour (after Lunar Diplomacy, with <Num0> Defence)	Armadura lunar (após Lunar Diplomacy, com <Num0> Defesa)	interface	generalUI	skillGuide
 <Num0>rd age robes (with <Num1> Defence)	Túnica da <Num0>a era (com <Num1> Defesa)	interface	generalUI	skillGuide
 Occult necklace	Colar do oculto	interface	generalUI	skillGuide
@@ -3489,328 +3489,328 @@ Tome of Fire	Tomo do fogo	interface	generalUI	skillGuide
 Make Ancient Wyvern shield	Fazer Escudo antigo de dragão alado	interface	generalUI	skillGuide
 Wield Ancient Wyvern shield (with <Num0> Defence)	Equipar Escudo antigo de dragão alado (com <Num0> Defence)	interface	generalUI	skillGuide
 Elidinis' Ward (with <Num0> Prayer and <Num1> Defence)	Protetor de Elidinis (com <Num0> Prayer e <Num1> Defence)	interface	generalUI	skillGuide
-Fletching		interface	generalUI	skillGuide
-Arrows - Members Only		interface	generalUI	skillGuide
-<Num0> Arrow shafts (Logs)		interface	generalUI	skillGuide
-Bronze arrows	Flechas de bronze	interface	generalUI	skillGuide
-Bronze 'brutal' arrows		interface	generalUI	skillGuide
-<Num0> Arrow shafts (Oak logs)		interface	generalUI	skillGuide
-Iron arrows		interface	generalUI	skillGuide
-Iron 'brutal' arrows		interface	generalUI	skillGuide
-<Num0> Arrow shafts (Willow logs)		interface	generalUI	skillGuide
-Steel arrows		interface	generalUI	skillGuide
-Steel 'brutal' arrows		interface	generalUI	skillGuide
-Black 'brutal' arrows		interface	generalUI	skillGuide
-<Num0> Arrow shafts (Maple logs)		interface	generalUI	skillGuide
-Mithril arrows		interface	generalUI	skillGuide
-Mithril 'brutal' arrows		interface	generalUI	skillGuide
-Broad arrows	Flechas largas	interface	generalUI	skillGuide
-<Num0> Arrow shafts (Yew logs)		interface	generalUI	skillGuide
-Adamant arrows		interface	generalUI	skillGuide
-Adamant 'brutal' arrows		interface	generalUI	skillGuide
-<Num0> Arrow shafts (Magic logs)		interface	generalUI	skillGuide
-Rune arrows	Flechas rúnicas	interface	generalUI	skillGuide
-Rune 'brutal' arrows		interface	generalUI	skillGuide
-Amethyst arrows		interface	generalUI	skillGuide
-<Num0> Arrow shafts (Redwood logs)		interface	generalUI	skillGuide
-Dragon arrows		interface	generalUI	skillGuide
+Fletching	Arco e Flecha	interface	generalUI	skillGuide
+Arrows - Members Only	Flechas - Para Membros	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Logs)	<Num0> Hastes de flecha (lenha)	interface	generalUI	skillGuide
+Bronze arrows	Flecha de bronze	interface	generalUI	skillGuide
+Bronze 'brutal' arrows	Flecha brutal de bronze	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Oak logs)	<Num0> Hastes de flecha (lenha de carvalho)	interface	generalUI	skillGuide
+Iron arrows	Flecha de ferro	interface	generalUI	skillGuide
+Iron 'brutal' arrows	Flecha brutal de ferro	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Willow logs)	<Num0> Hastes de flecha (lenha de salgueiro)	interface	generalUI	skillGuide
+Steel arrows	Flecha de aço	interface	generalUI	skillGuide
+Steel 'brutal' arrows	Flecha brutal de aço	interface	generalUI	skillGuide
+Black 'brutal' arrows	Flecha brutal negra	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Maple logs)	<Num0> Hastes de flecha (lenha de bordo)	interface	generalUI	skillGuide
+Mithril arrows	Flecha de mithril	interface	generalUI	skillGuide
+Mithril 'brutal' arrows	Flecha brutal de mithril	interface	generalUI	skillGuide
+Broad arrows	Flecha larga	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Yew logs)	<Num0> Hastes de flecha (lenha de teixo)	interface	generalUI	skillGuide
+Adamant arrows	Flecha de adamantio	interface	generalUI	skillGuide
+Adamant 'brutal' arrows	Flecha brutal de adamantio	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Magic logs)	<Num0> Hastes de flecha (lenha mágica)	interface	generalUI	skillGuide
+Rune arrows	Flecha rúnica	interface	generalUI	skillGuide
+Rune 'brutal' arrows	Flecha brutal rúnica	interface	generalUI	skillGuide
+Amethyst arrows	Flecha de ametista	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Redwood logs)	<Num0> Hastes de flecha (lenha de sequóia)	interface	generalUI	skillGuide
+Dragon arrows	Flecha dragônica	interface	generalUI	skillGuide
 Arrows	Flechas	interface	generalUI	skillGuide
-Darts		interface	generalUI	skillGuide
-Javelins		interface	generalUI	skillGuide
-Bows - Members Only		interface	generalUI	skillGuide
-Shortbows		interface	generalUI	skillGuide
-Longbows		interface	generalUI	skillGuide
-Oak shortbows		interface	generalUI	skillGuide
-Oak longbows		interface	generalUI	skillGuide
-Ogre composite bows		interface	generalUI	skillGuide
-Bone shortbow		interface	generalUI	skillGuide
-Willow shortbows		interface	generalUI	skillGuide
-Willow longbows		interface	generalUI	skillGuide
-Maple shortbows		interface	generalUI	skillGuide
-Maple longbows		interface	generalUI	skillGuide
-Yew shortbows		interface	generalUI	skillGuide
-Yew longbows		interface	generalUI	skillGuide
-Scorching bows		interface	generalUI	skillGuide
-Magic shortbows		interface	generalUI	skillGuide
-Magic longbows		interface	generalUI	skillGuide
+Darts	Dardos	interface	generalUI	skillGuide
+Javelins	Dardos longos	interface	generalUI	skillGuide
+Bows - Members Only	Arcos - Para Membros	interface	generalUI	skillGuide
+Shortbows	Arco curto	interface	generalUI	skillGuide
+Longbows	Arco-longo	interface	generalUI	skillGuide
+Oak shortbows	Arco curto de carvalho	interface	generalUI	skillGuide
+Oak longbows	Arco-longo de carvalho	interface	generalUI	skillGuide
+Ogre composite bows	Arco composto de ogro	interface	generalUI	skillGuide
+Bone shortbow	Arco curto de osso	interface	generalUI	skillGuide
+Willow shortbows	Arco curto de salgueiro	interface	generalUI	skillGuide
+Willow longbows	Arco-longo de salgueiro	interface	generalUI	skillGuide
+Maple shortbows	Arco curto de bordo	interface	generalUI	skillGuide
+Maple longbows	Arco-longo de bordo	interface	generalUI	skillGuide
+Yew shortbows	Arco curto de teixo	interface	generalUI	skillGuide
+Yew longbows	Arco-longo de teixo	interface	generalUI	skillGuide
+Scorching bows	Arco Incandescente	interface	generalUI	skillGuide
+Magic shortbows	Arco curto mágico	interface	generalUI	skillGuide
+Magic longbows	Arco-longo mágico	interface	generalUI	skillGuide
 Webweaver bow	Arco tece-teias	interface	generalUI	skillGuide
 Bronze bolts	Setas de bronze	interface	generalUI	skillGuide
-Opal-tipped bronze bolts		interface	generalUI	skillGuide
-Blurite bolts (after Knight's Sword quest)		interface	generalUI	skillGuide
-Jade-tipped blurite bolts		interface	generalUI	skillGuide
-Kebbit-tipped hunting bolts		interface	generalUI	skillGuide
+Opal-tipped bronze bolts	Setas de bronze com ponta de opala	interface	generalUI	skillGuide
+Blurite bolts (after Knight's Sword quest)	Setas de blurita (após Knight's Sword)	interface	generalUI	skillGuide
+Jade-tipped blurite bolts	Setas de blurita com ponta de jade	interface	generalUI	skillGuide
+Kebbit-tipped hunting bolts	Setas de caça com ponta de kebbit	interface	generalUI	skillGuide
 Iron bolts	Setas de ferro	interface	generalUI	skillGuide
-Pearl-tipped iron bolts		interface	generalUI	skillGuide
-Long kebbit-tipped hunting bolts		interface	generalUI	skillGuide
+Pearl-tipped iron bolts	Setas de ferro com ponta de pérola	interface	generalUI	skillGuide
+Long kebbit-tipped hunting bolts	Setas longas de caça com ponta de kebbit	interface	generalUI	skillGuide
 Silver bolts	Setas de prata	interface	generalUI	skillGuide
 Steel bolts	Setas de aço	interface	generalUI	skillGuide
-Red topaz-tipped steel bolts		interface	generalUI	skillGuide
-Barbed-tipped bolts		interface	generalUI	skillGuide
+Red topaz-tipped steel bolts	Setas de aço com ponta de topázio	interface	generalUI	skillGuide
+Barbed-tipped bolts	Setas com ponta farpada	interface	generalUI	skillGuide
 Mithril bolts	Setas de mithril	interface	generalUI	skillGuide
-Broad bolts		interface	generalUI	skillGuide
-Sapphire-tipped mithril bolts		interface	generalUI	skillGuide
-Emerald-tipped mithril bolts		interface	generalUI	skillGuide
-Mithril grapple-tipped bolts		interface	generalUI	skillGuide
-Adamantite bolts		interface	generalUI	skillGuide
-Sunlight bolts		interface	generalUI	skillGuide
-Ruby-tipped adamantite bolts		interface	generalUI	skillGuide
-Diamond-tipped adamantite bolts		interface	generalUI	skillGuide
-Runite bolts		interface	generalUI	skillGuide
-Dragonstone-tipped runite bolts		interface	generalUI	skillGuide
-Moonlight bolts		interface	generalUI	skillGuide
-Onyx-tipped runite bolts		interface	generalUI	skillGuide
-Amethyst broad bolts		interface	generalUI	skillGuide
-Dragon bolts	Setas de dragão	interface	generalUI	skillGuide
-Darts - Members Only		interface	generalUI	skillGuide
-Bronze darts		interface	generalUI	skillGuide
-Iron darts		interface	generalUI	skillGuide
-Steel darts		interface	generalUI	skillGuide
-Mithril darts		interface	generalUI	skillGuide
-Adamant darts		interface	generalUI	skillGuide
-Rune darts		interface	generalUI	skillGuide
-Crossbows - Members Only		interface	generalUI	skillGuide
-Bronze/wooden crossbows		interface	generalUI	skillGuide
-Blurite/oak crossbows (after Knight's Sword quest)		interface	generalUI	skillGuide
-Iron/willow crossbows		interface	generalUI	skillGuide
-Steel/teak crossbows		interface	generalUI	skillGuide
-Mithril/maple crossbows		interface	generalUI	skillGuide
-Adamantite/mahogany crossbows		interface	generalUI	skillGuide
-Runite/yew crossbows		interface	generalUI	skillGuide
-Sunlight hunters' crossbow		interface	generalUI	skillGuide
-Dragon/magic crossbows		interface	generalUI	skillGuide
-Javelins - Members Only		interface	generalUI	skillGuide
-Bronze javelins		interface	generalUI	skillGuide
-Iron javelins		interface	generalUI	skillGuide
-Steel javelins		interface	generalUI	skillGuide
-Light ballistae		interface	generalUI	skillGuide
-Mithril javelins		interface	generalUI	skillGuide
-Adamant javelins		interface	generalUI	skillGuide
-Heavy ballistae		interface	generalUI	skillGuide
-Rune javelins		interface	generalUI	skillGuide
-Amethyst javelins		interface	generalUI	skillGuide
-Dragon javelins		interface	generalUI	skillGuide
-Oak shield		interface	generalUI	skillGuide
-Willow shield		interface	generalUI	skillGuide
-Maple shield		interface	generalUI	skillGuide
-Yew shield		interface	generalUI	skillGuide
-Magic shield		interface	generalUI	skillGuide
-Redwood shield		interface	generalUI	skillGuide
-Battlestaves		interface	generalUI	skillGuide
-Hunter's spears		interface	generalUI	skillGuide
+Broad bolts	Setas largas	interface	generalUI	skillGuide
+Sapphire-tipped mithril bolts	Setas de mithril com ponta de safira	interface	generalUI	skillGuide
+Emerald-tipped mithril bolts	Setas de mithril com ponta de esmeralda	interface	generalUI	skillGuide
+Mithril grapple-tipped bolts	Arpéu de mithirl	interface	generalUI	skillGuide
+Adamantite bolts	Setas de adamantio	interface	generalUI	skillGuide
+Sunlight bolts	Setas solares	interface	generalUI	skillGuide
+Ruby-tipped adamantite bolts	Setas de adamantio com ponta de rubi	interface	generalUI	skillGuide
+Diamond-tipped adamantite bolts	Setass de adamantio com ponta de diamante	interface	generalUI	skillGuide
+Runite bolts	Setas rúnicas	interface	generalUI	skillGuide
+Dragonstone-tipped runite bolts	Setas rúnicas com ponta de dragolito	interface	generalUI	skillGuide
+Moonlight bolts	Setas lunares	interface	generalUI	skillGuide
+Onyx-tipped runite bolts	Setas rúnicas com ponta de ônix	interface	generalUI	skillGuide
+Amethyst broad bolts	Setas de pontas largas de ametista	interface	generalUI	skillGuide
+Dragon bolts	Setas dragônicas	interface	generalUI	skillGuide
+Darts - Members Only	Dardos - Para Membros	interface	generalUI	skillGuide
+Bronze darts	Dardo de bronze	interface	generalUI	skillGuide
+Iron darts	Dardo de ferro	interface	generalUI	skillGuide
+Steel darts	Dardo de aço	interface	generalUI	skillGuide
+Mithril darts	Dardo de mithril	interface	generalUI	skillGuide
+Adamant darts	Dardo de adamantio	interface	generalUI	skillGuide
+Rune darts	Dardo rúnico	interface	generalUI	skillGuide
+Crossbows - Members Only	Balestras - Para Membros	interface	generalUI	skillGuide
+Bronze/wooden crossbows	Balestras de bronze e lenha	interface	generalUI	skillGuide
+Blurite/oak crossbows (after Knight's Sword quest)	Balestras de blurita e carvalho (após Knight's Sword)	interface	generalUI	skillGuide
+Iron/willow crossbows	Balestras de salgueiro e ferro	interface	generalUI	skillGuide
+Steel/teak crossbows	Balestras de teca e aço	interface	generalUI	skillGuide
+Mithril/maple crossbows	Balestras de bordo e mithril	interface	generalUI	skillGuide
+Adamantite/mahogany crossbows	Balestras de mogno e mithril	interface	generalUI	skillGuide
+Runite/yew crossbows	Balestras de teixo e adamantio	interface	generalUI	skillGuide
+Sunlight hunters' crossbow	Balestras dos caçadores do sol	interface	generalUI	skillGuide
+Dragon/magic crossbows	Balestras dragônicas e mágica	interface	generalUI	skillGuide
+Javelins - Members Only	Dardos longos - Para membros	interface	generalUI	skillGuide
+Bronze javelins	Dardo longo de bronze	interface	generalUI	skillGuide
+Iron javelins	Dardo longo de ferro	interface	generalUI	skillGuide
+Steel javelins	Dardo longo de aço	interface	generalUI	skillGuide
+Light ballistae	Balista leve	interface	generalUI	skillGuide
+Mithril javelins	Dardo longo de mithril	interface	generalUI	skillGuide
+Adamant javelins	Dardo longo de adamantio	interface	generalUI	skillGuide
+Heavy ballistae	Balista pesada	interface	generalUI	skillGuide
+Rune javelins	Dardo longo rúnico	interface	generalUI	skillGuide
+Amethyst javelins	Dardo longo de ametista	interface	generalUI	skillGuide
+Dragon javelins	Dardo longo dragônico	interface	generalUI	skillGuide
+Oak shield	Escudo de carvalho	interface	generalUI	skillGuide
+Willow shield	Escudo de salgueiro	interface	generalUI	skillGuide
+Maple shield	Escudo de bordo	interface	generalUI	skillGuide
+Yew shield	Escudo de teixo	interface	generalUI	skillGuide
+Magic shield	Escudo mágico	interface	generalUI	skillGuide
+Redwood shield	Escudo de Sequoia	interface	generalUI	skillGuide
+Battlestaves	Bastão	interface	generalUI	skillGuide
+Hunter's spears	Lança de caçador	interface	generalUI	skillGuide
 Woodcutting	Woodcutting	interface	generalUI	skillGuide
 Trees	Árvores	interface	generalUI	skillGuide
-Normal trees		interface	generalUI	skillGuide
-Members: Achey trees		interface	generalUI	skillGuide
-Members: Light jungle		interface	generalUI	skillGuide
-Oak trees		interface	generalUI	skillGuide
-Members: Medium jungle		interface	generalUI	skillGuide
-Willow trees		interface	generalUI	skillGuide
-Members: Dense jungle		interface	generalUI	skillGuide
-Members: Teak trees		interface	generalUI	skillGuide
-Members: Juniper trees		interface	generalUI	skillGuide
-Maple trees		interface	generalUI	skillGuide
-Members: Hollow trees		interface	generalUI	skillGuide
-Members: Mahogany trees		interface	generalUI	skillGuide
-Members: Arctic pine trees		interface	generalUI	skillGuide
-Yew trees		interface	generalUI	skillGuide
-Members: Blisterwood tree		interface	generalUI	skillGuide
-Members: Sulliuscep mushroom trees		interface	generalUI	skillGuide
-Members: Magic trees		interface	generalUI	skillGuide
-Members: Redwood trees		interface	generalUI	skillGuide
-Axes		interface	generalUI	skillGuide
-Forestry		interface	generalUI	skillGuide
+Normal trees	Árvores comuns	interface	generalUI	skillGuide
+Members: Achey trees	Membros: Árvore dolorosa	interface	generalUI	skillGuide
+Members: Light jungle	Membros: Selva aberta	interface	generalUI	skillGuide
+Oak trees	Carvalho	interface	generalUI	skillGuide
+Members: Medium jungle	Membros: Selva média	interface	generalUI	skillGuide
+Willow trees	Salgueiro	interface	generalUI	skillGuide
+Members: Dense jungle	Membros: Mata densa	interface	generalUI	skillGuide
+Members: Teak trees	Membros: Árvore de teca	interface	generalUI	skillGuide
+Members: Juniper trees	Membros: Árvore de zinco	interface	generalUI	skillGuide
+Maple trees	Bordo	interface	generalUI	skillGuide
+Members: Hollow trees	Membros: Árvore oca	interface	generalUI	skillGuide
+Members: Mahogany trees	Membros: Árvore de mogno	interface	generalUI	skillGuide
+Members: Arctic pine trees	Membros: Árvore de pinheiro do ártico	interface	generalUI	skillGuide
+Yew trees	Teixo	interface	generalUI	skillGuide
+Members: Blisterwood tree	Membros: Inflamadeira	interface	generalUI	skillGuide
+Members: Sulliuscep mushroom trees	Membros: Árvore de suliuscepe	interface	generalUI	skillGuide
+Members: Magic trees	Membros: Árvore mágica	interface	generalUI	skillGuide
+Members: Redwood trees	Membros: Árvore de sequóia	interface	generalUI	skillGuide
+Axes	Machados	interface	generalUI	skillGuide
+Forestry	Silvicultura	interface	generalUI	skillGuide
 Bronze axe	Machado de bronze	interface	generalUI	skillGuide
-Members: Bronze felling axe		interface	generalUI	skillGuide
+Members: Bronze felling axe	Membros: Machado de corte de bronze	interface	generalUI	skillGuide
 Iron axe	Machado de ferro	interface	generalUI	skillGuide
-Members: Iron felling axe		interface	generalUI	skillGuide
+Members: Iron felling axe	Membros: Machado de corte de ferro	interface	generalUI	skillGuide
 Steel axe	Machado de aço	interface	generalUI	skillGuide
-Members: Steel felling axe		interface	generalUI	skillGuide
+Members: Steel felling axe	Membros: Machado de corte de aço	interface	generalUI	skillGuide
 Black axe	Machado negro	interface	generalUI	skillGuide
-Members: Black felling axe		interface	generalUI	skillGuide
+Members: Black felling axe	Membros: Machado de corte negro	interface	generalUI	skillGuide
 Mithril axe	Machado de mithril	interface	generalUI	skillGuide
-Members: Mithril felling axe		interface	generalUI	skillGuide
+Members: Mithril felling axe	Membros: Machado de corte de mithril	interface	generalUI	skillGuide
 Adamant axe	Machado de adamantio	interface	generalUI	skillGuide
-Members: Adamant felling axe		interface	generalUI	skillGuide
+Members: Adamant felling axe	Membros: Machado de corte de adamantio	interface	generalUI	skillGuide
 Rune axe	Machado rúnico	interface	generalUI	skillGuide
-Members: Rune felling axe		interface	generalUI	skillGuide
-Gilded axe		interface	generalUI	skillGuide
-Members: Dragon axe		interface	generalUI	skillGuide
-Members: Dragon felling axe		interface	generalUI	skillGuide
-Members: <Num0>rd age axe		interface	generalUI	skillGuide
-Members: <Num0>rd age felling axe		interface	generalUI	skillGuide
-Members: Infernal axe (with <Num0> Firemaking)		interface	generalUI	skillGuide
-Members: Crystal axe (after Song of the Elves)		interface	generalUI	skillGuide
-Members: Crystal felling axe (after Song of the Elves)		interface	generalUI	skillGuide
-Forestry kit		interface	generalUI	skillGuide
-Members: Forester's ration (with <Num0> Cooking)		interface	generalUI	skillGuide
-Members: Secateurs Attachment (with <Num0> Smithing)		interface	generalUI	skillGuide
-Members: Clothes Pouch (with <Num0> Crafting)		interface	generalUI	skillGuide
-Members: Nature Offerings (with <Num0> Farming)		interface	generalUI	skillGuide
-Members: Sturdy Harness (with <Num0> Smithing)		interface	generalUI	skillGuide
-Log canoe		interface	generalUI	skillGuide
-Dugout canoe		interface	generalUI	skillGuide
-Stable dugout canoe		interface	generalUI	skillGuide
-Members: Lumberjack and Forestry outfit.		interface	generalUI	skillGuide
-Members: Fremennik round shield		interface	generalUI	skillGuide
-Members: Split arctic pine logs		interface	generalUI	skillGuide
-Waka canoe		interface	generalUI	skillGuide
-Runecraft		interface	generalUI	skillGuide
+Members: Rune felling axe	Membros: Machado de corte rúnico	interface	generalUI	skillGuide
+Gilded axe	Machado dourado	interface	generalUI	skillGuide
+Members: Dragon axe	Membros: Machado dragônico	interface	generalUI	skillGuide
+Members: Dragon felling axe	Membros: Machado de corte dragônico	interface	generalUI	skillGuide
+Members: <Num0>rd age axe	Membros: Machado da <Num0>a Era	interface	generalUI	skillGuide
+Members: <Num0>rd age felling axe	Membros: Machado de corte da <Num0>a Era	interface	generalUI	skillGuide
+Members: Infernal axe (with <Num0> Firemaking)	Membros: Machado Infernal (com <Num0> Arte do Fogo)	interface	generalUI	skillGuide
+Members: Crystal axe (after Song of the Elves)	Membros: Machado de cristal (após Song of the Elves)	interface	generalUI	skillGuide
+Members: Crystal felling axe (after Song of the Elves)	Membros: Machado de corte de cristal (após Song of the Elves)	interface	generalUI	skillGuide
+Forestry kit	Kit florestal	interface	generalUI	skillGuide
+Members: Forester's ration (with <Num0> Cooking)	Membros: Ração do florestal (com <Num0> Culinária)	interface	generalUI	skillGuide
+Members: Secateurs Attachment (with <Num0> Smithing)	Membros: Acessório para podadeira (com <Num0> Metalurgia)	interface	generalUI	skillGuide
+Members: Clothes Pouch (with <Num0> Crafting)	Membros: Bolsa para roupas (com <Num0> Artesanato)	interface	generalUI	skillGuide
+Members: Nature Offerings (with <Num0> Farming)	Membros: Ofertas da natureza (com <Num0> Agricultura)	interface	generalUI	skillGuide
+Members: Sturdy Harness (with <Num0> Smithing)	Membros: Arnês resistente (com <Num0> Metalurgia)	interface	generalUI	skillGuide
+Log canoe	Canoa de madeira	interface	generalUI	skillGuide
+Dugout canoe	Canoa escavada	interface	generalUI	skillGuide
+Stable dugout canoe	Canoa escavada estável	interface	generalUI	skillGuide
+Members: Lumberjack and Forestry outfit.	Membros: Roupas de lenhador e florestal	interface	generalUI	skillGuide
+Members: Fremennik round shield	Membros: Escudo fremennik	interface	generalUI	skillGuide
+Members: Split arctic pine logs	Membros: Partir Lenha de pinheiro do ártico	interface	generalUI	skillGuide
+Waka canoe	Canoa waka	interface	generalUI	skillGuide
+Runecraft	Criação de Runa	interface	generalUI	skillGuide
 Runes	Runas	interface	generalUI	skillGuide
-Air runes		interface	generalUI	skillGuide
-Mind runes		interface	generalUI	skillGuide
-Water runes		interface	generalUI	skillGuide
-Members: Mist runes		interface	generalUI	skillGuide
-Earth runes		interface	generalUI	skillGuide
-Members: Dust runes		interface	generalUI	skillGuide
-Members: Mud runes		interface	generalUI	skillGuide
-Fire runes		interface	generalUI	skillGuide
-Members: Smoke runes		interface	generalUI	skillGuide
-Members: Steam runes		interface	generalUI	skillGuide
-Body runes		interface	generalUI	skillGuide
-Members: Lava runes		interface	generalUI	skillGuide
-Members: Cosmic runes		interface	generalUI	skillGuide
-Members: Sunfire runes		interface	generalUI	skillGuide
-Members: Chaos runes		interface	generalUI	skillGuide
-Members: Astral runes		interface	generalUI	skillGuide
-Members: Nature runes		interface	generalUI	skillGuide
-Members: Law runes		interface	generalUI	skillGuide
-Members: Death runes		interface	generalUI	skillGuide
-Members: Blood runes		interface	generalUI	skillGuide
-Members: Soul runes		interface	generalUI	skillGuide
-Members: Wrath runes		interface	generalUI	skillGuide
-Multiple Runes		interface	generalUI	skillGuide
-Rune Pouches		interface	generalUI	skillGuide
-Infusing		interface	generalUI	skillGuide
-As your Runecrafting skill develops, you will be able to craft multiple runes from one piece of essence. You only receive experience for each piece of essence crafted, not each rune crafted.		interface	generalUI	skillGuide
-<Num0> Air runes per essence		interface	generalUI	skillGuide
-<Num0> Mind runes per essence		interface	generalUI	skillGuide
-<Num0> Water runes per essence		interface	generalUI	skillGuide
-<Num0> Earth runes per essence		interface	generalUI	skillGuide
-<Num0> Fire runes per essence		interface	generalUI	skillGuide
-<Num0> Body runes per essence		interface	generalUI	skillGuide
-<Num0> Sunfire runes per essence		interface	generalUI	skillGuide
-Members: <Num0> Cosmic runes per essence		interface	generalUI	skillGuide
-Members: <Num0> Chaos runes per essence		interface	generalUI	skillGuide
-Members: <Num0> Astral runes per essence		interface	generalUI	skillGuide
-Members: <Num0> Nature runes per essence		interface	generalUI	skillGuide
-Members: <Num0> Law runes per essence		interface	generalUI	skillGuide
-Members: <Num0> Death runes per essence		interface	generalUI	skillGuide
-Rune Pouches - Members Only		interface	generalUI	skillGuide
-Pouches come in various sizes which allow you to carry extra essence in them. As you use the pouches they degrade and store less essence, just speak to the Dark Mage at the centre of the Abyss to restore them.		interface	generalUI	skillGuide
-Small pouch: Holds <Num0> extra essence		interface	generalUI	skillGuide
-Medium pouch: Holds <Num0> extra essence		interface	generalUI	skillGuide
-Colossal pouch: Holds up to <Num0> essence, depending on your Runecraft level		interface	generalUI	skillGuide
-Large pouch: Holds <Num0> extra essence		interface	generalUI	skillGuide
-Giant pouch: Holds <Num0> extra essence		interface	generalUI	skillGuide
-Infusing - Members Only		interface	generalUI	skillGuide
-Swampbark boots and gauntlets		interface	generalUI	skillGuide
-Swampbark helm		interface	generalUI	skillGuide
-Swampbark body and legs		interface	generalUI	skillGuide
-Eternal boots (with <Num0> Magic)		interface	generalUI	skillGuide
-Pegasian boots (with <Num0> Magic)		interface	generalUI	skillGuide
-Primordial boots (with <Num0> Magic)		interface	generalUI	skillGuide
-Bloodbark boots and gauntlets		interface	generalUI	skillGuide
-Bloodbark helm		interface	generalUI	skillGuide
-Bloodbark body and legs		interface	generalUI	skillGuide
-Guardians of the Rift (after Temple of the Eye)		interface	generalUI	skillGuide
-Slayer		interface	generalUI	skillGuide
-Monsters - Members Only		interface	generalUI	skillGuide
-Crawling hands		interface	generalUI	skillGuide
-Cave bugs		interface	generalUI	skillGuide
-Cave crawlers		interface	generalUI	skillGuide
-Banshees		interface	generalUI	skillGuide
+Air runes	Runa do ar	interface	generalUI	skillGuide
+Mind runes	Runa da mente	interface	generalUI	skillGuide
+Water runes	Runa da água	interface	generalUI	skillGuide
+Members: Mist runes	Membros: Runa da névoa	interface	generalUI	skillGuide
+Earth runes	Runa da terra	interface	generalUI	skillGuide
+Members: Dust runes	Membros: Runa do pó	interface	generalUI	skillGuide
+Members: Mud runes	Membros: Runa da lama	interface	generalUI	skillGuide
+Fire runes	Runa do fogo	interface	generalUI	skillGuide
+Members: Smoke runes	Membros: Runa da fumaça	interface	generalUI	skillGuide
+Members: Steam runes	Membros: Runa do vapor	interface	generalUI	skillGuide
+Body runes	Runa corporal	interface	generalUI	skillGuide
+Members: Lava runes	Membros: Runa da lava	interface	generalUI	skillGuide
+Members: Cosmic runes	Membros: Runa cósmica	interface	generalUI	skillGuide
+Members: Sunfire runes	Membros: Runa de fogo solar	interface	generalUI	skillGuide
+Members: Chaos runes	Membros: Runa do caos	interface	generalUI	skillGuide
+Members: Astral runes	Membros: Runa astral	interface	generalUI	skillGuide
+Members: Nature runes	Membros: Runa da natureza	interface	generalUI	skillGuide
+Members: Law runes	Membros: Runa da lei	interface	generalUI	skillGuide
+Members: Death runes	Membros: Runa da morte	interface	generalUI	skillGuide
+Members: Blood runes	Membros: Runa do sangue	interface	generalUI	skillGuide
+Members: Soul runes	Membros: Runa da alma	interface	generalUI	skillGuide
+Members: Wrath runes	Membros: Runa da Ira	interface	generalUI	skillGuide
+Multiple Runes	Runas múltiplas	interface	generalUI	skillGuide
+Rune Pouches	Alforges rúnicos	interface	generalUI	skillGuide
+Infusing	Infusão	interface	generalUI	skillGuide
+As your Runecrafting skill develops, you will be able to craft multiple runes from one piece of essence. You only receive experience for each piece of essence crafted, not each rune crafted.	À medida que seu nível em Criação de Runas aumenta, você poderá produzir várias runas de uma mesma essência. A experiência recebida é baseada na essência usada, não na quantidade de runas criadas.	interface	generalUI	skillGuide
+<Num0> Air runes per essence	<Num0> Runas de ar por essência	interface	generalUI	skillGuide
+<Num0> Mind runes per essence	<Num0> Runas da mente por essência	interface	generalUI	skillGuide
+<Num0> Water runes per essence	<Num0> Runas de água por essência	interface	generalUI	skillGuide
+<Num0> Earth runes per essence	<Num0> Runas de terra por essência	interface	generalUI	skillGuide
+<Num0> Fire runes per essence	<Num0> Runas de fogo por essência	interface	generalUI	skillGuide
+<Num0> Body runes per essence	<Num0> Runas corporais por essência	interface	generalUI	skillGuide
+<Num0> Sunfire runes per essence	<Num0> Runas de Fogo Solar por essência	interface	generalUI	skillGuide
+Members: <Num0> Cosmic runes per essence	Membros: <Num0> Runas cósmicas por essência	interface	generalUI	skillGuide
+Members: <Num0> Chaos runes per essence	Membros: <Num0> Runas do caos por essência	interface	generalUI	skillGuide
+Members: <Num0> Astral runes per essence	Membros: <Num0> Runas astrais por essência	interface	generalUI	skillGuide
+Members: <Num0> Nature runes per essence	Membros: <Num0> Runas da natureza por essência	interface	generalUI	skillGuide
+Members: <Num0> Law runes per essence	Membros: <Num0> Runas da lei por essência	interface	generalUI	skillGuide
+Members: <Num0> Death runes per essence	Membros: <Num0> Runas da morte por essência	interface	generalUI	skillGuide
+Rune Pouches - Members Only	Alforges rúnicos - Para Membros	interface	generalUI	skillGuide
+Pouches come in various sizes which allow you to carry extra essence in them. As you use the pouches they degrade and store less essence, just speak to the Dark Mage at the centre of the Abyss to restore them.	Os alforges têm tamanhos variados e permitem carregar essência extra. Com o uso, eles se degradam e armazenam menos, mas podem ser restaurados falando com o Mago Negro no centro do Abismo.	interface	generalUI	skillGuide
+Small pouch: Holds <Num0> extra essence	Alforge pequeno: comporta <Num0> essência extra	interface	generalUI	skillGuide
+Medium pouch: Holds <Num0> extra essence	Alforge médio: comporta <Num0> essência extra	interface	generalUI	skillGuide
+Colossal pouch: Holds up to <Num0> essence, depending on your Runecraft level	Alforge colossal: comporta até <Num0> essência, dependendo do seu nível	interface	generalUI	skillGuide
+Large pouch: Holds <Num0> extra essence	Alforge grande: comporta <Num0> essência extra	interface	generalUI	skillGuide
+Giant pouch: Holds <Num0> extra essence	Alforge gigante: comporta <Num0> essência extra	interface	generalUI	skillGuide
+Infusing - Members Only	Infusão - Para Membros	interface	generalUI	skillGuide
+Swampbark boots and gauntlets	Botas e manoplas de tronco de pântano	interface	generalUI	skillGuide
+Swampbark helm	Elmo de tronco de pântano	interface	generalUI	skillGuide
+Swampbark body and legs	Perneiras e cota de tronco de pântano	interface	generalUI	skillGuide
+Eternal boots (with <Num0> Magic)	Botas da eternidade (com <Num0> Magia)	interface	generalUI	skillGuide
+Pegasian boots (with <Num0> Magic)	Botas primordiais (com <Num0> Magia)	interface	generalUI	skillGuide
+Primordial boots (with <Num0> Magic)	Botas de pégaso (com <Num0> Magia)	interface	generalUI	skillGuide
+Bloodbark boots and gauntlets	Botas e manoplas de tronco de sangue	interface	generalUI	skillGuide
+Bloodbark helm	Elmo de tronco de sangue	interface	generalUI	skillGuide
+Bloodbark body and legs	Perneiras e cota de tronco de sangue	interface	generalUI	skillGuide
+Guardians of the Rift (after Temple of the Eye)	Guardians of the Rift (após Temple of the Eye)	interface	generalUI	skillGuide
+Slayer	Extermínio	interface	generalUI	skillGuide
+Monsters - Members Only	Monstros - Para Membros	interface	generalUI	skillGuide
+Crawling hands	Mãos Rastejantes	interface	generalUI	skillGuide
+Cave bugs	Inseto da caverna	interface	generalUI	skillGuide
+Cave crawlers	Rastejadores da Caverna	interface	generalUI	skillGuide
+Banshees	Banshees	interface	generalUI	skillGuide
 Cave slime	Gosma das cavernas	interface	generalUI	skillGuide
-Rockslugs		interface	generalUI	skillGuide
-Desert lizards		interface	generalUI	skillGuide
+Rockslugs	Lesmas de Rocha	interface	generalUI	skillGuide
+Desert lizards	Lagarto do deserto	interface	generalUI	skillGuide
 Cockatrice	Cocatriz	interface	generalUI	skillGuide
-Pyrefiends		interface	generalUI	skillGuide
-Mogres		interface	generalUI	skillGuide
-Harpie bug swarms		interface	generalUI	skillGuide
-Wall beasts		interface	generalUI	skillGuide
-Killerwatts		interface	generalUI	skillGuide
-Vyres		interface	generalUI	skillGuide
-Molanisks		interface	generalUI	skillGuide
-Basilisks		interface	generalUI	skillGuide
-Sea snakes		interface	generalUI	skillGuide
-Terror dogs		interface	generalUI	skillGuide
-Fever spiders		interface	generalUI	skillGuide
-Sulphur and Grimy Lizards		interface	generalUI	skillGuide
-Infernal mages		interface	generalUI	skillGuide
-Brine rats		interface	generalUI	skillGuide
-Lesser Nagua		interface	generalUI	skillGuide
-Bloodvelds		interface	generalUI	skillGuide
-Jellies		interface	generalUI	skillGuide
+Pyrefiends	Pirodemônio	interface	generalUI	skillGuide
+Mogres	Mogros	interface	generalUI	skillGuide
+Harpie bug swarms	Enxame de mosquissugas	interface	generalUI	skillGuide
+Wall beasts	Feras da Parede	interface	generalUI	skillGuide
+Killerwatts	Descargas Eletrizantes	interface	generalUI	skillGuide
+Vyres	Vyre	interface	generalUI	skillGuide
+Molanisks	Molaniscos	interface	generalUI	skillGuide
+Basilisks	Basiliscos	interface	generalUI	skillGuide
+Sea snakes	Cobras do Mar	interface	generalUI	skillGuide
+Terror dogs	Cães do Terror	interface	generalUI	skillGuide
+Fever spiders	Aranhas da febre	interface	generalUI	skillGuide
+Sulphur and Grimy Lizards	Lagartos sujos e de enxofre	interface	generalUI	skillGuide
+Infernal mages	Magos Infernais	interface	generalUI	skillGuide
+Brine rats	Ratos Aquáticos	interface	generalUI	skillGuide
+Lesser Nagua	Nagua Inferior	interface	generalUI	skillGuide
+Bloodvelds	Demônios do Sangue	interface	generalUI	skillGuide
+Jellies	Geleias	interface	generalUI	skillGuide
 Turoth	Turoth	interface	generalUI	skillGuide
-Warped creatures		interface	generalUI	skillGuide
-Mutated zygomites		interface	generalUI	skillGuide
-Cave horrors		interface	generalUI	skillGuide
-Aberrant spectres		interface	generalUI	skillGuide
-Basilisk knights		interface	generalUI	skillGuide
-Wyrms		interface	generalUI	skillGuide
-Spiritual rangers		interface	generalUI	skillGuide
-Dust devils		interface	generalUI	skillGuide
-Fossil Island wyverns		interface	generalUI	skillGuide
-Spiritual warriors		interface	generalUI	skillGuide
+Warped creatures	Criaturas Deformadas	interface	generalUI	skillGuide
+Mutated zygomites	Zigomitas mutantes	interface	generalUI	skillGuide
+Cave horrors	Horrores da Caverna	interface	generalUI	skillGuide
+Aberrant spectres	Monstros Espectrais	interface	generalUI	skillGuide
+Basilisk knights	Cavaleiro Basilisco	interface	generalUI	skillGuide
+Wyrms	Protodragões	interface	generalUI	skillGuide
+Spiritual rangers	Guarda espiritual	interface	generalUI	skillGuide
+Dust devils	Diabos do Pó	interface	generalUI	skillGuide
+Fossil Island wyverns	Dragão alado da Ilha Fóssil	interface	generalUI	skillGuide
+Spiritual warriors	Guerreiro espiritual	interface	generalUI	skillGuide
 Kurask	Kurask	interface	generalUI	skillGuide
-Skeletal wyverns		interface	generalUI	skillGuide
-Gargoyles		interface	generalUI	skillGuide
-Brutal black dragons		interface	generalUI	skillGuide
+Skeletal wyverns	Dragões Alados Esqueletais	interface	generalUI	skillGuide
+Gargoyles	Gárgulas	interface	generalUI	skillGuide
+Brutal black dragons	Brutal black dragons	interface	generalUI	skillGuide
 Nechryael	Necriel	interface	generalUI	skillGuide
-Ancient wyverns		interface	generalUI	skillGuide
-Spiritual mages		interface	generalUI	skillGuide
-Drakes		interface	generalUI	skillGuide
-Abyssal demons & sires		interface	generalUI	skillGuide
-Cave kraken		interface	generalUI	skillGuide
-Dark beasts		interface	generalUI	skillGuide
+Ancient wyverns	Ancient wyverns	interface	generalUI	skillGuide
+Spiritual mages	Spiritual mages	interface	generalUI	skillGuide
+Drakes	Dragonetes	interface	generalUI	skillGuide
+Abyssal demons & sires	Demônios e senhores abissais	interface	generalUI	skillGuide
+Cave kraken	Kraken da Caverna	interface	generalUI	skillGuide
+Dark beasts	Feras Sombrias	interface	generalUI	skillGuide
 Cerberus	Cérbero	interface	generalUI	skillGuide
-Araxytes		interface	generalUI	skillGuide
+Araxytes	Araxita	interface	generalUI	skillGuide
 Smoke devil	Diabo de fumaça	interface	generalUI	skillGuide
-Hydras		interface	generalUI	skillGuide
-Monsters		interface	generalUI	skillGuide
-Slayer Masters		interface	generalUI	skillGuide
-Spiny helmet (with <Num0> Defence)		interface	generalUI	skillGuide
-Rock hammer & Rock Thrownhammer		interface	generalUI	skillGuide
-Reinforced Goggles		interface	generalUI	skillGuide
-Facemask		interface	generalUI	skillGuide
+Hydras	Hidras	interface	generalUI	skillGuide
+Monsters	Monstros	interface	generalUI	skillGuide
+Slayer Masters	Mestres de Extermínio	interface	generalUI	skillGuide
+Spiny helmet (with <Num0> Defence)	Elmo de espinhos (com <Num0> Defesa)	interface	generalUI	skillGuide
+Rock hammer & Rock Thrownhammer	Martelo de pedra & Martelo arremessável de pedra	interface	generalUI	skillGuide
+Reinforced Goggles	Óculos de proteção reforçados	interface	generalUI	skillGuide
+Facemask	Máscara	interface	generalUI	skillGuide
 Earmuffs	Protetores de ouvido	interface	generalUI	skillGuide
-Mirror shield (with <Num0> Defence)		interface	generalUI	skillGuide
+Mirror shield (with <Num0> Defence)	Escudo de espelho (com <Num0> Defesa)	interface	generalUI	skillGuide
 Fishing explosive	Explosivo de pesca	interface	generalUI	skillGuide
-Harpie bug lantern (not a light source)		interface	generalUI	skillGuide
+Harpie bug lantern (not a light source)	Lanterna inseticida	interface	generalUI	skillGuide
 Witchwood icon	Ícone de brucedro	interface	generalUI	skillGuide
 Insulated boots	Botas isolantes	interface	generalUI	skillGuide
 Slayer bell	Sino do exterminador	interface	generalUI	skillGuide
 Slayer gloves	Luvas do exterminador	interface	generalUI	skillGuide
-Boots of Stone		interface	generalUI	skillGuide
-Leaf-bladed spear and sword (with <Num0> Attack)		interface	generalUI	skillGuide
-Leaf-bladed battleaxe (with <Num0> Attack)		interface	generalUI	skillGuide
-Broad arrows (with <Num0> Ranged)		interface	generalUI	skillGuide
-Broad bolts (with <Num0> Ranged)		interface	generalUI	skillGuide
-Slayer's staff (with <Num0> Magic)		interface	generalUI	skillGuide
-Slayer's staff (e) (with <Num0> Magic)		interface	generalUI	skillGuide
-Fungicide spray		interface	generalUI	skillGuide
-Nose peg	Pregador de nariz	interface	generalUI	skillGuide
-V's shield (with <Num0> Defence)		interface	generalUI	skillGuide
-Amethyst broad bolts (with <Num0> Ranged)		interface	generalUI	skillGuide
-Slayer Masters - Members Only		interface	generalUI	skillGuide
-Wilderness master (no requirements)		interface	generalUI	skillGuide
-Draynor Village master (after A Porcine of Interest)		interface	generalUI	skillGuide
-Burthorpe master (with level <Num0> combat)		interface	generalUI	skillGuide
-Canifis master (with level <Num0> combat)		interface	generalUI	skillGuide
-Edgeville Dungeon master (with level <Num0> combat)		interface	generalUI	skillGuide
-Zanaris master (with level <Num0> combat)		interface	generalUI	skillGuide
-Mount Karuulm master (with level <Num0> combat)		interface	generalUI	skillGuide
-Gnome Stronghold master (with level <Num0> combat)		interface	generalUI	skillGuide
-Shilo Village master (with level <Num0> combat)		interface	generalUI	skillGuide
-Farming		interface	generalUI	skillGuide
-Allotments - Members Only		interface	generalUI	skillGuide
-Potatoes Payment: Compost x<Num0>		interface	generalUI	skillGuide
-Onions Payment: Potatoes(<Num0>)		interface	generalUI	skillGuide
-Cabbages Payment: Onions(<Num0>)		interface	generalUI	skillGuide
-Tomatoes Payment: Cabbages(<Num0>) x<Num1>		interface	generalUI	skillGuide
-Sweetcorn Payment: Jute fibre x<Num0>		interface	generalUI	skillGuide
-Strawberries Payment: Apples(<Num0>)		interface	generalUI	skillGuide
-Watermelons Payment: Curry leaf x<Num0>		interface	generalUI	skillGuide
-Snape grass Payment: Jangerberries x<Num0>		interface	generalUI	skillGuide
+Boots of Stone	Botas rochosas	interface	generalUI	skillGuide
+Leaf-bladed spear and sword (with <Num0> Attack)	Espada e Lança de lâmina fina  (com <Num0> Ataque)	interface	generalUI	skillGuide
+Leaf-bladed battleaxe (with <Num0> Attack)	Machado de batalha de lâmina fina (com <Num0> Ataque)	interface	generalUI	skillGuide
+Broad arrows (with <Num0> Ranged)	Flechas largas (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Broad bolts (with <Num0> Ranged)	Setas largas (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Slayer's staff (with <Num0> Magic)	Cajado do exterminador (com <Num0> Magia)	interface	generalUI	skillGuide
+Slayer's staff (e) (with <Num0> Magic)	Cajado do exterminador (e)] (com <Num0> Magia)	interface	generalUI	skillGuide
+Fungicide spray	Pregador de nariz	interface	generalUI	skillGuide
+Nose peg	Spray de fungicida	interface	generalUI	skillGuide
+V's shield (with <Num0> Defence)	Escudo de V (com <Num0> Defesa)	interface	generalUI	skillGuide
+Amethyst broad bolts (with <Num0> Ranged)	Seta de pontas largas de ametista (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Slayer Masters - Members Only	Mestres de Extermínio - Para Membros	interface	generalUI	skillGuide
+Wilderness master (no requirements)	Mestre da Wilderness	interface	generalUI	skillGuide
+Draynor Village master (after A Porcine of Interest)	Mestre da Vila Draynor (após A Porcine of Interest)	interface	generalUI	skillGuide
+Burthorpe master (with level <Num0> combat)	Mestre de Buthorpe (com <Num0> de combate)	interface	generalUI	skillGuide
+Canifis master (with level <Num0> combat)	Mestre de Canifis (com <Num0> de combate)	interface	generalUI	skillGuide
+Edgeville Dungeon master (with level <Num0> combat)	Mestre da masmorra de Edgeville (com <Num0> de combate)	interface	generalUI	skillGuide
+Zanaris master (with level <Num0> combat)	Mestre de Zanaris (com <Num0> de combate)	interface	generalUI	skillGuide
+Mount Karuulm master (with level <Num0> combat)	Mestre do Monte Karuulm (com <Num0> de combate)	interface	generalUI	skillGuide
+Gnome Stronghold master (with level <Num0> combat)	Mestre do Forte dos Gnomos (com <Num0> de combate)	interface	generalUI	skillGuide
+Shilo Village master (with level <Num0> combat)	Mestre da Vila Shilo (com <Num0> de combate)	interface	generalUI	skillGuide
+Farming	Agricultura	interface	generalUI	skillGuide
+Allotments - Members Only	Lotes - Para Membros	interface	generalUI	skillGuide
+Potatoes Payment: Compost x<Num0>	Batata Pagamento: Adubo x<Num0>	interface	generalUI	skillGuide
+Onions Payment: Potatoes(<Num0>)	Cebola Pagamento: Batata(<Num0>)	interface	generalUI	skillGuide
+Cabbages Payment: Onions(<Num0>)	Repolho Pagamento: Cebola(<Num0>)	interface	generalUI	skillGuide
+Tomatoes Payment: Cabbages(<Num0>) x<Num1>	Tomate Pagamento: Repolho(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Sweetcorn Payment: Jute fibre x<Num0>	Milho verde Pagamento: Fibra de juta x<Num0>	interface	generalUI	skillGuide
+Strawberries Payment: Apples(<Num0>)	Morango Pagamento: Maça x(<Num0>)	interface	generalUI	skillGuide
+Watermelons Payment: Curry leaf x<Num0>	Melancia Pagamento: Folha de curry x<Num0>	interface	generalUI	skillGuide
+Snape grass Payment: Jangerberries x<Num0>	Capim da cura Pagamento: Jangoesas x<Num0>	interface	generalUI	skillGuide
 Allotments	Lotes	interface	generalUI	skillGuide
 Hops	Lúpulos	interface	generalUI	skillGuide
 Fruit Trees	Frutíferas	interface	generalUI	skillGuide
@@ -3818,137 +3818,137 @@ Bushes	Arbustos	interface	generalUI	skillGuide
 Flowers	Flores	interface	generalUI	skillGuide
 Special	Especiais	interface	generalUI	skillGuide
 Scarecrows	Espantalhos	interface	generalUI	skillGuide
-Multiple roots		interface	generalUI	skillGuide
-Tithe Farm		interface	generalUI	skillGuide
-Hops - Members Only		interface	generalUI	skillGuide
-Barley Payment: Compost x<Num0>		interface	generalUI	skillGuide
-Hammerstone hops Payment: Marigolds		interface	generalUI	skillGuide
-Asgarnian hops Payment: Onions(<Num0>)		interface	generalUI	skillGuide
-Jute plants Payment: Barley malt x<Num0>		interface	generalUI	skillGuide
-Yanillian hops Payment: Tomatoes(<Num0>)		interface	generalUI	skillGuide
-Krandorian hops Payment: Cabbages(<Num0>) x<Num1>		interface	generalUI	skillGuide
-Wildblood hops Payment: Nasturtiums		interface	generalUI	skillGuide
-Trees - Members Only		interface	generalUI	skillGuide
-Oak trees Payment: Tomatoes(<Num0>)		interface	generalUI	skillGuide
-Willow trees Payment: Apples(<Num0>)		interface	generalUI	skillGuide
-Maple trees Payment: Oranges(<Num0>)		interface	generalUI	skillGuide
-Yew trees Payment: Cactus spine x<Num0>		interface	generalUI	skillGuide
-Magic trees Payment: Coconut x<Num0>		interface	generalUI	skillGuide
-Fruit Trees - Members Only		interface	generalUI	skillGuide
-Apple trees Payment: Sweetcorn x<Num0>		interface	generalUI	skillGuide
-Banana trees Payment: Apples(<Num0>) x<Num1>		interface	generalUI	skillGuide
-Orange trees Payment: Strawberries(<Num0>) x<Num1>		interface	generalUI	skillGuide
-Curry trees Payment: Bananas(<Num0>) x<Num1>		interface	generalUI	skillGuide
-Pineapple plants Payment: Watermelon x<Num0>		interface	generalUI	skillGuide
-Papaya trees Payment: Pineapple x<Num0>		interface	generalUI	skillGuide
-Palm trees Payment: Papaya fruit x<Num0>		interface	generalUI	skillGuide
-Dragonfruit trees Payment: Coconut x<Num0>		interface	generalUI	skillGuide
-Bushes - Members Only		interface	generalUI	skillGuide
-Redberry bushes Payment: Cabbages(<Num0>) x<Num1>		interface	generalUI	skillGuide
-Cadavaberry bushes Payment: Tomatoes(<Num0>) x<Num1>		interface	generalUI	skillGuide
-Dwellberry bushes Payment: Strawberries(<Num0>) x<Num1>		interface	generalUI	skillGuide
-Jangerberry bushes Payment: Watermelon x<Num0>		interface	generalUI	skillGuide
-White berry bushes Payment: Mushroom x<Num0>		interface	generalUI	skillGuide
-Poison ivy bushes		interface	generalUI	skillGuide
-Flowers - Members Only		interface	generalUI	skillGuide
-Marigolds Protects onions, tomatoes and potatoes		interface	generalUI	skillGuide
-Rosemary Protects cabbages from disease		interface	generalUI	skillGuide
-Make and place a scarecrow Protects sweetcorn from birds		interface	generalUI	skillGuide
-Nasturtiums Protects watermelons from disease		interface	generalUI	skillGuide
-Woad		interface	generalUI	skillGuide
-Limpwurt plants		interface	generalUI	skillGuide
-White lily Protects all allotment crops		interface	generalUI	skillGuide
-Goutweed Must have completed Eadgar's Ruse		interface	generalUI	skillGuide
-Special - Members Only		interface	generalUI	skillGuide
-Giant Seaweed Payment: Numulites x<Num0>		interface	generalUI	skillGuide
-Teak trees Payment: Limpwurt root x<Num0>		interface	generalUI	skillGuide
+Multiple roots	Múltiplas raízes	interface	generalUI	skillGuide
+Tithe Farm	Tithe Farm	interface	generalUI	skillGuide
+Hops - Members Only	Lúpulos - Para Membros	interface	generalUI	skillGuide
+Barley Payment: Compost x<Num0>	Cevada Pagamento: Adubo x<Num0>	interface	generalUI	skillGuide
+Hammerstone hops Payment: Marigolds	Lúpulo de Hammerstone Pagamento: Malmequer	interface	generalUI	skillGuide
+Asgarnian hops Payment: Onions(<Num0>)	Lúpulo de Asgarnia Pagamento: Cebola(<Num0>)	interface	generalUI	skillGuide
+Jute plants Payment: Barley malt x<Num0>	Planta de juta Pagamento: Malte de cevada x<Num0>	interface	generalUI	skillGuide
+Yanillian hops Payment: Tomatoes(<Num0>)	Lúpulos de Yanille Pagamento: Tomate(<Num0>)	interface	generalUI	skillGuide
+Krandorian hops Payment: Cabbages(<Num0>) x<Num1>	Lúpulo kradoriano Pagamento: Repolho(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Wildblood hops Payment: Nasturtiums	Lúpulos de hemoerva Pagamento: Nastúrcio	interface	generalUI	skillGuide
+Trees - Members Only	Árvores - Para Membros	interface	generalUI	skillGuide
+Oak trees Payment: Tomatoes(<Num0>)	Carvalho Pagamento: Tomate(<Num0>)	interface	generalUI	skillGuide
+Willow trees Payment: Apples(<Num0>)	Salgueiro Pagamento: Maçã(<Num0>)	interface	generalUI	skillGuide
+Maple trees Payment: Oranges(<Num0>)	Bordo Pagamento: Laranja(<Num0>)	interface	generalUI	skillGuide
+Yew trees Payment: Cactus spine x<Num0>	Teixo Pagamento: Espinhos de cacto x<Num0>	interface	generalUI	skillGuide
+Magic trees Payment: Coconut x<Num0>	Árvore mágica Pagamento: Coco x<Num0>	interface	generalUI	skillGuide
+Fruit Trees - Members Only	Árvores frutíferas - Para Membros	interface	generalUI	skillGuide
+Apple trees Payment: Sweetcorn x<Num0>	Macieira Pagamento: Milho verde x<Num0>	interface	generalUI	skillGuide
+Banana trees Payment: Apples(<Num0>) x<Num1>	Bananeira Pagamento: Maçã(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Orange trees Payment: Strawberries(<Num0>) x<Num1>	Laranjeira Pagamento: Morango(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Curry trees Payment: Bananas(<Num0>) x<Num1>	Curry Pagamento: Banana(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Pineapple plants Payment: Watermelon x<Num0>	Pé de abacaxi Pagamento: Melancia x<Num0>	interface	generalUI	skillGuide
+Papaya trees Payment: Pineapple x<Num0>	Mamoeiro Pagamento: Abacaxi x<Num0>	interface	generalUI	skillGuide
+Palm trees Payment: Papaya fruit x<Num0>	Coqueiro Pagamento: Mamão x<Num0>	interface	generalUI	skillGuide
+Dragonfruit trees Payment: Coconut x<Num0>	Árvore de pitaia Pagamento: Coco x<Num0>	interface	generalUI	skillGuide
+Bushes - Members Only	Arbustos - Para Membros	interface	generalUI	skillGuide
+Redberry bushes Payment: Cabbages(<Num0>) x<Num1>	Arbusto de vermelhora Pagamento: Repolho(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Cadavaberry bushes Payment: Tomatoes(<Num0>) x<Num1>	Arbusto de defunticaba Pagamento: Tomate(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Dwellberry bushes Payment: Strawberries(<Num0>) x<Num1>	Arbusto de damora Pagamento: Morango(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Jangerberry bushes Payment: Watermelon x<Num0>	Arbusto de jangoesa Pagamento: Melancia x<Num0>	interface	generalUI	skillGuide
+White berry bushes Payment: Mushroom x<Num0>	Arbusto de alvamoras Pagamento: Cogumelo x<Num0>	interface	generalUI	skillGuide
+Poison ivy bushes	Arbusto de hera venenosa	interface	generalUI	skillGuide
+Flowers - Members Only	Flores - Para Membros	interface	generalUI	skillGuide
+Marigolds Protects onions, tomatoes and potatoes	Malmequer Protege cebolas, tomates e batatas	interface	generalUI	skillGuide
+Rosemary Protects cabbages from disease	Alecrim Protege repolhos de doenças	interface	generalUI	skillGuide
+Make and place a scarecrow Protects sweetcorn from birds	Fazer e colocar espantalhos Protege milho verde de pássaros	interface	generalUI	skillGuide
+Nasturtiums Protects watermelons from disease	Nastúrcios Protege melancias de doenças	interface	generalUI	skillGuide
+Woad	Ísatis	interface	generalUI	skillGuide
+Limpwurt plants	Pé de talsichão	interface	generalUI	skillGuide
+White lily Protects all allotment crops	Lírio branco Proteges todos os lotes	interface	generalUI	skillGuide
+Goutweed Must have completed Eadgar's Ruse	Gotadeira Requer Eadgar's Ruse	interface	generalUI	skillGuide
+Special - Members Only	Especial - Para Membros	interface	generalUI	skillGuide
+Giant Seaweed Payment: Numulites x<Num0>	Alga marinha gigante Pagamento: Numulita x<Num0>	interface	generalUI	skillGuide
+Teak trees Payment: Limpwurt root x<Num0>	Árvore de teca Pagamento: Raiz de talsichão x<Num0>	interface	generalUI	skillGuide
 Grapes	Uvas	interface	generalUI	skillGuide
 Bittercap mushrooms	Cogumelo amargorro	interface	generalUI	skillGuide
-Mahogany trees Payment: Yanillian hops x<Num0>		interface	generalUI	skillGuide
-Cacti Payment: Cadava berries x<Num0>		interface	generalUI	skillGuide
-Belladonna		interface	generalUI	skillGuide
-Potato Cacti Payment: Snape grass x<Num0>		interface	generalUI	skillGuide
-Hespori		interface	generalUI	skillGuide
-Calquat trees Payment: Poison ivy berries x<Num0>		interface	generalUI	skillGuide
-Crystal trees		interface	generalUI	skillGuide
-Anima plants have effects on all other farming patches		interface	generalUI	skillGuide
-Anima: Kronos Increases speed of growth		interface	generalUI	skillGuide
-Anima: Iasor Decreases chance of disease		interface	generalUI	skillGuide
-Anima: Attas Increases yield		interface	generalUI	skillGuide
-Spirit trees (<Num0> planted at a time)		interface	generalUI	skillGuide
-Celastrus trees Payment: Potato Cactus x<Num0>		interface	generalUI	skillGuide
-Redwood trees Payment: Dragonfruit x<Num0>		interface	generalUI	skillGuide
-Spirit trees (unlimited)		interface	generalUI	skillGuide
-Payment: Monkey bar, ground suqah tooth & <Num0> monkey nuts		interface	generalUI	skillGuide
-Scarecrows - Members Only		interface	generalUI	skillGuide
-Able to make and place a scarecrow		interface	generalUI	skillGuide
-Scarecrows ward sweetcorn from being attacked by birds, which helps to prevent disease.		interface	generalUI	skillGuide
-How to make a scarecrow:		interface	generalUI	skillGuide
-<Num0>. Fill an empty sack with straw from a bale.		interface	generalUI	skillGuide
-<Num0>. Drive the hay sack onto a bronze spear.		interface	generalUI	skillGuide
-<Num0>. Place a watermelon on top as a head.		interface	generalUI	skillGuide
-<Num0>. Stand the scarecrow in an empty flower patch.		interface	generalUI	skillGuide
-Multiple roots - Members Only		interface	generalUI	skillGuide
-<Num0>x oak roots		interface	generalUI	skillGuide
-<Num0>x willow roots		interface	generalUI	skillGuide
-<Num0>x maple roots		interface	generalUI	skillGuide
-<Num0>x yew roots		interface	generalUI	skillGuide
-<Num0>x magic roots		interface	generalUI	skillGuide
-Tithe Farm - Members Only		interface	generalUI	skillGuide
-Golovanova fruit		interface	generalUI	skillGuide
-Bologano fruit		interface	generalUI	skillGuide
-Logavano fruit		interface	generalUI	skillGuide
-Golpar		interface	generalUI	skillGuide
-Buchu leaf		interface	generalUI	skillGuide
-Noxifer		interface	generalUI	skillGuide
-Farming Guild - Low tier		interface	generalUI	skillGuide
-Nature offerings (with <Num0> Woodcutting)		interface	generalUI	skillGuide
-Farming Guild - Mid tier		interface	generalUI	skillGuide
-Farming Guild - High tier		interface	generalUI	skillGuide
+Mahogany trees Payment: Yanillian hops x<Num0>	Árvore de mogno Pagamento: Lúpulos de Yanille x<Num0>	interface	generalUI	skillGuide
+Cacti Payment: Cadava berries x<Num0>	Cacto Pagamento: Defunticabas x<Num0>	interface	generalUI	skillGuide
+Belladonna	Beladona	interface	generalUI	skillGuide
+Potato Cacti Payment: Snape grass x<Num0>	Cacto batata Pagamento: Capim da cura x<Num0>	interface	generalUI	skillGuide
+Hespori	Hespori	interface	generalUI	skillGuide
+Calquat trees Payment: Poison ivy berries x<Num0>	Árvore calquat Pagamento: Frutinha de hera venenosa x<Num0>	interface	generalUI	skillGuide
+Crystal trees	Árvore de cristal	interface	generalUI	skillGuide
+Anima plants have effects on all other farming patches	Plantas Anima concedem efeitos globais aos canteiros.	interface	generalUI	skillGuide
+Anima: Kronos Increases speed of growth	Anima: Kronos Aumenta a velocidade de crescimento	interface	generalUI	skillGuide
+Anima: Iasor Decreases chance of disease	Anima: Iasor Diminui a probabilidade de doenças	interface	generalUI	skillGuide
+Anima: Attas Increases yield	Anima: Attas Aumenta o rendimento	interface	generalUI	skillGuide
+Spirit trees (<Num0> planted at a time)	Árvores espirituais (<Num0> plantada(s) de uma vez)	interface	generalUI	skillGuide
+Celastrus trees Payment: Potato Cactus x<Num0>	Árvore celastrus Pagamento: Cacto batata x<Num0>	interface	generalUI	skillGuide
+Redwood trees Payment: Dragonfruit x<Num0>	Árvore de sequóia Pagamento: Pitaia x<Num0>	interface	generalUI	skillGuide
+Spirit trees (unlimited)	Árvore espiritual (ilimitada)	interface	generalUI	skillGuide
+Payment: Monkey bar, ground suqah tooth & <Num0> monkey nuts	Pagamento: Barra de macaco, Dente moído & <Num0> Nozes de macaco	interface	generalUI	skillGuide
+Scarecrows - Members Only	Espantalhos - Para Membros	interface	generalUI	skillGuide
+Able to make and place a scarecrow	Fazer e colocar espantalhos	interface	generalUI	skillGuide
+Scarecrows ward sweetcorn from being attacked by birds, which helps to prevent disease.	Os espantalhos protegem o milho verde de pássaros e ajudam a prevenir doenças	interface	generalUI	skillGuide
+How to make a scarecrow:	Para criar um:	interface	generalUI	skillGuide
+<Num0>. Fill an empty sack with straw from a bale.	Encha um saco vazio com feno.	interface	generalUI	skillGuide
+<Num0>. Drive the hay sack onto a bronze spear.	Espete o saco de palha em uma lança de bronze.	interface	generalUI	skillGuide
+<Num0>. Place a watermelon on top as a head.	Coloque uma melancia no topo como cabeça.	interface	generalUI	skillGuide
+<Num0>. Stand the scarecrow in an empty flower patch.	Coloque o espantalho em um canteiro de flores vazio.	interface	generalUI	skillGuide
+Multiple roots - Members Only	Raízes múltiplas	interface	generalUI	skillGuide
+<Num0>x oak roots	<Num0>x Raízes de carvalho	interface	generalUI	skillGuide
+<Num0>x willow roots	<Num0>x Raízes de salgueiro	interface	generalUI	skillGuide
+<Num0>x maple roots	<Num0>x Raízes de bordo	interface	generalUI	skillGuide
+<Num0>x yew roots	<Num0>x Raízes de teixo	interface	generalUI	skillGuide
+<Num0>x magic roots	<Num0>x Raízes mágicas	interface	generalUI	skillGuide
+Tithe Farm - Members Only	Tithe Farm - Para Membros	interface	generalUI	skillGuide
+Golovanova fruit	Fruta de Golovanova	interface	generalUI	skillGuide
+Bologano fruit	Fruta de Bologano	interface	generalUI	skillGuide
+Logavano fruit	Fruta de Logavano	interface	generalUI	skillGuide
+Golpar	Golpar	interface	generalUI	skillGuide
+Buchu leaf	Folha de buchu	interface	generalUI	skillGuide
+Noxifer	Noxifer	interface	generalUI	skillGuide
+Farming Guild - Low tier	Guilda de Agricultura - nível inferior	interface	generalUI	skillGuide
+Nature offerings (with <Num0> Woodcutting)	Ofertas da natureza (com <Num0> Corte de Lenha)	interface	generalUI	skillGuide
+Farming Guild - Mid tier	Guilda de Agricultura - nível médio	interface	generalUI	skillGuide
+Farming Guild - High tier	Guilda de Agricultura - nível superior	interface	generalUI	skillGuide
 Construction	Construção	interface	generalUI	skillGuide
-Rooms - Members Only		interface	generalUI	skillGuide
+Rooms - Members Only	Salas - Para Membros	interface	generalUI	skillGuide
 Garden	Jardim	interface	generalUI	skillGuide
 Parlour	Sala de estar	interface	generalUI	skillGuide
 Kitchen	Cozinha	interface	generalUI	skillGuide
 Dining room	Sala de jantar	interface	generalUI	skillGuide
 Workshop	Oficina	interface	generalUI	skillGuide
 Bedroom	Quarto de dormir	interface	generalUI	skillGuide
-Hall (skill trophies)		interface	generalUI	skillGuide
-League hall		interface	generalUI	skillGuide
+Hall (skill trophies)	Salão - troféis de habilidade	interface	generalUI	skillGuide
+League hall	Salão da League	interface	generalUI	skillGuide
 Games room	Sala de jogos	interface	generalUI	skillGuide
 Combat room	Sala de combate	interface	generalUI	skillGuide
-Hall (quest trophies)		interface	generalUI	skillGuide
+Hall (quest trophies)	Salão - troféis de missões	interface	generalUI	skillGuide
 Menagerie	Viveiro	interface	generalUI	skillGuide
 Study	Estudar	interface	generalUI	skillGuide
 Costume room	Sala de trajes	interface	generalUI	skillGuide
 Chapel	Capela	interface	generalUI	skillGuide
 Portal chamber	Câmara de portais	interface	generalUI	skillGuide
-Use the Advertisement noticeboard		interface	generalUI	skillGuide
+Use the Advertisement noticeboard	Use o quadro de anúncios	interface	generalUI	skillGuide
 Formal garden	Jardim formal	interface	generalUI	skillGuide
 Throne room	Sala do trono	interface	generalUI	skillGuide
 Oubliette	Calabouço	interface	generalUI	skillGuide
-Superior garden		interface	generalUI	skillGuide
-Dungeon		interface	generalUI	skillGuide
-Portal nexus		interface	generalUI	skillGuide
+Superior garden	Jardim superior	interface	generalUI	skillGuide
+Dungeon	Calabouço	interface	generalUI	skillGuide
+Portal nexus	Nexo portal	interface	generalUI	skillGuide
 Treasure room	Sala do tesouro	interface	generalUI	skillGuide
-Achievement Gallery		interface	generalUI	skillGuide
-Rooms		interface	generalUI	skillGuide
-Skills		interface	generalUI	skillGuide
-Surfaces		interface	generalUI	skillGuide
+Achievement Gallery	Galeria de conquistas	interface	generalUI	skillGuide
+Rooms	Salas	interface	generalUI	skillGuide
+Skills	Habilidades	interface	generalUI	skillGuide
+Surfaces - Members Only	Mobília - Para Membros	interface	generalUI	skillGuide
 Storage	Depósito	interface	generalUI	skillGuide
-Decorative		interface	generalUI	skillGuide
-Trophies		interface	generalUI	skillGuide
-Games		interface	generalUI	skillGuide
-Servants		interface	generalUI	skillGuide
-House Size		interface	generalUI	skillGuide
-Skills - Members Only		interface	generalUI	skillGuide
+Decorative	Decoração	interface	generalUI	skillGuide
+Trophies	Troféis	interface	generalUI	skillGuide
+Games	Jogos	interface	generalUI	skillGuide
+Servants	Mordomos	interface	generalUI	skillGuide
+House Size	Tamanho	interface	generalUI	skillGuide
+Skills - Members Only	Habilidades - Para Membros	interface	generalUI	skillGuide
 Clay fireplace	Lareira de argila	interface	generalUI	skillGuide
 Firepit	Fosso de fogo	interface	generalUI	skillGuide
 Pump and drain	Bomba e ralo	interface	generalUI	skillGuide
 Firepit with hook	Fosso de fogo com gancho	interface	generalUI	skillGuide
 Repair bench	Bancada de conserto	interface	generalUI	skillGuide
 Pluming stand	Bancada para emplumar	interface	generalUI	skillGuide
-Crafting table <Num0>		interface	generalUI	skillGuide
+Crafting table <Num0>	Mesa de artesanato <Num0>	interface	generalUI	skillGuide
 Firepit with pot	Fosso de fogo com panela	interface	generalUI	skillGuide
 Wooden workbench	Bancada de madeira	interface	generalUI	skillGuide
 Small oven	Pequeno forno	interface	generalUI	skillGuide
@@ -3960,141 +3960,141 @@ Steel range	Fogão de aço	interface	generalUI	skillGuide
 Whetstone	Pedra de amolar	interface	generalUI	skillGuide
 Shield easel	Cavalete de escudo	interface	generalUI	skillGuide
 Fancy range	Fogão ornamentado	interface	generalUI	skillGuide
-Steel framed workbench		interface	generalUI	skillGuide
+Steel framed workbench	Bancada c/moldura de aço	interface	generalUI	skillGuide
 Sink	Pia	interface	generalUI	skillGuide
-Gold Sink		interface	generalUI	skillGuide
+Gold Sink	Pia dourada	interface	generalUI	skillGuide
 Armour stand	Suporte para armadura	interface	generalUI	skillGuide
-Workbench with vice		interface	generalUI	skillGuide
+Workbench with vice	Bancada com torno	interface	generalUI	skillGuide
 Marble fireplace	Lareira de mármore	interface	generalUI	skillGuide
 Banner easel	Cavalete de estandarte	interface	generalUI	skillGuide
-Workbench with lathe		interface	generalUI	skillGuide
-Ancient altar		interface	generalUI	skillGuide
-Lunar altar		interface	generalUI	skillGuide
-Dark altar		interface	generalUI	skillGuide
-Occult altar (upgrade from Ancient)		interface	generalUI	skillGuide
-Occult altar (upgrade from Lunar)		interface	generalUI	skillGuide
-Occult altar (upgrade from Dark)		interface	generalUI	skillGuide
-Surfaces - Members Only		interface	generalUI	skillGuide
+Workbench with lathe	Bancada c/torno mecânico	interface	generalUI	skillGuide
+Ancient altar	Altar antigo	interface	generalUI	skillGuide
+Lunar altar	Altar lunar	interface	generalUI	skillGuide
+Dark altar	Altar Sombrio	interface	generalUI	skillGuide
+Occult altar (upgrade from Ancient)	Altar do oculto (melhoria do Antigo)	interface	generalUI	skillGuide
+Occult altar (upgrade from Lunar)	Altar do oculto (melhoria do Lunar)	interface	generalUI	skillGuide
+Occult altar (upgrade from Dark)	Altar do oculto (melhoria do Sombrio)	interface	generalUI	skillGuide
+Surfaces - Members Only	Mobília - Para Membros	interface	generalUI	skillGuide
 Crude wooden chair	Cadeira rústica de madeira	interface	generalUI	skillGuide
 Wooden chair	Cadeira de madeira	interface	generalUI	skillGuide
-Wooden dining table		interface	generalUI	skillGuide
-Wooden dining bench		interface	generalUI	skillGuide
-Wooden kitchen table		interface	generalUI	skillGuide
+Wooden dining table	Mesa de jantar de madeira	interface	generalUI	skillGuide
+Wooden dining bench	Banco de madeira	interface	generalUI	skillGuide
+Wooden kitchen table	Mesa de cozinha de madeira	interface	generalUI	skillGuide
 Rocking chair	Cadeira de balanço	interface	generalUI	skillGuide
 Oak chair	Cadeira de carvalho	interface	generalUI	skillGuide
 Wooden bed	Cama de madeira	interface	generalUI	skillGuide
 Oak dining table	Mesa de jantar de carvalho	interface	generalUI	skillGuide
-Oak dining bench		interface	generalUI	skillGuide
+Oak dining bench	Banco de carvalho	interface	generalUI	skillGuide
 Oak armchair	Poltrona de carvalho	interface	generalUI	skillGuide
 Oak bed	Cama de carvalho	interface	generalUI	skillGuide
-Carved oak dining table		interface	generalUI	skillGuide
-Carved oak dining bench		interface	generalUI	skillGuide
+Carved oak dining table	Mesa de carvalho entalhada	interface	generalUI	skillGuide
+Carved oak dining bench	banco de carvalho entalhado	interface	generalUI	skillGuide
 Oak kitchen table	Mesa de cozinha de carvalho	interface	generalUI	skillGuide
 Large oak bed	Cama grande de carvalho	interface	generalUI	skillGuide
 Teak armchair	Poltrona de teca	interface	generalUI	skillGuide
-Teak dining table		interface	generalUI	skillGuide
+Teak dining table	Mesa de teca	interface	generalUI	skillGuide
 Teak dining bench	Banco de jantar de teca	interface	generalUI	skillGuide
 Teak bed	Cama de teca	interface	generalUI	skillGuide
-Carved teak dining bench		interface	generalUI	skillGuide
-Carved teak dining table		interface	generalUI	skillGuide
+Carved teak dining bench	banco de teca entalhado	interface	generalUI	skillGuide
+Carved teak dining table	Mesa de teca entalhada	interface	generalUI	skillGuide
 Large teak bed	Cama grande de teca	interface	generalUI	skillGuide
 Mahogany armchair	Poltrona de mogno	interface	generalUI	skillGuide
-Mahogany dining table		interface	generalUI	skillGuide
-Mahogany dining bench		interface	generalUI	skillGuide
+Mahogany dining table	Mesa de mogno	interface	generalUI	skillGuide
+Mahogany dining bench	Banco de mogno	interface	generalUI	skillGuide
 Teak kitchen table	Mesa de cozinha de teca	interface	generalUI	skillGuide
-Mahogany four-poster bed		interface	generalUI	skillGuide
+Mahogany four-poster bed	Cama de 4 colunas	interface	generalUI	skillGuide
 Oak throne	Trono de carvalho	interface	generalUI	skillGuide
-Gilded mahogany four-poster bed		interface	generalUI	skillGuide
-Gilded mahogany dining bench		interface	generalUI	skillGuide
+Gilded mahogany four-poster bed	Cama de 4 colunas dourada	interface	generalUI	skillGuide
+Gilded mahogany dining bench	Banco dourado	interface	generalUI	skillGuide
 Teak throne	Trono de teca	interface	generalUI	skillGuide
-Gilded mahogany and marble table		interface	generalUI	skillGuide
+Gilded mahogany and marble table	Mesa luxuosa	interface	generalUI	skillGuide
 Mahogany throne	Trono de mogno	interface	generalUI	skillGuide
-Gilded mahogany throne		interface	generalUI	skillGuide
+Gilded mahogany throne	Trono dourado	interface	generalUI	skillGuide
 Skeleton throne	Trono de esqueleto	interface	generalUI	skillGuide
 Crystal throne	Trono de cristal	interface	generalUI	skillGuide
 Demonic throne	Trono demoníaco	interface	generalUI	skillGuide
-Storage - Members Only		interface	generalUI	skillGuide
+Storage - Members Only	Armazenagem - Para Membros	interface	generalUI	skillGuide
 Wooden bookcase	Estante de madeira	interface	generalUI	skillGuide
-Wooden shelves <Num0>		interface	generalUI	skillGuide
+Wooden shelves <Num0>	Prateleiras de madeira <Num0>	interface	generalUI	skillGuide
 Beer barrel	Barril de garapa	interface	generalUI	skillGuide
 Wooden larder	Despensa de madeira	interface	generalUI	skillGuide
 Cider barrel	Barril de cidra	interface	generalUI	skillGuide
-Tool store <Num0>		interface	generalUI	skillGuide
-Asgarnian Ale barrel		interface	generalUI	skillGuide
+Tool store <Num0>	Armazenamento de Ferramentas <Num0>	interface	generalUI	skillGuide
+Asgarnian Ale barrel	Cerveja de Asgarnia	interface	generalUI	skillGuide
 Shoe box	Caixa de sapatos	interface	generalUI	skillGuide
-Wooden shaving stand		interface	generalUI	skillGuide
-Greenman's Ale barrel		interface	generalUI	skillGuide
-Oak chest of drawers		interface	generalUI	skillGuide
+Wooden shaving stand	Bancada para barbear	interface	generalUI	skillGuide
+Greenman's Ale barrel	Vitamina do Homenzinho Verde	interface	generalUI	skillGuide
+Oak chest of drawers	Gavetas de carvalho	interface	generalUI	skillGuide
 Oak bookcase	Estante de carvalho	interface	generalUI	skillGuide
 Oak shaving stand	Bancada de carvalho	interface	generalUI	skillGuide
 Oak larder	Despensa de carvalho	interface	generalUI	skillGuide
-Oak shelves <Num0>		interface	generalUI	skillGuide
-Dragon Bitter barrel		interface	generalUI	skillGuide
-Oak pet house (<Num0> pets)		interface	generalUI	skillGuide
+Oak shelves <Num0>	Prateleiras de carvalho <Num0>]	interface	generalUI	skillGuide
+Dragon Bitter barrel	Sumo do dragão	interface	generalUI	skillGuide
+Oak pet house (<Num0> pets)	Casinha de carvalho (<Num0> pets)	interface	generalUI	skillGuide
 Oak dresser	Cômoda de carvalho	interface	generalUI	skillGuide
-Oak wardrobe (bedroom)		interface	generalUI	skillGuide
+Oak wardrobe (bedroom)	Guarda-roupa de carvalho	interface	generalUI	skillGuide
 Mahogany bookcase	Estante de mogno	interface	generalUI	skillGuide
-Oak wardrobe (costume room)		interface	generalUI	skillGuide
+Oak wardrobe (costume room)	Guarda-roupa de carvalho	interface	generalUI	skillGuide
 Teak larder	Despensa de teca	interface	generalUI	skillGuide
 Oak fancy dress box	Caixa de fantasia carvalho	interface	generalUI	skillGuide
 Oak armour case	Caixa de armadura carvalho	interface	generalUI	skillGuide
 Teak dresser	Cômoda de teca	interface	generalUI	skillGuide
-Chef's Delight barrel		interface	generalUI	skillGuide
+Chef's Delight barrel	Delícia do chefe	interface	generalUI	skillGuide
 Oak treasure chest	Baú de tesouro de carvalho	interface	generalUI	skillGuide
-Teak pet house (<Num0> pets)		interface	generalUI	skillGuide
+Teak pet house (<Num0> pets)	Casinha de teca (<Num0> pets)	interface	generalUI	skillGuide
 Oak toy box	Caixa de brinquedo de carvalho	interface	generalUI	skillGuide
-Carved oak wardrobe (costume room)		interface	generalUI	skillGuide
-Teak chest of drawers		interface	generalUI	skillGuide
+Carved oak wardrobe (costume room)	Guarda-roupa de carvalho entalhado	interface	generalUI	skillGuide
+Teak chest of drawers	Gavetas de teca	interface	generalUI	skillGuide
 Oak cape rack	Cabide de carvalho para capas	interface	generalUI	skillGuide
-Teak shelves <Num0>		interface	generalUI	skillGuide
+Teak shelves <Num0>	Prateleiras de teca <Num0>]	interface	generalUI	skillGuide
 Fancy teak dresser	Cômoda de teca enfeitada	interface	generalUI	skillGuide
-Servant's money bag		interface	generalUI	skillGuide
-Mahogany pet house (<Num0> pets)		interface	generalUI	skillGuide
-Teak wardrobe (costume room)		interface	generalUI	skillGuide
-Spice Rack		interface	generalUI	skillGuide
+Servant's money bag	Bolsa de dinheiro do mordomo	interface	generalUI	skillGuide
+Mahogany pet house (<Num0> pets)	Casinha de mogno (<Num0> pets)	interface	generalUI	skillGuide
+Teak wardrobe (costume room)	Guarda-roupa de teca	interface	generalUI	skillGuide
+Spice Rack	Prateleira de Temperos	interface	generalUI	skillGuide
 Teak fancy dress box	Caixa de fantasia de teca	interface	generalUI	skillGuide
 Teak cape rack	Cabide de teca para capas	interface	generalUI	skillGuide
-Teak wardrobe (bedroom)		interface	generalUI	skillGuide
+Teak wardrobe (bedroom)	Guarda-roupa de teca	interface	generalUI	skillGuide
 Teak armour case	Caixa de armadura de teca	interface	generalUI	skillGuide
 Mahogany dresser	Cômoda de mogno	interface	generalUI	skillGuide
 Teak treasure chest	Baú de tesouro de teca	interface	generalUI	skillGuide
 Teak toy box	Caixa de brinquedo de teca	interface	generalUI	skillGuide
-Carved teak wardrobe (costume room)		interface	generalUI	skillGuide
-Consecrated pet house (<Num0> pets)		interface	generalUI	skillGuide
+Carved teak wardrobe (costume room)	Guarda-roupa de teca entalhada	interface	generalUI	skillGuide
+Consecrated pet house (<Num0> pets)	Casinha consagrada (<Num0> pets)	interface	generalUI	skillGuide
 Mahogany cape rack	Cabide de mogno para capas	interface	generalUI	skillGuide
-Gilded Mahogany dresser		interface	generalUI	skillGuide
-Mahogany wardrobe (bedroom)		interface	generalUI	skillGuide
-Mahogany wardrobe (costume room)		interface	generalUI	skillGuide
+Gilded Mahogany dresser	Cômoda dourada	interface	generalUI	skillGuide
+Mahogany wardrobe (bedroom)	Guarda-roupa de mogno	interface	generalUI	skillGuide
+Mahogany wardrobe (costume room)	Guarda-roupa de mogno	interface	generalUI	skillGuide
 Mahogany fancy dress box	Caixa de fantasia de mogno	interface	generalUI	skillGuide
-Basic jewellery box		interface	generalUI	skillGuide
-Gilded mahogany cape rack		interface	generalUI	skillGuide
-Desecrated pet house (<Num0> pets)		interface	generalUI	skillGuide
+Basic jewellery box	Caixa de joias básica	interface	generalUI	skillGuide
+Gilded mahogany cape rack	Cabide dourado para capas	interface	generalUI	skillGuide
+Desecrated pet house (<Num0> pets)	Casinha profanada (<Num0> pets)	interface	generalUI	skillGuide
 Mahogany armour case	Caixa de armadura de mogno	interface	generalUI	skillGuide
 Mahogany treasure chest	Baú de tesouro de mogno	interface	generalUI	skillGuide
-Fancy jewellery box		interface	generalUI	skillGuide
+Fancy jewellery box	Caixa de joias sofisticada	interface	generalUI	skillGuide
 Mahogany toy box	Caixa de brinquedo mogno	interface	generalUI	skillGuide
-Gilded mahogany wardrobe (costume room)		interface	generalUI	skillGuide
-Gilded mahogany wardrobe (bedroom)		interface	generalUI	skillGuide
+Gilded mahogany wardrobe (costume room)	Armário dourado	interface	generalUI	skillGuide
+Gilded mahogany wardrobe (bedroom)	Armário dourado	interface	generalUI	skillGuide
 Marble cape rack	Cabide de mármore para capas	interface	generalUI	skillGuide
-Ornate jewellery box		interface	generalUI	skillGuide
-Natural pet house (many pets)		interface	generalUI	skillGuide
-Marble wardrobe (costume room)		interface	generalUI	skillGuide
-Magic stone cape rack		interface	generalUI	skillGuide
-Decorative - Members Only		interface	generalUI	skillGuide
+Ornate jewellery box	Caixa de joias ornamentada	interface	generalUI	skillGuide
+Natural pet house (many pets)	Casinha natural (muitos pets)	interface	generalUI	skillGuide
+Marble wardrobe (costume room)	Guarda-roupa de mogno entalhado	interface	generalUI	skillGuide
+Magic stone cape rack	Cabide mágico para capas	interface	generalUI	skillGuide
+Decorative - Members Only	Decoração - Para Membros	interface	generalUI	skillGuide
 Brown rug	Tapete marrom	interface	generalUI	skillGuide
 Torn curtains	Cortinas rasgadas	interface	generalUI	skillGuide
 Rug	Tapete	interface	generalUI	skillGuide
 Curtains	Cortinas	interface	generalUI	skillGuide
 Oak clock	Relógio de carvalho	interface	generalUI	skillGuide
-Deadman rug		interface	generalUI	skillGuide
+Deadman rug	Tapete Deadman	interface	generalUI	skillGuide
 Oak lectern	Suporte de carvalho	interface	generalUI	skillGuide
 Opulent curtains	Cortinas luxuosas	interface	generalUI	skillGuide
-S.T.A.S.H chart		interface	generalUI	skillGuide
+S.T.A.S.H chart	Quadro de esconderijos	interface	generalUI	skillGuide
 Globe	Globo	interface	generalUI	skillGuide
 Alchemical chart	Gráfico de alquimia	interface	generalUI	skillGuide
-Oak telescope		interface	generalUI	skillGuide
-Oak eagle lectern		interface	generalUI	skillGuide
-Oak demon lectern		interface	generalUI	skillGuide
+Oak telescope	Telescópio de carvalho	interface	generalUI	skillGuide
+Oak eagle lectern	Suporte de águia	interface	generalUI	skillGuide
+Oak demon lectern	Suporte de demônio	interface	generalUI	skillGuide
 Ornamental globe	Globo ornamental	interface	generalUI	skillGuide
 Teak clock	Relógio de teca	interface	generalUI	skillGuide
 Teak eagle lectern	Suporte de águia de teca	interface	generalUI	skillGuide
@@ -4103,84 +4103,84 @@ Lunar globe	Globo lunar	interface	generalUI	skillGuide
 Astronomical chart	Gráfico astronômico	interface	generalUI	skillGuide
 Teak telescope	Telescópio de teca	interface	generalUI	skillGuide
 Opulent rug	Tapete luxuoso	interface	generalUI	skillGuide
-Mahogany eagle lectern		interface	generalUI	skillGuide
-Mahogany demon lectern		interface	generalUI	skillGuide
+Mahogany eagle lectern	Águia de mogno	interface	generalUI	skillGuide
+Mahogany demon lectern	Demônio de mogno	interface	generalUI	skillGuide
 Celestial globe	Globo celestial	interface	generalUI	skillGuide
-Dungeon candles		interface	generalUI	skillGuide
-Decorative dungeon bloodstain		interface	generalUI	skillGuide
+Dungeon candles	Velas	interface	generalUI	skillGuide
+Decorative dungeon bloodstain	Sangue decorativo	interface	generalUI	skillGuide
 Armillary sphere	Esfera armilar	interface	generalUI	skillGuide
-Marble lectern		interface	generalUI	skillGuide
+Marble lectern	Suporte de mármore	interface	generalUI	skillGuide
 Infernal chart	Gráfico infernal	interface	generalUI	skillGuide
-Decorative dungeon pipe		interface	generalUI	skillGuide
-Dungeon torches		interface	generalUI	skillGuide
+Decorative dungeon pipe	Cano decorativo	interface	generalUI	skillGuide
+Dungeon torches	Tochas	interface	generalUI	skillGuide
 Mahogany 'scope	Telescópio de mogno	interface	generalUI	skillGuide
-Gilded mahogany clock		interface	generalUI	skillGuide
+Gilded mahogany clock	Relógio dourado	interface	generalUI	skillGuide
 Small orrery	Pequeno planetário	interface	generalUI	skillGuide
-Hanging dungeon skeleton		interface	generalUI	skillGuide
-Dungeon skull torches		interface	generalUI	skillGuide
+Hanging dungeon skeleton	Esqueleto pendurado	interface	generalUI	skillGuide
+Dungeon skull torches	Tochas de crânio	interface	generalUI	skillGuide
 Large orrery	Planetário grande	interface	generalUI	skillGuide
-Trophies - Members Only		interface	generalUI	skillGuide
+Trophies - Members Only	Troféis - Para Membros	interface	generalUI	skillGuide
 Oak wall decoration	Decoração de parede de carvalho	interface	generalUI	skillGuide
-Trophy pedestal		interface	generalUI	skillGuide
-Rug (League hall)		interface	generalUI	skillGuide
-Trailblazer rug		interface	generalUI	skillGuide
+Trophy pedestal	Pedestal para troféu	interface	generalUI	skillGuide
+Rug (League hall)	Tapete (Salão da League)	interface	generalUI	skillGuide
+Trailblazer rug	Tapete Trailblazer	interface	generalUI	skillGuide
 Suit of armour	Conjunto de armadura	interface	generalUI	skillGuide
-Banner stand		interface	generalUI	skillGuide
-League statue		interface	generalUI	skillGuide
-Trailblazer globe		interface	generalUI	skillGuide
-Oak outfit stand		interface	generalUI	skillGuide
+Banner stand	Suporte para bandeiras	interface	generalUI	skillGuide
+League statue	Estátua da Leauges	interface	generalUI	skillGuide
+Trailblazer globe	Globo Trailblazer	interface	generalUI	skillGuide
+Oak outfit stand	Suporte para equipamentos em carvalho	interface	generalUI	skillGuide
 Small portrait	Pequeno retrato	interface	generalUI	skillGuide
-Oak trophy case		interface	generalUI	skillGuide
+Oak trophy case	Vitrine de troféus em carvalho	interface	generalUI	skillGuide
 Mounted bass	Garoupa montada	interface	generalUI	skillGuide
 Teak wall decoration	Decoração de parede de teca	interface	generalUI	skillGuide
-Minor Slayer monster head		interface	generalUI	skillGuide
+Minor Slayer monster head	Cabeça menor	interface	generalUI	skillGuide
 Small map	Mapa pequeno	interface	generalUI	skillGuide
-Rune display cases		interface	generalUI	skillGuide
+Rune display cases	Mostruário de runas	interface	generalUI	skillGuide
 Mounted sword	Espada montada	interface	generalUI	skillGuide
 Small landscape	Pequena paisagem	interface	generalUI	skillGuide
-Mounted Anti-Dragon Shield		interface	generalUI	skillGuide
-Mounted Amulet of Glory		interface	generalUI	skillGuide
-Mounted Cape of Legends		interface	generalUI	skillGuide
-Mounted Mythical Cape		interface	generalUI	skillGuide
-Leagues accomplishment scroll		interface	generalUI	skillGuide
+Mounted Anti-Dragon Shield	Escudo antidragão montado	interface	generalUI	skillGuide
+Mounted Amulet of Glory	Amuleto da glória montado	interface	generalUI	skillGuide
+Mounted Cape of Legends	Capa das lendas montada	interface	generalUI	skillGuide
+Mounted Mythical Cape	Capa Mítica montada	interface	generalUI	skillGuide
+Leagues accomplishment scroll	Pergaminho de conquistas da League	interface	generalUI	skillGuide
 Large portrait	Retrato grande	interface	generalUI	skillGuide
-Gilded mahogany wall decoration		interface	generalUI	skillGuide
+Gilded mahogany wall decoration	Decoração dourada	interface	generalUI	skillGuide
 Mounted swordfish	Peixe-espada montado	interface	generalUI	skillGuide
 Medium map	Mapa médio	interface	generalUI	skillGuide
-Medium Slayer monster head		interface	generalUI	skillGuide
-Ornate trophy pedestal		interface	generalUI	skillGuide
-Opulent rug (League hall)		interface	generalUI	skillGuide
+Medium Slayer monster head	Cabeça média	interface	generalUI	skillGuide
+Ornate trophy pedestal	Pedestal ornamentado para troféu	interface	generalUI	skillGuide
+Opulent rug (League hall)	Tapete luxuoso (Salão da League)	interface	generalUI	skillGuide
 Large landscape	Paisagem grande	interface	generalUI	skillGuide
-Mounted harpoonfish		interface	generalUI	skillGuide
-Ornate banner stand		interface	generalUI	skillGuide
-Round wall-mounted shield		interface	generalUI	skillGuide
-Ornate league statue		interface	generalUI	skillGuide
-Mounted Xeric's Talisman		interface	generalUI	skillGuide
-Mahogany outfit stand		interface	generalUI	skillGuide
+Mounted harpoonfish	Peixe-arpão montado	interface	generalUI	skillGuide
+Ornate banner stand	Suporte para bandeiras ornamentado	interface	generalUI	skillGuide
+Round wall-mounted shield	Escudo redondo	interface	generalUI	skillGuide
+Ornate league statue	Estátua da Leagues ornamentada	interface	generalUI	skillGuide
+Mounted Xeric's Talisman	Talismã de Xeric montado	interface	generalUI	skillGuide
+Mahogany outfit stand	Suporte para equipamentos em mogno	interface	generalUI	skillGuide
 Mounted shark	Tubarão montado	interface	generalUI	skillGuide
-Square wall-mounted shield		interface	generalUI	skillGuide
-Mahogany trophy case		interface	generalUI	skillGuide
-Major Slayer monster head		interface	generalUI	skillGuide
+Square wall-mounted shield	Escudo retangular	interface	generalUI	skillGuide
+Mahogany trophy case	Vitrine de troféus em mogno	interface	generalUI	skillGuide
+Major Slayer monster head	Cabeça maior	interface	generalUI	skillGuide
 Large map	Mapa grande	interface	generalUI	skillGuide
-Quest list		interface	generalUI	skillGuide
-Mounted emblem		interface	generalUI	skillGuide
-Mounted coins		interface	generalUI	skillGuide
-Cape hanger		interface	generalUI	skillGuide
-Mounted Digsite Pendant		interface	generalUI	skillGuide
-Mounted Vorkath head		interface	generalUI	skillGuide
-Mounted Alchemical Hydra head		interface	generalUI	skillGuide
-Mahogany adventure log		interface	generalUI	skillGuide
-Wall-mounted kiteshield		interface	generalUI	skillGuide
-Boss lair display		interface	generalUI	skillGuide
-Gilded adventure log		interface	generalUI	skillGuide
-Marble adventure log		interface	generalUI	skillGuide
-Games - Members Only		interface	generalUI	skillGuide
-Hoop-and-stick game		interface	generalUI	skillGuide
+Quest list	Lista de missões	interface	generalUI	skillGuide
+Mounted emblem	Emblema montado	interface	generalUI	skillGuide
+Mounted coins	Moedas montadas	interface	generalUI	skillGuide
+Cape hanger	Cabide para capa	interface	generalUI	skillGuide
+Mounted Digsite Pendant	Pingente do sítio de escavação montado	interface	generalUI	skillGuide
+Mounted Vorkath head	Cabeça de Vorkath montada	interface	generalUI	skillGuide
+Mounted Alchemical Hydra head	Cabeça de hidra alquímica montada	interface	generalUI	skillGuide
+Mahogany adventure log	Diário de aventuras de mogno	interface	generalUI	skillGuide
+Wall-mounted kiteshield	Escudo ogival	interface	generalUI	skillGuide
+Boss lair display	Expositor de chefe	interface	generalUI	skillGuide
+Gilded adventure log	Diário de aventuras dourado	interface	generalUI	skillGuide
+Marble adventure log	Diário de aventuras de mármore	interface	generalUI	skillGuide
+Games - Members Only	Jogos - Para Membros	interface	generalUI	skillGuide
+Hoop-and-stick game	Jogo da argola	interface	generalUI	skillGuide
 Boxing ring	Ringue de boxe	interface	generalUI	skillGuide
-Boxing glove rack		interface	generalUI	skillGuide
+Boxing glove rack	Cavalete de luvas	interface	generalUI	skillGuide
 Oak prize chest	Arca-prêmio de carvalho	interface	generalUI	skillGuide
-Lesser magical balance		interface	generalUI	skillGuide
-Jester game		interface	generalUI	skillGuide
+Lesser magical balance	Equilíbrio mágico 1	interface	generalUI	skillGuide
+Jester game	Bufão	interface	generalUI	skillGuide
 Clay attack stone	Pedra de ataque de argila	interface	generalUI	skillGuide
 Fencing ring	Ringue de esgrima	interface	generalUI	skillGuide
 Weapons rack	Cavalete de armas	interface	generalUI	skillGuide
@@ -4188,23 +4188,23 @@ Teak prize chest	Arca-prêmio de teca	interface	generalUI	skillGuide
 Combat dummy	Boneco de combate	interface	generalUI	skillGuide
 Treasure hunt fairy house	Casa da fada da caça ao tesouro	interface	generalUI	skillGuide
 Combat ring	Ringue de combate	interface	generalUI	skillGuide
-Combat dummy (Undead and slayer)		interface	generalUI	skillGuide
+Combat dummy (Undead and slayer)	Boneco de combate (morto-vivo e extermínio)	interface	generalUI	skillGuide
 Dartboard	Alvo para dardos	interface	generalUI	skillGuide
 Extra weapons rack	Cavalete de armas extras	interface	generalUI	skillGuide
 Mahogany prize chest	Arca-prêmio de mogno	interface	generalUI	skillGuide
-Medium balance		interface	generalUI	skillGuide
-Ornate combat dummy (Undead and slayer)		interface	generalUI	skillGuide
-Limestone attack stone		interface	generalUI	skillGuide
+Medium balance	Equilíbrio mágico 2	interface	generalUI	skillGuide
+Ornate combat dummy (Undead and slayer)	Boneco de combate ornamentado (morto-vivo e extermínio)	interface	generalUI	skillGuide
+Limestone attack stone	Pedra de ataque	interface	generalUI	skillGuide
 Hangman game	Jogo da forca	interface	generalUI	skillGuide
-Simple pet arena		interface	generalUI	skillGuide
+Simple pet arena	Arena simples	interface	generalUI	skillGuide
 Ranging pedestals	Pedestais de mira	interface	generalUI	skillGuide
-Advanced pet arena		interface	generalUI	skillGuide
-Greater magical balance		interface	generalUI	skillGuide
-Marble attack stone		interface	generalUI	skillGuide
+Advanced pet arena	Arena avançada	interface	generalUI	skillGuide
+Greater magical balance	Equilíbrio mágico 3	interface	generalUI	skillGuide
+Marble attack stone	Pedra ataque de mármore	interface	generalUI	skillGuide
 Archery target	Alvo para arco e flecha	interface	generalUI	skillGuide
 Balance beam	Viga de equilíbrio	interface	generalUI	skillGuide
-Glorious pet arena		interface	generalUI	skillGuide
-Garden - Members Only		interface	generalUI	skillGuide
+Glorious pet arena	Arena gloriosa	interface	generalUI	skillGuide
+Garden - Members Only	Jardim - Para Membros	interface	generalUI	skillGuide
 Exit portal	Portal de saída	interface	generalUI	skillGuide
 Low-level plants	Plantas para nível baixo	interface	generalUI	skillGuide
 Decorative rock	Pedra decorativa	interface	generalUI	skillGuide
@@ -4216,110 +4216,110 @@ High-level plants	Plantas para nível alto	interface	generalUI	skillGuide
 Imp statue	Estátua de diabinho	interface	generalUI	skillGuide
 Oak tree	Carvalho	interface	generalUI	skillGuide
 Willow tree	Salgueiro	interface	generalUI	skillGuide
-Grassland pet habitat		interface	generalUI	skillGuide
-Tip jar		interface	generalUI	skillGuide
+Grassland pet habitat	Habitat de pastagem	interface	generalUI	skillGuide
+Tip jar	Potinho de gorjeta	interface	generalUI	skillGuide
 Maple tree	Bordo	interface	generalUI	skillGuide
-Forest pet habitat		interface	generalUI	skillGuide
+Forest pet habitat	Habitat florestal	interface	generalUI	skillGuide
 Boundary stones	Pedras divisórias	interface	generalUI	skillGuide
 Thorny hedge	Cerca viva de espinhos	interface	generalUI	skillGuide
-Desert pet habitat		interface	generalUI	skillGuide
+Desert pet habitat	Ambiente desértico	interface	generalUI	skillGuide
 Wooden fence	Cerca de madeira	interface	generalUI	skillGuide
 Nice hedge	Bonita cerca viva	interface	generalUI	skillGuide
 Yew tree	Teixo	interface	generalUI	skillGuide
 Stone wall	Muro de pedra	interface	generalUI	skillGuide
 Small box hedge	Cerca viva pequena quadrada	interface	generalUI	skillGuide
 Gazebo	Gazebo	interface	generalUI	skillGuide
-Restoration pool		interface	generalUI	skillGuide
-Zen theme		interface	generalUI	skillGuide
-Topiary bush		interface	generalUI	skillGuide
+Restoration pool	Poço de restauração	interface	generalUI	skillGuide
+Zen theme	Tema zen	interface	generalUI	skillGuide
+Topiary bush	Arbusto topiário	interface	generalUI	skillGuide
 Sunflower	Girassol	interface	generalUI	skillGuide
 Rosemary	Alecrim	interface	generalUI	skillGuide
-Teak garden bench		interface	generalUI	skillGuide
+Teak garden bench	Banco de jardim de teca	interface	generalUI	skillGuide
 Iron railings	Grade de ferro	interface	generalUI	skillGuide
-Polar pet habitat		interface	generalUI	skillGuide
+Polar pet habitat	Ambiente polar	interface	generalUI	skillGuide
 Topiary hedge	Cerca viva topiária	interface	generalUI	skillGuide
 Dungeon entrance	Entrada da masmorra	interface	generalUI	skillGuide
-Revitalisation pool		interface	generalUI	skillGuide
+Revitalisation pool	Poço de revitalização	interface	generalUI	skillGuide
 Marigolds	Malmequeres	interface	generalUI	skillGuide
 Daffodils	Narcisos	interface	generalUI	skillGuide
 Picket fence	Cerca de estaca	interface	generalUI	skillGuide
 Small fountain	Fonte pequena	interface	generalUI	skillGuide
 Fancy hedge	Cerca viva formosa	interface	generalUI	skillGuide
 Magic tree	Árvore mágica	interface	generalUI	skillGuide
-Otherworldly theme		interface	generalUI	skillGuide
+Otherworldly theme	Tema sobrenatural	interface	generalUI	skillGuide
 Spirit tree	Árvore espiritual	interface	generalUI	skillGuide
 Large fountain	Fonte grande	interface	generalUI	skillGuide
 Garden fence	Cerca de jardim	interface	generalUI	skillGuide
-Redwood fence		interface	generalUI	skillGuide
+Redwood fence	Cerca de sequóia	interface	generalUI	skillGuide
 Tall fancy hedge	Cerca viva formosa alta	interface	generalUI	skillGuide
 Roses	Rosas	interface	generalUI	skillGuide
 Bluebells	Campânula	interface	generalUI	skillGuide
-Volcanic pet habitat		interface	generalUI	skillGuide
-Gnome bench		interface	generalUI	skillGuide
+Volcanic pet habitat	Ambiente vulcânico	interface	generalUI	skillGuide
+Gnome bench	Banco gnomo	interface	generalUI	skillGuide
 Marble wall	Muro de mármore	interface	generalUI	skillGuide
 Obelisk	Obelisco	interface	generalUI	skillGuide
-Rejuvenation pool		interface	generalUI	skillGuide
+Rejuvenation pool	Poço de rejuvenescimento	interface	generalUI	skillGuide
 Tall box hedge	Cerca viva alta quadrada	interface	generalUI	skillGuide
 Posh fountain	Fonte luxuosa	interface	generalUI	skillGuide
-Obsidian fence		interface	generalUI	skillGuide
+Obsidian fence	Cerca de obsidiana	interface	generalUI	skillGuide
 Fairy ring	Anel das fadas	interface	generalUI	skillGuide
-Fancy rejuvenation pool		interface	generalUI	skillGuide
-Volcanic theme		interface	generalUI	skillGuide
-Marble garden bench (decoration only)		interface	generalUI	skillGuide
-Ornate rejuvenation pool		interface	generalUI	skillGuide
-Spirit tree & fairy ring		interface	generalUI	skillGuide
-Obsidian garden bench (decoration only)		interface	generalUI	skillGuide
-Dungeon - Members Only		interface	generalUI	skillGuide
-Throne room floor decoration		interface	generalUI	skillGuide
+Fancy rejuvenation pool	Poço de rejuvenescimento sofisticada	interface	generalUI	skillGuide
+Volcanic theme	Tema vulcânico	interface	generalUI	skillGuide
+Marble garden bench (decoration only)	Banco de mármore (decoração)	interface	generalUI	skillGuide
+Ornate rejuvenation pool	Poço de rejuvenescimento ornamentada	interface	generalUI	skillGuide
+Spirit tree & fairy ring	Árvore espiritual e anel das fadas	interface	generalUI	skillGuide
+Obsidian garden bench (decoration only)	Banco de obsidiana (decoração)	interface	generalUI	skillGuide
+Dungeon - Members Only	Calabouço - Para Membros	interface	generalUI	skillGuide
+Throne room floor decoration	Decoração do piso	interface	generalUI	skillGuide
 Oak cage	Gaiola de carvalho	interface	generalUI	skillGuide
-Oubliette spikes		interface	generalUI	skillGuide
+Oubliette spikes	Espinhos	interface	generalUI	skillGuide
 Steel cage	Gaiola de aço	interface	generalUI	skillGuide
 Oak and steel cage	Gaiola de carvalho e aço	interface	generalUI	skillGuide
 Skeleton guard	Guarda esqueleto	interface	generalUI	skillGuide
 Tentacle pool	Piscina de tentáculos	interface	generalUI	skillGuide
 Spike trap	Armadilha de pontas	interface	generalUI	skillGuide
-Large trapdoor		interface	generalUI	skillGuide
-Oak dungeon door		interface	generalUI	skillGuide
+Large trapdoor	Alçapão	interface	generalUI	skillGuide
+Oak dungeon door	Porta de carvalho	interface	generalUI	skillGuide
 Guard dog	Cão de guarda	interface	generalUI	skillGuide
-Wooden dungeon treasure crate		interface	generalUI	skillGuide
+Wooden dungeon treasure crate	Engradado de madeira	interface	generalUI	skillGuide
 Demon	Demônio	interface	generalUI	skillGuide
 Man trap	Armadilha humana	interface	generalUI	skillGuide
-Oubliette flame pit		interface	generalUI	skillGuide
+Oubliette flame pit	Fosso de chamas	interface	generalUI	skillGuide
 Hobgoblin guard	Guarda duende	interface	generalUI	skillGuide
-Oak dungeon treasure chest		interface	generalUI	skillGuide
+Oak dungeon treasure chest	Arca de carvalho	interface	generalUI	skillGuide
 Spiked cage	Gaiola de espinhos	interface	generalUI	skillGuide
 Tangle vine	Vinha emaranhada	interface	generalUI	skillGuide
 Kalphite soldier	Soldado Kalphita	interface	generalUI	skillGuide
 Lesser magic cage	Gaiola mágica menor	interface	generalUI	skillGuide
 Baby red dragon	Filhote de dragão vermelho	interface	generalUI	skillGuide
-Teak dungeon treasure chest		interface	generalUI	skillGuide
+Teak dungeon treasure chest	Arca de teca	interface	generalUI	skillGuide
 Rocnar	Rocnar	interface	generalUI	skillGuide
 Steel-plated oak door	Porta de carvalho reforçada com aço	interface	generalUI	skillGuide
 Marble trap	Armadilha de mármore	interface	generalUI	skillGuide
 Tok-Xil	Tok-Xil	interface	generalUI	skillGuide
 Bone cage	Gaiola de ossos	interface	generalUI	skillGuide
 Huge spider	Aranha enorme	interface	generalUI	skillGuide
-Mahogany dungeon treasure chest		interface	generalUI	skillGuide
+Mahogany dungeon treasure chest	Arca de mogno	interface	generalUI	skillGuide
 Teleport trap	Armadilha de teleporte	interface	generalUI	skillGuide
 Greater magic cage	Gaiola mágica maior	interface	generalUI	skillGuide
 Troll guard	Guarda troll	interface	generalUI	skillGuide
 Dagannoth	Dagannoth	interface	generalUI	skillGuide
-Magic dungeon treasure chest		interface	generalUI	skillGuide
-Marble dungeon door		interface	generalUI	skillGuide
+Magic dungeon treasure chest	Arca mágica	interface	generalUI	skillGuide
+Marble dungeon door	Porta de mármore	interface	generalUI	skillGuide
 Hellhound	Cão infernal	interface	generalUI	skillGuide
 Steel dragon	Dragão de aço	interface	generalUI	skillGuide
-Rune dragon (after Dragon Slayer II)		interface	generalUI	skillGuide
-Chapel - Members Only		interface	generalUI	skillGuide
+Rune dragon (after Dragon Slayer II)	Dragão de runita (após Dragon Slayer II)	interface	generalUI	skillGuide
+Chapel - Members Only	Capela - Para Membros	interface	generalUI	skillGuide
 Oak altar	Altar de carvalho	interface	generalUI	skillGuide
-Steel torches (chapel)		interface	generalUI	skillGuide
-Icon of Gnome Child		interface	generalUI	skillGuide
+Steel torches (chapel)	Tochas de aço	interface	generalUI	skillGuide
+Icon of Gnome Child	Ícone da criança gnomo	interface	generalUI	skillGuide
 Symbol of Saradomin	Símbolo de Saradomin	interface	generalUI	skillGuide
 Symbol of Guthix	Símbolo de Guthix	interface	generalUI	skillGuide
 Symbol of Zamorak	Símbolo de Zamorak	interface	generalUI	skillGuide
-Wooden torches (chapel)		interface	generalUI	skillGuide
-Chapel windchimes		interface	generalUI	skillGuide
+Wooden torches (chapel)	Tochas de madeira	interface	generalUI	skillGuide
+Chapel windchimes	Sinos de vento	interface	generalUI	skillGuide
 Small chapel statue	Estatueta de capela pequena	interface	generalUI	skillGuide
-Shuttered chapel window		interface	generalUI	skillGuide
+Shuttered chapel window	Janela com venezianas	interface	generalUI	skillGuide
 Teak altar	Altar de teca	interface	generalUI	skillGuide
 Steel candlesticks	Castiçais de aço	interface	generalUI	skillGuide
 Cloth-covered teak altar	Altar de teca coberto em tecido	interface	generalUI	skillGuide
@@ -4328,77 +4328,77 @@ Chapel bells	Sinos de capela	interface	generalUI	skillGuide
 Icon of Saradomin	Ícone de Saradomin	interface	generalUI	skillGuide
 Icon of Guthix	Ícone de Guthix	interface	generalUI	skillGuide
 Icon of Zamorak	Ícone de Zamorak	interface	generalUI	skillGuide
-Cloth-covered mahogany altar		interface	generalUI	skillGuide
-Oak incense burners		interface	generalUI	skillGuide
+Cloth-covered mahogany altar	Altar de mogno	interface	generalUI	skillGuide
+Oak incense burners	Incensário	interface	generalUI	skillGuide
 Limestone altar	Altar de calcário	interface	generalUI	skillGuide
-Mahogany incense burners		interface	generalUI	skillGuide
-Medium chapel statue		interface	generalUI	skillGuide
-Chapel organ		interface	generalUI	skillGuide
-Decorative chapel window		interface	generalUI	skillGuide
-Marble incense burner		interface	generalUI	skillGuide
+Mahogany incense burners	Incensário de mogno	interface	generalUI	skillGuide
+Medium chapel statue	Estátuas médias	interface	generalUI	skillGuide
+Chapel organ	Órgão	interface	generalUI	skillGuide
+Decorative chapel window	Janela decorativa	interface	generalUI	skillGuide
+Marble incense burner	Incensário de mármore	interface	generalUI	skillGuide
 Marble altar	Altar de mármore	interface	generalUI	skillGuide
-Icon of Bob the Cat		interface	generalUI	skillGuide
-Gilded marble altar		interface	generalUI	skillGuide
-Large chapel statue		interface	generalUI	skillGuide
-Stained-glass chapel window		interface	generalUI	skillGuide
-Small storage unit		interface	generalUI	skillGuide
-Medium storage unit		interface	generalUI	skillGuide
-Large storage unit		interface	generalUI	skillGuide
-Massive storage unit		interface	generalUI	skillGuide
-Mahogany Homes (beginner)		interface	generalUI	skillGuide
+Icon of Bob the Cat	Ícone de Bob	interface	generalUI	skillGuide
+Gilded marble altar	Altar dourado	interface	generalUI	skillGuide
+Large chapel statue	Estátuas grandes	interface	generalUI	skillGuide
+Stained-glass chapel window	Vitral	interface	generalUI	skillGuide
+Small storage unit	Baú de armazenagem pequeno	interface	generalUI	skillGuide
+Medium storage unit	Baú de armazenagem médio	interface	generalUI	skillGuide
+Large storage unit	Baú de armazenagem grande	interface	generalUI	skillGuide
+Massive storage unit	Baú de armazenagem massiva	interface	generalUI	skillGuide
+Mahogany Homes (beginner)	Mahogany Homes (inciante)	interface	generalUI	skillGuide
 Cat blanket	Cobertor de gato	interface	generalUI	skillGuide
-STASH units (beginner)		interface	generalUI	skillGuide
+STASH units (beginner)	Esconderijos (iniciante)	interface	generalUI	skillGuide
 Cat basket	Cesto de gato	interface	generalUI	skillGuide
-Mahogany Homes (novice)		interface	generalUI	skillGuide
-Rope bell pull		interface	generalUI	skillGuide
+Mahogany Homes (novice)	Mahogany Homes (noviço)	interface	generalUI	skillGuide
+Rope bell pull	Sino de corda	interface	generalUI	skillGuide
 Oak staircase	Escada de carvalho	interface	generalUI	skillGuide
-STASH units (easy)		interface	generalUI	skillGuide
-Repair Piscarilius fishing cranes (with <Num0> Crafting)		interface	generalUI	skillGuide
-Cushioned cat basket		interface	generalUI	skillGuide
-Fire of Eternal Light (with <Num0> Firemaking)		interface	generalUI	skillGuide
-Fire of Nourishment (with <Num0> Firemaking)		interface	generalUI	skillGuide
-Teak bell pull		interface	generalUI	skillGuide
+STASH units (easy)	Esconderijos (fácil)	interface	generalUI	skillGuide
+Repair Piscarilius fishing cranes (with <Num0> Crafting)	Consertar guindastes de pesca de Piscarilius (com <Num0> Artesanato)	interface	generalUI	skillGuide
+Cushioned cat basket	Cesto acolchoado	interface	generalUI	skillGuide
+Fire of Eternal Light (with <Num0> Firemaking)	Fogo da luz eterna (com <Num0> Arte do Fogo)	interface	generalUI	skillGuide
+Fire of Nourishment (with <Num0> Firemaking)	Fogo da nutrição (com <Num0> Arte do Fogo)	interface	generalUI	skillGuide
+Teak bell pull	Sino	interface	generalUI	skillGuide
 Oak pet feeder	Comedouro de carvalho	interface	generalUI	skillGuide
-Pet list (for one-off pets)		interface	generalUI	skillGuide
-Oak pet scratching post		interface	generalUI	skillGuide
+Pet list (for one-off pets)	Lista de animais de estimação	interface	generalUI	skillGuide
+Oak pet scratching post	Poste para arranhar de carvalho	interface	generalUI	skillGuide
 Crystal ball	Bola de cristal	interface	generalUI	skillGuide
-STASH units (medium)		interface	generalUI	skillGuide
+STASH units (medium)	Esconderijos (médio)	interface	generalUI	skillGuide
 Teak staircase	Escada de teca	interface	generalUI	skillGuide
 Teak pet feeder	Comedouro de teca	interface	generalUI	skillGuide
-Teak pet scratching post		interface	generalUI	skillGuide
-Teak portal frame		interface	generalUI	skillGuide
+Teak pet scratching post	Poste para arranhar de teca	interface	generalUI	skillGuide
+Teak portal frame	Portal de teca	interface	generalUI	skillGuide
 Teleport focus	Foco de teleporte	interface	generalUI	skillGuide
-Fire of Dehumidification (with <Num0> Firemaking)		interface	generalUI	skillGuide
-Mahogany Homes (adept)		interface	generalUI	skillGuide
+Fire of Dehumidification (with <Num0> Firemaking)	Fogo da desumidificação (com <Num0> Arte do Fogo)	interface	generalUI	skillGuide
+Mahogany Homes (adept)	Mahogany Homes (adepto)	interface	generalUI	skillGuide
 Elemental sphere	Esfera elemental	interface	generalUI	skillGuide
-STASH units (hard)		interface	generalUI	skillGuide
-Hallowed Sepulchre - Repair bridge		interface	generalUI	skillGuide
+STASH units (hard)	Esconderijos (difícil)	interface	generalUI	skillGuide
+Hallowed Sepulchre - Repair bridge	Sepulcro Sagrado - Consertar ponte	interface	generalUI	skillGuide
 Mahogany pet feeder	Comedouro de mogno	interface	generalUI	skillGuide
-Mahogany pet scratching post		interface	generalUI	skillGuide
-Gilded teak bell pull		interface	generalUI	skillGuide
-Fire of Unseasonal Warmth (with <Num0> Firemaking)		interface	generalUI	skillGuide
+Mahogany pet scratching post	Poste para arranhar de mogno	interface	generalUI	skillGuide
+Gilded teak bell pull	Sino luxuoso	interface	generalUI	skillGuide
+Fire of Unseasonal Warmth (with <Num0> Firemaking)	Fogo do calor anômalo (com <Num0> Arte do Fogo)	interface	generalUI	skillGuide
 Greater teleport focus	Foco maior de teleporte	interface	generalUI	skillGuide
-Mahogany portal frame		interface	generalUI	skillGuide
+Mahogany portal frame	Portal de mogno	interface	generalUI	skillGuide
 Crystal of power	Cristal do poder	interface	generalUI	skillGuide
-Limestone spiral staircase		interface	generalUI	skillGuide
-Oak oubliette ladder		interface	generalUI	skillGuide
+Limestone spiral staircase	Escada em caracol	interface	generalUI	skillGuide
+Oak oubliette ladder	Escada de carvalho	interface	generalUI	skillGuide
 Oak lever	Alavanca de carvalho	interface	generalUI	skillGuide
-Mahogany Homes (expert)		interface	generalUI	skillGuide
-Marble portal nexus		interface	generalUI	skillGuide
-STASH units (elite)		interface	generalUI	skillGuide
-Teak oubliette ladder		interface	generalUI	skillGuide
+Mahogany Homes (expert)	Mahogany Homes (experiente)	interface	generalUI	skillGuide
+Marble portal nexus	Nexo portal de mármore	interface	generalUI	skillGuide
+STASH units (elite)	Esconderijos (elite)	interface	generalUI	skillGuide
+Teak oubliette ladder	Escada de teca	interface	generalUI	skillGuide
 Teak lever	Alavanca de teca	interface	generalUI	skillGuide
-Marble portal frame		interface	generalUI	skillGuide
+Marble portal frame	Portal de mármore	interface	generalUI	skillGuide
 Scrying pool	Piscina divina	interface	generalUI	skillGuide
 Marble staircase	Escada de mármore	interface	generalUI	skillGuide
-Gilded portal nexus		interface	generalUI	skillGuide
-Mahogany oubliette ladder		interface	generalUI	skillGuide
+Gilded portal nexus	Nexo portal dourado	interface	generalUI	skillGuide
+Mahogany oubliette ladder	Escada de mogno	interface	generalUI	skillGuide
 Mahogany lever	Alavanca de mogno	interface	generalUI	skillGuide
-STASH units (master)		interface	generalUI	skillGuide
-Crystalline portal nexus		interface	generalUI	skillGuide
+STASH units (master)	Esconderijos (mestre)	interface	generalUI	skillGuide
+Crystalline portal nexus	Nexo portal cristalino	interface	generalUI	skillGuide
 Marble spiral	Espiral de mármore	interface	generalUI	skillGuide
-Servants - Members Only		interface	generalUI	skillGuide
-Servants can be hired at the Ardougne Domestic Service Agency.		interface	generalUI	skillGuide
+Servants - Members Only	Mordomos - Para Membros	interface	generalUI	skillGuide
+Servants can be hired at the Ardougne Domestic Service Agency.	Mordomos podem ser contratados na Agência de Serviços Domésticos de Ardougne.	interface	generalUI	skillGuide
 Rick	Rick	interface	generalUI	skillGuide
 Maid	Empregada	interface	generalUI	skillGuide
 Cook	Cozinheiro	interface	generalUI	skillGuide
@@ -4406,14 +4406,14 @@ Butler	Mordomo	interface	generalUI	skillGuide
 Demon butler	Mordomo demônio	interface	generalUI	skillGuide
 House Size - Members Only	Tamanho da Casa - Somente Membros	interface	generalUI	skillGuide
 Maximum rooms: <Num0>	Salas máximas: <Num0>	interface	generalUI	skillGuide
-Maximum dimensions: <Num0>x<Num1>		interface	generalUI	skillGuide
+Maximum dimensions: <Num0>x<Num1>	Dimensões máximas: <Num0>x<Num1>	interface	generalUI	skillGuide
 Hunter	Caça	interface	generalUI	skillGuide
 Tracking - Members Only	Rastreamento - Somente Membros	interface	generalUI	skillGuide
 Polar kebbits (snow)	Kebbits polares (bioma: neve)	interface	generalUI	skillGuide
 Common kebbits (woodland)	Kebbits comuns (bioma: bosque)	interface	generalUI	skillGuide
 Feldip weasels (jungle)	Doninhas de Feldip (bioma: selva)	interface	generalUI	skillGuide
 Desert devils (desert)	Diabos do Deserto (bioma: deserto)	interface	generalUI	skillGuide
-Razor-backed kebbits (woodland)		interface	generalUI	skillGuide
+Razor-backed kebbits (woodland)	Kebbit costa-de-lâminas (bosque)	interface	generalUI	skillGuide
 Herbiboar (with <Num0> Herblore)	Herbiboar (com <Num0> Herbologia)	interface	generalUI	skillGuide
 Tracking	Rastreamento	interface	generalUI	skillGuide
 Birds	Pássaros	interface	generalUI	skillGuide
@@ -4433,123 +4433,123 @@ Copper longtails (woodland)	Anu cobre (bosque)	interface	generalUI	skillGuide
 Cerulean twitches (snow)	Ceruleano celeste (neve)	interface	generalUI	skillGuide
 Tropical wagtails (jungle)	Alvéola tropical (selva)	interface	generalUI	skillGuide
 Butterfly Net - Members Only	Rede de borboleta - Somente Membros	interface	generalUI	skillGuide
-Ruby harvest butterflies (woodland)		interface	generalUI	skillGuide
-Barehanded: Ruby harvest butterflies (woodland)		interface	generalUI	skillGuide
-Sapphire glacialis butterflies (snow)		interface	generalUI	skillGuide
-Barehanded: Sapphire glacialis butterflies (snow)		interface	generalUI	skillGuide
-Snowy knight butterflies (snow)		interface	generalUI	skillGuide
-Barehanded: Snowy knight butterflies (snow)		interface	generalUI	skillGuide
-Black warlock butterflies (jungle)		interface	generalUI	skillGuide
-Barehanded: Black warlock butterflies (jungle)		interface	generalUI	skillGuide
-Sunlight moths (savannah)		interface	generalUI	skillGuide
-Barehanded: Sunlight moths (savannah)		interface	generalUI	skillGuide
-Moonlight moths (caverns)		interface	generalUI	skillGuide
-Barehanded: Moonlight moths (caverns)		interface	generalUI	skillGuide
-Implings - Members Only		interface	generalUI	skillGuide
-Baby implings		interface	generalUI	skillGuide
-Young implings		interface	generalUI	skillGuide
-Barehanded: Baby implings		interface	generalUI	skillGuide
-Gourmet implings		interface	generalUI	skillGuide
-Barehanded: Young implings		interface	generalUI	skillGuide
-Earth implings		interface	generalUI	skillGuide
-Barehanded: Gourmet implings		interface	generalUI	skillGuide
-Essence implings		interface	generalUI	skillGuide
-Barehanded: Earth implings		interface	generalUI	skillGuide
-Eclectic implings		interface	generalUI	skillGuide
-Barehanded: Essence implings		interface	generalUI	skillGuide
-Nature implings		interface	generalUI	skillGuide
-Barehanded: Eclectic implings		interface	generalUI	skillGuide
-Magpie implings		interface	generalUI	skillGuide
-Barehanded: Nature implings		interface	generalUI	skillGuide
-Ninja implings		interface	generalUI	skillGuide
-Barehanded: Magpie implings		interface	generalUI	skillGuide
-Crystal implings		interface	generalUI	skillGuide
-Dragon implings		interface	generalUI	skillGuide
-Barehanded: Ninja implings		interface	generalUI	skillGuide
-Lucky implings		interface	generalUI	skillGuide
-Barehanded: Crystal implings		interface	generalUI	skillGuide
-Barehanded: Dragon implings		interface	generalUI	skillGuide
-Barehanded: Lucky implings		interface	generalUI	skillGuide
-Deadfall - Members Only		interface	generalUI	skillGuide
-Wild kebbits (woodland) Preferred bait: Raw meat		interface	generalUI	skillGuide
-Barb-tailed kebbits (jungle) Preferred bait: Raw rainbow fish		interface	generalUI	skillGuide
-Prickly kebbits (northern woodland) Preferred bait: Barley		interface	generalUI	skillGuide
-Sabre-toothed kebbits (snow) Preferred bait: Raw meat		interface	generalUI	skillGuide
-Pyre foxes (savannah) Preferred bait: Embertailed jerboa tail		interface	generalUI	skillGuide
-Maniacal monkeys (Ape Atoll) Preferred bait: Banana		interface	generalUI	skillGuide
-Box Trap - Members Only		interface	generalUI	skillGuide
-Ferrets (woodland)		interface	generalUI	skillGuide
-Embertailed jerboa (savannah)		interface	generalUI	skillGuide
-Chinchompas (woodland) Preferred bait: Spicy chopped tomatoes		interface	generalUI	skillGuide
-Red chinchompas (jungle) Preferred bait: Spicy minced meat		interface	generalUI	skillGuide
-Black chinchompas (woodland) Preferred bait: Spicy minced meat		interface	generalUI	skillGuide
-Net Trap - Members Only		interface	generalUI	skillGuide
-Swamp lizards (swamp) Preferred bait: Guam tar		interface	generalUI	skillGuide
-Orange salamanders (desert) Preferred bait: Marrentill tar		interface	generalUI	skillGuide
-Red salamanders (lava) Preferred bait: Tarromin tar		interface	generalUI	skillGuide
-Black salamanders (lava) Preferred bait: Harralander tar		interface	generalUI	skillGuide
-Tecu salamanders (mountain) Preferred bait: Irit tar		interface	generalUI	skillGuide
-Pitfalls - Members Only		interface	generalUI	skillGuide
-Spined larupias (jungle)		interface	generalUI	skillGuide
-Horned graahks (Karamja)		interface	generalUI	skillGuide
-Sabre-toothed kyatts (snow)		interface	generalUI	skillGuide
-Sunlight antelope (savannah)		interface	generalUI	skillGuide
-Moonlight antelope (caverns)		interface	generalUI	skillGuide
-Bluegill (With <Num0> fishing)		interface	generalUI	skillGuide
-Spotted kebbits (woodland)		interface	generalUI	skillGuide
-Common tench (With <Num0> fishing)		interface	generalUI	skillGuide
-Dark kebbits (woodland)		interface	generalUI	skillGuide
-Mottled eel (With <Num0> fishing)		interface	generalUI	skillGuide
-Dashing kebbits (woodland)		interface	generalUI	skillGuide
-Greater siren (With <Num0> fishing)		interface	generalUI	skillGuide
-Traps - Members Only		interface	generalUI	skillGuide
-Lay <Num0> trap at a time		interface	generalUI	skillGuide
-Set a bird trap		interface	generalUI	skillGuide
-Use a noose wand in tracking		interface	generalUI	skillGuide
-Net butterflies		interface	generalUI	skillGuide
-Lay up to <Num0> traps at a time		interface	generalUI	skillGuide
-Set a deadfall trap (limit of <Num0>)		interface	generalUI	skillGuide
-Set a box trap (After Eagles' Peak quest)		interface	generalUI	skillGuide
-Set a rabbit snare		interface	generalUI	skillGuide
-Set a net trap		interface	generalUI	skillGuide
-Set a pitfall trap		interface	generalUI	skillGuide
-Use smoke to mask the scent on a trap		interface	generalUI	skillGuide
-Hunt with a falcon		interface	generalUI	skillGuide
-Set an imp trap		interface	generalUI	skillGuide
-Clothing - Members Only		interface	generalUI	skillGuide
-Polar kebbit fur clothing (snow)		interface	generalUI	skillGuide
-Common kebbit fur clothing (woodland)		interface	generalUI	skillGuide
-Feldip weasel fur clothing (jungle)		interface	generalUI	skillGuide
-Desert devil fur clothing (desert)		interface	generalUI	skillGuide
-Lucky rabbit's foot		interface	generalUI	skillGuide
-Larupia fur clothing		interface	generalUI	skillGuide
-Graahk hide clothing		interface	generalUI	skillGuide
-Spotted capes		interface	generalUI	skillGuide
-Kyatt fur clothing		interface	generalUI	skillGuide
+Ruby harvest butterflies (woodland)	Borboleta safra rubi (bosque)	interface	generalUI	skillGuide
+Barehanded: Ruby harvest butterflies (woodland)	Com as mãos: Borboleta safra rubi (bosque)	interface	generalUI	skillGuide
+Sapphire glacialis butterflies (snow)	Safira glacialis (neve)	interface	generalUI	skillGuide
+Barehanded: Sapphire glacialis butterflies (snow)	Com as mãos: Safira glacialis (neve)	interface	generalUI	skillGuide
+Snowy knight butterflies (snow)	Cavaleiro da neve (neve)	interface	generalUI	skillGuide
+Barehanded: Snowy knight butterflies (snow)	Com as mãos: Cavaleiro da neve (neve)	interface	generalUI	skillGuide
+Black warlock butterflies (jungle)	Mago sombrio (selva)	interface	generalUI	skillGuide
+Barehanded: Black warlock butterflies (jungle)	Com as mãos: Mago sombrio (selva)	interface	generalUI	skillGuide
+Sunlight moths (savannah)	Mariposa Solar (savana)	interface	generalUI	skillGuide
+Barehanded: Sunlight moths (savannah)	Com as mãos: Mariposa Solar (savana)	interface	generalUI	skillGuide
+Moonlight moths (caverns)	Mariposa do Luar (cavernas)	interface	generalUI	skillGuide
+Barehanded: Moonlight moths (caverns)	Com as mãos: Mariposa do Luar (cavernas)	interface	generalUI	skillGuide
+Implings - Members Only	Pestinhas - Para Membros	interface	generalUI	skillGuide
+Baby implings	Pestinha bebê	interface	generalUI	skillGuide
+Young implings	Pestinha jovem	interface	generalUI	skillGuide
+Barehanded: Baby implings	Com as mãos: Pestinha bebê	interface	generalUI	skillGuide
+Gourmet implings	Pestinha gourmet	interface	generalUI	skillGuide
+Barehanded: Young implings	Com as mãos: Pestinha jovem	interface	generalUI	skillGuide
+Earth implings	Pestinha da terra	interface	generalUI	skillGuide
+Barehanded: Gourmet implings	Com as mãos: Pestinha gourmet	interface	generalUI	skillGuide
+Essence implings	Pestinha da essência	interface	generalUI	skillGuide
+Barehanded: Earth implings	Com as mãos: Pestinha da terra	interface	generalUI	skillGuide
+Eclectic implings	Pestinha eclético	interface	generalUI	skillGuide
+Barehanded: Essence implings	Com as mãos: Pestinha da essência	interface	generalUI	skillGuide
+Nature implings	Pestinha da natureza	interface	generalUI	skillGuide
+Barehanded: Eclectic implings	Com as mãos: Pestinha eclético	interface	generalUI	skillGuide
+Magpie implings	Pestinha rabilongo	interface	generalUI	skillGuide
+Barehanded: Nature implings	Com as mãos: Pestinha da natureza	interface	generalUI	skillGuide
+Ninja implings	Pestinha ninja	interface	generalUI	skillGuide
+Barehanded: Magpie implings	Com as mãos: Pestinha rabilongo	interface	generalUI	skillGuide
+Crystal implings	Pestinha de cristal	interface	generalUI	skillGuide
+Dragon implings	Pestinha dragão	interface	generalUI	skillGuide
+Barehanded: Ninja implings	Com as mãos: Pestinha ninja	interface	generalUI	skillGuide
+Lucky implings	Pestinha da sorte	interface	generalUI	skillGuide
+Barehanded: Crystal implings	Com as mãos: Pestinha de cristal	interface	generalUI	skillGuide
+Barehanded: Dragon implings	Com as mãos: Pestinha dragão	interface	generalUI	skillGuide
+Barehanded: Lucky implings	Com as mãos: Pestinha da sorte	interface	generalUI	skillGuide
+Deadfall - Members Only	Armadilha mortal - Para Membros	interface	generalUI	skillGuide
+Wild kebbits (woodland) Preferred bait: Raw meat	Kebbit selvagem (bosque) Isca favorita: Carne crua	interface	generalUI	skillGuide
+Barb-tailed kebbits (jungle) Preferred bait: Raw rainbow fish	Kebbit cauda farpada (selva) Isca favorita: Peixe arco-íris cru	interface	generalUI	skillGuide
+Prickly kebbits (northern woodland) Preferred bait: Barley	Kebbit espinhento (bosque norte) Isca favorita: Cevada	interface	generalUI	skillGuide
+Sabre-toothed kebbits (snow) Preferred bait: Raw meat	Kebbit dente de sabre (neve) Isca favorita: Carne crua	interface	generalUI	skillGuide
+Pyre foxes (savannah) Preferred bait: Embertailed jerboa tail	Piroraposa (savana) Isca favorita: Cauda de jerboa	interface	generalUI	skillGuide
+Maniacal monkeys (Ape Atoll) Preferred bait: Banana	Macaco maníaco (Ape Atoll) Isca favorita: Banana	interface	generalUI	skillGuide
+Box Trap - Members Only	Armadilha de caixa - Para Membros	interface	generalUI	skillGuide
+Ferrets (woodland)	Furão (bosque)	interface	generalUI	skillGuide
+Embertailed jerboa (savannah)	Jerboa-da-cauda-flamejante (savana)	interface	generalUI	skillGuide
+Chinchompas (woodland) Preferred bait: Spicy chopped tomatoes	Chinchompa (bosque) Isca favorita: Tomate apimentado	interface	generalUI	skillGuide
+Red chinchompas (jungle) Preferred bait: Spicy minced meat	Chinchompa vermelha (selva) Isca favorita: Picado de carne picante	interface	generalUI	skillGuide
+Black chinchompas (woodland) Preferred bait: Spicy minced meat	Chinchompa negra (bosque) Isca favorita: Picado de carne picante	interface	generalUI	skillGuide
+Net Trap - Members Only	Armadilha de rede - Para Membros	interface	generalUI	skillGuide
+Swamp lizards (swamp) Preferred bait: Guam tar	Lagarto do pântano (pântano) Isca favorita: Piche de guam	interface	generalUI	skillGuide
+Orange salamanders (desert) Preferred bait: Marrentill tar	Salamandra alaranjada (deserto) Isca favorita: Piche de marrentil	interface	generalUI	skillGuide
+Red salamanders (lava) Preferred bait: Tarromin tar	Salamandra vermelha (lava) Isca favorita: Piche de tarromin	interface	generalUI	skillGuide
+Black salamanders (lava) Preferred bait: Harralander tar	Salamandra negra (lava) Isca favorita: Piche de harralander	interface	generalUI	skillGuide
+Tecu salamanders (mountain) Preferred bait: Irit tar	Salamandra tecu (montanha) Isca favorita: Piche de irita	interface	generalUI	skillGuide
+Pitfalls - Members Only	Armadilha de fosso - Para Membros	interface	generalUI	skillGuide
+Spined larupias (jungle)	Larúpia espinhosa (selva)	interface	generalUI	skillGuide
+Horned graahks (Karamja)	Graahk com chifres (Karamja)	interface	generalUI	skillGuide
+Sabre-toothed kyatts (snow)	Kyatt com dentes de sabre (neve)	interface	generalUI	skillGuide
+Sunlight antelope (savannah)	Antílope solar (savana)	interface	generalUI	skillGuide
+Moonlight antelope (caverns)	Antílope do luar (cavernas)	interface	generalUI	skillGuide
+Bluegill (With <Num0> fishing)	Peixe-sol (com <Num0> Pesca)	interface	generalUI	skillGuide
+Spotted kebbits (woodland)	Kebbit pintada (bosque)	interface	generalUI	skillGuide
+Common tench (With <Num0> fishing)	Tenca comum (com <Num0> Pesca)	interface	generalUI	skillGuide
+Dark kebbits (woodland)	Kebbit escuro (bosque)	interface	generalUI	skillGuide
+Mottled eel (With <Num0> fishing)	Enguia malhada (com <Num0> Pesca)	interface	generalUI	skillGuide
+Dashing kebbits (woodland)	Kebbit furtivo (bosque)	interface	generalUI	skillGuide
+Greater siren (With <Num0> fishing)	Sereia maior (com <Num0> Pesca)	interface	generalUI	skillGuide
+Traps - Members Only	Armadilhas - Para Membros	interface	generalUI	skillGuide
+Lay <Num0> trap at a time	Colocar <Num0> armadilha de uma vez	interface	generalUI	skillGuide
+Set a bird trap	Colocar uma armadilha para pássaros	interface	generalUI	skillGuide
+Use a noose wand in tracking	Usar uma varinha de laço para rastreamento	interface	generalUI	skillGuide
+Net butterflies	Rede	interface	generalUI	skillGuide
+Lay up to <Num0> traps at a time	Colocar até <Num0> armadilhas de uma vez	interface	generalUI	skillGuide
+Set a deadfall trap (limit of <Num0>)	Preparar armadilha mortal (limite de <Num0>)	interface	generalUI	skillGuide
+Set a box trap (After Eagles' Peak quest)	Colocar uma armadilha de caixa (após Eagles' Peak)	interface	generalUI	skillGuide
+Set a rabbit snare	Colocar uma arapuca	interface	generalUI	skillGuide
+Set a net trap	Colocar uma armadilha rede	interface	generalUI	skillGuide
+Set a pitfall trap	Preparar uma armadilha de fosso	interface	generalUI	skillGuide
+Use smoke to mask the scent on a trap	Usar fumaça para mascarar o cheiro	interface	generalUI	skillGuide
+Hunt with a falcon	Caçar com falcão	interface	generalUI	skillGuide
+Set an imp trap	Colocar uma armadilha para diabinho	interface	generalUI	skillGuide
+Clothing - Members Only	Roupas - Para Membros	interface	generalUI	skillGuide
+Polar kebbit fur clothing (snow)	Roupa de Pele de kebbit polar (neve)	interface	generalUI	skillGuide
+Common kebbit fur clothing (woodland)	Roupa de Pele de kebbit comum (bosque)	interface	generalUI	skillGuide
+Feldip weasel fur clothing (jungle)	Roupa dePele de doninha feldip (selva)	interface	generalUI	skillGuide
+Desert devil fur clothing (desert)	Roupa de Pele diabo do desertoo (deserto)	interface	generalUI	skillGuide
+Lucky rabbit's foot	Pé de coelho com cordão	interface	generalUI	skillGuide
+Larupia fur clothing	Roupa de Pele de larúpia	interface	generalUI	skillGuide
+Graahk hide clothing	Roupa de Pele de graahk	interface	generalUI	skillGuide
+Spotted capes	Capa de pintas	interface	generalUI	skillGuide
+Kyatt fur clothing	Roupa de Pele de kyatt	interface	generalUI	skillGuide
 Gloves of silence	Luvas de gatunagem	interface	generalUI	skillGuide
-Spottier capes		interface	generalUI	skillGuide
-Barehanded bat-catching		interface	generalUI	skillGuide
-Birdhouses - Members Only		interface	generalUI	skillGuide
-Normal Birdhouse Trap		interface	generalUI	skillGuide
-Oak Birdhouse Trap		interface	generalUI	skillGuide
-Willow Birdhouse Trap		interface	generalUI	skillGuide
-Teak Birdhouse Trap		interface	generalUI	skillGuide
-Maple Birdhouse Trap		interface	generalUI	skillGuide
-Mahogany Birdhouse Trap		interface	generalUI	skillGuide
-Yew Birdhouse Trap		interface	generalUI	skillGuide
-Magic Birdhouse Trap		interface	generalUI	skillGuide
-Redwood Birdhouse Trap		interface	generalUI	skillGuide
-Dig for sandworms (Piscarillius Beach)		interface	generalUI	skillGuide
-Mossy Lizards traps (Neypotzli)		interface	generalUI	skillGuide
-Giant eagles(various)		interface	generalUI	skillGuide
-White rabbits (woodland) Use a ferret to flush the rabbit out of its hole		interface	generalUI	skillGuide
-Accessing drift net fishing on Fossil Island (with <Num0> Fishing)		interface	generalUI	skillGuide
-Access to the Hunter Guild & Basic Hunters' Rumours		interface	generalUI	skillGuide
-Equip the Sunlight hunters' crossbow (with <Num0> Ranged)		interface	generalUI	skillGuide
-Adept Hunters' Rumours		interface	generalUI	skillGuide
-Imps (worldwide) Preferred bait: Magical beads		interface	generalUI	skillGuide
-Expert Hunters' Rumours		interface	generalUI	skillGuide
-Master Hunters' Rumours		interface	generalUI	skillGuide
+Spottier capes	Capa com mais pintas	interface	generalUI	skillGuide
+Barehanded bat-catching	Caçar morcego com as mãos	interface	generalUI	skillGuide
+Birdhouses - Members Only	Casinhas de pássaros - Para Membros	interface	generalUI	skillGuide
+Normal Birdhouse Trap	Casinha de pássaro comum	interface	generalUI	skillGuide
+Oak Birdhouse Trap	Casinha de pássaro de carvalho	interface	generalUI	skillGuide
+Willow Birdhouse Trap	Casinha de pássaro de salgueiro	interface	generalUI	skillGuide
+Teak Birdhouse Trap	Casinha de pássaro de teca	interface	generalUI	skillGuide
+Maple Birdhouse Trap	Casinha de pássaro de bordo	interface	generalUI	skillGuide
+Mahogany Birdhouse Trap	Casinha de pássaro de mogno	interface	generalUI	skillGuide
+Yew Birdhouse Trap	Casinha de pássaro de teixo	interface	generalUI	skillGuide
+Magic Birdhouse Trap	Casinha de pássaro mágica	interface	generalUI	skillGuide
+Redwood Birdhouse Trap	Casinha de pássaro de sequóia	interface	generalUI	skillGuide
+Dig for sandworms (Piscarillius Beach)	Cavar por vermes de areia (Praia de Piscarillius)	interface	generalUI	skillGuide
+Mossy Lizards traps (Neypotzli)	Armadilha para Lagarto musgoso (Neypotzli)	interface	generalUI	skillGuide
+Giant eagles(various)	Águias gigantes (várias)	interface	generalUI	skillGuide
+White rabbits (woodland) Use a ferret to flush the rabbit out of its hole	Coelho branco (bosque) Use um furão para espantar o coelho do buraco	interface	generalUI	skillGuide
+Accessing drift net fishing on Fossil Island (with <Num0> Fishing)	Acesso à pesca com rede na Ilha Fóssil (com <Num0> Pesca)	interface	generalUI	skillGuide
+Access to the Hunter Guild & Basic Hunters' Rumours	Acesso à Guilda de Caça e rumores básicos	interface	generalUI	skillGuide
+Equip the Sunlight hunters' crossbow (with <Num0> Ranged)	Equipar o Balestra dos caçadores do sol (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Adept Hunters' Rumours	Rumores de caça adeptos	interface	generalUI	skillGuide
+Imps (worldwide) Preferred bait: Magical beads	Diabinho (em todo canto) Isca favorita: esferas mágicas	interface	generalUI	skillGuide
+Expert Hunters' Rumours	Rumores de caça experientes	interface	generalUI	skillGuide
+Master Hunters' Rumours	Rumores de caça mestres	interface	generalUI	skillGuide
 Your Attack level is used to determine how likely you are to hit your target in melee combat. A higher Attack level will give you a better chance to hit.	O nível de Ataque define suas<br>chances de atingir o oponente.<br>Níveis mais altos aumentam a<br>precisão dos golpes.	interface	generalUI	skillGuide
 Additionally, a higher Attack level will allow you to wield more powerful weapons. A weapon with a higher Attack bonus will give you more accuracy in combat.	Um nível mais alto de Ataque<br>permite equipar armas mais<br>poderosas. Quanto maior o bônus de<br>Ataque da arma, maior será sua<br>precisão em combate.	interface	generalUI	skillGuide
 You can select your Attack style from the Combat Options side panel. Different enemies are weaker or stronger against different Attack styles, so choose carefully.	Você pode escolher seu estilo de<br>Ataque no menu Opções de Combate<br>(duas espadas cruzadas). Inimigos<br>diferentes são resistentes ou<br>vulneráveis a certos estilos de<br>ataque, então escolha com cuidado.	interface	generalUI	skillGuide
@@ -4694,12 +4694,12 @@ Latest Update	Último update	interface	mainTabs	accountManagementTab
 View Newspost	Ver notícias	interface	mainTabs	accountManagementTab
 View Archive	Ver arquivo	interface	mainTabs	accountManagementTab
 Useful Links	Links úteis	interface	mainTabs	accountManagementTab
-Old School Website	Site do Old School	interface	mainTabs	accountManagementTab
-Customer Support	Atendimento ao Cliente	interface	mainTabs	accountManagementTab
-Grand Exchange	Mercado Geral	interface	mainTabs	accountManagementTab
-Hiscores	Hiscores	interface	mainTabs	accountManagementTab
-Old School Wiki	Wiki do Old School	interface	mainTabs	accountManagementTab
-Merchandise	Nossos Produtos	interface	mainTabs	accountManagementTab
+Old School Website	Site do<br>Old School	interface	mainTabs	accountManagementTab
+Customer Support	Suporte ao<br>Jogador	interface	mainTabs	accountManagementTab
+Grand Exchange	Mercado<br>Geral	interface	mainTabs	accountManagementTab
+Hiscores	Classificações	interface	mainTabs	accountManagementTab
+Old School Wiki	Old School<br>Wiki	interface	mainTabs	accountManagementTab
+Merchandise	Nossos<br>produtos	interface	mainTabs	accountManagementTab
 Name: <!PLAYER_NAME0>	Nome: <!PLAYER_NAME0>	interface	mainTabs	accountManagementTab
 Current Poll: <colNum0>Active</col>	Enquete atual: <colNum0>Ativa</col>	interface	mainTabs	accountManagementTab
 Vote Now	Vote Agora	interface	mainTabs	accountManagementTab
@@ -5164,7 +5164,7 @@ W<Num0>	M<Num0>	interface	mainTabs	groupTab
 Vacancy		interface	mainTabs	groupTab
 <colNum0>Settings</col>	<colNum0>Config.</col>	interface	mainTabs	groupTab
 <colNum0><colNum1>Connecting...</col></col>	<colNum0><colNum1>Conectando...</col></col>	interface	mainTabs	groupTab
-<colNum0>Join</col>	Entrar	interface	mainTabs	groupTab
+<colNum0>Join</col>	<colNum0>Entrar</col>	interface	mainTabs	groupTab
 Setup	Config.	interface	mainTabs	groupTab
 <colNum0>Leave</col>	<colNum0>Sair</col>	interface	mainTabs	groupTab
 <colNum0>Chat-channel</col>	<colNum0>Canal de chat</col>	interface	mainTabs	groupTab
@@ -5183,10 +5183,10 @@ PvP Arena	Arena PvP	interface	mainTabs	groupTab
 You have currently loaded <colNum0><!PLAYER_NAME0></col>, which is not a PvP Arena group.	Você carregou <colNum0><!PLAYER_NAME0></col>, que não é um grupo da Arena PvP.	interface	mainTabs	groupTab
 Options	Opções	interface	mainTabs	groupTab
 Grouping	Agrupamento	interface	mainTabs	groupTab
-Select an activity...	Selecione atividade...	interface	mainTabs	groupTab
+Select an activity...	Escolha a atividade	interface	mainTabs	groupTab
 You are not currently in a grouping chat-channel.	Você não está atualmente em um canal de bate-papo de agrupamento.	interface	mainTabs	groupTab
 Suggested world:	Mundo sugerido:	interface	mainTabs	groupTab
-Teleport		interface	mainTabs	groupTab
+Teleport	Teleport	interface	mainTabs	groupTab
 Barbarian Assault		interface	mainTabs	groupTab
 Blast Furnace		interface	mainTabs	groupTab
 Burthorpe Games Room		interface	mainTabs	groupTab
