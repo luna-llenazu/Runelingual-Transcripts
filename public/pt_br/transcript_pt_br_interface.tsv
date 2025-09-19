@@ -1531,7 +1531,7 @@ Black	Negra	interface	generalUI	skillGuide
 Members: White	Membros: Branca	interface	generalUI	skillGuide
 Mithril	Mithril	interface	generalUI	skillGuide
 Adamant	Adamantio	interface	generalUI	skillGuide
-Members: Battlestaves (with <Num0> Magic)	Membros: Bastões (com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Battlestaves (with <Num0> Magic)	Membros: Bastões (com <Num0> Magia)<br> 	interface	generalUI	skillGuide
 Rune	Rúnico	interface	generalUI	skillGuide
 Barronite mace (requires Below Ice Mountain)	Maça de Barronita<br>(exige Below Ice Mountain)	interface	generalUI	skillGuide
 Members: Brine sabre	Membros: Sabre aquático	interface	generalUI	skillGuide
@@ -1594,7 +1594,7 @@ Members: Noxious Halberd	Membros: Alabarda nociva	interface	generalUI	skillGuide
 Members: Scythe of Vitur (with <Num0> Strength)	Membros: Foice de Vitur<br>(com <Num0> Força)	interface	generalUI	skillGuide
 Members: Soulreaper axe (with <Num0> Strength)	Membros: Machado do ceifador de<br>almas (com <Num0> Força)	interface	generalUI	skillGuide
 Members: Variants of Keris partisan (requires Beneath Cursed Sands)	Membros: Variantes da Partasana<br>de keris<br>(requer Beneath Cursed Sands)	interface	generalUI	skillGuide
-Members: Osmumten's Fang	Membros: Presa de Osmumten	interface	generalUI	skillGuide
+Members: Osmumten's Fang	 <br>Membros: Presa de Osmumten	interface	generalUI	skillGuide
 Armour	Armadura	interface	generalUI	skillGuide
 Salamanders	Salamandras	interface	generalUI	skillGuide
 Armour - Members Only	Armadura - Para Membros	interface	generalUI	skillGuide
