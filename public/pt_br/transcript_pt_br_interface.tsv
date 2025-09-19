@@ -1533,65 +1533,67 @@ Mithril	Mithril	interface	generalUI	skillGuide
 Adamant	Adamantio	interface	generalUI	skillGuide
 Members: Battlestaves (with <Num0> Magic)	Membros: Bastões (com <Num0> Magia)	interface	generalUI	skillGuide
 Rune	Rúnico	interface	generalUI	skillGuide
-Barronite mace (requires Below Ice Mountain)	Maça de Barronita (exige Below Ice Mountain)	interface	generalUI	skillGuide
+Barronite mace (requires Below Ice Mountain)	Maça de Barronita<br>(exige Below Ice Mountain)	interface	generalUI	skillGuide
 Members: Brine sabre	Membros: Sabre aquático	interface	generalUI	skillGuide
-Members: Ivandis Flail (requires A Taste of Hope)	Membros: Mangual de Ivandis (exige A Taste of Hope)	interface	generalUI	skillGuide
-Members: Mystic staves (with <Num0> Magic)	Membros: Cajados místicos (com <Num0> Magia)	interface	generalUI	skillGuide
-Members: Void Knight equipment (with <Num0> combat stats and <Num1> Prayer)	Membros: Equipamento dos Cavaleiros do Vácuo (com <Num0> níveis de cbt. e <Num1> Oração)	interface	generalUI	skillGuide
-Members: Granite maul (with <Num0> Strength)	Membros: Malho de Granito (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Granite longsword (with <Num0> Strength)	Membros: Espada longa de Granito (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Blisterwood (requires Sins of the Father)	Membros: Inflamadeira (exige Sins of the Father)	interface	generalUI	skillGuide
-Members: Keris dagger (requires Contact!)	Membros: Adaga de Keris (exige Contact!)	interface	generalUI	skillGuide
-Members: Ancient staff (requires Desert Treasure I and <Num0> Magic)	Membros: Cajado Antigo (requer Desert Treasure I e <Num0> Magia)	interface	generalUI	skillGuide
-Members: Ancient sceptre (requires Secrets of the North, <Num0> Strength and <Num1> Magic)	Membros: Cetro antigo (requer Secrets of the North, <Num0> Força e <Num1> Magia)	interface	generalUI	skillGuide
-Members: Purging staves (with <Num0> Magic)	Membros: Báculo Purificador (com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Ivandis Flail (requires A Taste of Hope)	Membros: Mangual de Ivandis<br>(exige A Taste of Hope)	interface	generalUI	skillGuide
+Members: Mystic staves (with <Num0> Magic)	Membros: Cajados místicos<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Void Knight equipment (with <Num0> combat stats and <Num1> Prayer)	Membros: Cavaleiros do Vácuo<br>(com <Num0> Combate e <Num1> Oração)	interface	generalUI	skillGuide
+Members: Granite maul (with <Num0> Strength)	Membros: Malho de Granito<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Granite longsword (with <Num0> Strength)	Membros: Espada longa de Granito<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Blisterwood (requires Sins of the Father)	Membros: Inflamadeira<br>(exige Sins of the Father)	interface	generalUI	skillGuide
+Members: Keris dagger (requires Contact!)	Membros: Adaga de Keris<br>(exige Contact!)	interface	generalUI	skillGuide
+Members: Ancient staff (requires Desert Treasure I and <Num0> Magic)	Membros: Cajado Antigo<br>(requer Desert Treasure I e <Num0> Magia)	interface	generalUI	skillGuide
+Members: Ancient sceptre (requires Secrets of the North, <Num0> Strength and <Num1> Magic)	Membros: Cetro antigo<br>(requer Secrets of the North,<br><Num0> Força e <Num1> Magia)	interface	generalUI	skillGuide
+Members: Purging staves (with <Num0> Magic)	Membros: Báculo Purificador<br>(com <Num0> Magia)	interface	generalUI	skillGuide
 Members: Bone mace	Membros: Maça de osso	interface	generalUI	skillGuide
 Members: Sulphur blades	Membros: Lâminas de enxofre	interface	generalUI	skillGuide
 Members: Glacial temotli	Membros: Temotli glacial	interface	generalUI	skillGuide
+Members: Earthbound tecpatl	Membros: Tecpatl Terrestre	interface	generalUI	skillGuide
 Members: Dragon	Membros: Dragônico	interface	generalUI	skillGuide
+Members: Arkan blade (requires The Final Dawn)	Membros: Lâmina Arkan<br>(requer The Final Dawn)	interface	generalUI	skillGuide
 Members: Burning claws	Membros: Garras em chamas	interface	generalUI	skillGuide
-Members: Barrelchest Anchor (with <Num0> Strength)	Membros: Âncora do Barrilgudo (com <Num0> Força)	interface	generalUI	skillGuide
+Members: Barrelchest Anchor (with <Num0> Strength)	Membros: Âncora do Barrilgudo<br>(com <Num0> Força)	interface	generalUI	skillGuide
 Members: Obsidian weapons	Membros: Armas de obsidiana	interface	generalUI	skillGuide
-Members: Viggora's Chainmace	Membros: Maza de corrente de Viggora	interface	generalUI	skillGuide
+Members: Viggora's Chainmace	Membros: Maza de corrente de<br>Viggora	interface	generalUI	skillGuide
 Members: Colossal Blade	Membros: Espada colossal	interface	generalUI	skillGuide
 Members: <Num0>rd age weapons	Membros: Armas da 3a Era	interface	generalUI	skillGuide
 Members: Sarachnis cudgel	Membros: Porrete Sarachnis	interface	generalUI	skillGuide
 Members: Zombie axe	Membros: Machado de zumbi	interface	generalUI	skillGuide
-Members: Keris partisan (requires Beneath Cursed Sands)	Membros: Partasana de keris (requer Beneath Cursed Sands)	interface	generalUI	skillGuide
-Members: Crystal weaponry (with <Num0> Agility)	Membros: Armas de cristal (com <Num0> Agilidade)	interface	generalUI	skillGuide
+Members: Keris partisan (requires Beneath Cursed Sands)	Membros: Partasana de keris<br>(requer Beneath Cursed Sands)	interface	generalUI	skillGuide
+Members: Crystal weaponry (with <Num0> Agility)	Membros: Armas de cristal<br>(com <Num0> Agilidade)	interface	generalUI	skillGuide
 Members: Saradomin sword	Membros: Espada de Saradomin	interface	generalUI	skillGuide
 Members: Zamorakian spear	Membros: Lança de Zamorak	interface	generalUI	skillGuide
 Members: Abyssal whip & dagger	Membros: Adaga e Chicote abissal	interface	generalUI	skillGuide
-Members: Abyssal bludgeon (with <Num0> Strength)	Membros: Maço abissal (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Ahrim's staff (with <Num0> Magic)	Membros: Cajado de Ahrim (com <Num0> Magia)	interface	generalUI	skillGuide
-Members: Dharok's greataxe (with <Num0> Strength)	Membros: Machado de Dharok (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Torag's hammers (with <Num0> Strength)	Membros: Martelo de Torag (com <Num0> Força)	interface	generalUI	skillGuide
+Members: Abyssal bludgeon (with <Num0> Strength)	Membros: Maço abissal<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Ahrim's staff (with <Num0> Magic)	Membros: Cajado de Ahrim<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Dharok's greataxe (with <Num0> Strength)	Membros: Machado de Dharok<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Torag's hammers (with <Num0> Strength)	Membros: Martelo de Torag<br>(com <Num0> Força)	interface	generalUI	skillGuide
 Members: Verac's flail	Membros: Mangual de Verac	interface	generalUI	skillGuide
 Members: Guthan's warspear	Membros: Lança de Guthan	interface	generalUI	skillGuide
 Members: Ursine Chainmace	Membros: Maça ursina	interface	generalUI	skillGuide
-Members: Avernic defender (with <Num0> Defence)	Membros: Sabre averniano (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Dual Macuahuitl (with <Num0> Strength)	Membros: Macuahuitl duplo (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Blue moon spear (with <Num0> Magic)	Membros: Lança da lua azul (com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Avernic defender (with <Num0> Defence)	Membros: Sabre averniano<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Dual Macuahuitl (with <Num0> Strength)	Membros: Macuahuitl duplo<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Blue moon spear (with <Num0> Magic)	Membros: Lança da lua azul<br>(com <Num0> Magia)	interface	generalUI	skillGuide
 Members: Arclight	Membros: Clarão ancestral	interface	generalUI	skillGuide
-Members: Godswords	Membros: Espadas divinas dos Deuses	interface	generalUI	skillGuide
-Members: Staff of the Dead (with <Num0> Magic)	Membros: Cajado dos mortos (com <Num0> Magia)	interface	generalUI	skillGuide
-Members: Staff of Light (with <Num0> Magic)	Membros: Cajado da luz (com <Num0> Magia)	interface	generalUI	skillGuide
-Members: Staff of Balance (with <Num0> Magic)	Membros: Cajado do equilíbrio (com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Godswords	Membros: Espadas divinas dos<br>Deuses	interface	generalUI	skillGuide
+Members: Staff of the Dead (with <Num0> Magic)	Membros: Cajado dos mortos<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Staff of Light (with <Num0> Magic)	Membros: Cajado da luz<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Staff of Balance (with <Num0> Magic)	Membros: Cajado do equilíbrio<br>(com <Num0> Magia)	interface	generalUI	skillGuide
 Members: Abyssal tentacle	Membros: Tentáculo abissal	interface	generalUI	skillGuide
-Members: Blessed Saradomin sword	Membros: Espada de Saradomin Abençoada	interface	generalUI	skillGuide
-Members: Elder maul (with <Num0> Strength)	Membros: Malho Ancião (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Dinh's bulwark (with <Num0> Defence)	Membros: Baluarte de Dinh (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Vesta's blighted longsword	Membros: Espada longa de Vesta corrompida	interface	generalUI	skillGuide
+Members: Blessed Saradomin sword	Membros: Espada de Saradomin<br>Abençoada	interface	generalUI	skillGuide
+Members: Elder maul (with <Num0> Strength)	Membros: Malho Ancião<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Dinh's bulwark (with <Num0> Defence)	Membros: Baluarte de Dinh<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Vesta's blighted longsword	Membros: Espada longa de Vesta<br>corrompida	interface	generalUI	skillGuide
 Members: Voidwaker	Membros: Arauto do Vazio	interface	generalUI	skillGuide
 Members: Emberlight	Membros: Clarão Ígneo	interface	generalUI	skillGuide
-Members: Dragon hunter lance	Membros: Lança do caçador de dragões	interface	generalUI	skillGuide
+Members: Dragon hunter lance	Membros: Lança do caçador de<br>dragões	interface	generalUI	skillGuide
 Members: Ghrazi rapier	Membros: Espadim Ghrazi	interface	generalUI	skillGuide
 Members: Inquisitor's mace	Membros: Maça do inquisidor	interface	generalUI	skillGuide
 Members: Blade of Saeldor	Membros: Lâmina de Saeldor	interface	generalUI	skillGuide
 Members: Noxious Halberd	Membros: Alabarda nociva	interface	generalUI	skillGuide
-Members: Scythe of Vitur (with <Num0> Strength)	Membros: Foice de Vitur (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Soulreaper axe (with <Num0> Strength)	Membros: Machado do ceifador de almas (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Variants of Keris partisan (requires Beneath Cursed Sands)	Membros: Variantes da Partasana de keris (requer Beneath Cursed Sands)	interface	generalUI	skillGuide
+Members: Scythe of Vitur (with <Num0> Strength)	Membros: Foice de Vitur<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Soulreaper axe (with <Num0> Strength)	Membros: Machado do ceifador de<br>almas (com <Num0> Força)	interface	generalUI	skillGuide
+Members: Variants of Keris partisan (requires Beneath Cursed Sands)	Membros: Variantes da Partasana<br>de keris<br>(requer Beneath Cursed Sands)	interface	generalUI	skillGuide
 Members: Osmumten's Fang	Membros: Presa de Osmumten	interface	generalUI	skillGuide
 Armour	Armadura	interface	generalUI	skillGuide
 Salamanders	Salamandras	interface	generalUI	skillGuide
@@ -3678,7 +3680,7 @@ Members: Death runes	Membros: Runa da morte	interface	generalUI	skillGuide
 Members: Blood runes	Membros: Runa do sangue	interface	generalUI	skillGuide
 Members: Soul runes	Membros: Runa da alma	interface	generalUI	skillGuide
 Members: Wrath runes	Membros: Runa da Ira	interface	generalUI	skillGuide
-Multiple Runes	Runas múltiplas	interface	generalUI	skillGuide
+Multiple Runes	Múltiplas	interface	generalUI	skillGuide
 Rune Pouches	Alforges rúnicos	interface	generalUI	skillGuide
 Infusing	Infusão	interface	generalUI	skillGuide
 As your Runecrafting skill develops, you will be able to craft multiple runes from one piece of essence. You only receive experience for each piece of essence crafted, not each rune crafted.	À medida que seu nível em Criação de Runas aumenta, você poderá produzir várias runas de uma mesma essência. A experiência recebida é baseada na essência usada, não na quantidade de runas criadas.	interface	generalUI	skillGuide
@@ -3767,7 +3769,7 @@ Araxytes	Araxita	interface	generalUI	skillGuide
 Smoke devil	Diabo de fumaça	interface	generalUI	skillGuide
 Hydras	Hidras	interface	generalUI	skillGuide
 Monsters	Monstros	interface	generalUI	skillGuide
-Slayer Masters	Mestres de Extermínio	interface	generalUI	skillGuide
+Slayer Masters	Mestres	interface	generalUI	skillGuide
 Spiny helmet (with <Num0> Defence)	Elmo de espinhos (com <Num0> Defesa)	interface	generalUI	skillGuide
 Rock hammer & Rock Thrownhammer	Martelo de pedra & Martelo arremessável de pedra	interface	generalUI	skillGuide
 Reinforced Goggles	Óculos de proteção reforçados	interface	generalUI	skillGuide
