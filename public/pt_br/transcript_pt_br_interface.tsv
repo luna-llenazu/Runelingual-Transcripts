@@ -1596,7 +1596,7 @@ Members: Osmumten's Fang	Membros: Presa de Osmumten	interface	generalUI	skillGui
 Armour	Armadura	interface	generalUI	skillGuide
 Salamanders	Salamandras	interface	generalUI	skillGuide
 Armour - Members Only	Armadura - Para Membros	interface	generalUI	skillGuide
-Void Knight equipment (with <Num0> combat stats and <Num1> Prayer)	Equipamento do Vácuo (com <Num0> stats de combate e Num1> Oração)	interface	generalUI	skillGuide
+Void Knight equipment (with <Num0> combat stats and <Num1> Prayer)	Equipamento do Vácuo (com <Num0> stats de combate e ´<Num1> Oração)	interface	generalUI	skillGuide
 Members: Ferocious Gloves (with <Num0> Defence)	Membros: Luvas ferozes (com <Num0> Defesa)	interface	generalUI	skillGuide
 Salamanders - Members Only	Salamandras - Para Membros	interface	generalUI	skillGuide
 Swamp lizard (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Lagarto do pântano (com <Num0> Ataque, <Num1> Cbt. à Distância & <Num2> Magia)	interface	generalUI	skillGuide
@@ -1606,9 +1606,9 @@ Black salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra n
 Tecu salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra tecu (com <Num0> Ataque, <Num1> Cbt. à Distância & <Num2> Magia)	interface	generalUI	skillGuide
 Hitpoints	Pontos de Vida	interface	generalUI	skillGuide
 Hitpoints are used to tell you how healthy your character is. A character who reaches <Num0> Hitpoints has died, but will reappear in their chosen respawn location (normally Lumbridge).	Os pontos de vida indicam a saúde do<br>personagem. Ao chegar a <Num0>, ele<br>morre e reaparece no local de<br>respawn escolhido (geralmente<br>Lumbridge).	interface	generalUI	skillGuide
-If you see any red 'hit splats' during combat, the number shown corresponds to the number of Hitpoints lost as a result of that strike.	Hitsplats vermelhos mostram a quantidade de pontos de<br> vida perdidos no golpe.	interface	generalUI	skillGuide
-Blue hit splats mean no damage has been dealt.	Hitsplats azuis significam que<br>nenhum dano foi causado.	interface	generalUI	skillGuide
-Green hit splats are poison damage.	Hitsplats verdes são danos por veneno.	interface	generalUI	skillGuide
+If you see any red 'hit splats' during combat, the number shown corresponds to the number of Hitpoints lost as a result of that strike.	Hitsplats vermelhos mostram a quantidade de<br>pontos de vida perdidos no golpe.	interface	generalUI	skillGuide
+Blue hit splats mean no damage has been dealt.	Hitsplats azuis significam que nenhum<br>dano foi causado.	interface	generalUI	skillGuide
+Green hit splats are poison damage.	Hitsplats verdes são danos por veneno.<br>	interface	generalUI	skillGuide
 Teal hit splats are venom damage. (Members)	Hitsplats azul-petróleo são danos por<br>peçonha. (Membros)	interface	generalUI	skillGuide
 Orange hit splats are disease damage. (Members)	Hitsplats laranja são danos por doença.<br>(Membros)	interface	generalUI	skillGuide
 Dark purple hit splats are corruption damage. (Members)	Hitsplats roxos escuros são danos por<br>corrupção. (Membros)	interface	generalUI	skillGuide
@@ -1724,7 +1724,7 @@ Members: Ancient essence (after Secrets of the North)	Membros: Essência antiga 
 Runite ore	Minério de runita	interface	generalUI	skillGuide
 Members: Amethyst	Membros: Ametista	interface	generalUI	skillGuide
 Areas	Áreas	interface	generalUI	skillGuide
-Shooting Stars	Estrelas Cadentes	interface	generalUI	skillGuide
+Shooting Stars	Estrelas	interface	generalUI	skillGuide
 Bronze pickaxe	Picareta de bronze	interface	generalUI	skillGuide
 Iron pickaxe	Picareta de ferro	interface	generalUI	skillGuide
 Steel pickaxe	Picareta de aço	interface	generalUI	skillGuide
@@ -1830,7 +1830,7 @@ Pollnivneach Rooftop Course	Percurso no telhado de Pollnivneach	interface	genera
 Prifddinas Agility Course	Percurso de agilidade de Prifddinas	interface	generalUI	skillGuide
 Rellekka Rooftop Course	Percurso no telhado de Rellekka	interface	generalUI	skillGuide
 Ardougne Rooftop Course	Percurso no telhado de Ardougne	interface	generalUI	skillGuide
-Courses	Percursos - Para Membros	interface	generalUI	skillGuide
+Courses	Percursos	interface	generalUI	skillGuide
 Other	Outros	interface	generalUI	skillGuide
 Rope-swing to Moss Giant Island	Balanço de corda para a Ilha do Gigante Musgo	interface	generalUI	skillGuide
 Stepping stones in Karamja Dungeon	Pedras em Karamja Dungeon	interface	generalUI	skillGuide
@@ -2331,7 +2331,7 @@ Divine super combat potion Crystal dust & super combat potion	Poção divina de 
 Extended super antifires Super antifire potion & lava scale shards (after Dragon Slayer II)	Super antifogo estendida Super antifogo (4) & Fragmento de lava (após Dragon Slayer II)	interface	generalUI	skillGuide
 Potions	Poções	interface	generalUI	skillGuide
 Herbs	Ervas	interface	generalUI	skillGuide
-Barbarian Potions	Pocões bárbaras	interface	generalUI	skillGuide
+Barbarian Potions	Bárbaras	interface	generalUI	skillGuide
 Raids	Raids	interface	generalUI	skillGuide
 Herbs - Members Only	Ervas - Para Membros	interface	generalUI	skillGuide
 You must complete the Druidic Ritual quest before you can use Herblore	Complete a missão Druidic Ritual antes de usar Herbologia	interface	generalUI	skillGuide
@@ -2492,7 +2492,7 @@ Members: Accessing drift net fishing on Fossil Island (with <Num0> hunter)	Membr
 Members: Karambwan - Karambwan vessel	Membros: Karambwan - Vasilha de karambwan	interface	generalUI	skillGuide
 Members: Sea turtle - Trawler & Tempoross	Membros - Tartaruga do mar - Arrasto e Tempoross	interface	generalUI	skillGuide
 Members: Manta ray - Trawler & Tempoross	Membros: Arraia jamanta - Arrasto e Tempoross	interface	generalUI	skillGuide
-Ranged	Combate à Distância	interface	generalUI	skillGuide
+Ranged	Cbt à Dist.	interface	generalUI	skillGuide
 Bows	Arcos	interface	generalUI	skillGuide
 Standard bows Ammo: Arrows up to iron	Arcos comuns Munição: Flechas até ferro	interface	generalUI	skillGuide
 Oak bows Ammo: Arrows up to steel	Arcos de carvalho Munição: Flechas até ferro	interface	generalUI	skillGuide
@@ -2751,7 +2751,7 @@ Stews	Ensopados	interface	generalUI	skillGuide
 Pizzas	Pizzas	interface	generalUI	skillGuide
 Cakes	Bolos	interface	generalUI	skillGuide
 Wine	Vinho	interface	generalUI	skillGuide
-Hot Drinks	Bebidas quentes	interface	generalUI	skillGuide
+Hot Drinks	Infusões	interface	generalUI	skillGuide
 Brewing	Fermentação	interface	generalUI	skillGuide
 Vegetable	Vegetais	interface	generalUI	skillGuide
 Dairy	Laticínios	interface	generalUI	skillGuide
@@ -2897,7 +2897,7 @@ Cavefish	Peixe das cavernas	interface	generalUI	skillGuide
 Tetra	Tetra	interface	generalUI	skillGuide
 Members: Catfish	Membros: Bagre	interface	generalUI	skillGuide
 Prayer	Oração	interface	generalUI	skillGuide
-Standard Prayers	Orações padrões	interface	generalUI	skillGuide
+Standard Prayers	Padrões	interface	generalUI	skillGuide
 While any of your prayers are active, your prayer points will drain. Once you have run out of prayer points, you will no longer be able to use prayers. Visit an altar to recharge your prayer points.	Enquanto uma oração estiver ativa, seus pontos de oração serão consumidos. Ao zerar, você não poderá usá-las até recarregar em um altar.	interface	generalUI	skillGuide
 Thick Skin	Pele Grossa	interface	generalUI	skillGuide
 Burst of Strength	Vigor	interface	generalUI	skillGuide
@@ -3228,7 +3228,7 @@ Fire of Nourishment (with <Num0> Construction)	Fogo da nutrição (com <Num0> Co
 Fire of Dehumidification (with <Num0> Construction)	Fogo da desumidificação (com <Num0> Construção)	interface	generalUI	skillGuide
 Fire of Unseasonal Warmth (with <Num0> Construction)	Fogo do calor anômalo (com <Num0> Construção)	interface	generalUI	skillGuide
 Magic	Magia	interface	generalUI	skillGuide
-Normal Spells	Feitiços comuns	interface	generalUI	skillGuide
+Normal Spells	Padrão	interface	generalUI	skillGuide
 Click a spell icon below to see the required runes to cast each spell.  By opening the spellbook icon on the side interface, you can see what each spell does by moving your mouse over its icon.	Clique em um feitiço abaixo para ver as runas necessárias. No livro de feitiços da interface lateral, passe o mouse sobre o ícone para ver sua descrição.	interface	generalUI	skillGuide
 Home teleport (Lumbridge)	Telerretorno à Lumbridge	interface	generalUI	skillGuide
 Wind Strike	Aerobala	interface	generalUI	skillGuide
@@ -3294,9 +3294,9 @@ Teleport to Target	Teleporte ao Alvo	interface	generalUI	skillGuide
 Earth Surge	Terrímpeto	interface	generalUI	skillGuide
 Teleother Camelot	Alterporte para Camelot	interface	generalUI	skillGuide
 Fire Surge	Piroímpeto	interface	generalUI	skillGuide
-Ancient Magicks	Magias Antigas	interface	generalUI	skillGuide
-Lunar Spells	Feitiços Lunares	interface	generalUI	skillGuide
-Arceuus Spells	Feitiços de Arceuus	interface	generalUI	skillGuide
+Ancient Magicks	Antigo	interface	generalUI	skillGuide
+Lunar Spells	Lunar	interface	generalUI	skillGuide
+Arceuus Spells	Arceuus	interface	generalUI	skillGuide
 Bolts	Setas	interface	generalUI	skillGuide
 Ancient Magicks - Members Only	Magias Antigas - Para Membros	interface	generalUI	skillGuide
 Ancient magicks are available after completing the Desert Treasure I quest.	Magias antigas estão disponíveis após completar a missão Desert Treasure I.	interface	generalUI	skillGuide
@@ -3597,7 +3597,7 @@ Magic shield	Escudo mágico	interface	generalUI	skillGuide
 Redwood shield	Escudo de Sequoia	interface	generalUI	skillGuide
 Battlestaves	Bastão	interface	generalUI	skillGuide
 Hunter's spears	Lança de caçador	interface	generalUI	skillGuide
-Woodcutting	Woodcutting	interface	generalUI	skillGuide
+Woodcutting	Corte de Lenha	interface	generalUI	skillGuide
 Trees	Árvores	interface	generalUI	skillGuide
 Normal trees	Árvores comuns	interface	generalUI	skillGuide
 Members: Achey trees	Membros: Árvore dolorosa	interface	generalUI	skillGuide
@@ -4597,7 +4597,8 @@ To make pottery, you'll need to obtain some soft clay, obtained by adding water 
 To make jewellery, you'll need to first get a crafting mould. You can then take that mould and some gold or silver bars to a furnace to craft your jewellery. At higher crafting levels, you can cut gems and mould them simultaneously to create jewellery which you can enchant!	Para fazer joias, obtenha um molde<br>de artesanato e combine-o com<br>barras de ouro ou prata em uma<br>fornalha. Em níveis mais altos, você<br>pode lapidar gemas e moldá-las ao<br>mesmo tempo para criar joias que<br>podem ser encantadas!	interface	generalUI	skillGuide
 Firemaking is a skill that allows you to make fires. To do so, simply use a tinderbox on a set of logs and you'll attempt to light them on fire.	Arte do Fogo é a habilidade de<br>acender fogueiras. Use uma caixa<br>de fogo sobre lenhas e tente<br>acendê-las para treinar.	interface	generalUI	skillGuide
 Higher Firemaking levels will allow you to burn logs that grant more experience, as well as allowing you to burn them quicker.	Níveis mais altos de Arte do Fogo<br>permitem queimar toras que dão<br>mais experiência e queimá-las mais<br>rapidamente.	interface	generalUI	skillGuide
-Magic grants you access to a wide variety of spells. To cast each spell, you will need a specific set of runes. You can see the runes required by inspecting the spell in either the side panel, or in their tab in this skill guide.	Magia concede acesso a diversos<br>feitiços, cada um exigindo um<br>conjunto específico de runas. Você<br>pode conferir as runas necessárias<br>no painel lateral ou em sua aba neste<br>guia de habilidade.	interface	generalUI	skillGuide
+Magic grants you access to a wide variety of spells. To cast each spell, you will need a specific set of runes. You can see the runes required by inspecting the spell in either the spellbook side-panel, or in their tab in this guide.	Magia concede acesso a diversos<br>feitiços, cada um exigindo um<br>conjunto específico de runas. Você<br>pode conferir as runas necessárias<br>no painel lateral ou em sua aba neste<br>guia de habilidade.	interface	generalUI	skillGuide
+Click the spells in this guide to see the required runes to cast each spell.  By opening the spellbook icon on the spellbook side-panel, you can see what each spell does by moving your mouse over its icon.	Clique nos feitiços neste guia para<br>ver as runas necessárias para<br>lançar cada feitiço.<br>Ao abrir o ícone do livro de feitiços<br>no painel lateral, você pode ver o<br>que cada feitiço faz passando o<br>mouse sobre seu ícone.	interface	generalUI	skillGuide
 You can use certain pieces of equipment to replace runes in order to cast spells. For instance, an equipped staff of air counts as an infinite supply of air runes.	Alguns equipamentos podem<br>substituir runas ao lançar feitiços.<br>Por exemplo, um cajado do ar<br>equipado fornece runas do ar<br>infinitas.	interface	generalUI	skillGuide
 Staves can also be used to auto-cast certain offensive spells in combat; to enable this, equip your staff, go to the Combat Options side panel, and select one of the 'Spell' options.	Cajados também podem lançar<br>automaticamente certos feitiços<br>ofensivos. Para ativar, equipe o<br>cajado e selecione um feitiço no<br>painel lateral Opções de Combate	interface	generalUI	skillGuide
 Fletching - Members Only	Arco e Flecha - Para Membros	interface	generalUI	skillGuide
@@ -4608,7 +4609,7 @@ To make bolts, you only need to combine unfinished bolts with feathers. You can 
 Woodcutting allows you to chop down trees to obtain logs. Most trees in the game can be chopped down with an axe.	Corte de Lenha permite derrubar<br>árvores para obter lenha, cuja<br>maioria pode ser cortada com um<br>machado.	interface	generalUI	skillGuide
 Increasing your Woodcutting level will give you a higher chance of successfully chopping a tree. You'll also gain access to more trees to cut down.	Níveis mais altos de Corte de Lenha<br>aumentam suas chances de cortar<br>árvores com sucesso e dão acesso a<br>mais tipos de árvores.	interface	generalUI	skillGuide
 In addition to this, higher Woodcutting levels grant access to more powerful axes, which also increase the chance of chopping trees. Note that you can still use an axe in your inventory if you have the Woodcutting level for it, even if you don't have the Attack level to equip it.	Níveis mais altos de Corte de Lenha<br>permitem usar machados mais<br>poderosos, aumentando a chance de<br>sucesso. Mesmo sem o nível de<br>Ataque, você pode usar um machado<br>do inventário se tiver o nível de<br>Corte de Lenha necessário.	interface	generalUI	skillGuide
-Runecrafting is the skill that allows you to convert essences into runes, which you can use to cast spells.	Criação de Runas permite converter<br>essências em runas, que podem ser<br>usadas para lançar feitiços.	interface	generalUI	skillGuide
+Runecraft is the skill that allows you to convert essences into runes, which you can use to cast spells.	Criação de Runas permite converter<br>essências em runas, que podem ser<br>usadas para lançar feitiços.	interface	generalUI	skillGuide
 To create runes, you'll first need some essence and a talisman of the rune you want to make. You can use the talisman to both locate and access the runic altar, which is where the runes are crafted.	Para criar runas, você precisa de<br>essência e do talismã da runa que<br>deseja. Use o talismã para localizar<br>e acessar o altar rúnico, onde as<br>runas são produzidas.	interface	generalUI	skillGuide
 Higher Runecrafting levels will allow you to craft more kinds of runes. At higher levels, you'll also be able to make multiple runes per essence.	Níveis mais altos de Criação de<br>Runas permitem criar mais tipos de<br>runas e, em níveis avançados, gerar<br>várias runas por essência.	interface	generalUI	skillGuide
 Slayer - Members Only	Extermínio - Para Membros	interface	generalUI	skillGuide
