@@ -1836,401 +1836,430 @@ Rellekka Rooftop Course	Percurso no telhado de Rellekka<br> 	interface	generalUI
 Ardougne Rooftop Course	Percurso no telhado de Ardougne<br> 	interface	generalUI	skillGuide
 Courses	Percursos	interface	generalUI	skillGuide
 Other	Outros	interface	generalUI	skillGuide
-Rope-swing to Moss Giant Island	Balanço de corda para a Ilha do Gigante Musgo	interface	generalUI	skillGuide
+Rope-swing to Moss Giant Island	Balanço de corda para a Ilha do<br>Gigante de Líquen	interface	generalUI	skillGuide
 Stepping stones in Karamja Dungeon	Pedras em Karamja Dungeon	interface	generalUI	skillGuide
 Monkey bars under Edgeville	Barras de macaco em Edgeville	interface	generalUI	skillGuide
-Pipe contortion in Karamja Dungeon	Contorcionismo em Karamja Dungeon	interface	generalUI	skillGuide
+Pipe contortion in Karamja Dungeon	Contorcionismo em Karamja Dungeon<br> 	interface	generalUI	skillGuide
 Stepping stones in south-eastern Karamja	Pedras no sudeste de Karamja	interface	generalUI	skillGuide
-Elf area log balance	Equilíbrio em troncos na área dos elfos	interface	generalUI	skillGuide
-Contortion in Yanille Dungeon small room	Contorcionismo na pequena sala de Yanille Dungeon	interface	generalUI	skillGuide
-Access the God Wars Dungeon area via the Agility route	Acesse a área de God Wars Dungeon pela rota de agilidade	interface	generalUI	skillGuide
-Yanille Dungeon's rubble climb	Escalada nos escombros de Yanille Dungeon	interface	generalUI	skillGuide
-Enter the Saradomin area of the God Wars Dungeon	Entre na área de Saradomin em God Wars Dungeon	interface	generalUI	skillGuide
+Elf area log balance	Equilíbrio em troncos na área dos<br>elfos	interface	generalUI	skillGuide
+Contortion in Yanille Dungeon small room	Contorcionismo na pequena sala de<br>Yanille Dungeon	interface	generalUI	skillGuide
+Access the God Wars Dungeon area via the Agility route	Acesse a área de God Wars Dungeon<br>pela rota de agilidade	interface	generalUI	skillGuide
+Yanille Dungeon's rubble climb	Escalada nos escombros de Yanille<br>Dungeon	interface	generalUI	skillGuide
+Enter the Saradomin area of the God Wars Dungeon	Entre na área de Saradomin em God<br>Wars Dungeon	interface	generalUI	skillGuide
 Falador Agility shortcut	Atalho de agilidade em Falador	interface	generalUI	skillGuide
-Cross the River Lum to Al Kharid (with <Num0> Strength and <Num1> Ranged)	Atravesse o rio Lum até Al Kharid (com <Num0> Força e <Num1> Combate à Distância)	interface	generalUI	skillGuide
+Cross the River Lum to Al Kharid (with <Num0> Strength and <Num1> Ranged)	Atravesse o rio Lum até Al Kharid<br>(com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
 Corsair Cove shortcut	Atalho para a Corsair Cave	interface	generalUI	skillGuide
-Scale Falador wall (with <Num0> Strength and <Num1> Ranged)	Escalar a muralha de Falador (com <Num0> Força e <Num1> Combate à Distância)	interface	generalUI	skillGuide
+Scale Falador wall (with <Num0> Strength and <Num1> Ranged)	Escalar a muralha de Falador<br>(com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
 Jump fence south of Varrock	Pule a cerca ao sul de Varrock	interface	generalUI	skillGuide
 Scale Goblin village wall	Escalar a muralha da vila dos goblins	interface	generalUI	skillGuide
 Corsair Cove Dungeon shortcut (after Dragon Slayer)	Atalho para a Masmorra da Corsair Cave (após Dragon Slayer)	interface	generalUI	skillGuide
 Yanille Agility shortcut	Atalho para Yanille	interface	generalUI	skillGuide
 Kourend Catacombs Agility shortcut	Atalho para as Catacumbas de Kourend	interface	generalUI	skillGuide
+Slayer Tower Banshee shortcut	Atalho do Banshee da torre de<br>extermínio	interface	generalUI	skillGuide
 Coal Truck log balance	Ponte de tronco do caminhão de carvão	interface	generalUI	skillGuide
 Grand Exchange Agility shortcut	Atalho para a Grand Exchange	interface	generalUI	skillGuide
-Scale the Observatory cliff (with <Num0> Strength and <Num1> Ranged, after completing the Observatory quest)	Escalar o penhasco do Observatório (com <Num0> Força e <Num1> Combate à Distância, após completar a missão Observatory)	interface	generalUI	skillGuide
+Scale the Observatory cliff (with <Num0> Strength and <Num1> Ranged, after completing the Observatory quest)	Escalar o penhasco do Observatório<br>(com <Num0> Força e <Num1> Distância,<br>após Observatory)	interface	generalUI	skillGuide
+Nemus Retreat wall climbs	Escalar parede do Retiro Nemus<br> 	interface	generalUI	skillGuide
 Eagles' Peak Agility shortcut	Atalho do Pico das Águias	interface	generalUI	skillGuide
-Kourend Catacombs pillar jump shortcut	Atalho do salto do pilar das Catacumbas de Kourend	interface	generalUI	skillGuide
-Mount Karuulm lower cliffside climb	Escalada da falésia inferior do Monte Karuulm	interface	generalUI	skillGuide
-Corsair Cove Resource Area shortcut (after Dragon Slayer)	Atalho para a área de recursos de Corsair Cove (após Dragon Slayer)	interface	generalUI	skillGuide
-Draynor Manor stones to Champions' Guild	Pedras de Draynor Manor para a Guilda dos Campeões	interface	generalUI	skillGuide
-Scale the Catherby cliff (with <Num0> Strength and <Num1> Ranged)	Escalar o penhasco de Catherby (com <Num0> Força e <Num1> Cbt. à Distância)	interface	generalUI	skillGuide
+Kourend Catacombs pillar jump shortcut	Atalho do salto do pilar das<br>Catacumbas de Kourend	interface	generalUI	skillGuide
+Mount Karuulm lower cliffside climb	Escalada da falésia inferior do<br>Monte Karuulm	interface	generalUI	skillGuide
+Corsair Cove Resource Area shortcut (after Dragon Slayer)	Atalho para a área de recursos de<br>Corsair Cove (após Dragon Slayer)	interface	generalUI	skillGuide
+Draynor Manor stones to Champions' Guild	Pedras de Draynor Manor para a<br>Guilda dos Campeões	interface	generalUI	skillGuide
+Scale the Catherby cliff (with <Num0> Strength and <Num1> Ranged)	Escalar o penhasco de Catherby<br>(com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
 Shilo Village river crossing	Atravessar o rio da vila de Shilo	interface	generalUI	skillGuide
-Ardougne log balance shortcut	Atalho pela ponte de troncos de Ardougne	interface	generalUI	skillGuide
-Escape from the water obelisk island (with <Num0> Strength and <Num1> Ranged)	Fugir da ilha do obelisco de água (com <Num0> Força e <Num1> Cbt. à Distância)	interface	generalUI	skillGuide
+Ardougne log balance shortcut	Atalho pela ponte de troncos de<br>Ardougne	interface	generalUI	skillGuide
+Nemus Retreat underground tunnel	Túnel do Retiro Nemus	interface	generalUI	skillGuide
+Varrock Palace Garden trellis shortcut (after Garden of Tranquillity)	Grade do Jardim do Palácio de<br>Varrock (após Garden of Tranquillity)	interface	generalUI	skillGuide
+Escape from the water obelisk island (with <Num0> Strength and <Num1> Ranged)	Fugir da ilha do obelisco de água<br>(com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
+Nemus Retreat stepping stones	Pedras de apoio do Retiro Nemus	interface	generalUI	skillGuide
 Gnome Stronghold shortcut	Atalho pela fortaleza dos gnomos	interface	generalUI	skillGuide
-Al Kharid Mining pit cliffside scramble	Escalada pela encosta da mina de Al Kharid	interface	generalUI	skillGuide
-Scale Yanille wall (with <Num0> Strength and <Num1> Ranged)	Escalar a muralha de Yanille (com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
+Al Kharid Mining pit cliffside scramble	Escalada pela encosta da mina de<br>Al Kharid	interface	generalUI	skillGuide
+Scale Yanille wall (with <Num0> Strength and <Num1> Ranged)	Escalar a muralha de Yanille<br>(com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
 Hosidius lake isle jump	Pular na ilha do lago Hosidius	interface	generalUI	skillGuide
+Tlati Rainforest log balance	Equilíbrio de troncos da floresta<br>tropical Tlati	interface	generalUI	skillGuide
 Trollheim easy cliffside scramble	Escalada fácil na falésia de Trollheim	interface	generalUI	skillGuide
+Auburnvale rock scramble	Escalada em rocha em Auburnvale	interface	generalUI	skillGuide
 Dwarven Mine narrow crevice	Fenda estreita na mina dos anões	interface	generalUI	skillGuide
 Draynor narrow tunnel	Túnel estreito de Draynor	interface	generalUI	skillGuide
-Trollheim medium cliffside scramble	Escalada média na falésia de Trollheim	interface	generalUI	skillGuide
-Fremennik Slayer Dungeon spiked blades jump	Pular nas lâminas da masmorra de extermínio Fremennik	interface	generalUI	skillGuide
-Trollheim advanced cliffside scramble	Escalada avançada na falésia de Trollheim	interface	generalUI	skillGuide
+Trollheim medium cliffside scramble	Escalada média na falésia de<br>Trollheim	interface	generalUI	skillGuide
+Tlati Rainforest cliffside scramble	Escalada na falésia da floresta<br>tropical de Tlati	interface	generalUI	skillGuide
+Fremennik Slayer Dungeon spiked blades jump	Pular nas lâminas da masmorra de<br>extermínio Fremennik	interface	generalUI	skillGuide
+Trollheim advanced cliffside scramble	Escalada avançada na falésia de<br>Trollheim	interface	generalUI	skillGuide
 Hosidius river jump	Pular no rio Hosidius	interface	generalUI	skillGuide
-Cosmic Temple - medium narrow walkway	Templo Cósmico - passarela estreita média	interface	generalUI	skillGuide
+Auburn Valley log balances	Equilíbrios de troncos em Auburn<br>Valley	interface	generalUI	skillGuide
+Proudspire lower scramble	Escalada inferior em Proudspire	interface	generalUI	skillGuide
+Cosmic Temple - medium narrow walkway	Templo Cósmico - passarela estreita<br>média	interface	generalUI	skillGuide
 Deep Wilderness - narrow tunnel	Wilderness - túnel estreito	interface	generalUI	skillGuide
-Trollheim hard cliffside scramble	Escalada difícil na falésia de Trollheim	interface	generalUI	skillGuide
+Tonali Cavern shortcuts	Atalhos da Caverna Tonali	interface	generalUI	skillGuide
+Trollheim hard cliffside scramble	Escalada difícil na falésia de<br>Trollheim	interface	generalUI	skillGuide
 Ralos' Rise rock climb	Escalada na Ralos' Rise	interface	generalUI	skillGuide
-Log balance to Fremennik Province	Equilíbrio na tronco até a província de Fremennik	interface	generalUI	skillGuide
-Arceuus essence mine boulder leap	Salto na pedra na mina de essência de Arceuus	interface	generalUI	skillGuide
-Stepping stone into Morytania near the Nature Grotto	Pedra de apoio para Morytania perto da Gruta da Natureza	interface	generalUI	skillGuide
-Pipe from Edgeville dungeon to Varrock Sewers	Tubo da masmorra de Edgeville até os esgotos de Varrock	interface	generalUI	skillGuide
-Arceuus essence mine eastern scramble	Escalada oriental na mina de essência de Arceuus	interface	generalUI	skillGuide
-Karamja crossing, south of volcano (with <Num0> Strength and <Num1> Ranged)	Travessia de Karamja, ao sul do vulcão (com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
+Log balance to Fremennik Province	Equilíbrio na tronco até a província<br>de Fremennik	interface	generalUI	skillGuide
+Arceuus essence mine boulder leap	Salto na pedra na mina de essência de<br>Arceuus	interface	generalUI	skillGuide
+Stepping stone into Morytania near the Nature Grotto	Pedra de apoio para Morytania perto<br>da Gruta da Natureza	interface	generalUI	skillGuide
+Pipe from Edgeville dungeon to Varrock Sewers	Tubo da masmorra de Edgeville até<br>os esgotos de Varrock	interface	generalUI	skillGuide
+Arceuus essence mine eastern scramble	Escalada oriental na mina de essência<br>de Arceuus	interface	generalUI	skillGuide
+Karamja crossing, south of volcano (with <Num0> Strength and <Num1> Ranged)	Travessia de Karamja, ao sul do<br>vulcão (com 99 Força e 98 Distância)	interface	generalUI	skillGuide
 Motherlode Mine dark tunnel	Túnel escuro da mina Motherlode	interface	generalUI	skillGuide
-Western Aldarin cliff scramble	Escalada no penhasco de Aldarin ocidental	interface	generalUI	skillGuide
-Stepping stone by Miscellania docks	Pedra de apoio nas docas de Miscellania	interface	generalUI	skillGuide
+Western Aldarin cliff scramble	Escalada no penhasco de Aldarin<br>ocidental	interface	generalUI	skillGuide
+Stepping stone by Miscellania docks	Pedra de apoio nas docas de<br>Miscellania	interface	generalUI	skillGuide
 Rock climb in the Temple of the Eye	Escalada no Temple of the Eye	interface	generalUI	skillGuide
-Brimhaven Dungeon eastern stepping stones	Pedras de apoio a leste da Masmorra de Brimhaven	interface	generalUI	skillGuide
+Brimhaven Dungeon eastern stepping stones	Pedras de apoio a leste da Masmorra<br>de Brimhaven	interface	generalUI	skillGuide
 Rellekka east fence shortcut	Atalho pela cerca leste de Rellekka	interface	generalUI	skillGuide
-Port Phasmatys ectopool shortcut	Atalho pela ectopool de Porto Phasmatys	interface	generalUI	skillGuide
-Elven overpass easy cliffside scramble	Escalar escosta fácil da passagem élfica	interface	generalUI	skillGuide
-Wilderness from the God Wars Dungeon area climb	Escalada na área selvagem da Masmorra das Guerras dos Deuses	interface	generalUI	skillGuide
-Estuary crossing on Mos Le'Harmless	Travessia do estuário em Mos Le'Harmless	interface	generalUI	skillGuide
+Port Phasmatys ectopool shortcut	Atalho pela ectopool de Porto<br>Phasmatys	interface	generalUI	skillGuide
+Elven overpass easy cliffside scramble	Escalar escosta fácil da passagem<br>élfica	interface	generalUI	skillGuide
+Cave to the Stalker Den (after Shadows of Custodia)	Caverna para Covil do Perseguidor<br>(após Shadows of Custodia)	interface	generalUI	skillGuide
+Wilderness from the God Wars Dungeon area climb	Escalada na área selvagem da<br>Masmorra das Guerras dos Deuses	interface	generalUI	skillGuide
+Estuary crossing on Mos Le'Harmless	Travessia do estuário em Mos<br>Le'Harmless	interface	generalUI	skillGuide
 Pillars in the Wintertodt's Prison	Pilares na Prisão de Wintertodt	interface	generalUI	skillGuide
 Stepping stone in the Tombs of Amascut	Pedras nas Tumbas de Amascut	interface	generalUI	skillGuide
-Slayer Tower medium spiked chain climb	Corrente média da Torre de Extermínio	interface	generalUI	skillGuide
-Fremennik Slayer Dungeon narrow crevice	Fenda estreita da masmorra de extermínio Fremennik	interface	generalUI	skillGuide
-Mount Karuulm upper cliffside climb	Escalar penhasco superior de Monte Karuulm	interface	generalUI	skillGuide
+Asgarnian Ice Dungeon frozen throne tunnel	Túneis do Trono Congelado da<br>Masmorra de Gelo de Asgarnia	interface	generalUI	skillGuide
+Slayer Tower medium spiked chain climb	Corrente média da Torre de<br>Extermínio	interface	generalUI	skillGuide
+Fremennik Slayer Dungeon narrow crevice	Fenda estreita da masmorra de<br>extermínio Fremennik	interface	generalUI	skillGuide
+Mount Karuulm upper cliffside climb	Escalar penhasco superior de Monte<br>Karuulm	interface	generalUI	skillGuide
 Stepping stones in the Necropolis	Pedras na Necrópole	interface	generalUI	skillGuide
-Taverley dungeon lesser demon fence shortcut	Masmorra de Taverley atalho na cerca do demônio inferior	interface	generalUI	skillGuide
+Taverley dungeon lesser demon fence shortcut	Masmorra de Taverley atalho na<br>cerca do demônio inferior	interface	generalUI	skillGuide
 Darkmeyer wall climb	Escalada na parede de Darkmeyer	interface	generalUI	skillGuide
-Forthos Dungeon spiked blades jump	Masmorra de Forthos salto nas lâminas	interface	generalUI	skillGuide
+Forthos Dungeon spiked blades jump	Masmorra de Forthos salto nas<br>lâminas	interface	generalUI	skillGuide
 Trollheim Wilderness route	Rota p/ Wilderness de Trollheim	interface	generalUI	skillGuide
 Rope to the Fossil Island volcano	Corda para o vulcão da Ilha Fóssil	interface	generalUI	skillGuide
-Temple on the Salve to Morytania shortcut	Atalho do templo Salve para Morytania	interface	generalUI	skillGuide
-Revenant cave jump (easy)	Salto na caverna dos Revenants (fácil)	interface	generalUI	skillGuide
-Cosmic Temple advanced narrow walkway	Passarela estreita avançada no Templo Cósmico	interface	generalUI	skillGuide
-Lumbridge Swamp to the Desert	Pântano de Lumbridge para o deserto	interface	generalUI	skillGuide
+Stalker Den stepping stone	Pedra de apoio do Covil do<br>Perseguidor	interface	generalUI	skillGuide
+Temple on the Salve to Morytania shortcut	Atalho do templo Salve para<br>Morytania	interface	generalUI	skillGuide
+Revenant cave jump (easy)	Salto na caverna dos Revenants<br>(fácil)	interface	generalUI	skillGuide
+Cosmic Temple advanced narrow walkway	Passarela estreita avançada no<br>Templo Cósmico	interface	generalUI	skillGuide
+Lumbridge Swamp to the Desert	Pântano de Lumbridge para o<br>deserto	interface	generalUI	skillGuide
 Taverley wall shortcut	Atalho na parede de Taverley	interface	generalUI	skillGuide
 Heroes' Guild tunnel	Túnel da Guilda dos Heróis	interface	generalUI	skillGuide
-Elven overpass medium cliffside scramble	Escalar escosta média da passagem élfica	interface	generalUI	skillGuide
-Ice Mountain western scramble	Escalada ocidental na Montanha de Gelo	interface	generalUI	skillGuide
-Arceuus essence mine northern scramble	Escalada norte na mina de essência de Arceuus	interface	generalUI	skillGuide
-Taverley Dungeon shortcuts to blue dragons	Atalhos na Masmorra de Taverley para os dragões azuis	interface	generalUI	skillGuide
+Elven overpass medium cliffside scramble	Escalar escosta média da passagem<br>élfica	interface	generalUI	skillGuide
+Ice Mountain western scramble	Escalada ocidental na Montanha de<br>Gelo	interface	generalUI	skillGuide
+Arceuus essence mine northern scramble	Escalada norte na mina de essência<br>de Arceuus	interface	generalUI	skillGuide
+Mausoleum bridge jump (with <Num0> Construction and after Creature of Fenkenstrain)	Salto da ponte do mausoléu<br>(com <Num0> Construção e após<br>Creature of Fenkenstrain)	interface	generalUI	skillGuide
+Taverley Dungeon shortcuts to blue dragons	Atalhos na Masmorra de Taverley<br>para os dragões azuis	interface	generalUI	skillGuide
 Fossil island hardwood shortcut	Atalho pela floresta da Ilha Fósil	interface	generalUI	skillGuide
 Al Kharid Palace southern window	Janela sul do Palácio Al Kharid	interface	generalUI	skillGuide
-Slayer Tower advanced spiked chain climb	Corrente avançada da Torre de Extermínio	interface	generalUI	skillGuide
-Gu'Tanoth wall climb (after completing the Watchtower quest)	Escalada pela parede Gu'Tanoth (após Watchtower)	interface	generalUI	skillGuide
+Slayer Tower advanced spiked chain climb	Corrente avançada da Torre de<br>Extermínio	interface	generalUI	skillGuide
+Gu'Tanoth wall climb (after completing the Watchtower quest)	Escalada pela parede Gu'Tanoth<br>(após Watchtower)	interface	generalUI	skillGuide
 Pollnivneach stepping stone	Pedra de apoio de Pollnivneach	interface	generalUI	skillGuide
-Stronghold Slayer Cave narrow tunnel	Túnel estreito da Caverna de extermínio da Fortaleza	interface	generalUI	skillGuide
-Basic Asgarnian Ice Dungeon wyvern tunnel	Túnel básico da masmorra de gelo Asgarniana	interface	generalUI	skillGuide
+Proudspire upper scramble	Escalada superior em Proudspire	interface	generalUI	skillGuide
+Stronghold Slayer Cave narrow tunnel	Túnel estreito da Caverna de<br>extermínio da Fortaleza	interface	generalUI	skillGuide
+Basic Asgarnian Ice Dungeon wyvern tunnel	Túnel básico da masmorra de gelo<br>Asgarniana	interface	generalUI	skillGuide
 Chaos temple Stepping Stone	Pedra de apoio do Templo do Caos	interface	generalUI	skillGuide
 Barrows wall-jump	Salto na parede de Barrows	interface	generalUI	skillGuide
-Troll Stronghold wall-climb	Escalada na parede da Fortaleza dos Trolls	interface	generalUI	skillGuide
-Arceuus essence mine western descent	Descida ocidental da mina de essência de Arceuus	interface	generalUI	skillGuide
+Troll Stronghold wall-climb	Escalada na parede da Fortaleza dos<br>Trolls	interface	generalUI	skillGuide
+Arceuus essence mine western descent	Descida ocidental da mina de<br>essência de Arceuus	interface	generalUI	skillGuide
+Chasm of Fire platforms	Plataformas do Abismo de Fogo	interface	generalUI	skillGuide
 Lava Dragon Isle jump	Salto na Ilha do Dragão de Lava	interface	generalUI	skillGuide
+Fossil Island zipline	Tirolesa da Ilha Fósil	interface	generalUI	skillGuide
 Meiyerditch Laboratory tunnels	Túneis do Laboratório Meiyerditch	interface	generalUI	skillGuide
-Revenant cave jump (medium)	Salto na caverna dos Revenants (médio)	interface	generalUI	skillGuide
+Revenant cave jump (medium)	Salto na caverna dos Revenants<br>(médio)	interface	generalUI	skillGuide
+Mokhaiotl pit jump	Salto na cova Mokhaiotl	interface	generalUI	skillGuide
 Island crossing near Zul-Andra	Travessia da ilha perto de Zul-Andra	interface	generalUI	skillGuide
-Wilderness Slayer Dungeon Crevices	Fendas da Masmorra de extermínio da Wilderness	interface	generalUI	skillGuide
-Iorwerth Dungeon northern shortcut	Atalho norte da Masmorra de Iorwerth	interface	generalUI	skillGuide
+Darkfrost cliff scramble	Escalada no penhasco Darkfrost	interface	generalUI	skillGuide
+Wilderness Slayer Dungeon Crevices	Fendas da Masmorra de extermínio<br>da Wilderness	interface	generalUI	skillGuide
+Iorwerth Dungeon northern shortcut	Atalho norte da Masmorra de<br>Iorwerth	interface	generalUI	skillGuide
 Shilo village rock climb	Escalada na rocha da vila de Shilo	interface	generalUI	skillGuide
-Kharazi Jungle vine climb (with Legends' Guild access)	Escalada na videira da Selva de Kharazi (com acesso à Guilda das Lendas)	interface	generalUI	skillGuide
-Taverley Dungeon spiked blades jump	Salto das lâminas da Masmorra de Taverley	interface	generalUI	skillGuide
+Kharazi Jungle vine climb (with Legends' Guild access)	Escalada na videira da Selva de<br>Kharazi (após Legends Quest)	interface	generalUI	skillGuide
+Taverley Dungeon spiked blades jump	Salto das lâminas da Masmorra de<br>Taverley	interface	generalUI	skillGuide
 Waterbirth Dungeon crevice	Fenda da Masmorra de Waterbirth	interface	generalUI	skillGuide
+Slayer Tower ivy climb	Trepadeira da torre de extermínio	interface	generalUI	skillGuide
 Lava Maze northern jump	Salto norte do Labirinto de Lava	interface	generalUI	skillGuide
-Adept Asgarnian Ice Dungeon wyvern tunnel	Túnel adepto da masmorra de gelo Asgarniana	interface	generalUI	skillGuide
+Adept Asgarnian Ice Dungeon wyvern tunnel	Túnel adepto da masmorra de gelo<br>Asgarniana	interface	generalUI	skillGuide
+Chasm of Fire Chain	Corrente do Abismo de Fogo	interface	generalUI	skillGuide
 Iorwerth Dungeon southern shortcut	Atalho sul da Masmorra de Iorwerth	interface	generalUI	skillGuide
 Crandor rock-climb	Escalada em rocha de Crandor	interface	generalUI	skillGuide
-Elven overpass advanced cliffside scramble	Escalar escosta avançada da passagem élfica	interface	generalUI	skillGuide
-Waterbirth Island rock-climb	Escalada em rocha da Ilha de Waterbirth	interface	generalUI	skillGuide
+Elven overpass advanced cliffside scramble	Escalar escosta avançada da<br>passagem élfica	interface	generalUI	skillGuide
+Waterbirth Island rock-climb	Escalada em rocha da Ilha de<br>Waterbirth	interface	generalUI	skillGuide
 Kalphite Lair shortcut	Atalho do Covil Kalphite	interface	generalUI	skillGuide
-Brimhaven Dungeon vine to baby green dragons	Caverna Brimhaven, videira para dragões verdes bebês	interface	generalUI	skillGuide
+Darkmeyer wall jump	Salto na parede de Darkmeyer	interface	generalUI	skillGuide
+Brimhaven Dungeon vine to baby green dragons	Caverna Brimhaven, videira para<br>dragões verdes bebês	interface	generalUI	skillGuide
 Karuulm Dungeon pipe	Caverna Karuulm, tubulação	interface	generalUI	skillGuide
-Revenant cave jump (hard)	Salto na caverna dos Revenants (difícil)	interface	generalUI	skillGuide
-Viyeldi Caves cliff climb	Escalada no penhasco das Cavernas Viyeldi	interface	generalUI	skillGuide
-Meiyerditch Laboratories advanced shortcut.	Atalho avançado dos Laboratórios Meiyerditch.	interface	generalUI	skillGuide
-Viyeldi caves crevice (after completing the Legends' Quest)	Fenda das cavernas de Viyeldi (após Legends Quest)	interface	generalUI	skillGuide
-Leaping trout (with <Num0> Strength & <Num1> Fishing)	Truta saltitante (com <Num0> Força e <Num1> Pesca)	interface	generalUI	skillGuide
-Leaping salmon (with <Num0> Strength & <Num1> Fishing)	Salmão saltitante (com <Num0> Força e <Num1> Pesca)	interface	generalUI	skillGuide
-Leaping sturgeon (with <Num0> Strength & <Num1> Fishing)	Esturjão saltitante (com <Num0> Força e <Num1> Pesca)	interface	generalUI	skillGuide
+Revenant cave jump (hard)	Salto na caverna dos Revenants<br>(difícil)	interface	generalUI	skillGuide
+Viyeldi Caves cliff climb	Escalada no penhasco das Cavernas<br>Viyeldi	interface	generalUI	skillGuide
+Meiyerditch Laboratories advanced shortcut.	Atalho avançado dos Laboratórios<br>Meiyerditch.	interface	generalUI	skillGuide
+Viyeldi caves crevice (after completing the Legends' Quest)	Fenda das cavernas de Viyeldi<br>(após Legends Quest)	interface	generalUI	skillGuide
+Leaping trout (with <Num0> Strength & <Num1> Fishing)	Truta saltitante<br>(com <Num0> Força e <Num1> Pesca)	interface	generalUI	skillGuide
+Leaping salmon (with <Num0> Strength & <Num1> Fishing)	Salmão saltitante<br>(com <Num0> Força e <Num1> Pesca)	interface	generalUI	skillGuide
+Leaping sturgeon (with <Num0> Strength & <Num1> Fishing)	Esturjão saltitante<br>(com <Num0> Força e <Num1> Pesca)	interface	generalUI	skillGuide
 Other - Members Only	Outros - Para Membros	interface	generalUI	skillGuide
-Crystal weaponry (with <Num0> Attack)	Armas de cristal (com <Num0> Ataque)	interface	generalUI	skillGuide
+Crystal weaponry (with <Num0> Attack)	Armas de cristal<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Hallowed Sepulchre (Floor <Num0>)	Sepulcro Sagrado (Piso <Num0>)	interface	generalUI	skillGuide
 Ring of Endurance	Anel da Resistência	interface	generalUI	skillGuide
-Bow of Faerdhinen (with <Num0> Ranged)	Arco de Faerdhinen (com <Num0> Cbt à Distância)	interface	generalUI	skillGuide
+Bow of Faerdhinen (with <Num0> Ranged)	Arco de Faerdhinen<br>(com <Num0> Cbt à Distância)	interface	generalUI	skillGuide
 Smithing	Metalurgia	interface	generalUI	skillGuide
 Smelting	Fundição	interface	generalUI	skillGuide
-Bronze <Num0> tin ore & <Num1> copper ore	Bronze <Num0> estanho e <Num1> cobre	interface	generalUI	skillGuide
-Members: Blurite (after Knight's Sword quest)	Membros: Blurita (após Knight's Sword)	interface	generalUI	skillGuide
-Iron <Num0>% chance of success	Ferro <Num0>% de chance de sucesso	interface	generalUI	skillGuide
+Bronze <Num0> tin ore & <Num1> copper ore	Bronze<br><Num0> estanho e <Num1> cobre	interface	generalUI	skillGuide
+Members: Blurite (after Knight's Sword quest)	Membros: Blurita<br>(após Knight's Sword)	interface	generalUI	skillGuide
+Iron <Num0>% chance of success	Ferro<br><Num0>% de chance de sucesso	interface	generalUI	skillGuide
 Silver	Prata	interface	generalUI	skillGuide
-Steel <Num0> coal & <Num1> iron ore	Aço <Num0> carvão e <Num1> ferro	interface	generalUI	skillGuide
-Members: Lovakite <Num0> coal & <Num1> lovakite ore	Membros: Lovakita <Num0> carvão e <Num1> lovakita	interface	generalUI	skillGuide
-Mithril <Num0> coal & <Num1> mithril ore	Mithril <Num0> carvão e <Num1> mithril	interface	generalUI	skillGuide
-Adamant <Num0> coal & <Num1> adamantite ore	Adamantita <Num0> carvão e <Num1> adamantita	interface	generalUI	skillGuide
-Runite <Num0> coal & <Num1> runite ore	Runita <Num0> carvão e <Num1> runita	interface	generalUI	skillGuide
+Steel <Num0> coal & <Num1> iron ore	Aço<br><Num0> carvão e <Num1> ferro	interface	generalUI	skillGuide
+Members: Lovakite <Num0> coal & <Num1> lovakite ore	Membros: Lovakita<br><Num0> carvão e <Num1> lovakita	interface	generalUI	skillGuide
+Mithril <Num0> coal & <Num1> mithril ore	Mithril<br><Num0> carvão e <Num1> mithril	interface	generalUI	skillGuide
+Adamant <Num0> coal & <Num1> adamantite ore	Adamantita<br><Num0> carvão e <Num1> adamantita	interface	generalUI	skillGuide
+Runite <Num0> coal & <Num1> runite ore	Runita<br><Num0> carvão e <Num1> runita	interface	generalUI	skillGuide
 Blurite	Blurita	interface	generalUI	skillGuide
 Lovakite	Lovakita	interface	generalUI	skillGuide
 Crystal	Cristal	interface	generalUI	skillGuide
-Bronze daggers <Num0> bar	Adaga de bronze <Num0> barra	interface	generalUI	skillGuide
-Bronze axes <Num0> bar	Machado de bronze <Num0> barra	interface	generalUI	skillGuide
+Bronze daggers <Num0> bar	Adaga de bronze<br><Num0> barra	interface	generalUI	skillGuide
+Bronze axes <Num0> bar	Machado de bronze<br><Num0> barra	interface	generalUI	skillGuide
 Members: Convert bronze felling axes	Membros: Machado de corte de bronze	interface	generalUI	skillGuide
-Bronze maces <Num0> bar	Maça de bronze <Num0> barra	interface	generalUI	skillGuide
-Bronze medium helms <Num0> bar	Elmo de bronze médio <Num0> barra	interface	generalUI	skillGuide
-Members: Bronze crossbow bolts <Num0> bar makes <Num1>	Membros: Setas de bronze <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Bronze swords <Num0> bar	Espada de bronze <Num0> barra	interface	generalUI	skillGuide
-Members: Bronze dart tips <Num0> bar makes <Num1>	Membros: Dardo com ponta de bronze <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Bronze wire <Num0> bar	Membros: Fio de bronze <Num0> barra	interface	generalUI	skillGuide
-Members: Bronze nails <Num0> bar makes <Num1>	Membros: Pregos de bronze <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Bronze scimitars <Num0> bars	Cimitarra de bronze <Num0> barras	interface	generalUI	skillGuide
-Members: Bronze spears <Num0> bar, <Num1> log	Membros: Lança de bronze <Num0> barra, <Num1> lenha	interface	generalUI	skillGuide
-Members: Bronze hastae <Num0> bar, <Num1> log	Membros: Hasta de bronze <Num0> barra, <Num1> lenha	interface	generalUI	skillGuide
-Members: Bronze arrowheads <Num0> bar makes <Num1>	Membros: Pontas de flecha de bronze <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Bronze crossbow limbs <Num0> bar	Membros: Limbos de bronze <Num0> barra	interface	generalUI	skillGuide
-Bronze longswords <Num0> bars	Espada longa de bronze <Num0> barras	interface	generalUI	skillGuide
-Members: Bronze javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo de bronze <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Bronze full helms <Num0> bars	Elmo de bronze completo <Num0> barras	interface	generalUI	skillGuide
-Members: Bronze throwing knives <Num0> bar makes <Num1>	Membros: Faca de bronze <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Bronze square shields <Num0> bars	Escudo retangular de bronze <Num0> barras	interface	generalUI	skillGuide
-Bronze warhammers <Num0> bars	Martelo de guerra bronze <Num0> barras	interface	generalUI	skillGuide
-Bronze battleaxes <Num0> bars	Machado batalha de bronze <Num0> barras	interface	generalUI	skillGuide
-Bronze chainbodies <Num0> bars	Cota de malha de bronze <Num0> barras	interface	generalUI	skillGuide
-Bronze kiteshields <Num0> bars	Escudo ogival de bronze <Num0> barras	interface	generalUI	skillGuide
-Members: Bronze claws <Num0> bars	Membros: Garras de bronze <Num0> barras	interface	generalUI	skillGuide
-Bronze two-handed swords <Num0> bars	Espada de 2m de bronze <Num0> barras	interface	generalUI	skillGuide
-Bronze platelegs <Num0> bars	Perneiras de bronze <Num0> barras	interface	generalUI	skillGuide
-Bronze plateskirts <Num0> bars	Escarcela de placa de bronze <Num0> barras	interface	generalUI	skillGuide
-Bronze platebodies <Num0> bars	Cota de placa de bronze <Num0> barras	interface	generalUI	skillGuide
+Bronze maces <Num0> bar	Maça de bronze<br><Num0> barra	interface	generalUI	skillGuide
+Bronze medium helms <Num0> bar	Elmo de bronze médio<br><Num0> barra	interface	generalUI	skillGuide
+Members: Bronze crossbow bolts <Num0> bar makes <Num1>	Membros: Setas de bronze<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Bronze swords <Num0> bar	Espada de bronze<br><Num0> barra	interface	generalUI	skillGuide
+Members: Bronze dart tips <Num0> bar makes <Num1>	Membros: Dardo com ponta de bronze<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Bronze wire <Num0> bar	Membros: Fio de bronze<br><Num0> barra	interface	generalUI	skillGuide
+Members: Bronze nails <Num0> bar makes <Num1>	Membros: Pregos de bronze<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Bronze scimitars <Num0> bars	Cimitarra de bronze<br><Num0> barras	interface	generalUI	skillGuide
+Members: Bronze spears <Num0> bar, <Num1> log	Membros: Lança de bronze<br><Num0> barra, <Num1> lenha	interface	generalUI	skillGuide
+Members: Bronze hastae <Num0> bar, <Num1> log	Membros: Hasta de bronze<br><Num0> barra, <Num1> lenha	interface	generalUI	skillGuide
+Members: Bronze arrowheads <Num0> bar makes <Num1>	Membros: Pontas de flecha de bronze<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Bronze crossbow limbs <Num0> bar	Membros: Limbos de bronze<br><Num0> barra	interface	generalUI	skillGuide
+Bronze longswords <Num0> bars	Espada longa de bronze<br><Num0> barras	interface	generalUI	skillGuide
+Members: Bronze javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo de bronze<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Bronze full helms <Num0> bars	Elmo de bronze completo<br><Num0> barras	interface	generalUI	skillGuide
+Members: Bronze throwing knives <Num0> bar makes <Num1>	Membros: Faca de bronze<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Bronze square shields <Num0> bars	Escudo retangular de bronze<br><Num0> barras	interface	generalUI	skillGuide
+Bronze warhammers <Num0> bars	Martelo de guerra bronze<br><Num0> barras	interface	generalUI	skillGuide
+Bronze battleaxes <Num0> bars	Machado batalha de bronze<br><Num0> barras	interface	generalUI	skillGuide
+Bronze chainbodies <Num0> bars	Cota de malha de bronze<br><Num0> barras	interface	generalUI	skillGuide
+Bronze kiteshields <Num0> bars	Escudo ogival de bronze<br><Num0> barras	interface	generalUI	skillGuide
+Members: Bronze claws <Num0> bars	Membros: Garras de bronze<br><Num0> barras	interface	generalUI	skillGuide
+Bronze two-handed swords <Num0> bars	Espada de 2m de bronze<br><Num0> barras	interface	generalUI	skillGuide
+Bronze platelegs <Num0> bars	Perneiras de bronze<br><Num0> barras	interface	generalUI	skillGuide
+Bronze plateskirts <Num0> bars	Escarcela de placa de bronze<br><Num0> barras	interface	generalUI	skillGuide
+Bronze platebodies <Num0> bars	Cota de placa de bronze<br><Num0> barras	interface	generalUI	skillGuide
 Blurite - Members Only	Blurita - Para membros	interface	generalUI	skillGuide
 After completing Knight's Sword, able to make:	Após completar Knight's Sword, pode fazer:	interface	generalUI	skillGuide
-Blurite crossbow bolts <Num0> bar makes <Num1>	Setas de blurita <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Blurite crossbow limbs <Num0> bar	Limbos de blurita <Num0> bar	interface	generalUI	skillGuide
+Blurite crossbow bolts <Num0> bar makes <Num1>	Setas de blurita<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Blurite crossbow limbs <Num0> bar	Limbos de blurita<br><Num0> bar	interface	generalUI	skillGuide
 Members: Convert iron felling axes	Membros: Machado de corte de ferro	interface	generalUI	skillGuide
-Iron daggers <Num0> bar	Adaga de ferro <Num0> barra	interface	generalUI	skillGuide
-Iron axes <Num0> bar	Machado de ferro <Num0> barra	interface	generalUI	skillGuide
-Iron maces <Num0> bar	Maça de ferro <Num0> barra	interface	generalUI	skillGuide
-Members: Iron spits <Num0> bar	Membros: Espeto de ferro <Num0> barra	interface	generalUI	skillGuide
-Iron medium helms <Num0> bar	Elmo de ferro médio <Num0> barra	interface	generalUI	skillGuide
-Members: Iron crossbow bolts <Num0> bar makes <Num1>	Membros: Setas de ferro <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Iron swords <Num0> bar	Espada de ferro <Num0> barra	interface	generalUI	skillGuide
-Members: Iron dart tips <Num0> bar makes <Num1>	Membros: Ponta de dardo de ferro <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Iron nails <Num0> bar makes <Num1>	Membros: Pregos de ferro <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Iron scimitars <Num0> bars	Cimitarra de ferro <Num0> barras	interface	generalUI	skillGuide
-Members: Iron spears <Num0> bar, <Num1> oak log	Membros: Lança de ferro <Num0> barra, <Num1> Lenha de carvalho	interface	generalUI	skillGuide
-Members: Iron hastae <Num0> bar, <Num1> oak log	Membros: Hasta de ferro <Num0> barra, <Num1> Lenha de carvalho	interface	generalUI	skillGuide
-Members: Iron arrowheads <Num0> bar makes <Num1>	Membros: Pontas de flecha de ferro <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Iron longswords <Num0> bars	Espada longa de ferro <Num0> barras	interface	generalUI	skillGuide
-Members: Iron javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo de ferro <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Iron full helms <Num0> bars	Elmo de ferro completo <Num0> barras	interface	generalUI	skillGuide
-Members: Iron throwing knives <Num0> bar makes <Num1>	Membros: Faca de ferro <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Iron square shields <Num0> bars	Escudo retangular de ferro <Num0> barras	interface	generalUI	skillGuide
-Members: Iron crossbow limbs <Num0> bar	Membros: Limbos de ferro <Num0> barra	interface	generalUI	skillGuide
-Iron warhammers <Num0> bars	Martelo de guerra de ferro <Num0> barras	interface	generalUI	skillGuide
-Iron battleaxes <Num0> bars	Machado batalha de ferro <Num0> barras	interface	generalUI	skillGuide
-Iron chainbodies <Num0> bars	Cota de malha de ferro <Num0> barras	interface	generalUI	skillGuide
-Members: Oil lantern frames <Num0> bar	Membros: Estrutura de lamparina <Num0> barra	interface	generalUI	skillGuide
-Iron kiteshields <Num0> bars	Escudo ogival de ferro <Num0> barras	interface	generalUI	skillGuide
-Members: Iron claws <Num0> bars	Membros: Garras de ferro <Num0> barras	interface	generalUI	skillGuide
-Iron two-handed swords <Num0> bars	Espada de 2m de ferro <Num0> barras	interface	generalUI	skillGuide
-Iron platelegs <Num0> bars	Perneiras de ferro <Num0> barras	interface	generalUI	skillGuide
-Iron plateskirts <Num0> bars	Escarcela de placa de ferro <Num0> barras	interface	generalUI	skillGuide
-Iron platebodies <Num0> bars	Cota de placa de ferro <Num0> barras	interface	generalUI	skillGuide
+Iron daggers <Num0> bar	Adaga de ferro<br><Num0> barra	interface	generalUI	skillGuide
+Iron axes <Num0> bar	Machado de ferro<br><Num0> barra	interface	generalUI	skillGuide
+Iron maces <Num0> bar	Maça de ferro<br><Num0> barra	interface	generalUI	skillGuide
+Members: Iron spits <Num0> bar	Membros: Espeto de ferro<br><Num0> barra	interface	generalUI	skillGuide
+Iron medium helms <Num0> bar	Elmo de ferro médio<br><Num0> barra	interface	generalUI	skillGuide
+Members: Iron crossbow bolts <Num0> bar makes <Num1>	Membros: Setas de ferro<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Iron swords <Num0> bar	Espada de ferro<br><Num0> barra	interface	generalUI	skillGuide
+Members: Iron dart tips <Num0> bar makes <Num1>	Membros: Ponta de dardo de ferro<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Iron nails <Num0> bar makes <Num1>	Membros: Pregos de ferro<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Iron scimitars <Num0> bars	Cimitarra de ferro<br><Num0> barras	interface	generalUI	skillGuide
+Members: Iron spears <Num0> bar, <Num1> oak log	Membros: Lança de ferro<br><Num0> barra, <Num1> Lenha de carvalho	interface	generalUI	skillGuide
+Members: Iron hastae <Num0> bar, <Num1> oak log	Membros: Hasta de ferro<br><Num0> barra, <Num1> Lenha de carvalho	interface	generalUI	skillGuide
+Members: Iron arrowheads <Num0> bar makes <Num1>	Membros: Pontas de flecha de ferro<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Iron longswords <Num0> bars	Espada longa de ferro<br><Num0> barras	interface	generalUI	skillGuide
+Members: Iron javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo de ferro<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Iron full helms <Num0> bars	Elmo de ferro completo<br><Num0> barras	interface	generalUI	skillGuide
+Members: Iron throwing knives <Num0> bar makes <Num1>	Membros: Faca de ferro<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Iron square shields <Num0> bars	Escudo retangular de ferro<br><Num0> barras	interface	generalUI	skillGuide
+Members: Iron crossbow limbs <Num0> bar	Membros: Limbos de ferro<br><Num0> barra	interface	generalUI	skillGuide
+Iron warhammers <Num0> bars	Martelo de guerra de ferro<br><Num0> barras	interface	generalUI	skillGuide
+Iron battleaxes <Num0> bars	Machado batalha de ferro<br><Num0> barras	interface	generalUI	skillGuide
+Iron chainbodies <Num0> bars	Cota de malha de ferro<br><Num0> barras	interface	generalUI	skillGuide
+Members: Oil lantern frames <Num0> bar	Membros: Estrutura de lamparina<br><Num0> barra	interface	generalUI	skillGuide
+Iron kiteshields <Num0> bars	Escudo ogival de ferro<br><Num0> barras	interface	generalUI	skillGuide
+Members: Iron claws <Num0> bars	Membros: Garras de ferro<br><Num0> barras	interface	generalUI	skillGuide
+Iron two-handed swords <Num0> bars	Espada de 2m de ferro<br><Num0> barras	interface	generalUI	skillGuide
+Iron platelegs <Num0> bars	Perneiras de ferro<br><Num0> barras	interface	generalUI	skillGuide
+Iron plateskirts <Num0> bars	Escarcela de placa de ferro<br><Num0> barras	interface	generalUI	skillGuide
+Iron platebodies <Num0> bars	Cota de placa de ferro<br><Num0> barras	interface	generalUI	skillGuide
 Members: Convert steel felling axes	Membros: Machado de corte de aço	interface	generalUI	skillGuide
-Steel daggers <Num0> bar	Adaga de aço <Num0> barra	interface	generalUI	skillGuide
-Steel axes <Num0> bar	Machado de aço <Num0> barra	interface	generalUI	skillGuide
-Steel maces <Num0> bar	Maça de aço <Num0> barra	interface	generalUI	skillGuide
-Steel medium helms <Num0> bar	Elmo de aço médio <Num0> barra	interface	generalUI	skillGuide
-Members: Steel crossbow bolts <Num0> bar makes <Num1>	Membros: Setas de aço <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Steel swords <Num0> bar	Espada de aço <Num0> barra	interface	generalUI	skillGuide
-Steel nails <Num0> bar makes <Num1>	Pregos de aço <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Steel dart tips <Num0> bar makes <Num1>	Membros: Ponta de dardo de aço <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Steel scimitars <Num0> bars	Cimitarra de aço <Num0> barras	interface	generalUI	skillGuide
-Members: Steel spears <Num0> bar, <Num1> willow log	Membros: Lança de aço <Num0> barra, <Num1> Lenha de salgueiro	interface	generalUI	skillGuide
-Members: Steel hastae <Num0> bar, <Num1> willow log	Membros: Hasta de aço <Num0> barra, <Num1> Lenha de salgueiro	interface	generalUI	skillGuide
-Members: Steel arrowheads <Num0> bar makes <Num1>	Membros: Pontas de flecha de aço <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Cannonballs <Num0> bar makes <Num1>	Membros: Cannonballs <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Steel crossbow limbs <Num0> bar	Membros: Limbos de aço <Num0> barra	interface	generalUI	skillGuide
-Steel longswords <Num0> bars	Espada longa de aço <Num0> barras	interface	generalUI	skillGuide
-Members: Steel javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo de aço <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Steel studs <Num0> bar	Membros: Steel studs <Num0> barra	interface	generalUI	skillGuide
-Steel full helms <Num0> bars	Elmo de aço completo <Num0> barras	interface	generalUI	skillGuide
-Members: Steel throwing knives <Num0> bar makes <Num1>	Membros: Faca de aço <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Steel square shields <Num0> bars	Escudo retangular de aço <Num0> barras	interface	generalUI	skillGuide
-Steel warhammers <Num0> bars	Martelo de guerra de aço <Num0> barras	interface	generalUI	skillGuide
-Steel battleaxes <Num0> bars	Machado de batalha de aço <Num0> barras	interface	generalUI	skillGuide
-Steel chainbodies <Num0> bars	Cota de malha de aço <Num0> barras	interface	generalUI	skillGuide
-Steel kiteshields <Num0> bars	Escudo ogival de aço <Num0> barras	interface	generalUI	skillGuide
-Members: Steel claws <Num0> bars	Membros: Garras de aço <Num0> barras	interface	generalUI	skillGuide
-Steel two-handed swords <Num0> bars	Espada de 2m de aço <Num0> barras	interface	generalUI	skillGuide
-Steel platelegs <Num0> bars	Perneiras de aço <Num0> barras	interface	generalUI	skillGuide
-Steel plateskirts <Num0> bars	Escarcela de placa de aço <Num0> barras	interface	generalUI	skillGuide
-Steel platebodies <Num0> bars	Cota de placa de aço <Num0> barras	interface	generalUI	skillGuide
-Members: Bullseye lantern frames <Num0> bar	Membros: [Bullseye lantern frame] <Num0> barra	interface	generalUI	skillGuide
+Steel daggers <Num0> bar	Adaga de aço<br><Num0> barra	interface	generalUI	skillGuide
+Steel axes <Num0> bar	Machado de aço<br><Num0> barra	interface	generalUI	skillGuide
+Steel maces <Num0> bar	Maça de aço<br><Num0> barra	interface	generalUI	skillGuide
+Steel medium helms <Num0> bar	Elmo de aço médio<br><Num0> barra	interface	generalUI	skillGuide
+Members: Steel crossbow bolts <Num0> bar makes <Num1>	Membros: Setas de aço<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Steel swords <Num0> bar	Espada de aço<br><Num0> barra	interface	generalUI	skillGuide
+Steel nails <Num0> bar makes <Num1>	Pregos de aço<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Steel dart tips <Num0> bar makes <Num1>	Membros: Ponta de dardo de aço<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Steel scimitars <Num0> bars	Cimitarra de aço<br><Num0> barras	interface	generalUI	skillGuide
+Members: Steel spears <Num0> bar, <Num1> willow log	Membros: Lança de aço<br><Num0> barra, <Num1> Lenha de salgueiro	interface	generalUI	skillGuide
+Members: Steel hastae <Num0> bar, <Num1> willow log	Membros: Hasta de aço<br><Num0> barra, <Num1> Lenha de salgueiro	interface	generalUI	skillGuide
+Members: Steel arrowheads <Num0> bar makes <Num1>	Membros: Pontas de flecha de aço<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Cannonballs <Num0> bar makes <Num1>	Membros: Cannonballs<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Steel crossbow limbs <Num0> bar	Membros: Limbos de aço<br><Num0> barra	interface	generalUI	skillGuide
+Steel longswords <Num0> bars	Espada longa de aço<br><Num0> barras	interface	generalUI	skillGuide
+Members: Steel javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo de aço<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Steel studs <Num0> bar	Membros: Steel studs<br><Num0> barra	interface	generalUI	skillGuide
+Steel full helms <Num0> bars	Elmo de aço completo<br><Num0> barras	interface	generalUI	skillGuide
+Members: Steel throwing knives <Num0> bar makes <Num1>	Membros: Faca de aço<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Steel square shields <Num0> bars	Escudo retangular de aço<br><Num0> barras	interface	generalUI	skillGuide
+Steel warhammers <Num0> bars	Martelo de guerra de aço<br><Num0> barras	interface	generalUI	skillGuide
+Steel battleaxes <Num0> bars	Machado de batalha de aço<br><Num0> barras	interface	generalUI	skillGuide
+Steel chainbodies <Num0> bars	Cota de malha de aço<br><Num0> barras	interface	generalUI	skillGuide
+Steel kiteshields <Num0> bars	Escudo ogival de aço<br><Num0> barras	interface	generalUI	skillGuide
+Members: Steel claws <Num0> bars	Membros: Garras de aço<br><Num0> barras	interface	generalUI	skillGuide
+Steel two-handed swords <Num0> bars	Espada de 2m de aço<br><Num0> barras	interface	generalUI	skillGuide
+Steel platelegs <Num0> bars	Perneiras de aço<br><Num0> barras	interface	generalUI	skillGuide
+Steel plateskirts <Num0> bars	Escarcela de placa de aço<br><Num0> barras	interface	generalUI	skillGuide
+Steel platebodies <Num0> bars	Cota de placa de aço<br><Num0> barras	interface	generalUI	skillGuide
+Members: Bullseye lantern frames <Num0> bar	Membros: [Bullseye lantern frame]<br><Num0> barra	interface	generalUI	skillGuide
 Members: Convert mithril felling axes	Membros: Machado de corte de mithril	interface	generalUI	skillGuide
-Mithril daggers <Num0> bar	Adaga de mithril <Num0> barra	interface	generalUI	skillGuide
-Mithril axes <Num0> bar	Machado de mithril <Num0> barra	interface	generalUI	skillGuide
-Mithril maces <Num0> bar	Maça de mithril <Num0> barra	interface	generalUI	skillGuide
-Mithril medium helms <Num0> bar	Elmo de mithril médio <Num0> barra	interface	generalUI	skillGuide
-Members: Mithril crossbow bolts <Num0> bar makes <Num1>	Membros: Setas de mithril <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Mithril swords <Num0> bar	Espada de mithril <Num0> barra	interface	generalUI	skillGuide
-Members: Mithril dart tips <Num0> bar makes <Num1>	Membros: Ponta de dardo de mithril <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Mithril nails <Num0> bar Makes <Num1>	Membros: Pregos de mithril <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Mithril scimitars <Num0> bars	Cimitarra de mithril <Num0> barras	interface	generalUI	skillGuide
-Members: Mithril spears <Num0> bar, <Num1> maple log	Membros: Lança de mithril <Num0> barra, <Num1> Lenha de bordo	interface	generalUI	skillGuide
-Members: Mithril hastae <Num0> bar, <Num1> maple log	Membros: Hasta de mithril <Num0> barra, <Num1> Lenha de bordo	interface	generalUI	skillGuide
-Members: Mithril arrowheads <Num0> bar makes <Num1>	Membros: Pontas de flecha de mithril <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Mithril crossbow limbs <Num0> bar	Membros: Limbos de mithril <Num0> barra	interface	generalUI	skillGuide
-Mithril longswords <Num0> bars	Espada longa de mithril <Num0> barras	interface	generalUI	skillGuide
-Members: Mithril javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo de mithril <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Mithril full helms <Num0> bars	Elmo de mithril completo <Num0> barras	interface	generalUI	skillGuide
-Members: Mithril throwing knives <Num0> bar makes <Num1>	Membros: Faca de mithril <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Mithril square shields <Num0> bars	Escudo retangular de mithril <Num0> barras	interface	generalUI	skillGuide
-Mithril warhammers <Num0> bars	Martelo de guerra de mithril <Num0> barras	interface	generalUI	skillGuide
-Members: Mithril crossbow grapple tips <Num0> bar	Membros: Mithril crossbow grapple tips <Num0> barra	interface	generalUI	skillGuide
-Mithril battleaxes <Num0> bars	Machado batalha de mithril <Num0> barras	interface	generalUI	skillGuide
-Mithril chainbodies <Num0> bars	Cota de malha de mithril <Num0> barras	interface	generalUI	skillGuide
-Mithril kiteshields <Num0> bars	Escudo ogival de mithril <Num0> barras	interface	generalUI	skillGuide
-Members: Mithril claws <Num0> bars	Membros: Garras de mithril <Num0> barras	interface	generalUI	skillGuide
-Mithril two-handed swords <Num0> bars	Espada de 2m de mithril <Num0> barras	interface	generalUI	skillGuide
-Mithril platelegs <Num0> bars	Perneiras de mithril <Num0> barras	interface	generalUI	skillGuide
-Mithril plateskirts <Num0> bars	Escarcela de placa de mithril <Num0> barras	interface	generalUI	skillGuide
-Mithril platebodies <Num0> bars	Cota de placa de mithril <Num0> barras	interface	generalUI	skillGuide
+Mithril daggers <Num0> bar	Adaga de mithril<br><Num0> barra	interface	generalUI	skillGuide
+Mithril axes <Num0> bar	Machado de mithril<br><Num0> barra	interface	generalUI	skillGuide
+Mithril maces <Num0> bar	Maça de mithril<br><Num0> barra	interface	generalUI	skillGuide
+Mithril medium helms <Num0> bar	Elmo de mithril médio<br><Num0> barra	interface	generalUI	skillGuide
+Members: Mithril crossbow bolts <Num0> bar makes <Num1>	Membros: Setas de mithril<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Mithril swords <Num0> bar	Espada de mithril<br><Num0> barra	interface	generalUI	skillGuide
+Members: Mithril dart tips <Num0> bar makes <Num1>	Membros: Ponta de dardo de mithril<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Mithril nails <Num0> bar Makes <Num1>	Membros: Pregos de mithril<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Mithril scimitars <Num0> bars	Cimitarra de mithril<br><Num0> barras	interface	generalUI	skillGuide
+Members: Mithril spears <Num0> bar, <Num1> maple log	Membros: Lança de mithril<br><Num0> barra, <Num1> Lenha de bordo	interface	generalUI	skillGuide
+Members: Mithril hastae <Num0> bar, <Num1> maple log	Membros: Hasta de mithril<br><Num0> barra, <Num1> Lenha de bordo	interface	generalUI	skillGuide
+Members: Mithril arrowheads <Num0> bar makes <Num1>	Membros: Pontas de flecha de mithril<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Mithril crossbow limbs <Num0> bar	Membros: Limbos de mithril<br><Num0> barra	interface	generalUI	skillGuide
+Mithril longswords <Num0> bars	Espada longa de mithril<br><Num0> barras	interface	generalUI	skillGuide
+Members: Mithril javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo de mithril<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Mithril full helms <Num0> bars	Elmo de mithril completo<br><Num0> barras	interface	generalUI	skillGuide
+Members: Mithril throwing knives <Num0> bar makes <Num1>	Membros: Faca de mithril<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Mithril square shields <Num0> bars	Escudo retangular de mithril<br><Num0> barras	interface	generalUI	skillGuide
+Mithril warhammers <Num0> bars	Martelo de guerra de mithril<br><Num0> barras	interface	generalUI	skillGuide
+Members: Mithril crossbow grapple tips <Num0> bar	Membros: Mithril crossbow grapple tips<br><Num0> barra	interface	generalUI	skillGuide
+Mithril battleaxes <Num0> bars	Machado batalha de mithril<br><Num0> barras	interface	generalUI	skillGuide
+Mithril chainbodies <Num0> bars	Cota de malha de mithril<br><Num0> barras	interface	generalUI	skillGuide
+Mithril kiteshields <Num0> bars	Escudo ogival de mithril<br><Num0> barras	interface	generalUI	skillGuide
+Members: Mithril claws <Num0> bars	Membros: Garras de mithril<br><Num0> barras	interface	generalUI	skillGuide
+Mithril two-handed swords <Num0> bars	Espada de 2m de mithril<br><Num0> barras	interface	generalUI	skillGuide
+Mithril platelegs <Num0> bars	Perneiras de mithril<br><Num0> barras	interface	generalUI	skillGuide
+Mithril plateskirts <Num0> bars	Escarcela de placa de mithril<br><Num0> barras	interface	generalUI	skillGuide
+Mithril platebodies <Num0> bars	Cota de placa de mithril<br><Num0> barras	interface	generalUI	skillGuide
 Members: Convert adamant felling axes	Membros: Machado de corte de adamantio	interface	generalUI	skillGuide
-Adamant daggers <Num0> bar	Adaga de adamantio <Num0> barra	interface	generalUI	skillGuide
-Adamant axes <Num0> bar	Machado de adamantio <Num0> barra	interface	generalUI	skillGuide
-Adamant maces <Num0> bar	Maça de adamantio <Num0> barra	interface	generalUI	skillGuide
-Adamant medium helms <Num0> bar	Elmo de adamantio médio <Num0> barra	interface	generalUI	skillGuide
-Members: Adamant crossbow bolts <Num0> bar makes <Num1>	Membros: Setas de adamantio <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Adamant swords <Num0> bar	Espada de adamantio <Num0> barra	interface	generalUI	skillGuide
-Members: Adamant dart tips <Num0> bar makes <Num1>	Membros: Ponta de dardo de adamant. <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Adamant nails <Num0> bar makes <Num1>	Membros: Pregos de adamantio <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Adamant scimitars <Num0> bars	Cimitarra de adamantio <Num0> barras	interface	generalUI	skillGuide
-Members: Adamant spears <Num0> bar, <Num1> yew log	Membros: Lança de adamantio <Num0> barra, <Num1> Lenha de teixo	interface	generalUI	skillGuide
-Members: Adamant hastae <Num0> bar, <Num1> yew log	Membros: Hasta de adamantio <Num0> barra, <Num1> Lenha de teixo	interface	generalUI	skillGuide
-Members: Adamant arrowheads <Num0> bar makes <Num1>	Membros: Pontas flecha de adamantio <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Adamant crossbow limbs <Num0> bar	Membros: Limbos de adamantio <Num0> barra	interface	generalUI	skillGuide
-Adamant longswords <Num0> bars	Espada longa de adamantio <Num0> barras	interface	generalUI	skillGuide
-Members: Adamant javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo de adamantio <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Adamant full helms <Num0> bars	Elmo de adamantio completo <Num0> barras	interface	generalUI	skillGuide
-Members: Adamant throwing knives <Num0> bar makes <Num1>	Membros: Faca de adamantio <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Adamant square shields <Num0> bars	Escudo retangular de adamantio <Num0> barras	interface	generalUI	skillGuide
-Adamant warhammers <Num0> bars	Martelo de guerra de adamantio <Num0> barras	interface	generalUI	skillGuide
-Adamant battleaxes <Num0> bars	Machado de batalha de adamantio <Num0> barras	interface	generalUI	skillGuide
-Adamant chainbodies <Num0> bars	Cota de malha de adamantio <Num0> barras	interface	generalUI	skillGuide
-Adamant kiteshields <Num0> bars	Escudo ogival de adamantio <Num0> barras	interface	generalUI	skillGuide
-Members: Adamant claws <Num0> bars	Membros: Garras de adamantio <Num0> barras	interface	generalUI	skillGuide
-Adamant two-handed swords <Num0> bars	Espada de 2m de adamantio <Num0> barras	interface	generalUI	skillGuide
-Adamant platelegs <Num0> bars	Perneiras de adamantio <Num0> barras	interface	generalUI	skillGuide
-Adamant plateskirts <Num0> bars	Escarcela de placa de adamantio <Num0> barras	interface	generalUI	skillGuide
-Adamant platebodies <Num0> bars	Cota de placa de adamantio <Num0> barras	interface	generalUI	skillGuide
+Adamant daggers <Num0> bar	Adaga de adamantio<br><Num0> barra	interface	generalUI	skillGuide
+Adamant axes <Num0> bar	Machado de adamantio<br><Num0> barra	interface	generalUI	skillGuide
+Adamant maces <Num0> bar	Maça de adamantio<br><Num0> barra	interface	generalUI	skillGuide
+Adamant medium helms <Num0> bar	Elmo de adamantio médio<br><Num0> barra	interface	generalUI	skillGuide
+Members: Adamant crossbow bolts <Num0> bar makes <Num1>	Membros: Setas de adamantio<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Adamant swords <Num0> bar	Espada de adamantio<br><Num0> barra	interface	generalUI	skillGuide
+Members: Adamant dart tips <Num0> bar makes <Num1>	Membros: Ponta de dardo de adamant.<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Adamant nails <Num0> bar makes <Num1>	Membros: Pregos de adamantio<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Adamant scimitars <Num0> bars	Cimitarra de adamantio<br><Num0> barras	interface	generalUI	skillGuide
+Members: Adamant spears <Num0> bar, <Num1> yew log	Membros: Lança de adamantio<br><Num0> barra, <Num1> Lenha de teixo	interface	generalUI	skillGuide
+Members: Adamant hastae <Num0> bar, <Num1> yew log	Membros: Hasta de adamantio<br><Num0> barra, <Num1> Lenha de teixo	interface	generalUI	skillGuide
+Members: Adamant arrowheads <Num0> bar makes <Num1>	Membros: Pontas flecha de adamantio<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Adamant crossbow limbs <Num0> bar	Membros: Limbos de adamantio<br><Num0> barra	interface	generalUI	skillGuide
+Adamant longswords <Num0> bars	Espada longa de adamantio<br><Num0> barras	interface	generalUI	skillGuide
+Members: Adamant javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo de adamantio<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Adamant full helms <Num0> bars	Elmo de adamantio completo<br><Num0> barras	interface	generalUI	skillGuide
+Members: Adamant throwing knives <Num0> bar makes <Num1>	Membros: Faca de adamantio<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Adamant square shields <Num0> bars	Escudo retangular de adamantio<br><Num0> barras	interface	generalUI	skillGuide
+Adamant warhammers <Num0> bars	Martelo de guerra de adamantio<br><Num0> barras	interface	generalUI	skillGuide
+Adamant battleaxes <Num0> bars	Machado de batalha de adamantio<br><Num0> barras	interface	generalUI	skillGuide
+Adamant chainbodies <Num0> bars	Cota de malha de adamantio<br><Num0> barras	interface	generalUI	skillGuide
+Adamant kiteshields <Num0> bars	Escudo ogival de adamantio<br><Num0> barras	interface	generalUI	skillGuide
+Members: Adamant claws <Num0> bars	Membros: Garras de adamantio<br><Num0> barras	interface	generalUI	skillGuide
+Adamant two-handed swords <Num0> bars	Espada de 2m de adamantio<br><Num0> barras	interface	generalUI	skillGuide
+Adamant platelegs <Num0> bars	Perneiras de adamantio<br><Num0> barras	interface	generalUI	skillGuide
+Adamant plateskirts <Num0> bars	Escarcela de placa de adamantio<br><Num0> barras	interface	generalUI	skillGuide
+Adamant platebodies <Num0> bars	Cota de placa de adamantio<br><Num0> barras	interface	generalUI	skillGuide
 Members: Convert rune felling axes	Membros: Machado de corte rúnico	interface	generalUI	skillGuide
-Rune daggers <Num0> bar	Adaga rúnica <Num0> barra	interface	generalUI	skillGuide
-Rune axes <Num0> bar	Machado rúnico <Num0> barra	interface	generalUI	skillGuide
-Rune maces <Num0> bar	Maça rúnica <Num0> barra	interface	generalUI	skillGuide
-Rune medium helms <Num0> bar	Elmo rúnico médio <Num0> barra	interface	generalUI	skillGuide
-Members: Rune crossbow bolts <Num0> bar makes <Num1>	Membros: Setas rúnicas <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Rune swords <Num0> bar	Espada rúnica <Num0> barra	interface	generalUI	skillGuide
-Members: Rune dart tips <Num0> bar makes <Num1>	Membros: Ponta de dardo rúnica <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Rune nails <Num0> bar makes <Num1>	Membros: Pregos rúnicos <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Rune scimitars <Num0> bars	Cimitarra rúnica <Num0> barras	interface	generalUI	skillGuide
-Members: Rune spears <Num0> bar, <Num1> magic log	Membros: Lança rúnica <Num0> barra, <Num1> Lenha mágica	interface	generalUI	skillGuide
-Members: Rune hastae <Num0> bar, <Num1> magic log	Membros: Hasta rúnica <Num0> barra, <Num1> Lenha mágica	interface	generalUI	skillGuide
-Members: Rune arrowheads <Num0> bar makes <Num1>	Membros: Pontas de flecha rúnicas <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Members: Rune crossbow limbs <Num0> bar	Membros: Limbos rúnicos <Num0> barra	interface	generalUI	skillGuide
-Rune longswords <Num0> bars	Espada longa rúnica <Num0> barras	interface	generalUI	skillGuide
-Members: Rune javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo rúnicas <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Rune full helms <Num0> bars	Elmo rúnico completo <Num0> barras	interface	generalUI	skillGuide
-Members: Rune throwing knives <Num0> bar makes <Num1>	Membros: Faca rúnica <Num0> barra faz <Num1>	interface	generalUI	skillGuide
-Rune square shields <Num0> bars	Escudo retangular rúnico <Num0> barras	interface	generalUI	skillGuide
-Rune warhammers <Num0> bars	Martelo de guerra rúnico <Num0> barras	interface	generalUI	skillGuide
-Rune battleaxes <Num0> bars	Machado de batalha rúnico <Num0> barras	interface	generalUI	skillGuide
-Rune chainbodies <Num0> bars	Cota de malha rúnica <Num0> barras	interface	generalUI	skillGuide
-Rune kiteshields <Num0> bars	Escudo ogival rúnico <Num0> barras	interface	generalUI	skillGuide
-Members: Rune claws <Num0> bars	Membros: Garras rúnicas <Num0> barras	interface	generalUI	skillGuide
-Rune two-handed swords <Num0> bars	Espada de 2m rúnica <Num0> barras	interface	generalUI	skillGuide
-Rune platelegs <Num0> bars	Perneiras rúnicas <Num0> barras	interface	generalUI	skillGuide
-Rune plateskirts <Num0> bars	Escarcela de placa rúnica <Num0> barras	interface	generalUI	skillGuide
-Rune platebodies <Num0> bars	Cota de placa rúnica <Num0> barras	interface	generalUI	skillGuide
+Rune daggers <Num0> bar	Adaga rúnica<br><Num0> barra	interface	generalUI	skillGuide
+Rune axes <Num0> bar	Machado rúnico<br><Num0> barra	interface	generalUI	skillGuide
+Rune maces <Num0> bar	Maça rúnica<br><Num0> barra	interface	generalUI	skillGuide
+Rune medium helms <Num0> bar	Elmo rúnico médio<br><Num0> barra	interface	generalUI	skillGuide
+Members: Rune crossbow bolts <Num0> bar makes <Num1>	Membros: Setas rúnicas<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Rune swords <Num0> bar	Espada rúnica<br><Num0> barra	interface	generalUI	skillGuide
+Members: Rune dart tips <Num0> bar makes <Num1>	Membros: Ponta de dardo rúnica<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Rune nails <Num0> bar makes <Num1>	Membros: Pregos rúnicos<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Rune scimitars <Num0> bars	Cimitarra rúnica<br><Num0> barras	interface	generalUI	skillGuide
+Members: Rune spears <Num0> bar, <Num1> magic log	Membros: Lança rúnica<br><Num0> barra, <Num1> Lenha mágica	interface	generalUI	skillGuide
+Members: Rune hastae <Num0> bar, <Num1> magic log	Membros: Hasta rúnica<br><Num0> barra, <Num1> Lenha mágica	interface	generalUI	skillGuide
+Members: Rune arrowheads <Num0> bar makes <Num1>	Membros: Pontas de flecha rúnicas<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Members: Rune crossbow limbs <Num0> bar	Membros: Limbos rúnicos<br><Num0> barra	interface	generalUI	skillGuide
+Rune longswords <Num0> bars	Espada longa rúnica<br><Num0> barras	interface	generalUI	skillGuide
+Members: Rune javelin heads <Num0> bar makes <Num1>	Membros: Pontas de dardo longo rúnicas<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Rune full helms <Num0> bars	Elmo rúnico completo<br><Num0> barras	interface	generalUI	skillGuide
+Members: Rune throwing knives <Num0> bar makes <Num1>	Membros: Faca rúnica<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
+Rune square shields <Num0> bars	Escudo retangular rúnico<br><Num0> barras	interface	generalUI	skillGuide
+Rune warhammers <Num0> bars	Martelo de guerra rúnico<br><Num0> barras	interface	generalUI	skillGuide
+Rune battleaxes <Num0> bars	Machado de batalha rúnico<br><Num0> barras	interface	generalUI	skillGuide
+Rune chainbodies <Num0> bars	Cota de malha rúnica<br><Num0> barras	interface	generalUI	skillGuide
+Rune kiteshields <Num0> bars	Escudo ogival rúnico<br><Num0> barras	interface	generalUI	skillGuide
+Members: Rune claws <Num0> bars	Membros: Garras rúnicas<br><Num0> barras	interface	generalUI	skillGuide
+Rune two-handed swords <Num0> bars	Espada de 2m rúnica<br><Num0> barras	interface	generalUI	skillGuide
+Rune platelegs <Num0> bars	Perneiras rúnicas<br><Num0> barras	interface	generalUI	skillGuide
+Rune plateskirts <Num0> bars	Escarcela de placa rúnica<br><Num0> barras	interface	generalUI	skillGuide
+Rune platebodies <Num0> bars	Cota de placa rúnica<br><Num0> barras	interface	generalUI	skillGuide
 Lovakite - Members Only	Lovakita - Para Membros	interface	generalUI	skillGuide
-Shayzien gloves (<Num0>) <Num1> bar	Luvas Shayzien (<Num0>) <Num1> barra	interface	generalUI	skillGuide
-Shayzien boots (<Num0>) <Num1> bar	Botas Shayzien (<Num0>) <Num1> barra	interface	generalUI	skillGuide
-Shayzien helm (<Num0>) <Num1> bars	Elmo Shayzien (<Num0>) <Num1> barras	interface	generalUI	skillGuide
-Shayzien greaves (<Num0>) <Num1> bars	Grevas Shayzien (<Num0>) <Num1> barras	interface	generalUI	skillGuide
-Shayzien platebody (<Num0>) <Num1> bars	Cota de placa Shayzien (<Num0>) <Num1> barras	interface	generalUI	skillGuide
+Shayzien gloves (<Num0>) <Num1> bar	Luvas Shayzien (<Num0>)<br><Num1> barra	interface	generalUI	skillGuide
+Shayzien boots (<Num0>) <Num1> bar	Botas Shayzien (<Num0>)<br><Num1> barra	interface	generalUI	skillGuide
+Shayzien helm (<Num0>) <Num1> bars	Elmo Shayzien (<Num0>)<br><Num1> barras	interface	generalUI	skillGuide
+Shayzien greaves (<Num0>) <Num1> bars	Grevas Shayzien (<Num0>)<br><Num1> barras	interface	generalUI	skillGuide
+Shayzien platebody (<Num0>) <Num1> bars	Cota de placa Shayzien (<Num0>)<br><Num1> barras	interface	generalUI	skillGuide
 Crystal - Members Only	Cristal - Para Membros	interface	generalUI	skillGuide
-Celestial signet (with <Num0> Crafting)	Selo celestial (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Crystal helm (with <Num0> Crafting)	Elmo de cristal (com <Num0> Artesanato)	interface	generalUI	skillGuide
+Celestial signet (with <Num0> Crafting)	Selo celestial<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Crystal helm (with <Num0> Crafting)	Elmo de cristal<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
 Reshape crystal felling axes	Remodelar Machado de corte de cristal	interface	generalUI	skillGuide
-Crystal legs (with <Num0> Crafting)	Perneiras de cristal (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Crystal body (with <Num0> Crafting)	Cota de cristal (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Crystal pickaxe (with <Num0> Crafting)	Picareta de cristal (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Crystal axe (with <Num0> Crafting)	Machado de cristal (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Crystal felling axe (with <Num0> Crafting)	Machado de corte de cristal (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Crystal harpoon (with <Num0> Crafting)	Arpão de cristal (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Crystal bow (with <Num0> Crafting)	Arco de cristal (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Crystal halberd (with <Num0> Crafting)	Alabarda de cristal (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Crystal shield (with <Num0> Crafting)	Escudo de cristal (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Enhanced crystal key (with <Num0> Crafting)	Chave de cristal aprimorada (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Eternal teleport crystal (with <Num0> Crafting)	Cristal de teleporte eterno (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Blade of Saeldor (with <Num0> Crafting)	Lâmina de Saeldor (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Blade of Saeldor (c) (with <Num0> Crafting)	Lâmina de Saeldor (c) (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Bow of Faerdhinen (with <Num0> Crafting)	Arco de Faerdhinen (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Bow of Faerdhinen (c) (with <Num0> Crafting)	Arco de Faerdhinen (c) (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Members: Convert black felling axes	Membros: Machado de corte negro	interface	generalUI	skillGuide
-Crush barronite deposits (after Below Ice Mountain)	Esmagar Depósito de barronita (após Below Ice Mountain)	interface	generalUI	skillGuide
-Members: Secateurs Attachment (with <Num0> Woodcutting)	Membros: Acessório para podadeira (com <Num0> Corte de Lenha)	interface	generalUI	skillGuide
-Members: Dragon square shield	Membros: Escudo retangular dragônico	interface	generalUI	skillGuide
-Members: Convert dragon felling axes	Membros: Machado de corte dragônico	interface	generalUI	skillGuide
-Members: Convert <Num0>rd age felling axes	Membros: Machado de corte da <Num0>a era	interface	generalUI	skillGuide
-Members: Ancient Wyvern shield	Membros: Escudo antigo de dragão alado	interface	generalUI	skillGuide
-Members: Zombie axes and helmets	Membros: Machado e elmo de zumbi	interface	generalUI	skillGuide
+Crystal legs (with <Num0> Crafting)	Perneiras de cristal<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Crystal body (with <Num0> Crafting)	Cota de cristal<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Crystal pickaxe (with <Num0> Crafting)	Picareta de cristal<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Crystal axe (with <Num0> Crafting)	Machado de cristal<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Crystal felling axe (with <Num0> Crafting)	Machado de corte de cristal<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Crystal harpoon (with <Num0> Crafting)	Arpão de cristal<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Crystal bow (with <Num0> Crafting)	Arco de cristal<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Crystal halberd (with <Num0> Crafting)	Alabarda de cristal<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Crystal shield (with <Num0> Crafting)	Escudo de cristal<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Enhanced crystal key (with <Num0> Crafting)	Chave de cristal aprimorada<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Eternal teleport crystal (with <Num0> Crafting)	Cristal de teleporte eterno<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Blade of Saeldor (with <Num0> Crafting)	Lâmina de Saeldor<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Blade of Saeldor (c) (with <Num0> Crafting)	Lâmina de Saeldor<br>(c)<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Bow of Faerdhinen (with <Num0> Crafting)	Arco de Faerdhinen<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Bow of Faerdhinen (c) (with <Num0> Crafting)	Arco de Faerdhinen<br>(c)<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Members: Blurite crossbow bolts (after The Knight's Sword)	Membros: Setas de blurita<br>(após The Knight's Sword)	interface	generalUI	skillGuide
+Members: Convert black felling axes	Membros: Machado de corte negro<br>	interface	generalUI	skillGuide
+Members: Blurite crossbow limbs (after The Knight's Sword)	Membros: Limbos de blurita<br>(após The Knight's Sword)	interface	generalUI	skillGuide
+Crush barronite deposits (after Below Ice Mountain)	Esmagar Depósito de barronita<br>(após Below Ice Mountain)	interface	generalUI	skillGuide
+Members: Secateurs Attachment (with <Num0> Woodcutting)	Membros: Acessório para podadeira<br>)com <Num0> Corte de Lenha)	interface	generalUI	skillGuide
+Members: Dragon square shield	Membros: Escudo retangular<br>dragônico	interface	generalUI	skillGuide
+Members: Convert dragon felling axes	Membros: Machado de corte<br>dragônico	interface	generalUI	skillGuide
+Members: Convert <Num0>rd age felling axes	Membros: Machado de corte da<br><Num0>a era	interface	generalUI	skillGuide
+Members: Ancient Wyvern shield	Membros: Escudo antigo de dragão<br>alado	interface	generalUI	skillGuide
+Members: Confliction gauntlets	Membros: Manoplas de conflito	interface	generalUI	skillGuide
+Members: Zombie axes and helmets	Membros: Machado e elmo de zumbi<br>	interface	generalUI	skillGuide
+Members: Oathplate	Membros: Armadura do Juramento	interface	generalUI	skillGuide
 Defence	Defesa	interface	generalUI	skillGuide
-Members: Slayer helm	Membros: Elmo do exterminador	interface	generalUI	skillGuide
-Members: Xerician armour (with <Num0> Magic)	Membros: Armadura xericiana (com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Slayer helm	Membros: Elmo do exterminador<br>	interface	generalUI	skillGuide
+Members: Xerician armour (with <Num0> Magic)	Membros: Armadura xericiana<br>(com <Num0> Magia)	interface	generalUI	skillGuide
 Members: Yak-hide	Membros: Pele de iaque	interface	generalUI	skillGuide
-Members: Initiate armour (after Recruitment Drive, with <Num0> Prayer)	Membros: Armadura de iniciado (após Recruitment Drive, com <Num0> Oração)	interface	generalUI	skillGuide
+Members: Initiate armour (after Recruitment Drive, with <Num0> Prayer)	Membros: Armadura de iniciado<br>(após Recruitment Drive, <Num0> Oração)	interface	generalUI	skillGuide
 Members: Shayzien armour	Membros: Armadura Shayzien	interface	generalUI	skillGuide
 Adamantite	Adamantio	interface	generalUI	skillGuide
-Members: Inquisitor's armour (with <Num0> Strength)	Membros: Armadura do inquisidor (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Proselyte armour (after Slug Menace, with <Num0> Prayer)	Membros: Armadura de prosélito (após Slug Menace, com <Num0> Oração)	interface	generalUI	skillGuide
-Members: Masori armour (With <Num0> Ranged)	Membros: Armadura masori (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Members: Inquisitor's armour (with <Num0> Strength)	Membros: Armadura do inquisidor<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Proselyte armour (after Slug Menace, with <Num0> Prayer)	Membros: Armadura de prosélito<br>(após Slug Menace, <Num0> Oração)	interface	generalUI	skillGuide
+Members: Masori armour (With <Num0> Ranged)	Membros: Armadura masori<br>(com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
 Members: Samurai armour	Membros: Armadura samurai	interface	generalUI	skillGuide
-Members: Rock-shell armour (after Fremennik Trials)	Membros: Armadura de rocha (após Fremennik Trials)	interface	generalUI	skillGuide
-Members: Dagon'hai robes (with <Num0> Magic)	Membros: Túnicas Dagon'hai (com <Num0> Magia)	interface	generalUI	skillGuide
-Members: Sunfire Fanatic armour (with <Num0> Prayer)	Membros: Armadura do fanático do fogo solar (com <Num0> Oração)	interface	generalUI	skillGuide
-Members: Fremennik helmets (after Fremennik Trials)	Membros: Elmos Fremennik (após Fremennik Trials)	interface	generalUI	skillGuide
-Members: Zaryte vambraces (with <Num0> Ranged)	Membros: Braceleiras de Zaryte (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
-Members: Granite (with <Num0> Strength)	Membros: Granito (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Zombie helmet (with <Num0> Strength)	Membros: Capacete de zumbi (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Mixed Hide body, cape, and boots (with <Num0> Ranged)	Membros: Cota, capa e botas de couro misto (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
-Members: Bloodrager set (with <Num0> Strength)	Membros: Conjunto da Lua de Sangue (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Frostmoon set (with <Num0> Magic)	Membros: Conjunto da Lua Azul (com <Num0> Magia)	interface	generalUI	skillGuide
-Members: Eclipse set (with <Num0> Ranged)	Membros: Conjunto do Eclipse (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
-Members: Helm of neitiznot (after Fremennik Isles)	Membros: Elmo de Nénão (após Fremennik Isles)	interface	generalUI	skillGuide
+Members: Rock-shell armour (after Fremennik Trials)	Membros: Armadura de rocha<br>(após Fremennik Trials)	interface	generalUI	skillGuide
+Members: Dagon'hai robes (with <Num0> Magic)	Membros: Túnicas Dagon'hai<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Sunfire Fanatic armour (with <Num0> Prayer)	Membros: Armadura do fanático do<br>fogo solar (com 99 Oração)	interface	generalUI	skillGuide
+Members: Fremennik helmets (after Fremennik Trials)	Membros: Elmos Fremennik<br>(após Fremennik Trials)	interface	generalUI	skillGuide
+Members: Zaryte vambraces (with <Num0> Ranged)	Membros: Braceleiras de Zaryte<br>(com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Members: Granite (with <Num0> Strength)	Membros: Granito<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Zombie helmet (with <Num0> Strength)	Membros: Capacete de zumbi<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Mixed Hide body, cape, and boots (with <Num0> Ranged)	Membros: Cota, capa e botas de<br>couro misto<br>(com 99 Cbt. à Distância)	interface	generalUI	skillGuide
+Members: Bloodrager set (with <Num0> Strength)	Membros: Conjunto da Lua de Sangue<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Frostmoon set (with <Num0> Magic)	Membros: Conjunto da Lua Azul<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Eclipse set (with <Num0> Ranged)	Membros: Conjunto do Eclipse<br>(com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Members: Helm of neitiznot (after Fremennik Isles)	Membros: Elmo de Nénão<br>(após Fremennik Isles)	interface	generalUI	skillGuide
 Members: Obsidian armour	Membros: Armadura obsidiana	interface	generalUI	skillGuide
 Members: Bandos armour	Membros: Armadura de Bandos	interface	generalUI	skillGuide
 Members: <Num0>rd age fighter armour	Membros: Armadura da <Num0>a Era	interface	generalUI	skillGuide
-Members: Ancestral robes (with <Num0> Magic)	Membros: Túnica ancestral (com <Num0> Magia)	interface	generalUI	skillGuide
-Members: Avernic defender (with <Num0> Attack)	Membros: Sabre averniano (com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Ancestral robes (with <Num0> Magic)	Membros: Túnica ancestral<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Avernic defender (with <Num0> Attack)	Membros: Sabre averniano<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Members: Barrows armour	Membros: Armadura de Barrows	interface	generalUI	skillGuide
-Members: Armadyl armour (with <Num0> Ranged)	Membros: Armadura de Armadyl (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
-Members: Boots of brimstone (with <Num0> Ranged and Magic)	Membros: Botas de enxofre (com <Num0> Cbt. à Distância e Magia)	interface	generalUI	skillGuide
-Members: Crystal armour (with <Num0> Agility after Song of the Elves)	Membros: Armadura de cristal (com <Num0> Agilidade após Song of the Elves)	interface	generalUI	skillGuide
-Members: Neitiznot faceguard (after The Fremennik Exiles)	Membros: Protetor facial Neitiznot (após The Fremennik Exiles)	interface	generalUI	skillGuide
-Members: Justiciar armour	Membros: Armadura do justiciário	interface	generalUI	skillGuide
+Members: Armadyl armour (with <Num0> Ranged)	Membros: Armadura de Armadyl<br>(com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Members: Boots of brimstone (with <Num0> Ranged and Magic)	Membros: Botas de enxofre (com <Num0> Distância e Magia)	interface	generalUI	skillGuide
+Members: Crystal armour (with <Num0> Agility after Song of the Elves)	Membros: Armadura de cristal<br>(<Num0> Agilidade após Song of the Elves)	interface	generalUI	skillGuide
+Members: Neitiznot faceguard (after The Fremennik Exiles)	Membros: Protetor facial Neitiznot<br>(após The Fremennik Exiles)	interface	generalUI	skillGuide
+Members: Justiciar armour	Membros: Armadura do justiciário<br>	interface	generalUI	skillGuide
 Members: Serpentine helm	Membros: Elmo serpentino	interface	generalUI	skillGuide
 Members: Guardian boots	Membros: Botas do guardião	interface	generalUI	skillGuide
 Members: Echo boots	Membros: Botas do eco	interface	generalUI	skillGuide
-Members: Primordial boots (with <Num0> Strength)	Membros: Botas primordiais (com <Num0> Força)	interface	generalUI	skillGuide
-Members: Eternal boots (with <Num0> Magic)	Membros: Botas da eternidade (com <Num0> Magia)	interface	generalUI	skillGuide
-Members: Pegasian boots (with <Num0> Ranged)	Membros: Botas de pégaso (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
-Members: Virtus robes (with <Num0> Magic)	Membros: Túnica de Virtus (com <Num0> Magia)	interface	generalUI	skillGuide
-Members: Ferocious Gloves (with <Num0> Attack)	Membros: Luvas ferozes (com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Primordial boots (with <Num0> Strength)	Membros: Botas primordiais<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Members: Eternal boots (with <Num0> Magic)	Membros: Botas da eternidade<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Pegasian boots (with <Num0> Ranged)	Membros: Botas de pégaso<br>(com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Members: Virtus robes (with <Num0> Magic)	Membros: Túnica de Virtus<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Oathplate armour	Membros: Armadura do Juramento<br>	interface	generalUI	skillGuide
+Members: Ferocious Gloves (with <Num0> Attack)	Membros: Luvas ferozes<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Members: Torva armour	Membros: Armadura de Torva	interface	generalUI	skillGuide
-Members: Fortified Masori armour (with <Num0> Ranged)	Membros: Armadura masori fortificada (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Members: Fortified Masori armour (with <Num0> Ranged)	Membros: Armadura masori<br>fortificada (com 99 Cbt. à Distância)	interface	generalUI	skillGuide
+Members: Avernic treads (with <Num0> Strength, <Num1> Ranged and <Num2> Magic)	Members: Botas avernianas<br>(com 99 Força, 98 Distância e<br>97 Magia)	interface	generalUI	skillGuide
 Penance	Penitência	interface	generalUI	skillGuide
 Prayers	Orações	interface	generalUI	skillGuide
 Shields	Escudos	interface	generalUI	skillGuide
@@ -2238,16 +2267,16 @@ Penance - Members Only	Penitência - Para Membros	interface	generalUI	skillGuide
 Fighter torso	Couraça do lutador	interface	generalUI	skillGuide
 Runner boots	Botas de corredor	interface	generalUI	skillGuide
 Penance gloves	Luvas da penitência	interface	generalUI	skillGuide
-Penance skirt (with <Num0> Ranged)	Escarcela da penitência (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Penance skirt (with <Num0> Ranged)	Escarcela da penitência<br>(com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
 Fighter hat	Chapéu do lutador	interface	generalUI	skillGuide
 Ranger hat	Chapéu do rastreador	interface	generalUI	skillGuide
 Healer hat	Chapéu do curandeiro	interface	generalUI	skillGuide
 Runner hat	Chapéu do corredor	interface	generalUI	skillGuide
 Prayers - Members Only	Orações - Para Membros	interface	generalUI	skillGuide
-Chivalry (with <Num0> Prayer, after King's Ransom)	Bravura (com <Num0> Oração, após King's Ransom)	interface	generalUI	skillGuide
-Piety (with <Num0> Prayer, after King's Ransom)	Piedade (com <Num0> Oração, após King's Ransom)	interface	generalUI	skillGuide
-Rigour (with <Num0> Prayer, from Chambers of Xeric)	Rigor (com <Num0> Oração, de Câmaras de Xeric)	interface	generalUI	skillGuide
-Augury (with <Num0> Prayer, from Chambers of Xeric)	Presságio (com <Num0> Oração, de Câmaras de Xeric)	interface	generalUI	skillGuide
+Chivalry (with <Num0> Prayer, after King's Ransom)	Bravura<br>(com <Num0> Oração, após King's Ransom)	interface	generalUI	skillGuide
+Piety (with <Num0> Prayer, after King's Ransom)	Piedade<br>(com <Num0> Oração, após King's Ransom)	interface	generalUI	skillGuide
+Rigour (with <Num0> Prayer, from Chambers of Xeric)	Rigor<br>(com <Num0> Oração, de Câmaras de Xeric)	interface	generalUI	skillGuide
+Augury (with <Num0> Prayer, from Chambers of Xeric)	Presságio<br>(com <Num0> Oração, de Câmaras de Xeric)	interface	generalUI	skillGuide
 Shields - Members Only	Escudos - Para Membros	interface	generalUI	skillGuide
 Members: Oak shield	Membros: Escudo de carvalho	interface	generalUI	skillGuide
 Members: Willow shield	Membros: Escudo de salgueiro	interface	generalUI	skillGuide
@@ -2255,19 +2284,19 @@ Members: Maple shield	Membros: Escudo de bordo	interface	generalUI	skillGuide
 Members: Yew shield	Membros: Escudo de teixo	interface	generalUI	skillGuide
 Members: Magic shield	Membros: Escudo mágico	interface	generalUI	skillGuide
 Members: Redwood shield	Membros: Escudo de Sequoia	interface	generalUI	skillGuide
-Members: Spirit shield (with <Num0> Prayer)	Membros: Escudo espiritual (com <Num0> Oração)	interface	generalUI	skillGuide
+Members: Spirit shield (with <Num0> Prayer)	Membros: Escudo espiritual<br>(com <Num0> Oração)	interface	generalUI	skillGuide
 Members: Toktz-Ket-Xil	Membros: Toktz-ket-xil	interface	generalUI	skillGuide
-Members: Odium & Malediction wards	Membros: Protetores da Maldição e Ódio	interface	generalUI	skillGuide
-Members: Elf crystal (with <Num0> Agility)	Membros: Escudo de cristal (com <Num0> Agilidade)	interface	generalUI	skillGuide
-Members: Blessed spirit shield (with <Num0> Prayer)	Membros: Escudo espiritual bento (com <Num0> Oração)	interface	generalUI	skillGuide
-Members: Dragonfire shield	Membros: Escudo de fogo do dragão	interface	generalUI	skillGuide
-Members: Dragonfire ward (with <Num0> Ranged)	Membros: Protetor Fogo de dragão (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
-Members: Ancient Wyvern shield (with <Num0> Magic)	Membros: Escudo antigo de dragão alado (com <Num0> Magia)	interface	generalUI	skillGuide
-Members: Elysian spirit shield (with <Num0> Prayer)	Membros: Escudo espiritual elísio (com <Num0> Oração)	interface	generalUI	skillGuide
-Members: Arcane & Spectral spirit shields (with <Num0> Prayer and <Num1> Magic)	Membros: Escudo espirituais arcano e espectral (com <Num0> Oração e <Num1> Magia)	interface	generalUI	skillGuide
-Members: Twisted buckler (with <Num0> Ranged)	Membros: Escudo retorcido (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
-Members: Dinh's bulwark (with <Num0> Attack)	Membros: Baluarte de Dinh (com <Num0> Attack)	interface	generalUI	skillGuide
-Members: Elidinis' Ward (with <Num0> Prayer and <Num1> Magic)	Membros: Protetor de Elidinis (com <Num0> Oração e <Num1> Magia)	interface	generalUI	skillGuide
+Members: Odium & Malediction wards	Membros: Protetores da Maldição e<br>Ódio	interface	generalUI	skillGuide
+Members: Elf crystal (with <Num0> Agility)	Membros: Escudo de cristal<br>(com <Num0> Agilidade)	interface	generalUI	skillGuide
+Members: Blessed spirit shield (with <Num0> Prayer)	Membros: Escudo espiritual bento<br>(com <Num0> Oração)	interface	generalUI	skillGuide
+Members: Dragonfire shield	Membros: Escudo de fogo do dragão<br> 	interface	generalUI	skillGuide
+Members: Dragonfire ward (with <Num0> Ranged)	Membros: Protetor Fogo de dragão<br>(com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Members: Ancient Wyvern shield (with <Num0> Magic)	Membros: Escudo antigo de dragão<br>alado (com <Num0> Magia)	interface	generalUI	skillGuide
+Members: Elysian spirit shield (with <Num0> Prayer)	Membros: Escudo espiritual elísio<br>(com <Num0> Oração)	interface	generalUI	skillGuide
+Members: Arcane & Spectral spirit shields (with <Num0> Prayer and <Num1> Magic)	Membros: Escudo espirituais arcano<br>e espectral<br>(com <Num0> Oração e <Num1> Magia)	interface	generalUI	skillGuide
+Members: Twisted buckler (with <Num0> Ranged)	Membros: Escudo retorcido<br>(com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Members: Dinh's bulwark (with <Num0> Attack)	Membros: Baluarte de Dinh<br>(com <Num0> Attack)	interface	generalUI	skillGuide
+Members: Elidinis' Ward (with <Num0> Prayer and <Num1> Magic)	Membros: Protetor de Elidinis<br>(com <Num0> Oração e <Num1> Magia)	interface	generalUI	skillGuide
 Herblore	Herbologia	interface	generalUI	skillGuide
 Potions - Members Only	Poções - Para Membros	interface	generalUI	skillGuide
 You must complete the Druidic Ritual quest before you can use Herblore.	É necessário completar a missão<br>Druidic Ritual para usar Herbologia.	interface	generalUI	skillGuide
