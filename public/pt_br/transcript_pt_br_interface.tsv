@@ -3342,7 +3342,7 @@ Lunar Spells	Lunar	interface	generalUI	skillGuide
 Arceuus Spells	Arceuus	interface	generalUI	skillGuide
 Bolts	Setas	interface	generalUI	skillGuide
 Ancient Magicks - Members Only	Magias Antigas - Para Membros	interface	generalUI	skillGuide
-Ancient magicks are available after completing the Desert Treasure I quest.	Magias antigas estão disponíveis após completar a<br>missão Desert Treasure I.	interface	generalUI	skillGuide
+Ancient magicks are available after completing the Desert Treasure I quest.	Magias antigas estão disponíveis<br>após completar a missão Desert Treasure I.	interface	generalUI	skillGuide
 Home teleport (Edgeville)	Tererretorno à Edgeville	interface	generalUI	skillGuide
 Smoke rush	Jato de Fumaça	interface	generalUI	skillGuide
 Shadow rush	Jato de Sombra	interface	generalUI	skillGuide
@@ -3369,7 +3369,7 @@ Blood barrage	Megassaraivada de Sangue	interface	generalUI	skillGuide
 Ice barrage	Megassaraivada de Gelo	interface	generalUI	skillGuide
 Ghorrock teleport	Teleporte a Ghorrock	interface	generalUI	skillGuide
 Lunar Spells - Members Only	Feitiços Lunares - Para Membros	interface	generalUI	skillGuide
-Lunar spells are available after completing the Lunar Diplomacy quest.	Feitiços lunares estão disponíveis após completar a<br>missão Lunar Diplomacy	interface	generalUI	skillGuide
+Lunar spells are available after completing the Lunar Diplomacy quest.	Feitiços lunares estão disponíveis após<br>completar a missão Lunar Diplomacy	interface	generalUI	skillGuide
 Home teleport (Lunar Isle)	Telerretorno à Ilha Lunar	interface	generalUI	skillGuide
 Bake pie	Assar Torta	interface	generalUI	skillGuide
 Geomancy	Geomancia	interface	generalUI	skillGuide
@@ -3388,7 +3388,7 @@ Tele group Waterbirth	Multiporte para Waterbirth	interface	generalUI	skillGuide
 Cure group	Purificar grupo	interface	generalUI	skillGuide
 Stat spy (after Dream Mentor)	Espiar Habilidade<br>(após Dream Mentor)	interface	generalUI	skillGuide
 Barbarian teleport	Teleporte à Colônia Bárbara	interface	generalUI	skillGuide
-Tele group Barbarian	Multiporte para Colônia Bárbara	interface	generalUI	skillGuide
+Tele group Barbarian	Multiporte para Colônia Bárbara<br> 	interface	generalUI	skillGuide
 Spin Flax	Moldar linho	interface	generalUI	skillGuide
 Superglass make	Turbovidro	interface	generalUI	skillGuide
 Tan Leather	Fabricação de Couro	interface	generalUI	skillGuide
@@ -3396,12 +3396,12 @@ Khazard teleport	Teleporte a Khazard	interface	generalUI	skillGuide
 Tele group Khazard	Multiporte para Khazard	interface	generalUI	skillGuide
 Dream (after Dream Mentor)	Sonhos<br>(após Dream Mentor)	interface	generalUI	skillGuide
 String jewellery	Amarrajoia	interface	generalUI	skillGuide
-Stat restore pot share	Compartilhar poção de recuperação	interface	generalUI	skillGuide
+Stat restore pot share	Compartilhar poção de recuperação<br> 	interface	generalUI	skillGuide
 Magic imbue	Infusão Mágica	interface	generalUI	skillGuide
 Fertile soil	Solo fértil	interface	generalUI	skillGuide
 Boost potion share	Compartilhar poção de bônus	interface	generalUI	skillGuide
-Fishing guild teleport	Teleporte à Guilda dos Pescadores	interface	generalUI	skillGuide
-Tele group fishing guild	Multiporte para Guilda dos Pescadores	interface	generalUI	skillGuide
+Fishing guild teleport	Teleporte à Guilda dos Pescadores<br>	interface	generalUI	skillGuide
+Tele group fishing guild	Multiporte para Guilda dos<br>Pescadores	interface	generalUI	skillGuide
 Plank make (after Dream Mentor)	Fazer Tábua<br>(após Dream Mentor)	interface	generalUI	skillGuide
 Catherby teleport	Teleporte a Catherby	interface	generalUI	skillGuide
 Tele group Catherby	Multiporte para Catherby	interface	generalUI	skillGuide
@@ -3715,20 +3715,20 @@ Members: Lumberjack and Forestry outfit.	Membros: Roupas de lenhador e<br>flores
 Members: Fremennik round shield	Membros: Escudo fremennik	interface	generalUI	skillGuide
 Members: Split arctic pine logs	Membros: Partir Lenha de pinheiro do<br>ártico	interface	generalUI	skillGuide
 Waka canoe	Canoa waka	interface	generalUI	skillGuide
-Runecraft	Criação de Runa	interface	generalUI	skillGuide
+Runecraft	Criar runas	interface	generalUI	skillGuide
 Runes	Runas	interface	generalUI	skillGuide
 Air runes	Runa do ar	interface	generalUI	skillGuide
 Mind runes	Runa da mente	interface	generalUI	skillGuide
 Water runes	Runa da água	interface	generalUI	skillGuide
-Members: Mist runes	Membros: Runa da névoa	interface	generalUI	skillGuide
+Members: Mist runes Combination of Air and Water	Membros: Runa da névoa<br>Combinação de Ar e Água	interface	generalUI	skillGuide
 Earth runes	Runa da terra	interface	generalUI	skillGuide
-Members: Dust runes	Membros: Runa do pó	interface	generalUI	skillGuide
-Members: Mud runes	Membros: Runa da lama	interface	generalUI	skillGuide
+Members: Dust runes Combination of Air and Earth	Membros: Runa do pó<br>Combinação de Ar e Terra	interface	generalUI	skillGuide
+Members: Mud runes Combination of Water and Earth	Membros: Runa da lama<br>Combinação de Água e Terra	interface	generalUI	skillGuide
 Fire runes	Runa do fogo	interface	generalUI	skillGuide
-Members: Smoke runes	Membros: Runa da fumaça	interface	generalUI	skillGuide
-Members: Steam runes	Membros: Runa do vapor	interface	generalUI	skillGuide
+Members: Smoke runes Combination of Air and Fire	Membros: Runa da fumaça<br>Combinação de Ar e Fogo	interface	generalUI	skillGuide
+Members: Steam runes Combination of Water and Fire	Membros: Runa do vapor<br>Combinação de Água e Fogo	interface	generalUI	skillGuide
 Body runes	Runa corporal	interface	generalUI	skillGuide
-Members: Lava runes	Membros: Runa da lava	interface	generalUI	skillGuide
+Members: Lava runes Combination of Earth and Fire	Membros: Runa da lava<br>Combinação de Terra e Fogo	interface	generalUI	skillGuide
 Members: Cosmic runes	Membros: Runa cósmica	interface	generalUI	skillGuide
 Members: Sunfire runes	Membros: Runa de fogo solar	interface	generalUI	skillGuide
 Members: Chaos runes	Membros: Runa do caos	interface	generalUI	skillGuide
@@ -3738,42 +3738,47 @@ Members: Law runes	Membros: Runa da lei	interface	generalUI	skillGuide
 Members: Death runes	Membros: Runa da morte	interface	generalUI	skillGuide
 Members: Blood runes	Membros: Runa do sangue	interface	generalUI	skillGuide
 Members: Soul runes	Membros: Runa da alma	interface	generalUI	skillGuide
+Members: Aether runes	Membros: Runa de éter	interface	generalUI	skillGuide
 Members: Wrath runes	Membros: Runa da Ira	interface	generalUI	skillGuide
 Multiple Runes	Múltiplas	interface	generalUI	skillGuide
-Rune Pouches	Alforges rúnicos	interface	generalUI	skillGuide
+Rune Pouches	Alforges	interface	generalUI	skillGuide
 Infusing	Infusão	interface	generalUI	skillGuide
-As your Runecrafting skill develops, you will be able to craft multiple runes from one piece of essence. You only receive experience for each piece of essence crafted, not each rune crafted.	À medida que seu nível em Criação de Runas aumenta, você poderá produzir várias runas de uma mesma essência. A experiência recebida é baseada na essência usada, não na quantidade de runas criadas.	interface	generalUI	skillGuide
+As your Runecraft skill develops, you will be able to craft multiple runes from one piece of essence. You only receive experience for each piece of essence crafted, not each rune crafted.	À medida que seu nível em Criação de Runas aumenta,<br>você poderá produzir várias runas de uma mesma<br>essência. A experiência recebida é baseada na<br>essência usada, não na quantidade de runas criadas.	interface	generalUI	skillGuide
 <Num0> Air runes per essence	<Num0> Runas de ar por essência	interface	generalUI	skillGuide
-<Num0> Mind runes per essence	<Num0> Runas da mente por essência	interface	generalUI	skillGuide
+<Num0> Mind runes per essence	<Num0> Runas da mente por essência<br>	interface	generalUI	skillGuide
 <Num0> Water runes per essence	<Num0> Runas de água por essência	interface	generalUI	skillGuide
-<Num0> Earth runes per essence	<Num0> Runas de terra por essência	interface	generalUI	skillGuide
+<Num0> Earth runes per essence	<Num0> Runas de terra por essência<br>	interface	generalUI	skillGuide
 <Num0> Fire runes per essence	<Num0> Runas de fogo por essência	interface	generalUI	skillGuide
-<Num0> Body runes per essence	<Num0> Runas corporais por essência	interface	generalUI	skillGuide
-<Num0> Sunfire runes per essence	<Num0> Runas de Fogo Solar por essência	interface	generalUI	skillGuide
-Members: <Num0> Cosmic runes per essence	Membros: <Num0> Runas cósmicas por essência	interface	generalUI	skillGuide
-Members: <Num0> Chaos runes per essence	Membros: <Num0> Runas do caos por essência	interface	generalUI	skillGuide
-Members: <Num0> Astral runes per essence	Membros: <Num0> Runas astrais por essência	interface	generalUI	skillGuide
-Members: <Num0> Nature runes per essence	Membros: <Num0> Runas da natureza por essência	interface	generalUI	skillGuide
-Members: <Num0> Law runes per essence	Membros: <Num0> Runas da lei por essência	interface	generalUI	skillGuide
-Members: <Num0> Death runes per essence	Membros: <Num0> Runas da morte por essência	interface	generalUI	skillGuide
+<Num0> Body runes per essence	<Num0> Runas corporais por essência<br>	interface	generalUI	skillGuide
+<Num0> Sunfire runes per essence	<Num0> Runas de Fogo Solar por essência<br>	interface	generalUI	skillGuide
+Members: <Num0> Cosmic runes per essence	Membros: <Num0> Runas cósmicas por<br>essência	interface	generalUI	skillGuide
+Members: <Num0> Chaos runes per essence	Membros: <Num0> Runas do caos por<br>essência	interface	generalUI	skillGuide
+Members: <Num0> Astral runes per essence	Membros: <Num0> Runas astrais por<br>essência	interface	generalUI	skillGuide
+Members: <Num0> Nature runes per essence	Membros: <Num0> Runas da natureza por<br>essência	interface	generalUI	skillGuide
+Members: <Num0> Law runes per essence	Membros: <Num0> Runas da lei por essência<br>	interface	generalUI	skillGuide
+Members: <Num0> Death runes per essence	Membros: <Num0> Runas da morte por<br>essência	interface	generalUI	skillGuide
 Rune Pouches - Members Only	Alforges rúnicos - Para Membros	interface	generalUI	skillGuide
-Pouches come in various sizes which allow you to carry extra essence in them. As you use the pouches they degrade and store less essence, just speak to the Dark Mage at the centre of the Abyss to restore them.	Os alforges têm tamanhos variados e permitem carregar essência extra. Com o uso, eles se degradam e armazenam menos, mas podem ser restaurados falando com o Mago Negro no centro do Abismo.	interface	generalUI	skillGuide
-Small pouch: Holds <Num0> extra essence	Alforge pequeno: comporta <Num0> essência extra	interface	generalUI	skillGuide
-Medium pouch: Holds <Num0> extra essence	Alforge médio: comporta <Num0> essência extra	interface	generalUI	skillGuide
-Colossal pouch: Holds up to <Num0> essence, depending on your Runecraft level	Alforge colossal: comporta até <Num0> essência, dependendo do seu nível	interface	generalUI	skillGuide
-Large pouch: Holds <Num0> extra essence	Alforge grande: comporta <Num0> essência extra	interface	generalUI	skillGuide
-Giant pouch: Holds <Num0> extra essence	Alforge gigante: comporta <Num0> essência extra	interface	generalUI	skillGuide
-Infusing - Members Only	Infusão - Para Membros	interface	generalUI	skillGuide
-Swampbark boots and gauntlets	Botas e manoplas de tronco de pântano	interface	generalUI	skillGuide
+Pouches come in various sizes which allow you to carry extra essence in them. As you use the pouches they degrade and store less essence, just speak to the Dark Mage at the centre of the Abyss to restore them.	Os alforges têm tamanhos variados e permitem<br>carregar essência extra. Com o uso, eles se degradam<br>e armazenam menos, mas podem ser restaurados<br>falando com o Mago Negro no centro do Abismo.	interface	generalUI	skillGuide
+Small pouch: Holds <Num0> extra essence	Alforge pequeno: comporta <Num0><br>essências extras	interface	generalUI	skillGuide
+Medium pouch: Holds <Num0> extra essence	Alforge médio: comporta <Num0><br>essências extras	interface	generalUI	skillGuide
+Colossal pouch: Holds up to <Num0> essence, depending on your Runecraft level	Alforge colossal: comporta até <Num0><br>essências, dependendo do seu nível	interface	generalUI	skillGuide
+Large pouch: Holds <Num0> extra essence	Alforge grande: comporta <Num0><br>essências extras	interface	generalUI	skillGuide
+Giant pouch: Holds <Num0> extra essence	Alforge gigante: comporta <Num0><br>essências extras	interface	generalUI	skillGuide
+Infusing - Members Only	Infusão mágica - Para Membros	interface	generalUI	skillGuide
+Swampbark boots and gauntlets	Botas e manoplas de tronco de<br>pântano	interface	generalUI	skillGuide
 Swampbark helm	Elmo de tronco de pântano	interface	generalUI	skillGuide
-Swampbark body and legs	Perneiras e cota de tronco de pântano	interface	generalUI	skillGuide
-Eternal boots (with <Num0> Magic)	Botas da eternidade (com <Num0> Magia)	interface	generalUI	skillGuide
-Pegasian boots (with <Num0> Magic)	Botas de pégaso (com <Num0> Magia)	interface	generalUI	skillGuide
-Primordial boots (with <Num0> Magic)	Botas primordiais (com <Num0> Magia)	interface	generalUI	skillGuide
-Bloodbark boots and gauntlets	Botas e manoplas de tronco de sangue	interface	generalUI	skillGuide
+Swampbark body and legs	Perneiras e cota de tronco de<br>pântano	interface	generalUI	skillGuide
+Burnt page (via desiccated pages)	Página queimada<br>(de Página ressecada)	interface	generalUI	skillGuide
+Soaked page (via desiccated pages)	Página encharcada<br>(de Página ressecada)	interface	generalUI	skillGuide
+Soiled page (via desiccated pages)	Página suja<br>(de Página ressecada)	interface	generalUI	skillGuide
+Eternal boots (with <Num0> Magic)	Botas da eternidade<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Pegasian boots (with <Num0> Magic)	Botas de pégaso<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Primordial boots (with <Num0> Magic)	Botas primordiais<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Avernic treads (with <Num0> Magic)	Botas avernianas<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Bloodbark boots and gauntlets	Botas e manoplas de tronco de<br>sangue	interface	generalUI	skillGuide
 Bloodbark helm	Elmo de tronco de sangue	interface	generalUI	skillGuide
-Bloodbark body and legs	Perneiras e cota de tronco de sangue	interface	generalUI	skillGuide
-Guardians of the Rift (after Temple of the Eye)	Guardians of the Rift (após Temple of the Eye)	interface	generalUI	skillGuide
+Bloodbark body and legs	Perneiras e cota de tronco de sangue<br>	interface	generalUI	skillGuide
+Guardians of the Rift (after Temple of the Eye)	Guardians of the Rift<br>(após Temple of the Eye)	interface	generalUI	skillGuide
 Slayer	Extermínio	interface	generalUI	skillGuide
 Monsters - Members Only	Monstros - Para Membros	interface	generalUI	skillGuide
 Crawling hands	Mãos Rastejantes	interface	generalUI	skillGuide
@@ -3801,6 +3806,7 @@ Brine rats	Ratos Aquáticos	interface	generalUI	skillGuide
 Lesser Nagua	Nagua Inferior	interface	generalUI	skillGuide
 Bloodvelds	Demônios do Sangue	interface	generalUI	skillGuide
 Jellies	Geleias	interface	generalUI	skillGuide
+Juvenile custodian stalkers	Perseguidor juvenil	interface	generalUI	skillGuide
 Turoth	Turoth	interface	generalUI	skillGuide
 Warped creatures	Criaturas Deformadas	interface	generalUI	skillGuide
 Mutated zygomites	Zigomitas mutantes	interface	generalUI	skillGuide
@@ -3811,14 +3817,16 @@ Wyrms	Protodragões	interface	generalUI	skillGuide
 Spiritual rangers	Guarda espiritual	interface	generalUI	skillGuide
 Dust devils	Diabos do Pó	interface	generalUI	skillGuide
 Fossil Island wyverns	Dragão alado da Ilha Fóssil	interface	generalUI	skillGuide
+Mature custodian stalkers	Perseguidor maduro	interface	generalUI	skillGuide
 Spiritual warriors	Guerreiro espiritual	interface	generalUI	skillGuide
 Kurask	Kurask	interface	generalUI	skillGuide
 Skeletal wyverns	Dragões Alados Esqueletais	interface	generalUI	skillGuide
 Gargoyles	Gárgulas	interface	generalUI	skillGuide
-Brutal black dragons	Brutal black dragons	interface	generalUI	skillGuide
+Elder custodian stalkers	Perseguidor idoso	interface	generalUI	skillGuide
+Brutal black dragons	Dragões negros brutais	interface	generalUI	skillGuide
 Nechryael	Necriel	interface	generalUI	skillGuide
-Ancient wyverns	Ancient wyverns	interface	generalUI	skillGuide
-Spiritual mages	Spiritual mages	interface	generalUI	skillGuide
+Ancient wyverns	Dragão-alado antigo	interface	generalUI	skillGuide
+Spiritual mages	Magos espirituais	interface	generalUI	skillGuide
 Drakes	Dragonetes	interface	generalUI	skillGuide
 Abyssal demons & sires	Demônios e senhores abissais	interface	generalUI	skillGuide
 Cave kraken	Kraken da Caverna	interface	generalUI	skillGuide
@@ -3829,12 +3837,12 @@ Smoke devil	Diabo de fumaça	interface	generalUI	skillGuide
 Hydras	Hidras	interface	generalUI	skillGuide
 Monsters	Monstros	interface	generalUI	skillGuide
 Slayer Masters	Mestres	interface	generalUI	skillGuide
-Spiny helmet (with <Num0> Defence)	Elmo de espinhos (com <Num0> Defesa)	interface	generalUI	skillGuide
-Rock hammer & Rock Thrownhammer	Martelo de pedra & Martelo arremessável de pedra	interface	generalUI	skillGuide
+Spiny helmet (with <Num0> Defence)	Elmo de espinhos<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Rock hammer & Rock Thrownhammer	Martelo de pedra e Martelo<br>arremessável de pedra	interface	generalUI	skillGuide
 Reinforced Goggles	Óculos de proteção reforçados	interface	generalUI	skillGuide
 Facemask	Máscara	interface	generalUI	skillGuide
 Earmuffs	Protetores de ouvido	interface	generalUI	skillGuide
-Mirror shield (with <Num0> Defence)	Escudo de espelho (com <Num0> Defesa)	interface	generalUI	skillGuide
+Mirror shield (with <Num0> Defence)	Escudo de espelho<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
 Fishing explosive	Explosivo de pesca	interface	generalUI	skillGuide
 Harpie bug lantern (not a light source)	Lanterna inseticida	interface	generalUI	skillGuide
 Witchwood icon	Ícone de brucedro	interface	generalUI	skillGuide
@@ -3842,26 +3850,26 @@ Insulated boots	Botas isolantes	interface	generalUI	skillGuide
 Slayer bell	Sino do exterminador	interface	generalUI	skillGuide
 Slayer gloves	Luvas do exterminador	interface	generalUI	skillGuide
 Boots of Stone	Botas rochosas	interface	generalUI	skillGuide
-Leaf-bladed spear and sword (with <Num0> Attack)	Espada e Lança de lâmina fina  (com <Num0> Ataque)	interface	generalUI	skillGuide
-Leaf-bladed battleaxe (with <Num0> Attack)	Machado de batalha de lâmina fina (com <Num0> Ataque)	interface	generalUI	skillGuide
-Broad arrows (with <Num0> Ranged)	Flechas largas (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
-Broad bolts (with <Num0> Ranged)	Setas largas (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
-Slayer's staff (with <Num0> Magic)	Cajado do exterminador (com <Num0> Magia)	interface	generalUI	skillGuide
-Slayer's staff (e) (with <Num0> Magic)	Cajado do exterminador (e) (com <Num0> Magia)	interface	generalUI	skillGuide
+Leaf-bladed spear and sword (with <Num0> Attack)	Espada e Lança de lâmina fina <br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Leaf-bladed battleaxe (with <Num0> Attack)	Machado de batalha de lâmina fina<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Broad arrows (with <Num0> Ranged)	Flechas largas<br>(com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Broad bolts (with <Num0> Ranged)	Setas largas<br>(com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+Slayer's staff (with <Num0> Magic)	Cajado do exterminador<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Slayer's staff (e) (with <Num0> Magic)	Cajado do exterminador (e)<br>(com <Num0> Magia)	interface	generalUI	skillGuide
 Fungicide spray	Pregador de nariz	interface	generalUI	skillGuide
 Nose peg	Spray de fungicida	interface	generalUI	skillGuide
-V's shield (with <Num0> Defence)	Escudo de V (com <Num0> Defesa)	interface	generalUI	skillGuide
-Amethyst broad bolts (with <Num0> Ranged)	Seta de pontas largas de ametista (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
+V's shield (with <Num0> Defence)	Escudo de V<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Amethyst broad bolts (with <Num0> Ranged)	Seta de pontas largas de ametista<br>(com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
 Slayer Masters - Members Only	Mestres de Extermínio - Para Membros	interface	generalUI	skillGuide
 Wilderness master (no requirements)	Mestre da Wilderness	interface	generalUI	skillGuide
-Draynor Village master (after A Porcine of Interest)	Mestre da Vila Draynor (após A Porcine of Interest)	interface	generalUI	skillGuide
-Burthorpe master (with level <Num0> combat)	Mestre de Buthorpe (com <Num0> de combate)	interface	generalUI	skillGuide
-Canifis master (with level <Num0> combat)	Mestre de Canifis (com <Num0> de combate)	interface	generalUI	skillGuide
-Edgeville Dungeon master (with level <Num0> combat)	Mestre da masmorra de Edgeville (com <Num0> de combate)	interface	generalUI	skillGuide
-Zanaris master (with level <Num0> combat)	Mestre de Zanaris (com <Num0> de combate)	interface	generalUI	skillGuide
-Mount Karuulm master (with level <Num0> combat)	Mestre do Monte Karuulm (com <Num0> de combate)	interface	generalUI	skillGuide
-Gnome Stronghold master (with level <Num0> combat)	Mestre do Forte dos Gnomos (com <Num0> de combate)	interface	generalUI	skillGuide
-Shilo Village master (with level <Num0> combat)	Mestre da Vila Shilo (com <Num0> de combate)	interface	generalUI	skillGuide
+Draynor Village master (after A Porcine of Interest)	Mestre da Vila Draynor<br>(após A Porcine of Interest)	interface	generalUI	skillGuide
+Burthorpe master (with level <Num0> combat)	Mestre de Buthorpe<br>(com <Num0> de combate)	interface	generalUI	skillGuide
+Canifis master (with level <Num0> combat)	Mestre de Canifis<br>(com <Num0> de combate)	interface	generalUI	skillGuide
+Edgeville Dungeon master (with level <Num0> combat)	Mestre da masmorra de Edgeville<br>(com <Num0> de combate)	interface	generalUI	skillGuide
+Zanaris master (with level <Num0> combat)	Mestre de Zanaris<br>(com <Num0> de combate)	interface	generalUI	skillGuide
+Mount Karuulm master (with level <Num0> combat)	Mestre do Monte Karuulm<br>(com <Num0> de combate)	interface	generalUI	skillGuide
+Gnome Stronghold master (with level <Num0> combat)	Mestre do Forte dos Gnomos<br>(com <Num0> de combate)	interface	generalUI	skillGuide
+Shilo Village master (with level <Num0> combat)	Mestre da Vila Shilo<br>(com <Num0> de combate)	interface	generalUI	skillGuide
 Farming	Agricultura	interface	generalUI	skillGuide
 Allotments - Members Only	Lotes - Para Membros	interface	generalUI	skillGuide
 Potatoes Payment: Compost x<Num0>	Batata Pagamento: Adubo x<Num0>	interface	generalUI	skillGuide
@@ -3879,47 +3887,47 @@ Bushes	Arbustos	interface	generalUI	skillGuide
 Flowers	Flores	interface	generalUI	skillGuide
 Special	Especiais	interface	generalUI	skillGuide
 Scarecrows	Espantalhos	interface	generalUI	skillGuide
-Multiple roots	Múltiplas raízes	interface	generalUI	skillGuide
+Multiple roots	Raízes	interface	generalUI	skillGuide
 Tithe Farm	Tithe Farm	interface	generalUI	skillGuide
 Hops - Members Only	Lúpulos - Para Membros	interface	generalUI	skillGuide
-Barley Payment: Compost x<Num0>	Cevada Pagamento: Adubo x<Num0>	interface	generalUI	skillGuide
-Hammerstone hops Payment: Marigolds	Lúpulo de Hammerstone Pagamento: Malmequer	interface	generalUI	skillGuide
-Asgarnian hops Payment: Onions(<Num0>)	Lúpulo de Asgarnia Pagamento: Cebola(<Num0>)	interface	generalUI	skillGuide
-Jute plants Payment: Barley malt x<Num0>	Planta de juta Pagamento: Malte de cevada x<Num0>	interface	generalUI	skillGuide
-Yanillian hops Payment: Tomatoes(<Num0>)	Lúpulos de Yanille Pagamento: Tomate(<Num0>)	interface	generalUI	skillGuide
-Krandorian hops Payment: Cabbages(<Num0>) x<Num1>	Lúpulo kradoriano Pagamento: Repolho(<Num0>) x<Num1>	interface	generalUI	skillGuide
-Wildblood hops Payment: Nasturtiums	Lúpulos de hemoerva Pagamento: Nastúrcio	interface	generalUI	skillGuide
+Barley Payment: Compost x<Num0>	Cevada<br>Pagamento: Adubo x<Num0>	interface	generalUI	skillGuide
+Hammerstone hops Payment: Marigolds	Lúpulo de Hammerstone<br>Pagamento: Malmequer	interface	generalUI	skillGuide
+Asgarnian hops Payment: Onions(<Num0>)	Lúpulo de Asgarnia<br>Pagamento: Cebola(<Num0>)	interface	generalUI	skillGuide
+Jute plants Payment: Barley malt x<Num0>	Planta de juta<br>Pagamento: Malte de cevada x<Num0>	interface	generalUI	skillGuide
+Yanillian hops Payment: Tomatoes(<Num0>)	Lúpulos de Yanille<br>Pagamento: Tomate(<Num0>)	interface	generalUI	skillGuide
+Krandorian hops Payment: Cabbages(<Num0>) x<Num1>	Lúpulo kradoriano<br>Pagamento: Repolho(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Wildblood hops Payment: Nasturtiums	Lúpulos de hemoerva<br>Pagamento: Nastúrcio	interface	generalUI	skillGuide
 Trees - Members Only	Árvores - Para Membros	interface	generalUI	skillGuide
-Oak trees Payment: Tomatoes(<Num0>)	Carvalho Pagamento: Tomate(<Num0>)	interface	generalUI	skillGuide
-Willow trees Payment: Apples(<Num0>)	Salgueiro Pagamento: Maçã(<Num0>)	interface	generalUI	skillGuide
-Maple trees Payment: Oranges(<Num0>)	Bordo Pagamento: Laranja(<Num0>)	interface	generalUI	skillGuide
-Yew trees Payment: Cactus spine x<Num0>	Teixo Pagamento: Espinhos de cacto x<Num0>	interface	generalUI	skillGuide
-Magic trees Payment: Coconut x<Num0>	Árvore mágica Pagamento: Coco x<Num0>	interface	generalUI	skillGuide
+Oak trees Payment: Tomatoes(<Num0>)	Carvalho<br>Pagamento: Tomate(<Num0>)	interface	generalUI	skillGuide
+Willow trees Payment: Apples(<Num0>)	Salgueiro<br>Pagamento: Maçã(<Num0>)	interface	generalUI	skillGuide
+Maple trees Payment: Oranges(<Num0>)	Bordo<br>Pagamento: Laranja(<Num0>)	interface	generalUI	skillGuide
+Yew trees Payment: Cactus spine x<Num0>	Teixo<br>Pagamento: Espinhos de cacto x<Num0>	interface	generalUI	skillGuide
+Magic trees Payment: Coconut x<Num0>	Árvore mágica<br>Pagamento: Coco x<Num0>	interface	generalUI	skillGuide
 Fruit Trees - Members Only	Árvores frutíferas - Para Membros	interface	generalUI	skillGuide
-Apple trees Payment: Sweetcorn x<Num0>	Macieira Pagamento: Milho verde x<Num0>	interface	generalUI	skillGuide
-Banana trees Payment: Apples(<Num0>) x<Num1>	Bananeira Pagamento: Maçã(<Num0>) x<Num1>	interface	generalUI	skillGuide
-Orange trees Payment: Strawberries(<Num0>) x<Num1>	Laranjeira Pagamento: Morango(<Num0>) x<Num1>	interface	generalUI	skillGuide
-Curry trees Payment: Bananas(<Num0>) x<Num1>	Curry Pagamento: Banana(<Num0>) x<Num1>	interface	generalUI	skillGuide
-Pineapple plants Payment: Watermelon x<Num0>	Pé de abacaxi Pagamento: Melancia x<Num0>	interface	generalUI	skillGuide
-Papaya trees Payment: Pineapple x<Num0>	Mamoeiro Pagamento: Abacaxi x<Num0>	interface	generalUI	skillGuide
-Palm trees Payment: Papaya fruit x<Num0>	Coqueiro Pagamento: Mamão x<Num0>	interface	generalUI	skillGuide
-Dragonfruit trees Payment: Coconut x<Num0>	Árvore de pitaia Pagamento: Coco x<Num0>	interface	generalUI	skillGuide
+Apple trees Payment: Sweetcorn x<Num0>	Macieira<br>Pagamento: Milho verde x<Num0>	interface	generalUI	skillGuide
+Banana trees Payment: Apples(<Num0>) x<Num1>	Bananeira<br>Pagamento: Maçã(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Orange trees Payment: Strawberries(<Num0>) x<Num1>	Laranjeira<br>Pagamento: Morango(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Curry trees Payment: Bananas(<Num0>) x<Num1>	Curry<br>Pagamento: Banana(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Pineapple plants Payment: Watermelon x<Num0>	Pé de abacaxi<br>Pagamento: Melancia x<Num0>	interface	generalUI	skillGuide
+Papaya trees Payment: Pineapple x<Num0>	Mamoeiro<br>Pagamento: Abacaxi x<Num0>	interface	generalUI	skillGuide
+Palm trees Payment: Papaya fruit x<Num0>	Coqueiro<br>Pagamento: Mamão x<Num0>	interface	generalUI	skillGuide
+Dragonfruit trees Payment: Coconut x<Num0>	Árvore de pitaia<br>Pagamento: Coco x<Num0>	interface	generalUI	skillGuide
 Bushes - Members Only	Arbustos - Para Membros	interface	generalUI	skillGuide
-Redberry bushes Payment: Cabbages(<Num0>) x<Num1>	Arbusto de vermelhora Pagamento: Repolho(<Num0>) x<Num1>	interface	generalUI	skillGuide
-Cadavaberry bushes Payment: Tomatoes(<Num0>) x<Num1>	Arbusto de defunticaba Pagamento: Tomate(<Num0>) x<Num1>	interface	generalUI	skillGuide
-Dwellberry bushes Payment: Strawberries(<Num0>) x<Num1>	Arbusto de damora Pagamento: Morango(<Num0>) x<Num1>	interface	generalUI	skillGuide
-Jangerberry bushes Payment: Watermelon x<Num0>	Arbusto de jangoesa Pagamento: Melancia x<Num0>	interface	generalUI	skillGuide
-White berry bushes Payment: Mushroom x<Num0>	Arbusto de alvamoras Pagamento: Cogumelo x<Num0>	interface	generalUI	skillGuide
+Redberry bushes Payment: Cabbages(<Num0>) x<Num1>	Arbusto de vermelhora<br>Pagamento: Repolho(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Cadavaberry bushes Payment: Tomatoes(<Num0>) x<Num1>	Arbusto de defunticaba<br>Pagamento: Tomate(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Dwellberry bushes Payment: Strawberries(<Num0>) x<Num1>	Arbusto de damora<br>Pagamento: Morango(<Num0>) x<Num1>	interface	generalUI	skillGuide
+Jangerberry bushes Payment: Watermelon x<Num0>	Arbusto de jangoesa<br>Pagamento: Melancia x<Num0>	interface	generalUI	skillGuide
+White berry bushes Payment: Mushroom x<Num0>	Arbusto de alvamoras<br>Pagamento: Cogumelo x<Num0>	interface	generalUI	skillGuide
 Poison ivy bushes	Arbusto de hera venenosa	interface	generalUI	skillGuide
 Flowers - Members Only	Flores - Para Membros	interface	generalUI	skillGuide
-Marigolds Protects onions, tomatoes and potatoes	Malmequer Protege cebolas, tomates e batatas	interface	generalUI	skillGuide
-Rosemary Protects cabbages from disease	Alecrim Protege repolhos de doenças	interface	generalUI	skillGuide
-Make and place a scarecrow Protects sweetcorn from birds	Fazer e colocar espantalhos Protege milho verde de pássaros	interface	generalUI	skillGuide
-Nasturtiums Protects watermelons from disease	Nastúrcios Protege melancias de doenças	interface	generalUI	skillGuide
+Marigolds Protects onions, tomatoes and potatoes	Malmequer<br>Protege cebolas, tomates e batatas	interface	generalUI	skillGuide
+Rosemary Protects cabbages from disease	Alecrim<br>Protege repolhos de doenças	interface	generalUI	skillGuide
+Make and place a scarecrow Protects sweetcorn from birds	Fazer e colocar espantalhos<br>Protege milho verde de pássaros	interface	generalUI	skillGuide
+Nasturtiums Protects watermelons from disease	Nastúrcios<br>Protege melancias de doenças	interface	generalUI	skillGuide
 Woad	Ísatis	interface	generalUI	skillGuide
 Limpwurt plants	Pé de talsichão	interface	generalUI	skillGuide
-White lily Protects all allotment crops	Lírio branco Proteges todos os lotes	interface	generalUI	skillGuide
-Goutweed Must have completed Eadgar's Ruse	Gotadeira Requer Eadgar's Ruse	interface	generalUI	skillGuide
+White lily Protects all allotment crops	Lírio branco<br>Proteges todos os lotes	interface	generalUI	skillGuide
+Goutweed Must have completed Eadgar's Ruse	Gotadeira<br>Requer Eadgar's Ruse	interface	generalUI	skillGuide
 Special - Members Only	Especial - Para Membros	interface	generalUI	skillGuide
 Giant Seaweed Payment: Numulites x<Num0>	Alga marinha gigante Pagamento: Numulita x<Num0>	interface	generalUI	skillGuide
 Teak trees Payment: Limpwurt root x<Num0>	Árvore de teca Pagamento: Raiz de talsichão x<Num0>	interface	generalUI	skillGuide
@@ -3943,12 +3951,12 @@ Spirit trees (unlimited)	Árvore espiritual (ilimitada)	interface	generalUI	skil
 Payment: Monkey bar, ground suqah tooth & <Num0> monkey nuts	Pagamento: Barra de macaco, Dente moído & <Num0> Nozes de macaco	interface	generalUI	skillGuide
 Scarecrows - Members Only	Espantalhos - Para Membros	interface	generalUI	skillGuide
 Able to make and place a scarecrow	Fazer e colocar espantalhos	interface	generalUI	skillGuide
-Scarecrows ward sweetcorn from being attacked by birds, which helps to prevent disease.	Os espantalhos protegem o milho verde de pássaros e ajudam a prevenir doenças	interface	generalUI	skillGuide
+Scarecrows ward sweetcorn from being attacked by birds, which helps to prevent disease.	Os espantalhos protegem o milho verde de pássaros e<br>ajudam a prevenir doenças	interface	generalUI	skillGuide
 How to make a scarecrow:	Para criar um:	interface	generalUI	skillGuide
 <Num0>. Fill an empty sack with straw from a bale.	Encha um saco vazio com feno.	interface	generalUI	skillGuide
-<Num0>. Drive the hay sack onto a bronze spear.	Espete o saco de palha em uma lança de bronze.	interface	generalUI	skillGuide
-<Num0>. Place a watermelon on top as a head.	Coloque uma melancia no topo como cabeça.	interface	generalUI	skillGuide
-<Num0>. Stand the scarecrow in an empty flower patch.	Coloque o espantalho em um canteiro de flores vazio.	interface	generalUI	skillGuide
+<Num0>. Drive the hay sack onto a bronze spear.	Espete o saco de palha em uma lança de bronze.<br>	interface	generalUI	skillGuide
+<Num0>. Place a watermelon on top as a head.	Coloque uma melancia no topo como cabeça.<br>	interface	generalUI	skillGuide
+<Num0>. Stand the scarecrow in an empty flower patch.	Coloque o espantalho em um canteiro de flores vazio.<br>	interface	generalUI	skillGuide
 Multiple roots - Members Only	Raízes múltiplas	interface	generalUI	skillGuide
 <Num0>x oak roots	<Num0>x Raízes de carvalho	interface	generalUI	skillGuide
 <Num0>x willow roots	<Num0>x Raízes de salgueiro	interface	generalUI	skillGuide
@@ -3962,10 +3970,10 @@ Logavano fruit	Fruta de Logavano	interface	generalUI	skillGuide
 Golpar	Golpar	interface	generalUI	skillGuide
 Buchu leaf	Folha de buchu	interface	generalUI	skillGuide
 Noxifer	Noxifer	interface	generalUI	skillGuide
-Farming Guild - Low tier	Guilda de Agricultura - nível inferior	interface	generalUI	skillGuide
-Nature offerings (with <Num0> Woodcutting)	Ofertas da natureza (com <Num0> Corte de Lenha)	interface	generalUI	skillGuide
-Farming Guild - Mid tier	Guilda de Agricultura - nível médio	interface	generalUI	skillGuide
-Farming Guild - High tier	Guilda de Agricultura - nível superior	interface	generalUI	skillGuide
+Farming Guild - Low tier	Guilda de Agricultura<br>nível inferior	interface	generalUI	skillGuide
+Nature offerings (with <Num0> Woodcutting)	Ofertas da natureza<br>(com <Num0> Corte de Lenha)	interface	generalUI	skillGuide
+Farming Guild - Mid tier	Guilda de Agricultura<br>nível médio	interface	generalUI	skillGuide
+Farming Guild - High tier	Guilda de Agricultura<br>nível superior	interface	generalUI	skillGuide
 Construction	Construção	interface	generalUI	skillGuide
 Rooms - Members Only	Salas - Para Membros	interface	generalUI	skillGuide
 Garden	Jardim	interface	generalUI	skillGuide
@@ -4672,7 +4680,7 @@ Increasing your Woodcutting level will give you a higher chance of successfully 
 In addition to this, higher Woodcutting levels grant access to more powerful axes, which also increase the chance of chopping trees. Note that you can still use an axe in your inventory if you have the Woodcutting level for it, even if you don't have the Attack level to equip it.	Níveis mais altos de Corte de Lenha<br>permitem usar machados mais<br>poderosos, aumentando a chance de<br>sucesso. Mesmo sem o nível de<br>Ataque, você pode usar um machado<br>do inventário se tiver o nível de<br>Corte de Lenha necessário.	interface	generalUI	skillGuide
 Runecraft is the skill that allows you to convert essences into runes, which you can use to cast spells.	Criação de Runas permite converter<br>essências em runas, que podem ser<br>usadas para lançar feitiços.	interface	generalUI	skillGuide
 To create runes, you'll first need some essence and a talisman of the rune you want to make. You can use the talisman to both locate and access the runic altar, which is where the runes are crafted.	Para criar runas, você precisa de<br>essência e do talismã da runa que<br>deseja. Use o talismã para localizar<br>e acessar o altar rúnico, onde as<br>runas são produzidas.	interface	generalUI	skillGuide
-Higher Runecrafting levels will allow you to craft more kinds of runes. At higher levels, you'll also be able to make multiple runes per essence.	Níveis mais altos de Criação de<br>Runas permitem criar mais tipos de<br>runas e, em níveis avançados, gerar<br>várias runas por essência.	interface	generalUI	skillGuide
+Higher Runecraft levels will allow you to craft more kinds of runes. At higher levels, you'll also be able to make multiple runes per essence.	Níveis mais altos de Criação de<br>Runas permitem criar mais tipos de<br>runas e, em níveis avançados, gerar<br>várias runas por essência.	interface	generalUI	skillGuide
 Slayer - Members Only	Extermínio - Para Membros	interface	generalUI	skillGuide
 Slayer is a skill that lets you fight increasingly dangerous and lucrative monsters. Some monsters can only be fought if you have a high enough Slayer level.	Extermínio permite lutar contra<br>monstros mais perigosos e<br>lucrativos. Alguns só podem ser<br>enfrentados com níveis suficientes<br>de Extermínio.	interface	generalUI	skillGuide
 To get started with Slayer, you'll first need a Slayer task, which can be obtained from a Slayer Master. You can then kill the assigned target to get Slayer experience.	Para iniciar Extermínio, obtenha uma<br>tarefa com um Mestre de<br>Extermínio. Em seguida mate o alvo<br>designado para ganhar experiência.	interface	generalUI	skillGuide
