@@ -1838,7 +1838,7 @@ Courses	Percursos	interface	generalUI	skillGuide
 Other	Outros	interface	generalUI	skillGuide
 Rope-swing to Moss Giant Island	Balanço de corda para a Ilha do<br>Gigante de Líquen	interface	generalUI	skillGuide
 Stepping stones in Karamja Dungeon	Pedras em Karamja Dungeon	interface	generalUI	skillGuide
-Monkey bars under Edgeville	Barras de macaco em Edgeville	interface	generalUI	skillGuide
+Monkey bars under Edgeville	Barras de macaco em Edgeville<br> 	interface	generalUI	skillGuide
 Pipe contortion in Karamja Dungeon	Contorcionismo em Karamja Dungeon<br> 	interface	generalUI	skillGuide
 Stepping stones in south-eastern Karamja	Pedras no sudeste de Karamja	interface	generalUI	skillGuide
 Elf area log balance	Equilíbrio em troncos na área dos<br>elfos	interface	generalUI	skillGuide
@@ -1846,40 +1846,40 @@ Contortion in Yanille Dungeon small room	Contorcionismo na pequena sala de<br>Ya
 Access the God Wars Dungeon area via the Agility route	Acesse a área de God Wars Dungeon<br>pela rota de agilidade	interface	generalUI	skillGuide
 Yanille Dungeon's rubble climb	Escalada nos escombros de Yanille<br>Dungeon	interface	generalUI	skillGuide
 Enter the Saradomin area of the God Wars Dungeon	Entre na área de Saradomin em God<br>Wars Dungeon	interface	generalUI	skillGuide
-Falador Agility shortcut	Atalho de agilidade em Falador	interface	generalUI	skillGuide
+Falador Agility shortcut	Atalho de agilidade em Falador<br>	interface	generalUI	skillGuide
 Cross the River Lum to Al Kharid (with <Num0> Strength and <Num1> Ranged)	Atravesse o rio Lum até Al Kharid<br>(com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
 Corsair Cove shortcut	Atalho para a Corsair Cave	interface	generalUI	skillGuide
 Scale Falador wall (with <Num0> Strength and <Num1> Ranged)	Escalar a muralha de Falador<br>(com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
-Jump fence south of Varrock	Pule a cerca ao sul de Varrock	interface	generalUI	skillGuide
+Jump fence south of Varrock	Pule a cerca ao sul de Varrock<br>	interface	generalUI	skillGuide
 Scale Goblin village wall	Escalar a muralha da vila dos goblins	interface	generalUI	skillGuide
-Corsair Cove Dungeon shortcut (after Dragon Slayer)	Atalho para a Masmorra da Corsair Cave (após Dragon Slayer)	interface	generalUI	skillGuide
+Corsair Cove Dungeon shortcut (after Dragon Slayer)	Atalho para a Masmorra da Corsair<br>Cave (após Dragon Slayer)	interface	generalUI	skillGuide
 Yanille Agility shortcut	Atalho para Yanille	interface	generalUI	skillGuide
-Kourend Catacombs Agility shortcut	Atalho para as Catacumbas de Kourend	interface	generalUI	skillGuide
+Kourend Catacombs Agility shortcut	Atalho para as Catacumbas de<br>Kourend	interface	generalUI	skillGuide
 Slayer Tower Banshee shortcut	Atalho do Banshee da torre de<br>extermínio	interface	generalUI	skillGuide
-Coal Truck log balance	Ponte de tronco do caminhão de carvão	interface	generalUI	skillGuide
+Coal Truck log balance	Ponte de tronco do caminhão de<br>carvão	interface	generalUI	skillGuide
 Grand Exchange Agility shortcut	Atalho para a Grand Exchange	interface	generalUI	skillGuide
 Scale the Observatory cliff (with <Num0> Strength and <Num1> Ranged, after completing the Observatory quest)	Escalar o penhasco do Observatório<br>(com <Num0> Força e <Num1> Distância,<br>após Observatory)	interface	generalUI	skillGuide
-Nemus Retreat wall climbs	Escalar parede do Retiro Nemus<br> 	interface	generalUI	skillGuide
+Nemus Retreat wall climbs	Escalar parede do Retiro Nemus<br>	interface	generalUI	skillGuide
 Eagles' Peak Agility shortcut	Atalho do Pico das Águias	interface	generalUI	skillGuide
 Kourend Catacombs pillar jump shortcut	Atalho do salto do pilar das<br>Catacumbas de Kourend	interface	generalUI	skillGuide
 Mount Karuulm lower cliffside climb	Escalada da falésia inferior do<br>Monte Karuulm	interface	generalUI	skillGuide
 Corsair Cove Resource Area shortcut (after Dragon Slayer)	Atalho para a área de recursos de<br>Corsair Cove (após Dragon Slayer)	interface	generalUI	skillGuide
 Draynor Manor stones to Champions' Guild	Pedras de Draynor Manor para a<br>Guilda dos Campeões	interface	generalUI	skillGuide
 Scale the Catherby cliff (with <Num0> Strength and <Num1> Ranged)	Escalar o penhasco de Catherby<br>(com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
-Shilo Village river crossing	Atravessar o rio da vila de Shilo	interface	generalUI	skillGuide
+Shilo Village river crossing	Atravessar o rio da vila de Shilo<br>	interface	generalUI	skillGuide
 Ardougne log balance shortcut	Atalho pela ponte de troncos de<br>Ardougne	interface	generalUI	skillGuide
 Nemus Retreat underground tunnel	Túnel do Retiro Nemus	interface	generalUI	skillGuide
 Varrock Palace Garden trellis shortcut (after Garden of Tranquillity)	Grade do Jardim do Palácio de<br>Varrock (após Garden of Tranquillity)	interface	generalUI	skillGuide
 Escape from the water obelisk island (with <Num0> Strength and <Num1> Ranged)	Fugir da ilha do obelisco de água<br>(com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
-Nemus Retreat stepping stones	Pedras de apoio do Retiro Nemus	interface	generalUI	skillGuide
-Gnome Stronghold shortcut	Atalho pela fortaleza dos gnomos	interface	generalUI	skillGuide
+Nemus Retreat stepping stones	Pedras de apoio do Retiro Nemus<br>	interface	generalUI	skillGuide
+Gnome Stronghold shortcut	Atalho pela fortaleza dos gnomos<br>	interface	generalUI	skillGuide
 Al Kharid Mining pit cliffside scramble	Escalada pela encosta da mina de<br>Al Kharid	interface	generalUI	skillGuide
 Scale Yanille wall (with <Num0> Strength and <Num1> Ranged)	Escalar a muralha de Yanille<br>(com <Num0> Força e <Num1> Distância)	interface	generalUI	skillGuide
-Hosidius lake isle jump	Pular na ilha do lago Hosidius	interface	generalUI	skillGuide
+Hosidius lake isle jump	Pular na ilha do lago Hosidius<br>	interface	generalUI	skillGuide
 Tlati Rainforest log balance	Equilíbrio de troncos da floresta<br>tropical Tlati	interface	generalUI	skillGuide
-Trollheim easy cliffside scramble	Escalada fácil na falésia de Trollheim	interface	generalUI	skillGuide
-Auburnvale rock scramble	Escalada em rocha em Auburnvale	interface	generalUI	skillGuide
-Dwarven Mine narrow crevice	Fenda estreita na mina dos anões	interface	generalUI	skillGuide
+Trollheim easy cliffside scramble	Escalada fácil na falésia de Trollheim<br>	interface	generalUI	skillGuide
+Auburnvale rock scramble	Escalada em rocha em Auburnvale<br>	interface	generalUI	skillGuide
+Dwarven Mine narrow crevice	Fenda estreita na mina dos anões<br>	interface	generalUI	skillGuide
 Draynor narrow tunnel	Túnel estreito de Draynor	interface	generalUI	skillGuide
 Trollheim medium cliffside scramble	Escalada média na falésia de<br>Trollheim	interface	generalUI	skillGuide
 Tlati Rainforest cliffside scramble	Escalada na falésia da floresta<br>tropical de Tlati	interface	generalUI	skillGuide
@@ -1887,7 +1887,7 @@ Fremennik Slayer Dungeon spiked blades jump	Pular nas lâminas da masmorra de<br
 Trollheim advanced cliffside scramble	Escalada avançada na falésia de<br>Trollheim	interface	generalUI	skillGuide
 Hosidius river jump	Pular no rio Hosidius	interface	generalUI	skillGuide
 Auburn Valley log balances	Equilíbrios de troncos em Auburn<br>Valley	interface	generalUI	skillGuide
-Proudspire lower scramble	Escalada inferior em Proudspire	interface	generalUI	skillGuide
+Proudspire lower scramble	Escalada inferior em Proudspire<br>	interface	generalUI	skillGuide
 Cosmic Temple - medium narrow walkway	Templo Cósmico - passarela estreita<br>média	interface	generalUI	skillGuide
 Deep Wilderness - narrow tunnel	Wilderness - túnel estreito	interface	generalUI	skillGuide
 Tonali Cavern shortcuts	Atalhos da Caverna Tonali	interface	generalUI	skillGuide
@@ -1899,18 +1899,18 @@ Stepping stone into Morytania near the Nature Grotto	Pedra de apoio para Morytan
 Pipe from Edgeville dungeon to Varrock Sewers	Tubo da masmorra de Edgeville até<br>os esgotos de Varrock	interface	generalUI	skillGuide
 Arceuus essence mine eastern scramble	Escalada oriental na mina de essência<br>de Arceuus	interface	generalUI	skillGuide
 Karamja crossing, south of volcano (with <Num0> Strength and <Num1> Ranged)	Travessia de Karamja, ao sul do<br>vulcão (com 99 Força e 98 Distância)	interface	generalUI	skillGuide
-Motherlode Mine dark tunnel	Túnel escuro da mina Motherlode	interface	generalUI	skillGuide
+Motherlode Mine dark tunnel	Túnel escuro da mina Motherlode<br>	interface	generalUI	skillGuide
 Western Aldarin cliff scramble	Escalada no penhasco de Aldarin<br>ocidental	interface	generalUI	skillGuide
 Stepping stone by Miscellania docks	Pedra de apoio nas docas de<br>Miscellania	interface	generalUI	skillGuide
-Rock climb in the Temple of the Eye	Escalada no Temple of the Eye	interface	generalUI	skillGuide
+Rock climb in the Temple of the Eye	Escalada no Temple of the Eye<br>	interface	generalUI	skillGuide
 Brimhaven Dungeon eastern stepping stones	Pedras de apoio a leste da Masmorra<br>de Brimhaven	interface	generalUI	skillGuide
-Rellekka east fence shortcut	Atalho pela cerca leste de Rellekka	interface	generalUI	skillGuide
+Rellekka east fence shortcut	Atalho pela cerca leste de Rellekka<br>	interface	generalUI	skillGuide
 Port Phasmatys ectopool shortcut	Atalho pela ectopool de Porto<br>Phasmatys	interface	generalUI	skillGuide
 Elven overpass easy cliffside scramble	Escalar escosta fácil da passagem<br>élfica	interface	generalUI	skillGuide
 Cave to the Stalker Den (after Shadows of Custodia)	Caverna para Covil do Perseguidor<br>(após Shadows of Custodia)	interface	generalUI	skillGuide
 Wilderness from the God Wars Dungeon area climb	Escalada na área selvagem da<br>Masmorra das Guerras dos Deuses	interface	generalUI	skillGuide
 Estuary crossing on Mos Le'Harmless	Travessia do estuário em Mos<br>Le'Harmless	interface	generalUI	skillGuide
-Pillars in the Wintertodt's Prison	Pilares na Prisão de Wintertodt	interface	generalUI	skillGuide
+Pillars in the Wintertodt's Prison	Pilares na Prisão de Wintertodt<br>	interface	generalUI	skillGuide
 Stepping stone in the Tombs of Amascut	Pedras nas Tumbas de Amascut	interface	generalUI	skillGuide
 Asgarnian Ice Dungeon frozen throne tunnel	Túneis do Trono Congelado da<br>Masmorra de Gelo de Asgarnia	interface	generalUI	skillGuide
 Slayer Tower medium spiked chain climb	Corrente média da Torre de<br>Extermínio	interface	generalUI	skillGuide
@@ -1918,10 +1918,10 @@ Fremennik Slayer Dungeon narrow crevice	Fenda estreita da masmorra de<br>exterm�
 Mount Karuulm upper cliffside climb	Escalar penhasco superior de Monte<br>Karuulm	interface	generalUI	skillGuide
 Stepping stones in the Necropolis	Pedras na Necrópole	interface	generalUI	skillGuide
 Taverley dungeon lesser demon fence shortcut	Masmorra de Taverley atalho na<br>cerca do demônio inferior	interface	generalUI	skillGuide
-Darkmeyer wall climb	Escalada na parede de Darkmeyer	interface	generalUI	skillGuide
+Darkmeyer wall climb	Escalada na parede de Darkmeyer<br>	interface	generalUI	skillGuide
 Forthos Dungeon spiked blades jump	Masmorra de Forthos salto nas<br>lâminas	interface	generalUI	skillGuide
-Trollheim Wilderness route	Rota p/ Wilderness de Trollheim	interface	generalUI	skillGuide
-Rope to the Fossil Island volcano	Corda para o vulcão da Ilha Fóssil	interface	generalUI	skillGuide
+Trollheim Wilderness route	Rota p/ Wilderness de Trollheim<br>	interface	generalUI	skillGuide
+Rope to the Fossil Island volcano	Corda para o vulcão da Ilha Fóssil<br>	interface	generalUI	skillGuide
 Stalker Den stepping stone	Pedra de apoio do Covil do<br>Perseguidor	interface	generalUI	skillGuide
 Temple on the Salve to Morytania shortcut	Atalho do templo Salve para<br>Morytania	interface	generalUI	skillGuide
 Revenant cave jump (easy)	Salto na caverna dos Revenants<br>(fácil)	interface	generalUI	skillGuide
@@ -1942,29 +1942,29 @@ Pollnivneach stepping stone	Pedra de apoio de Pollnivneach	interface	generalUI	s
 Proudspire upper scramble	Escalada superior em Proudspire	interface	generalUI	skillGuide
 Stronghold Slayer Cave narrow tunnel	Túnel estreito da Caverna de<br>extermínio da Fortaleza	interface	generalUI	skillGuide
 Basic Asgarnian Ice Dungeon wyvern tunnel	Túnel básico da masmorra de gelo<br>Asgarniana	interface	generalUI	skillGuide
-Chaos temple Stepping Stone	Pedra de apoio do Templo do Caos	interface	generalUI	skillGuide
+Chaos temple Stepping Stone	Pedra de apoio do Templo do Caos<br>	interface	generalUI	skillGuide
 Barrows wall-jump	Salto na parede de Barrows	interface	generalUI	skillGuide
 Troll Stronghold wall-climb	Escalada na parede da Fortaleza dos<br>Trolls	interface	generalUI	skillGuide
 Arceuus essence mine western descent	Descida ocidental da mina de<br>essência de Arceuus	interface	generalUI	skillGuide
-Chasm of Fire platforms	Plataformas do Abismo de Fogo	interface	generalUI	skillGuide
-Lava Dragon Isle jump	Salto na Ilha do Dragão de Lava	interface	generalUI	skillGuide
+Chasm of Fire platforms	Plataformas do Abismo de Fogo<br>	interface	generalUI	skillGuide
+Lava Dragon Isle jump	Salto na Ilha do Dragão de Lava<br>	interface	generalUI	skillGuide
 Fossil Island zipline	Tirolesa da Ilha Fósil	interface	generalUI	skillGuide
-Meiyerditch Laboratory tunnels	Túneis do Laboratório Meiyerditch	interface	generalUI	skillGuide
+Meiyerditch Laboratory tunnels	Túneis do Laboratório Meiyerditch<br>	interface	generalUI	skillGuide
 Revenant cave jump (medium)	Salto na caverna dos Revenants<br>(médio)	interface	generalUI	skillGuide
 Mokhaiotl pit jump	Salto na cova Mokhaiotl	interface	generalUI	skillGuide
-Island crossing near Zul-Andra	Travessia da ilha perto de Zul-Andra	interface	generalUI	skillGuide
-Darkfrost cliff scramble	Escalada no penhasco Darkfrost	interface	generalUI	skillGuide
+Island crossing near Zul-Andra	Travessia da ilha perto de Zul-Andra<br>	interface	generalUI	skillGuide
+Darkfrost cliff scramble	Escalada no penhasco Darkfrost<br>	interface	generalUI	skillGuide
 Wilderness Slayer Dungeon Crevices	Fendas da Masmorra de extermínio<br>da Wilderness	interface	generalUI	skillGuide
 Iorwerth Dungeon northern shortcut	Atalho norte da Masmorra de<br>Iorwerth	interface	generalUI	skillGuide
-Shilo village rock climb	Escalada na rocha da vila de Shilo	interface	generalUI	skillGuide
+Shilo village rock climb	Escalada na rocha da vila de Shilo<br>	interface	generalUI	skillGuide
 Kharazi Jungle vine climb (with Legends' Guild access)	Escalada na videira da Selva de<br>Kharazi (após Legends Quest)	interface	generalUI	skillGuide
 Taverley Dungeon spiked blades jump	Salto das lâminas da Masmorra de<br>Taverley	interface	generalUI	skillGuide
-Waterbirth Dungeon crevice	Fenda da Masmorra de Waterbirth	interface	generalUI	skillGuide
-Slayer Tower ivy climb	Trepadeira da torre de extermínio	interface	generalUI	skillGuide
-Lava Maze northern jump	Salto norte do Labirinto de Lava	interface	generalUI	skillGuide
+Waterbirth Dungeon crevice	Fenda da Masmorra de Waterbirth<br>	interface	generalUI	skillGuide
+Slayer Tower ivy climb	Trepadeira da torre de extermínio<br>	interface	generalUI	skillGuide
+Lava Maze northern jump	Salto norte do Labirinto de Lava<br>	interface	generalUI	skillGuide
 Adept Asgarnian Ice Dungeon wyvern tunnel	Túnel adepto da masmorra de gelo<br>Asgarniana	interface	generalUI	skillGuide
 Chasm of Fire Chain	Corrente do Abismo de Fogo	interface	generalUI	skillGuide
-Iorwerth Dungeon southern shortcut	Atalho sul da Masmorra de Iorwerth	interface	generalUI	skillGuide
+Iorwerth Dungeon southern shortcut	Atalho sul da Masmorra de Iorwerth<br>	interface	generalUI	skillGuide
 Crandor rock-climb	Escalada em rocha de Crandor	interface	generalUI	skillGuide
 Elven overpass advanced cliffside scramble	Escalar escosta avançada da<br>passagem élfica	interface	generalUI	skillGuide
 Waterbirth Island rock-climb	Escalada em rocha da Ilha de<br>Waterbirth	interface	generalUI	skillGuide
@@ -2091,7 +2091,7 @@ Steel two-handed swords <Num0> bars	Espada de 2m de aço<br><Num0> barras	interf
 Steel platelegs <Num0> bars	Perneiras de aço<br><Num0> barras	interface	generalUI	skillGuide
 Steel plateskirts <Num0> bars	Escarcela de placa de aço<br><Num0> barras	interface	generalUI	skillGuide
 Steel platebodies <Num0> bars	Cota de placa de aço<br><Num0> barras	interface	generalUI	skillGuide
-Members: Bullseye lantern frames <Num0> bar	Membros: [Bullseye lantern frame]<br><Num0> barra	interface	generalUI	skillGuide
+Members: Bullseye lantern frames <Num0> bar	Membros: Lampião<br><Num0> barra	interface	generalUI	skillGuide
 Members: Convert mithril felling axes	Membros: Machado de corte de mithril	interface	generalUI	skillGuide
 Mithril daggers <Num0> bar	Adaga de mithril<br><Num0> barra	interface	generalUI	skillGuide
 Mithril axes <Num0> bar	Machado de mithril<br><Num0> barra	interface	generalUI	skillGuide
@@ -2112,7 +2112,7 @@ Mithril full helms <Num0> bars	Elmo de mithril completo<br><Num0> barras	interfa
 Members: Mithril throwing knives <Num0> bar makes <Num1>	Membros: Faca de mithril<br><Num0> barra faz <Num1>	interface	generalUI	skillGuide
 Mithril square shields <Num0> bars	Escudo retangular de mithril<br><Num0> barras	interface	generalUI	skillGuide
 Mithril warhammers <Num0> bars	Martelo de guerra de mithril<br><Num0> barras	interface	generalUI	skillGuide
-Members: Mithril crossbow grapple tips <Num0> bar	Membros: Mithril crossbow grapple tips<br><Num0> barra	interface	generalUI	skillGuide
+Members: Mithril crossbow grapple tips <Num0> bar	Membros: Arpéu de mithril<br><Num0> barra	interface	generalUI	skillGuide
 Mithril battleaxes <Num0> bars	Machado batalha de mithril<br><Num0> barras	interface	generalUI	skillGuide
 Mithril chainbodies <Num0> bars	Cota de malha de mithril<br><Num0> barras	interface	generalUI	skillGuide
 Mithril kiteshields <Num0> bars	Escudo ogival de mithril<br><Num0> barras	interface	generalUI	skillGuide
@@ -2199,21 +2199,21 @@ Crystal shield (with <Num0> Crafting)	Escudo de cristal<br>(com <Num0> Artesanat
 Enhanced crystal key (with <Num0> Crafting)	Chave de cristal aprimorada<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
 Eternal teleport crystal (with <Num0> Crafting)	Cristal de teleporte eterno<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
 Blade of Saeldor (with <Num0> Crafting)	Lâmina de Saeldor<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
-Blade of Saeldor (c) (with <Num0> Crafting)	Lâmina de Saeldor<br>(c)<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Blade of Saeldor (c) (with <Num0> Crafting)	Lâmina de Saeldor (c)<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
 Bow of Faerdhinen (with <Num0> Crafting)	Arco de Faerdhinen<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
-Bow of Faerdhinen (c) (with <Num0> Crafting)	Arco de Faerdhinen<br>(c)<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Bow of Faerdhinen (c) (with <Num0> Crafting)	Arco de Faerdhinen (c)<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
 Members: Blurite crossbow bolts (after The Knight's Sword)	Membros: Setas de blurita<br>(após The Knight's Sword)	interface	generalUI	skillGuide
 Members: Convert black felling axes	Membros: Machado de corte negro<br>	interface	generalUI	skillGuide
 Members: Blurite crossbow limbs (after The Knight's Sword)	Membros: Limbos de blurita<br>(após The Knight's Sword)	interface	generalUI	skillGuide
 Crush barronite deposits (after Below Ice Mountain)	Esmagar Depósito de barronita<br>(após Below Ice Mountain)	interface	generalUI	skillGuide
-Members: Secateurs Attachment (with <Num0> Woodcutting)	Membros: Acessório para podadeira<br>)com <Num0> Corte de Lenha)	interface	generalUI	skillGuide
+Members: Secateurs Attachment (with <Num0> Woodcutting)	Membros: Acessório para podadeira<br>(com <Num0> Corte de Lenha)	interface	generalUI	skillGuide
 Members: Dragon square shield	Membros: Escudo retangular<br>dragônico	interface	generalUI	skillGuide
 Members: Convert dragon felling axes	Membros: Machado de corte<br>dragônico	interface	generalUI	skillGuide
 Members: Convert <Num0>rd age felling axes	Membros: Machado de corte da<br><Num0>a era	interface	generalUI	skillGuide
 Members: Ancient Wyvern shield	Membros: Escudo antigo de dragão<br>alado	interface	generalUI	skillGuide
-Members: Confliction gauntlets	Membros: Manoplas de conflito	interface	generalUI	skillGuide
+Members: Confliction gauntlets	Membros: Manoplas de conflito<br> 	interface	generalUI	skillGuide
 Members: Zombie axes and helmets	Membros: Machado e elmo de zumbi<br>	interface	generalUI	skillGuide
-Members: Oathplate	Membros: Armadura do Juramento	interface	generalUI	skillGuide
+Members: Oathplate	Membros: Armadura do Juramento<br> 	interface	generalUI	skillGuide
 Defence	Defesa	interface	generalUI	skillGuide
 Members: Slayer helm	Membros: Elmo do exterminador<br>	interface	generalUI	skillGuide
 Members: Xerician armour (with <Num0> Magic)	Membros: Armadura xericiana<br>(com <Num0> Magia)	interface	generalUI	skillGuide
@@ -2300,7 +2300,7 @@ Members: Elidinis' Ward (with <Num0> Prayer and <Num1> Magic)	Membros: Protetor 
 Herblore	Herbologia	interface	generalUI	skillGuide
 Potions - Members Only	Poções - Para Membros	interface	generalUI	skillGuide
 You must complete the Druidic Ritual quest before you can use Herblore.	É necessário completar a missão<br>Druidic Ritual para usar Herbologia.	interface	generalUI	skillGuide
-Attack potion Guam leaf & eye of newt	Poção do ataque Guam & Olho de salamandra	interface	generalUI	skillGuide
+Attack potion Guam leaf & eye of newt	1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 	interface	generalUI	skillGuide
 Anti-poison potion Marrentill & ground unicorn horn	Antiveneno Marrentil & Pó de chifre de unicórnio	interface	generalUI	skillGuide
 Relicym's balm	Bálsamo de Relicym	interface	generalUI	skillGuide
 Strength potion Tarromin & limpwurt root	Poção da força Tarromin & Raiz de talsichão	interface	generalUI	skillGuide
@@ -2804,7 +2804,7 @@ Members: Fish pie	Membros: Torta de peixe	interface	generalUI	skillGuide
 Members: Botanical pie	Membros: Torta botânica	interface	generalUI	skillGuide
 Members: Mushroom pie	Membros: Torta de cogumelo	interface	generalUI	skillGuide
 Members: Admiral pie	Membros: Torta do almirante	interface	generalUI	skillGuide
-Members: Dragonfruit pie	Membros: Pitaiapie]	interface	generalUI	skillGuide
+Members: Dragonfruit pie	Membros: Torta de Pitaia	interface	generalUI	skillGuide
 Members: Wild pie	Membros: Torta selvagem	interface	generalUI	skillGuide
 Members: Summer pie	Membros: Torta de verão	interface	generalUI	skillGuide
 To make a pie:	Para fazer uma torta:	interface	generalUI	skillGuide
@@ -3502,7 +3502,7 @@ Members: Dragon hunter wand	Membros: Varinha do caçador de dragões	interface	g
 Members: Ahrim's staff (with <Num0> Attack)	Membros: Cajado de Ahrim (com <Num0> Ataque)	interface	generalUI	skillGuide
 Members: Ancient sceptre (requires Secrets of the North, <Num0> Attack and <Num1> Strength)	Membros: Cetro antigo (requer Secrets of the North, <Num0> Ataque e <Num1> Força)	interface	generalUI	skillGuide
 Members: Accursed Sceptre	Membros: Cetro amaldiçoado	interface	generalUI	skillGuide
-Members: Nightmare Staff (without orb) (with <Num0> Hitpoints)	Membros: Cajado do pesadelo (comout orb)] (com <Num0> Pontos de Vida)	interface	generalUI	skillGuide
+Members: Nightmare Staff (without orb) (with <Num0> Hitpoints)	Membros: Cajado do pesadelo (com orb) (com <Num0> Pontos de Vida)	interface	generalUI	skillGuide
 Members: Staff of the Dead (with <Num0> Attack)	Membros: Cajado dos mortos (com <Num0> Ataque)	interface	generalUI	skillGuide
 Members: Upgraded Ancient Sceptre (requires Desert Treasure II, <Num0> Attack and <Num1> Strength)	Membros: Cetro antigo melhorado(requer Desert Treasure II, <Num0> Ataque e <Num1> Força)	interface	generalUI	skillGuide
 Members: Staff of Light (with <Num0> Attack)	Membros: Cajado da luz (com <Num0> Ataque)	interface	generalUI	skillGuide
@@ -3819,7 +3819,7 @@ Leaf-bladed battleaxe (with <Num0> Attack)	Machado de batalha de lâmina fina (c
 Broad arrows (with <Num0> Ranged)	Flechas largas (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
 Broad bolts (with <Num0> Ranged)	Setas largas (com <Num0> Cbt. à Distância)	interface	generalUI	skillGuide
 Slayer's staff (with <Num0> Magic)	Cajado do exterminador (com <Num0> Magia)	interface	generalUI	skillGuide
-Slayer's staff (e) (with <Num0> Magic)	Cajado do exterminador (e)] (com <Num0> Magia)	interface	generalUI	skillGuide
+Slayer's staff (e) (with <Num0> Magic)	Cajado do exterminador (e) (com <Num0> Magia)	interface	generalUI	skillGuide
 Fungicide spray	Pregador de nariz	interface	generalUI	skillGuide
 Nose peg	Spray de fungicida	interface	generalUI	skillGuide
 V's shield (with <Num0> Defence)	Escudo de V (com <Num0> Defesa)	interface	generalUI	skillGuide
@@ -3967,7 +3967,7 @@ Treasure room	Sala do tesouro	interface	generalUI	skillGuide
 Achievement Gallery	Galeria de conquistas	interface	generalUI	skillGuide
 Rooms	Salas	interface	generalUI	skillGuide
 Skills	Habilidades	interface	generalUI	skillGuide
-Surfaces - Members Only	Mobília - Para Membros	interface	generalUI	skillGuide
+Surfaces	Mobília	interface	generalUI	skillGuide
 Storage	Depósito	interface	generalUI	skillGuide
 Decorative	Decoração	interface	generalUI	skillGuide
 Trophies	Troféis	interface	generalUI	skillGuide
@@ -4061,7 +4061,7 @@ Oak chest of drawers	Gavetas de carvalho	interface	generalUI	skillGuide
 Oak bookcase	Estante de carvalho	interface	generalUI	skillGuide
 Oak shaving stand	Bancada de carvalho	interface	generalUI	skillGuide
 Oak larder	Despensa de carvalho	interface	generalUI	skillGuide
-Oak shelves <Num0>	Prateleiras de carvalho <Num0>]	interface	generalUI	skillGuide
+Oak shelves <Num0>	Prateleiras de carvalho <Num0>	interface	generalUI	skillGuide
 Dragon Bitter barrel	Sumo do dragão	interface	generalUI	skillGuide
 Oak pet house (<Num0> pets)	Casinha de carvalho (<Num0> pets)	interface	generalUI	skillGuide
 Oak dresser	Cômoda de carvalho	interface	generalUI	skillGuide
@@ -4079,7 +4079,7 @@ Oak toy box	Caixa de brinquedo de carvalho	interface	generalUI	skillGuide
 Carved oak wardrobe (costume room)	Guarda-roupa de carvalho entalhado	interface	generalUI	skillGuide
 Teak chest of drawers	Gavetas de teca	interface	generalUI	skillGuide
 Oak cape rack	Cabide de carvalho para capas	interface	generalUI	skillGuide
-Teak shelves <Num0>	Prateleiras de teca <Num0>]	interface	generalUI	skillGuide
+Teak shelves <Num0>	Prateleiras de teca <Num0>	interface	generalUI	skillGuide
 Fancy teak dresser	Cômoda de teca enfeitada	interface	generalUI	skillGuide
 Servant's money bag	Bolsa de dinheiro do mordomo	interface	generalUI	skillGuide
 Mahogany pet house (<Num0> pets)	Casinha de mogno (<Num0> pets)	interface	generalUI	skillGuide
@@ -5118,7 +5118,7 @@ Eclipse: Attack with <Num0>% increased accuracy, consuming all remaining burn da
 Virulence: Instantly metabolize any poison you are suffering from to buff your next attack by that amount of damage. (<Num0>%)		interface	mainTabs	combatOptionsTab
 Combat Level:	Combate:	interface	mainTabs	characterSummaryTab
 Total Level:	Nv Total:	interface	mainTabs	characterSummaryTab
-Total XP: <colNum0><Num0></col>	EXP total: <colNum0><Num0></col>	interface	mainTabs	characterSummaryTab
+Total XP: <colNum0><Num0></col>	EXP total:<br><colNum0><Num0></col>	interface	mainTabs	characterSummaryTab
 Quests Completed:	Missões concluídas:	interface	mainTabs	characterSummaryTab
 Achievements Completed:	Conquistas concluídas:	interface	mainTabs	characterSummaryTab
 Combat Tasks Completed:	Tarefas de combate:	interface	mainTabs	characterSummaryTab
