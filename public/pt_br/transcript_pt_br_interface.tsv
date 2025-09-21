@@ -3938,16 +3938,16 @@ Cacti Payment: Cadava berries x<Num0>	Cacto<br>Pagamento: Defunticabas x<Num0>	i
 Belladonna	Beladona	interface	generalUI	skillGuide
 Potato Cacti Payment: Snape grass x<Num0>	Cacto batata<br>Pagamento: Capim da cura x<Num0>	interface	generalUI	skillGuide
 Hespori	Hespori	interface	generalUI	skillGuide
-Calquat trees Payment: Poison ivy berries x<Num0>	Árvore calquat<br>Pagamento: Frutinha de hera venenosa x<Num0>	interface	generalUI	skillGuide
+Calquat trees Payment: Poison ivy berries x<Num0>	Árvore calquat<br>Pagamento: Fruta de hera venenosa x<Num0>	interface	generalUI	skillGuide
 Crystal trees	Árvore de cristal	interface	generalUI	skillGuide
 Anima plants have effects on all other farming patches	Plantas Anima concedem efeitos globais aos<br>canteiros.	interface	generalUI	skillGuide
 Anima: Kronos Increases speed of growth	Anima: Kronos<br>Aumenta a velocidade de crescimento	interface	generalUI	skillGuide
 Anima: Iasor Decreases chance of disease	Anima: Iasor<br>Diminui a probabilidade de doenças	interface	generalUI	skillGuide
 Anima: Attas Increases yield	Anima: Attas<br>Aumenta o rendimento	interface	generalUI	skillGuide
-Spirit trees (<Num0> planted at a time)	Árvores espirituais (<Num0> plantada(s) de uma vez)	interface	generalUI	skillGuide
+Spirit trees (<Num0> planted at a time)	Árvores espirituais<br>(<Num0> plantada(s) de uma vez)	interface	generalUI	skillGuide
 Celastrus trees Payment: Potato Cactus x<Num0>	Árvore celastrus<br>Pagamento: Cacto batata x<Num0>	interface	generalUI	skillGuide
 Redwood trees Payment: Dragonfruit x<Num0>	Árvore de sequóia<br>Pagamento: Pitaia x<Num0>	interface	generalUI	skillGuide
-Spirit trees (unlimited)	Árvore espiritual (ilimitada)	interface	generalUI	skillGuide
+Spirit trees (unlimited)	Árvore espiritual<br>(ilimitada)	interface	generalUI	skillGuide
 Payment: Monkey bar, ground suqah tooth & <Num0> monkey nuts	Pagamento: Barra de macaco, Dente moído &<br><Num0> Nozes de macaco	interface	generalUI	skillGuide
 Scarecrows - Members Only	Espantalhos - Para Membros	interface	generalUI	skillGuide
 Able to make and place a scarecrow	Fazer e colocar espantalhos	interface	generalUI	skillGuide
@@ -4004,7 +4004,7 @@ Achievement Gallery	Galeria de conquistas	interface	generalUI	skillGuide
 Rooms	Salas	interface	generalUI	skillGuide
 Skills	Habilidades	interface	generalUI	skillGuide
 Surfaces	Mobília	interface	generalUI	skillGuide
-Storage	Depósito	interface	generalUI	skillGuide
+Storage	Armazenagem	interface	generalUI	skillGuide
 Decorative	Decoração	interface	generalUI	skillGuide
 Trophies	Troféis	interface	generalUI	skillGuide
 Games	Jogos	interface	generalUI	skillGuide
@@ -4114,7 +4114,7 @@ Teak pet house (<Num0> pets)	Casinha de teca (<Num0> pets)	interface	generalUI	s
 Oak toy box	Caixa de brinquedo de carvalho<br>	interface	generalUI	skillGuide
 Carved oak wardrobe (costume room)	Guarda-roupa de carvalho entalhado<br>	interface	generalUI	skillGuide
 Teak chest of drawers	Gavetas de teca	interface	generalUI	skillGuide
-Oak cape rack	Cabide de carvalho para capas	interface	generalUI	skillGuide
+Oak cape rack	Cabide de carvalho para capas<br> 	interface	generalUI	skillGuide
 Teak shelves <Num0>	Prateleiras de teca <Num0>	interface	generalUI	skillGuide
 Fancy teak dresser	Cômoda de teca enfeitada	interface	generalUI	skillGuide
 Servant's money bag	Bolsa de dinheiro do mordomo	interface	generalUI	skillGuide
@@ -4203,7 +4203,7 @@ Small portrait	Pequeno retrato	interface	generalUI	skillGuide
 Oak trophy case	Vitrine de troféus em carvalho<br>	interface	generalUI	skillGuide
 Oak mounted fish display	Expositor de carvalho de peixe<br>montado	interface	generalUI	skillGuide
 Teak wall decoration	Decoração de parede de teca	interface	generalUI	skillGuide
-Teak mounted head display	Expositor de teca de cabeça montada	interface	generalUI	skillGuide
+Teak mounted head display	Expositor de teca de cabeça montada<br> 	interface	generalUI	skillGuide
 Small map	Mapa pequeno	interface	generalUI	skillGuide
 Rune display cases	Mostruário de runas	interface	generalUI	skillGuide
 Mounted sword	Espada montada	interface	generalUI	skillGuide
@@ -4215,7 +4215,7 @@ Mounted Mythical Cape	Capa Mítica montada	interface	generalUI	skillGuide
 Leagues accomplishment scroll	Pergaminho de conquistas da League<br>	interface	generalUI	skillGuide
 Large portrait	Retrato grande	interface	generalUI	skillGuide
 Gilded mahogany wall decoration	Decoração dourada	interface	generalUI	skillGuide
-Teak mounted fish display	Expositor de teca de peixe montado	interface	generalUI	skillGuide
+Teak mounted fish display	Expositor de teca de peixe montado<br> 	interface	generalUI	skillGuide
 Medium map	Mapa médio	interface	generalUI	skillGuide
 Mahogany mounted head display	Expositor de mogno de cabeça<br>montada	interface	generalUI	skillGuide
 Ornate trophy pedestal	Pedestal ornamentado para troféu<br>	interface	generalUI	skillGuide
@@ -4256,7 +4256,7 @@ Fencing ring	Ringue de esgrima	interface	generalUI	skillGuide
 Weapons rack	Cavalete de armas	interface	generalUI	skillGuide
 Teak prize chest	Arca-prêmio de teca	interface	generalUI	skillGuide
 Combat dummy	Boneco de combate	interface	generalUI	skillGuide
-Treasure hunt fairy house	Casa da fada da caça ao tesouro	interface	generalUI	skillGuide
+Treasure hunt fairy house	Casa da fada da caça ao tesouro<br> 	interface	generalUI	skillGuide
 Combat ring	Ringue de combate	interface	generalUI	skillGuide
 Combat dummy (Undead and slayer)	Boneco de combate<br>(morto-vivo e extermínio)	interface	generalUI	skillGuide
 Dartboard	Alvo para dardos	interface	generalUI	skillGuide
@@ -6193,7 +6193,7 @@ Playing:		interface	mainTabs	musicTab
 Area		interface	mainTabs	musicTab
 Man		interface	mainTabs	musicTab
 Rand		interface	mainTabs	musicTab
-Filters	Filtro	interface	mainTabs	prayerTab
+Filters	Filtros	interface	mainTabs	prayerTab
 Prayer Filters	Filtros de oração	interface	mainTabs	prayerTab
 Show lower tiers of tiered prayers	Orações de níveis inferiores	interface	mainTabs	prayerTab
 Show tiered prayers even if multi-skill prayers are available	Manter visíveis orações<br>de um stat	interface	mainTabs	prayerTab
@@ -6317,7 +6317,7 @@ Free Total Level:	Nível total (hab. gratuitas):	interface	mainTabs	skillsTab
 <colNum0>Thieving:</col>	<colNum0>Roubo:</col>	interface	mainTabs	skillsTab
 <colNum0>Herblore:</col>	<colNum0>Herbologia:</col>	interface	mainTabs	skillsTab
 <colNum0>Agility:</col>	<colNum0>Agilidade:</col>	interface	mainTabs	skillsTab
-Filters	Filtro	interface	mainTabs	spellBookTab
+Filters	Filtros	interface	mainTabs	spellBookTab
 Lumbridge Home Teleport	Telerretorno p/ Lumbridge	interface	mainTabs	spellBookTab
 Requires no runes - recharge time <Num0> mins. Warning: This spell takes a long time to cast and will be interrupted by combat.	Sem custo - tempo de recarga<br><Num0> mins. Aviso: Leva alguns<br>segundos para lançar e pode ser<br>interrompido em combate.	interface	mainTabs	spellBookTab
 Level <Num0>: Wind Strike	Nível <Num0>: Aerobala	interface	mainTabs	spellBookTab
