@@ -1797,7 +1797,7 @@ Areas - Members Only	Áreas - Para Membros	interface	generalUI	skillGuide
 Access the God Wars Dungeon via the Strength route	Acesso pela rota de Força à<br>Masmorra das Guerras dos Deuses	interface	generalUI	skillGuide
 Enter the Bandos area of the God Wars Dungeon	Entre na área de Bandos da<br>Masmorra das Guerras dos Deuses	interface	generalUI	skillGuide
 Barbarian - Members Only	Bárbaro - Para Membros	interface	generalUI	skillGuide
-To start fishing like a Barbarian, talk to Otto Godblessed when you have at least level <Num0> Fishing, level <Num1> Agility and level <Num2> Strength.	Para começar a pescar como um bárbaro, fale com<br>Otto Godblessed quando tiver pelo menos 99 Pesca,<br>98 Agilidade e 97 Força.	interface	generalUI	skillGuide
+To start fishing like a Barbarian, talk to Otto Godblessed when you have at least level <Num0> Fishing, level <Num1> Agility and level <Num2> Strength.	Para começar a pescar como um bárbaro, fale com<br>Otto Godblessed quando tiver pelo menos 99<br>Pesca, 98 Agilidade e 97 Força.	interface	generalUI	skillGuide
 Leaping trout (with <Num0> Agility & <Num1> Fishing)	Truta saltitante<br>(com <Num0> Agilidade & <Num1> Pesca)	interface	generalUI	skillGuide
 Leaping salmon (with <Num0> Agility & <Num1> Fishing)	Salmão saltitante<br>(com <Num0> Agilidade & <Num1> Pesca)	interface	generalUI	skillGuide
 Tuna (with <Num0> Fishing)	Atum<br>(com <Num0> Pesca)	interface	generalUI	skillGuide
@@ -2844,7 +2844,7 @@ To make wine:	Para fazer vinho:	interface	generalUI	skillGuide
 <Num0>. Fill a jug with water.	<Num0>. Encha uma jarra com água.	interface	generalUI	skillGuide
 <Num0>. Use grapes with the jug of water.	<Num0>. Use uvas com a jarra de água.	interface	generalUI	skillGuide
 <Num0>. Wait until the wine ferments.	<Num0>. Espere o vinho fermentar.	interface	generalUI	skillGuide
-Wine will ferment when left in your inventory or the bank.	O vinho fermentará quando deixado no seu inventário<br>ou no banco.	interface	generalUI	skillGuide
+Wine will ferment when left in your inventory or the bank.	O vinho fermentará quando deixado no seu<br>inventário ou no banco.	interface	generalUI	skillGuide
 Hot Drinks - Members Only	Infusões - Para Membros	interface	generalUI	skillGuide
 Nettle tea	Chá de urtiga	interface	generalUI	skillGuide
 To make tea:	Para fazer chá:	interface	generalUI	skillGuide
@@ -3299,26 +3299,26 @@ Wind Blast	Aeroexplosão	interface	generalUI	skillGuide
 Superheat item	Hiperfusão	interface	generalUI	skillGuide
 Camelot teleport	Teleporte para Camelot	interface	generalUI	skillGuide
 Water Blast	Aquaexplosão	interface	generalUI	skillGuide
-Kourend Castle teleport (after Client of Kourend)	Teleporte para Castelo de Kourend (após Client of Kourend)	interface	generalUI	skillGuide
-Iban blast (after Underground Pass)	Explosão de Iban (após Underground Pass)	interface	generalUI	skillGuide
+Kourend Castle teleport (after Client of Kourend)	Teleporte para Castelo de Kourend<br>(após Client of Kourend)	interface	generalUI	skillGuide
+Iban blast (after Underground Pass)	Explosão de Iban<br>(após Underground Pass)	interface	generalUI	skillGuide
 Snare	Constrição	interface	generalUI	skillGuide
-Magic dart (with <Num0> Slayer)	Dardo Mágico (with <Num0> Slayer)	interface	generalUI	skillGuide
-Ardougne teleport (after Plague City)	Teleporte para Ardougne (após Plague City)	interface	generalUI	skillGuide
+Magic dart (with <Num0> Slayer)	Dardo Mágico<br>(com <Num0> Extermínio)	interface	generalUI	skillGuide
+Ardougne teleport (after Plague City)	Teleporte para Ardougne<br>(após Plague City)	interface	generalUI	skillGuide
 Earth Blast	Terrexplosão	interface	generalUI	skillGuide
-Civitas illa Fortis teleport (after Twilight's Promise)	Teleporte para Civitas illa Fortis (após Twilight's Promise)	interface	generalUI	skillGuide
+Civitas illa Fortis teleport (after Twilight's Promise)	Teleporte para Civitas illa Fortis<br>(após Twilight's Promise)	interface	generalUI	skillGuide
 High level alchemy	Alquimia Avançada	interface	generalUI	skillGuide
 Charge water orb	Carregar orbe da água	interface	generalUI	skillGuide
-Watchtower teleport (after Watchtower)	Teleporte para Watchtower (após Watchtower)	interface	generalUI	skillGuide
+Watchtower teleport (after Watchtower)	Teleporte para Watchtower<br>(após Watchtower)	interface	generalUI	skillGuide
 Fire Blast	Piroexplosão	interface	generalUI	skillGuide
 Charge earth orb	Carregar orbe da terra	interface	generalUI	skillGuide
 Bones to peaches	Pessegosso	interface	generalUI	skillGuide
-Claws of Guthix (after Mage Arena)	Garras de Guthix (após Mage Arena)	interface	generalUI	skillGuide
-Flames of Zamorak (after Mage Arena)	Chamas de Zamorak (após Mage Arena)	interface	generalUI	skillGuide
-Saradomin Strike (after Mage Arena)	Golpe de Saradomin (após Mage Arena)	interface	generalUI	skillGuide
-Trollheim teleport (after Eadgar's Ruse)	Teleporte para Trollheim (após Eadgar's Ruse)	interface	generalUI	skillGuide
+Claws of Guthix (after Mage Arena)	Garras de Guthix<br>(após Mage Arena)	interface	generalUI	skillGuide
+Flames of Zamorak (after Mage Arena)	Chamas de Zamorak<br>(após Mage Arena)	interface	generalUI	skillGuide
+Saradomin Strike (after Mage Arena)	Golpe de Saradomin<br>(após Mage Arena)	interface	generalUI	skillGuide
+Trollheim teleport (after Eadgar's Ruse)	Teleporte para Trollheim<br>(após Eadgar's Ruse)	interface	generalUI	skillGuide
 Wind Wave	Aero-onda	interface	generalUI	skillGuide
 Charge fire orb	Carregar orbe do fogo	interface	generalUI	skillGuide
-Ape Atoll teleport (after Recipe for Disaster)	Teleporte para Ape Atoll (após Recipe for Disaster)	interface	generalUI	skillGuide
+Ape Atoll teleport (after Recipe for Disaster)	Teleporte para Ape Atoll<br>(após Recipe for Disaster)	interface	generalUI	skillGuide
 Water Wave	Aquaonda	interface	generalUI	skillGuide
 Charge air orb	Carregar orbe do ar	interface	generalUI	skillGuide
 Vulnerability	Vulnerabilidade	interface	generalUI	skillGuide
@@ -3328,7 +3328,7 @@ Teleother Lumbridge	Alterporte para Lumbridge	interface	generalUI	skillGuide
 Fire Wave	Onda de Fogo	interface	generalUI	skillGuide
 Entangle	Enredamento	interface	generalUI	skillGuide
 Stun	Cambaleio	interface	generalUI	skillGuide
-Charge (after Mage Arena)	Carga (após Mage Arena)	interface	generalUI	skillGuide
+Charge (after Mage Arena)	Carga<br>(após Mage Arena)	interface	generalUI	skillGuide
 Wind Surge	Aeroímpeto	interface	generalUI	skillGuide
 Teleother Falador	Alterporte para Falador	interface	generalUI	skillGuide
 Water Surge	Aquaímpeto	interface	generalUI	skillGuide
@@ -3342,7 +3342,7 @@ Lunar Spells	Lunar	interface	generalUI	skillGuide
 Arceuus Spells	Arceuus	interface	generalUI	skillGuide
 Bolts	Setas	interface	generalUI	skillGuide
 Ancient Magicks - Members Only	Magias Antigas - Para Membros	interface	generalUI	skillGuide
-Ancient magicks are available after completing the Desert Treasure I quest.	Magias antigas estão disponíveis após completar a missão Desert Treasure I.	interface	generalUI	skillGuide
+Ancient magicks are available after completing the Desert Treasure I quest.	Magias antigas estão disponíveis após completar a<br>missão Desert Treasure I.	interface	generalUI	skillGuide
 Home teleport (Edgeville)	Tererretorno à Edgeville	interface	generalUI	skillGuide
 Smoke rush	Jato de Fumaça	interface	generalUI	skillGuide
 Shadow rush	Jato de Sombra	interface	generalUI	skillGuide
@@ -3369,24 +3369,24 @@ Blood barrage	Megassaraivada de Sangue	interface	generalUI	skillGuide
 Ice barrage	Megassaraivada de Gelo	interface	generalUI	skillGuide
 Ghorrock teleport	Teleporte a Ghorrock	interface	generalUI	skillGuide
 Lunar Spells - Members Only	Feitiços Lunares - Para Membros	interface	generalUI	skillGuide
-Lunar spells are available after completing the Lunar Diplomacy quest.	Feitiços lunares estão disponíveis após completar a missão Lunar Diplomacy	interface	generalUI	skillGuide
+Lunar spells are available after completing the Lunar Diplomacy quest.	Feitiços lunares estão disponíveis após completar a<br>missão Lunar Diplomacy	interface	generalUI	skillGuide
 Home teleport (Lunar Isle)	Telerretorno à Ilha Lunar	interface	generalUI	skillGuide
 Bake pie	Assar Torta	interface	generalUI	skillGuide
 Geomancy	Geomancia	interface	generalUI	skillGuide
 Cure plant	Agricura	interface	generalUI	skillGuide
-Monster examine (after Dream Mentor)	Examinar Monstro (após Dream Mentor)	interface	generalUI	skillGuide
+Monster examine (after Dream Mentor)	Examinar Monstro<br>(após Dream Mentor)	interface	generalUI	skillGuide
 NPC Contact	Contatar NPC	interface	generalUI	skillGuide
 Cure other	Altepurificar	interface	generalUI	skillGuide
-Humidify (after Dream Mentor)	Umidificar (após Dream Mentor)	interface	generalUI	skillGuide
+Humidify (after Dream Mentor)	Umidificar<br>(após Dream Mentor)	interface	generalUI	skillGuide
 Moonclan teleport	Teleporte à Ilha Lunar	interface	generalUI	skillGuide
 Tele group Moonclan	Multiporte para Lunar Island	interface	generalUI	skillGuide
 Cure me	Auto-purificar	interface	generalUI	skillGuide
-Hunter kit (after Dream Mentor)	Kit do caçador (após Dream Mentor)	interface	generalUI	skillGuide
+Hunter kit (after Dream Mentor)	Kit do caçador<br>(após Dream Mentor)	interface	generalUI	skillGuide
 Ourania teleport	Teleporte a Ourânia	interface	generalUI	skillGuide
 Waterbirth teleport	Teleporte a Natividade	interface	generalUI	skillGuide
 Tele group Waterbirth	Multiporte para Waterbirth	interface	generalUI	skillGuide
 Cure group	Purificar grupo	interface	generalUI	skillGuide
-Stat spy (after Dream Mentor)	Espiar Habilidade (após Dream Mentor)	interface	generalUI	skillGuide
+Stat spy (after Dream Mentor)	Espiar Habilidade<br>(após Dream Mentor)	interface	generalUI	skillGuide
 Barbarian teleport	Teleporte à Colônia Bárbara	interface	generalUI	skillGuide
 Tele group Barbarian	Multiporte para Colônia Bárbara	interface	generalUI	skillGuide
 Spin Flax	Moldar linho	interface	generalUI	skillGuide
@@ -3394,7 +3394,7 @@ Superglass make	Turbovidro	interface	generalUI	skillGuide
 Tan Leather	Fabricação de Couro	interface	generalUI	skillGuide
 Khazard teleport	Teleporte a Khazard	interface	generalUI	skillGuide
 Tele group Khazard	Multiporte para Khazard	interface	generalUI	skillGuide
-Dream (after Dream Mentor)	Sonhos (após Dream Mentor)	interface	generalUI	skillGuide
+Dream (after Dream Mentor)	Sonhos<br>(após Dream Mentor)	interface	generalUI	skillGuide
 String jewellery	Amarrajoia	interface	generalUI	skillGuide
 Stat restore pot share	Compartilhar poção de recuperação	interface	generalUI	skillGuide
 Magic imbue	Infusão Mágica	interface	generalUI	skillGuide
@@ -3402,7 +3402,7 @@ Fertile soil	Solo fértil	interface	generalUI	skillGuide
 Boost potion share	Compartilhar poção de bônus	interface	generalUI	skillGuide
 Fishing guild teleport	Teleporte à Guilda dos Pescadores	interface	generalUI	skillGuide
 Tele group fishing guild	Multiporte para Guilda dos Pescadores	interface	generalUI	skillGuide
-Plank make (after Dream Mentor)	Fazer Tábua (após Dream Mentor)	interface	generalUI	skillGuide
+Plank make (after Dream Mentor)	Fazer Tábua<br>(após Dream Mentor)	interface	generalUI	skillGuide
 Catherby teleport	Teleporte a Catherby	interface	generalUI	skillGuide
 Tele group Catherby	Multiporte para Catherby	interface	generalUI	skillGuide
 Recharge Dragonstone	Recarregar dragolito	interface	generalUI	skillGuide
@@ -3413,153 +3413,159 @@ Heal other	Altercura	interface	generalUI	skillGuide
 Vengeance other	Altervingança	interface	generalUI	skillGuide
 Vengeance	Vingança	interface	generalUI	skillGuide
 Heal group	Curar grupo	interface	generalUI	skillGuide
-Spellbook swap (after Dream Mentor)	Troca de livro de feitiços (após Dream Mentor)	interface	generalUI	skillGuide
+Spellbook swap (after Dream Mentor)	Troca de livro de feitiços<br>(após Dream Mentor)	interface	generalUI	skillGuide
 Arceuus Spells - Members Only	Feitiços de Arceuus - Para Membros	interface	generalUI	skillGuide
-Arceuus spells are unlocked in Arceuus.	Feitiços de Arceuus são desbloqueados em Arceuus.	interface	generalUI	skillGuide
+Arceuus spells are unlocked in Arceuus.	Feitiços de Arceuus são desbloqueados em Arceuus<br> 	interface	generalUI	skillGuide
 Home teleport (Dark Altar)	Telerretorno à Arceuus	interface	generalUI	skillGuide
-Arceuus Library teleport	Teleporte para Biblioteca Arceuus	interface	generalUI	skillGuide
+Arceuus Library teleport	Teleporte para Biblioteca Arceuus<br>	interface	generalUI	skillGuide
 Basic Reanimation	Reanimação Iniciante	interface	generalUI	skillGuide
 Draynor Manor teleport	Teleporte para Draynor Manor	interface	generalUI	skillGuide
 Battlefront teleport	Teleporte para Battlefront	interface	generalUI	skillGuide
 Mind Altar teleport	Teleporte do altar da mente	interface	generalUI	skillGuide
-Respawn teleport	Teleporte para Ponto de Restauração	interface	generalUI	skillGuide
+Respawn teleport	Teleporte para Ponto de Respawn<br>	interface	generalUI	skillGuide
 Ghostly Grasp	Garra Fantasmal	interface	generalUI	skillGuide
-Resurrect Lesser Ghost (After A Kingdom Divided)	Rescussitar Fantasma Inferior (após A Kingdom Divided)	interface	generalUI	skillGuide
-Resurrect Lesser Skeleton (After A Kingdom Divided)	Rescussitar Esqueleto Inferior (após A Kingdom Divided)	interface	generalUI	skillGuide
-Resurrect Lesser Zombie (After A Kingdom Divided)	Rescussitar Zumbi Inferior (após A Kingdom Divided)	interface	generalUI	skillGuide
-Salve Graveyard teleport	Teleporte para Cemitério Salve	interface	generalUI	skillGuide
+Resurrect Lesser Ghost (After A Kingdom Divided)	Rescussitar Fantasma Inferior<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Resurrect Lesser Skeleton (After A Kingdom Divided)	Rescussitar Esqueleto Inferior<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Resurrect Lesser Zombie (After A Kingdom Divided)	Rescussitar Zumbi Inferior<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Salve Graveyard teleport	Teleporte para Cemitério Salve<br>	interface	generalUI	skillGuide
 Adept Reanimation	Reanimação Adepta	interface	generalUI	skillGuide
 Inferior Demonbane	Demonífugo Inferior	interface	generalUI	skillGuide
-Shadow Veil (After A Kingdom Divided)	Véu Sombrio (após A Kingdom Divided)	interface	generalUI	skillGuide
-Fenkenstrain's Castle teleport	Teleporte para Castelo de Fenkenstrain	interface	generalUI	skillGuide
-Dark Lure (After A Kingdom Divided)	Isca Sombria (após A Kingdom Divided)	interface	generalUI	skillGuide
-Skeletal Grasp (After A Kingdom Divided)	Garra Esquelética (após A Kingdom Divided)	interface	generalUI	skillGuide
-Resurrect Superior Ghost (After A Kingdom Divided)	Rescussitar Fantasma Superior (após A Kingdom Divided)	interface	generalUI	skillGuide
-Resurrect Superior Skeleton (After A Kingdom Divided)	Rescussitar Esqueleto Superior (após A Kingdom Divided)	interface	generalUI	skillGuide
-Resurrect Superior Zombie (After A Kingdom Divided)	Rescussitar Zumbi Superior (após A Kingdom Divided)	interface	generalUI	skillGuide
-Mark of Darkness (After A Kingdom Divided)	Marca da Escuridão (após A Kingdom Divided)	interface	generalUI	skillGuide
-West Ardougne teleport	Teleporte para Ardougne Oeste	interface	generalUI	skillGuide
-Superior Demonbane (After A Kingdom Divided)	Demonífugo Superior (após A Kingdom Divided)	interface	generalUI	skillGuide
-Lesser Corruption (After A Kingdom Divided)	Corrupção Inferior (após A Kingdom Divided)	interface	generalUI	skillGuide
+Shadow Veil (After A Kingdom Divided)	Véu Sombrio<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Fenkenstrain's Castle teleport	Teleporte para Castelo de<br>Fenkenstrain	interface	generalUI	skillGuide
+Dark Lure (After A Kingdom Divided)	Isca Sombria<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Skeletal Grasp (After A Kingdom Divided)	Garra Esquelética<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Resurrect Superior Ghost (After A Kingdom Divided)	Rescussitar Fantasma Superior<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Resurrect Superior Skeleton (After A Kingdom Divided)	Rescussitar Esqueleto Superior<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Resurrect Superior Zombie (After A Kingdom Divided)	Rescussitar Zumbi Superior<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Mark of Darkness (After A Kingdom Divided)	Marca da Escuridão<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+West Ardougne teleport	Teleporte para Ardougne Oeste<br>	interface	generalUI	skillGuide
+Superior Demonbane (After A Kingdom Divided)	Demonífugo Superior<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Lesser Corruption (After A Kingdom Divided)	Corrupção Inferior<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
 Harmony Island teleport	Teleporte para Ilha Harmony	interface	generalUI	skillGuide
-Vile Vigour (After A Kingdom Divided)	Vigor Vil (após A Kingdom Divided)	interface	generalUI	skillGuide
-Degrime (After A Kingdom Divided)	Limpar ervas (após A Kingdom Divided)	interface	generalUI	skillGuide
+Vile Vigour (After A Kingdom Divided)	Vigor Vil<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Degrime (After A Kingdom Divided)	Limpar ervas<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
 Cemetery teleport	Teleporte para Cemitério	interface	generalUI	skillGuide
 Expert Reanimation	Reanimação Especialista	interface	generalUI	skillGuide
 Ward of Arceuus	Barreira de Arceuus	interface	generalUI	skillGuide
-Resurrect Greater Ghost (After A Kingdom Divided)	Rescussitar Fantasma Supremo (após A Kingdom Divided)	interface	generalUI	skillGuide
-Resurrect Greater Skeleton (After A Kingdom Divided)	Rescussitar Esqueleto Supremo (após A Kingdom Divided)	interface	generalUI	skillGuide
-Resurrect Greater Zombie (After A Kingdom Divided)	Rescussitar Zumbi Supremo (após A Kingdom Divided)	interface	generalUI	skillGuide
+Resurrect Greater Ghost (After A Kingdom Divided)	Rescussitar Fantasma Supremo<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Resurrect Greater Skeleton (After A Kingdom Divided)	Rescussitar Esqueleto Supremo<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Resurrect Greater Zombie (After A Kingdom Divided)	Rescussitar Zumbi Supremo<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
 Resurrect crops	Rescussitar Plantação	interface	generalUI	skillGuide
-Undead Grasp (After A Kingdom Divided)	Garra Porfana (após A Kingdom Divided)	interface	generalUI	skillGuide
-Death Charge (After A Kingdom Divided)	Carga da Morte (após A Kingdom Divided)	interface	generalUI	skillGuide
-Dark Demonbane (After A Kingdom Divided)	Demonífugo Sombrio (após A Kingdom Divided)	interface	generalUI	skillGuide
+Undead Grasp (After A Kingdom Divided)	Garra Profana<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Death Charge (After A Kingdom Divided)	Carga da Morte<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Dark Demonbane (After A Kingdom Divided)	Demonífugo Sombrio<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
 Barrows teleport	Teleporte para Barrows	interface	generalUI	skillGuide
-Demonic Offering (After A Kingdom Divided)	Ofersta Demoníaca (após A Kingdom Divided)	interface	generalUI	skillGuide
-Greater Corruption (After A Kingdom Divided)	Corrupção Suprema (após A Kingdom Divided)	interface	generalUI	skillGuide
+Demonic Offering (After A Kingdom Divided)	Oferta Demoníaca<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
+Greater Corruption (After A Kingdom Divided)	Corrupção Suprema<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
 Ape Atoll teleport	Teleporte para Ape Atoll	interface	generalUI	skillGuide
 Master Reanimation	Reanimação Mestre	interface	generalUI	skillGuide
-Sinister Offering (After A Kingdom Divided)	Oferta Sinistra (após A Kingdom Divided)	interface	generalUI	skillGuide
+Sinister Offering (After A Kingdom Divided)	Oferta Sinistra<br>(após A Kingdom Divided)	interface	generalUI	skillGuide
 Wizard boots	Botas de mago	interface	generalUI	skillGuide
-Xerician armour (with <Num0> Defence)	Armadura xericiana (com <Num0> Defesa)	interface	generalUI	skillGuide
+Xerician armour (with <Num0> Defence)	Armadura xericiana<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
 Elder chaos druid robes	Túnica do caos anciâo	interface	generalUI	skillGuide
-Mystic robes (with <Num0> Defence)	Túnica mística (com <Num0> Defesa)	interface	generalUI	skillGuide
-Enchanted robes (with <Num0> Defence)	Túnica encantada (com <Num0> Defesa)	interface	generalUI	skillGuide
-Robes of darkness (with <Num0> Defence)	Túnica das trevas (com <Num0> Defesa)	interface	generalUI	skillGuide
-Splitbark armour (with <Num0> Defence)	Armadura de tronco (com <Num0> Defesa)	interface	generalUI	skillGuide
-Skeletal armour (after The Fremmenik Trials, with <Num0> Defence)	Armadura esquelética (após The Fremmenik Trials, com <Num0> Defesa)	interface	generalUI	skillGuide
-Infinity robes (with <Num0> Defence)	Túnica do infinito (com <Num0> Defesa)	interface	generalUI	skillGuide
-Swampbark armour (with <Num0> Defence)	Armadura de tronco de pântano (com <Num0> Defesa)	interface	generalUI	skillGuide
-God capes (after Mage Arena)	Capa dos deuses (após Mage Arena)	interface	generalUI	skillGuide
-Bloodbark armour (with <Num0> Defence)	Armadura de tronco de sangue (com <Num0> Defesa)	interface	generalUI	skillGuide
-Lunar armour (after Lunar Diplomacy, with <Num0> Defence)	Armadura lunar (após Lunar Diplomacy, com <Num0> Defesa)	interface	generalUI	skillGuide
-<Num0>rd age robes (with <Num1> Defence)	Túnica da <Num0>a era (com <Num1> Defesa)	interface	generalUI	skillGuide
+Mystic robes (with <Num0> Defence)	Túnica mística<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Enchanted robes (with <Num0> Defence)	Túnica encantada<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Robes of darkness (with <Num0> Defence)	Túnica das trevas<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Splitbark armour (with <Num0> Defence)	Armadura de tronco<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Skeletal armour (after The Fremmenik Trials, with <Num0> Defence)	Armadura esquelética<br>(após The Fremmenik Trials,<br>com <Num0> Defesa)	interface	generalUI	skillGuide
+Infinity robes (with <Num0> Defence)	Túnica do infinito<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Swampbark armour (with <Num0> Defence)	Armadura de tronco de pântano<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+God capes (after Mage Arena)	Capa dos deuses<br>(após Mage Arena)	interface	generalUI	skillGuide
+Bloodbark armour (with <Num0> Defence)	Armadura de tronco de sangue<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Lunar armour (after Lunar Diplomacy, with <Num0> Defence)	Armadura lunar<br>(após Lunar Diplomacy,<br>com <Num0> Defesa)	interface	generalUI	skillGuide
+<Num0>rd age robes (with <Num1> Defence)	Túnica da <Num0>a era<br>(com <Num1> Defesa)	interface	generalUI	skillGuide
 Occult necklace	Colar do oculto	interface	generalUI	skillGuide
-Dagon'hai robes (with <Num0> Defence)	Túnica Dagon'hai (com <Num0> Defesa)	interface	generalUI	skillGuide
-Ahrims robes (with <Num0> Defence)	Túnica de Ahrim (com <Num0> Defesa)	interface	generalUI	skillGuide
-Boots of brimstone (with <Num0> Defence and Ranged)	Botas de enxofre (com <Num0> Defesa e Cbt. à Distância)	interface	generalUI	skillGuide
-Eternal boots (with <Num0> Defence)	Botas da eternidade (com <Num0> Defesa)	interface	generalUI	skillGuide
-Frostmoon robes (with <Num0> Defence)	Túnica da Lua Azul (com <Num0> Defesa)	interface	generalUI	skillGuide
-Ancestral robes (with <Num0> Defence)	Túnica ancestral (com <Num0> Defesa)	interface	generalUI	skillGuide
-Virtus robes (with <Num0> Defence)	Túnica de Virtus (com <Num0> Defesa)	interface	generalUI	skillGuide
+Dagon'hai robes (with <Num0> Defence)	Túnica Dagon'hai<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Ahrims robes (with <Num0> Defence)	Túnica de Ahrim<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Boots of brimstone (with <Num0> Defence and Ranged)	Botas de enxofre<br>(com <Num0> Defesa e Cbt. à Distância)	interface	generalUI	skillGuide
+Eternal boots (with <Num0> Defence)	Botas da eternidade<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Frostmoon robes (with <Num0> Defence)	Túnica da Lua Azul<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Ancestral robes (with <Num0> Defence)	Túnica ancestral<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Virtus robes (with <Num0> Defence)	Túnica de Virtus<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Avernic treads (with <Num0> Strength, <Num1> Ranged and <Num2> Defence)	Botas avernianas<br>(com <Num0> Força, <Num1> Distância e<br><Num2> Defesa)	interface	generalUI	skillGuide
 Bolts - Members Only	Setas - Para Membros	interface	generalUI	skillGuide
-Opal-tipped crossbow bolts <Num0> cosmic + <Num1> air runes	Setas com ponta de opala <Num0> cósmica + <Num1> runas do ar	interface	generalUI	skillGuide
-Sapphire-tipped crossbow bolts <Num0> cosmic + <Num1> water + <Num2> mind rune	Setas com ponta de safira <Num0> cósmica + <Num1> água + <Num2> runa da mente	interface	generalUI	skillGuide
-Jade-tipped crossbow bolts <Num0> cosmic + <Num1> earth runes	Setas com ponta de jade <Num0> cósmica + <Num1> runas da terra	interface	generalUI	skillGuide
-Pearl-tipped crossbow bolts <Num0> cosmic + <Num1> water runes	Setas com ponta de pérola <Num0> cósmica + <Num1> runas da água	interface	generalUI	skillGuide
-Emerald-tipped crossbow bolts <Num0> cosmic + <Num1> air + <Num2> nature rune	Setas com ponta de esmeralda <Num0> cósmica + <Num1> ar + <Num2> runa da natureza	interface	generalUI	skillGuide
-Red topaz-tipped crossbow bolts <Num0> cosmic + <Num1> fire runes	Setas com ponta de topázio <Num0> cósmica + <Num1> runas do fogo	interface	generalUI	skillGuide
-Ruby-tipped crossbow bolts <Num0> cosmic + <Num1> fire + <Num2> blood rune	Setas com ponta de rubi <Num0> cósmica + <Num1> fogo + <Num2> runa do sangue	interface	generalUI	skillGuide
-Diamond-tipped crossbow bolts <Num0> cosmic + <Num1> earth + <Num2> law runes	Setas com ponta de diamante <Num0> cósmica + <Num1> terra + <Num2> runas da lei	interface	generalUI	skillGuide
-Dragonstone-tipped crossbow bolts <Num0> cosmic + <Num1> earth + <Num2> soul rune	Setas com ponta de dragolito <Num0> cósmica + <Num1> terra + <Num2> runa da alma	interface	generalUI	skillGuide
-Onyx-tipped crossbow bolts <Num0> cosmic + <Num1> fire + <Num2> death rune	Setas com ponta de ônix <Num0> cósmica + <Num1> fogo + <Num2> runa da morte	interface	generalUI	skillGuide
-Members: Battlestaves (with <Num0> Attack)	Membros: Bastões (com <Num0> Ataque)	interface	generalUI	skillGuide
-Bryophyta's staff (with <Num0> Attack)	Bastão de Bryophyta (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Mystic staves (with <Num0> Attack)	Membros: Cajados místicos (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Beginner wand	Membros: Varinha do principiante	interface	generalUI	skillGuide
+Opal-tipped crossbow bolts <Num0> cosmic + <Num1> air runes	Setas com ponta de opala<br><Num0> cósmica + <Num1> runas do ar	interface	generalUI	skillGuide
+Sapphire-tipped crossbow bolts <Num0> cosmic + <Num1> water + <Num2> mind rune	Setas com ponta de safira<br><Num0> cósmica + <Num1> água + <Num2> runa da mente	interface	generalUI	skillGuide
+Jade-tipped crossbow bolts <Num0> cosmic + <Num1> earth runes	Setas com ponta de jade<br><Num0> cósmica + <Num1> runas da terra	interface	generalUI	skillGuide
+Pearl-tipped crossbow bolts <Num0> cosmic + <Num1> water runes	Setas com ponta de pérola<br><Num0> cósmica + <Num1> runas da água	interface	generalUI	skillGuide
+Emerald-tipped crossbow bolts <Num0> cosmic + <Num1> air + <Num2> nature rune	Setas com ponta de esmeralda<br><Num0> cósmica + <Num1> ar + <Num2> runa da natureza	interface	generalUI	skillGuide
+Red topaz-tipped crossbow bolts <Num0> cosmic + <Num1> fire runes	Setas com ponta de topázio<br><Num0> cósmica + <Num1> runas do fogo	interface	generalUI	skillGuide
+Ruby-tipped crossbow bolts <Num0> cosmic + <Num1> fire + <Num2> blood rune	Setas com ponta de rubi<br><Num0> cósmica + <Num1> fogo + <Num2> runa do sangue	interface	generalUI	skillGuide
+Diamond-tipped crossbow bolts <Num0> cosmic + <Num1> earth + <Num2> law runes	Setas com ponta de diamante<br><Num0> cósmica + <Num1> terra + <Num2> runas da lei	interface	generalUI	skillGuide
+Dragonstone-tipped crossbow bolts <Num0> cosmic + <Num1> earth + <Num2> soul rune	Setas com ponta de dragolito<br><Num0> cósmica + <Num1> terra + <Num2> runa da alma	interface	generalUI	skillGuide
+Onyx-tipped crossbow bolts <Num0> cosmic + <Num1> fire + <Num2> death rune	Setas com ponta de ônix<br><Num0> cósmica + <Num1> fogo + <Num2> runa da morte	interface	generalUI	skillGuide
+Members: Battlestaves (with <Num0> Attack)	Membros: Bastões<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Bryophyta's staff (with <Num0> Attack)	Bastão de Bryophyta<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Mystic staves (with <Num0> Attack)	Membros: Cajados místicos<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Beginner wand	Membros: Varinha do principiante<br>	interface	generalUI	skillGuide
 Members: Apprentice wand	Membros: Varinha do aprendiz	interface	generalUI	skillGuide
-Members: Ancient staff (requires Desert Treasure I and <Num0> Attack)	Membros: Cajado Antigo (requer Desert Treasure I e <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Slayer's staff (with <Num0> Slayer)	Membros: Cajado do exterminador (com <Num0> Extermínio)	interface	generalUI	skillGuide
+Members: Ancient staff (requires Desert Treasure I and <Num0> Attack)	Membros: Cajado Antigo<br>(requer Desert Treasure I e <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Slayer's staff (with <Num0> Slayer)	Membros: Cajado do exterminador<br>(com <Num0> Extermínio)	interface	generalUI	skillGuide
 Members: Bone staff	Membros: Cajado de osso	interface	generalUI	skillGuide
-Members: Teacher wand	Membros: Varinha do professor	interface	generalUI	skillGuide
+Members: Teacher wand	Membros: Varinha do professor<br>	interface	generalUI	skillGuide
 Members: Master wand	Membros: Varinha do mestre	interface	generalUI	skillGuide
 Members: Thammaron's Sceptre	Membros: Cetro de Thammaron	interface	generalUI	skillGuide
-Members: God staves (requires Mage Arena I)	Membros: Cajados dos deuses (requer Mage Arena I)	interface	generalUI	skillGuide
-Members: TokTz-Mej-Tal (with <Num0> Attack)	Membros: Toktz-mej-tal (com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: God staves (requires Mage Arena I)	Membros: Cajados dos deuses<br>(requer Mage Arena I)	interface	generalUI	skillGuide
+Members: TokTz-Mej-Tal (with <Num0> Attack)	Membros: Toktz-mej-tal<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Twinflame staff	Membros: Cajado das Chamas<br>Gêmeas	interface	generalUI	skillGuide
 Members: Warped sceptre	Membros: Cetro deformado	interface	generalUI	skillGuide
 Members: <Num0>rd age wand	Membros: Varinha da <Num0>a era	interface	generalUI	skillGuide
-Members: Dragon hunter wand	Membros: Varinha do caçador de dragões	interface	generalUI	skillGuide
-Members: Ahrim's staff (with <Num0> Attack)	Membros: Cajado de Ahrim (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Ancient sceptre (requires Secrets of the North, <Num0> Attack and <Num1> Strength)	Membros: Cetro antigo (requer Secrets of the North, <Num0> Ataque e <Num1> Força)	interface	generalUI	skillGuide
+Members: Dragon hunter wand	Membros: Varinha do caçador de<br>dragões	interface	generalUI	skillGuide
+Members: Ahrim's staff (with <Num0> Attack)	Membros: Cajado de Ahrim<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Ancient sceptre (requires Secrets of the North, <Num0> Attack and <Num1> Strength)	Membros: Cetro antigo<br>(requer Secrets of the North,<br><Num0> Ataque e <Num1> Força)	interface	generalUI	skillGuide
 Members: Accursed Sceptre	Membros: Cetro amaldiçoado	interface	generalUI	skillGuide
-Members: Nightmare Staff (without orb) (with <Num0> Hitpoints)	Membros: Cajado do pesadelo (com orb) (com <Num0> Pontos de Vida)	interface	generalUI	skillGuide
-Members: Staff of the Dead (with <Num0> Attack)	Membros: Cajado dos mortos (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Upgraded Ancient Sceptre (requires Desert Treasure II, <Num0> Attack and <Num1> Strength)	Membros: Cetro antigo melhorado(requer Desert Treasure II, <Num0> Ataque e <Num1> Força)	interface	generalUI	skillGuide
-Members: Staff of Light (with <Num0> Attack)	Membros: Cajado da luz (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Staff of Balance (with <Num0> Attack)	Membros: Cajado do equilíbrio (com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Nightmare Staff (without orb) (with <Num0> Hitpoints)	Membros: Cajado do pesadelo (com<br>orb) (com <Num0> Pontos de Vida)	interface	generalUI	skillGuide
+Members: Staff of the Dead (with <Num0> Attack)	Membros: Cajado dos mortos<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Upgraded Ancient Sceptre (requires Desert Treasure II, <Num0> Attack and <Num1> Strength)	Membros: Cetro antigo melhorado<br>(requer Desert Treasure II,<br><Num0> Ataque e <Num1> Força)	interface	generalUI	skillGuide
+Members: Staff of Light (with <Num0> Attack)	Membros: Cajado da luz<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Staff of Balance (with <Num0> Attack)	Membros: Cajado do equilíbrio<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Members: Trident of the Seas	Membros: Tridente dos mares	interface	generalUI	skillGuide
-Members: Slayer's staff (e) (with <Num0> Slayer)	Membros: Cajado do Exterminador (e) (com <Num0> Extermínio)	interface	generalUI	skillGuide
-Members: Frostmoon Spear (with <Num0> Attack)	Membros: Lança da lua azul (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Purging staff (with <Num0> Attack)	Membros: Báculo Purificador (com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Slayer's staff (e) (with <Num0> Slayer)	Membros: Cajado do Extermin.(e)<br>(com <Num0> Extermínio)	interface	generalUI	skillGuide
+Members: Frostmoon Spear (with <Num0> Attack)	Membros: Lança da lua azul<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Purging staff (with <Num0> Attack)	Membros: Báculo Purificador<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Members: Trident of the Swamp	Membros: Tridente do pântano	interface	generalUI	skillGuide
 Members: Kodai Wand	Membros: Varinha de Kodai	interface	generalUI	skillGuide
+Members: Soulflame Horn	Membros: Chifre da Chama das<br>Almas	interface	generalUI	skillGuide
 Members: Sanguinesti staff	Membros: Cajado Sanguinesti	interface	generalUI	skillGuide
-Members: Nightmare Staff (with orb) (with <Num0> Hitpoints)	Membros: Cajado do pesadelo (com orbe) (com <Num0> Pontos de Vida)	interface	generalUI	skillGuide
+Members: Nightmare Staff (with orb) (with <Num0> Hitpoints)	Membros: Cajado do pesadelo (com<br>orbe) (com 99 Pontos de Vida)	interface	generalUI	skillGuide
+Members: Eye of Ayak	Membros: Olho de ayak	interface	generalUI	skillGuide
 Members: Tumeken's Shadow	Membros: Sombra de Tumeken	interface	generalUI	skillGuide
-Tome of Water	Tomo da Água	interface	generalUI	skillGuide
+Tome of Water	Tomo da água	interface	generalUI	skillGuide
 Tome of Earth	Tomo da terra	interface	generalUI	skillGuide
 Tome of Fire	Tomo do fogo	interface	generalUI	skillGuide
-Make Ancient Wyvern shield	Fazer Escudo antigo de dragão alado	interface	generalUI	skillGuide
-Wield Ancient Wyvern shield (with <Num0> Defence)	Equipar Escudo antigo de dragão alado (com <Num0> Defence)	interface	generalUI	skillGuide
-Elidinis' Ward (with <Num0> Prayer and <Num1> Defence)	Protetor de Elidinis (com <Num0> Prayer e <Num1> Defence)	interface	generalUI	skillGuide
+Mage's Book	Livro do mago	interface	generalUI	skillGuide
+Make Ancient Wyvern shield	Fazer Escudo antigo de dragão alado<br>	interface	generalUI	skillGuide
+Wield Ancient Wyvern shield (with <Num0> Defence)	Equipar Escudo antigo de dragão<br>alado (com <Num0> Defence)	interface	generalUI	skillGuide
+Elidinis' Ward (with <Num0> Prayer and <Num1> Defence)	Protetor de Elidinis<br>(com <Num0> Prayer e <Num1> Defence)	interface	generalUI	skillGuide
 Fletching	Arco e Flecha	interface	generalUI	skillGuide
 Arrows - Members Only	Flechas - Para Membros	interface	generalUI	skillGuide
-<Num0> Arrow shafts (Logs)	<Num0> Hastes de flecha (lenha)	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Logs)	<Num0> Hastes de flecha<br>(lenha comum)	interface	generalUI	skillGuide
 Bronze arrows	Flecha de bronze	interface	generalUI	skillGuide
 Bronze 'brutal' arrows	Flecha brutal de bronze	interface	generalUI	skillGuide
-<Num0> Arrow shafts (Oak logs)	<Num0> Hastes de flecha (lenha de carvalho)	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Oak logs)	<Num0> Hastes de flecha<br>(lenha de carvalho)	interface	generalUI	skillGuide
 Iron arrows	Flecha de ferro	interface	generalUI	skillGuide
 Iron 'brutal' arrows	Flecha brutal de ferro	interface	generalUI	skillGuide
-<Num0> Arrow shafts (Willow logs)	<Num0> Hastes de flecha (lenha de salgueiro)	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Willow logs)	<Num0> Hastes de flecha<br>(lenha de salgueiro)	interface	generalUI	skillGuide
 Steel arrows	Flecha de aço	interface	generalUI	skillGuide
 Steel 'brutal' arrows	Flecha brutal de aço	interface	generalUI	skillGuide
 Black 'brutal' arrows	Flecha brutal negra	interface	generalUI	skillGuide
-<Num0> Arrow shafts (Maple logs)	<Num0> Hastes de flecha (lenha de bordo)	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Maple logs)	<Num0> Hastes de flecha<br>(lenha de bordo)	interface	generalUI	skillGuide
 Mithril arrows	Flecha de mithril	interface	generalUI	skillGuide
 Mithril 'brutal' arrows	Flecha brutal de mithril	interface	generalUI	skillGuide
 Broad arrows	Flecha larga	interface	generalUI	skillGuide
-<Num0> Arrow shafts (Yew logs)	<Num0> Hastes de flecha (lenha de teixo)	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Yew logs)	<Num0> Hastes de flecha<br>(lenha de teixo)	interface	generalUI	skillGuide
 Adamant arrows	Flecha de adamantio	interface	generalUI	skillGuide
 Adamant 'brutal' arrows	Flecha brutal de adamantio	interface	generalUI	skillGuide
-<Num0> Arrow shafts (Magic logs)	<Num0> Hastes de flecha (lenha mágica)	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Magic logs)	<Num0> Hastes de flecha<br>(lenha mágica)	interface	generalUI	skillGuide
 Rune arrows	Flecha rúnica	interface	generalUI	skillGuide
 Rune 'brutal' arrows	Flecha brutal rúnica	interface	generalUI	skillGuide
 Amethyst arrows	Flecha de ametista	interface	generalUI	skillGuide
-<Num0> Arrow shafts (Redwood logs)	<Num0> Hastes de flecha (lenha de sequóia)	interface	generalUI	skillGuide
+<Num0> Arrow shafts (Redwood logs)	<Num0> Hastes de flecha<br>(lenha de sequóia)	interface	generalUI	skillGuide
 Dragon arrows	Flecha dragônica	interface	generalUI	skillGuide
 Arrows	Flechas	interface	generalUI	skillGuide
 Darts	Dardos	interface	generalUI	skillGuide
 Javelins	Dardos longos	interface	generalUI	skillGuide
+Vale Totems	Totens	interface	generalUI	skillGuide
 Bows - Members Only	Arcos - Para Membros	interface	generalUI	skillGuide
 Shortbows	Arco curto	interface	generalUI	skillGuide
 Longbows	Arco-longo	interface	generalUI	skillGuide
@@ -3578,31 +3584,31 @@ Magic shortbows	Arco curto mágico	interface	generalUI	skillGuide
 Magic longbows	Arco-longo mágico	interface	generalUI	skillGuide
 Webweaver bow	Arco tece-teias	interface	generalUI	skillGuide
 Bronze bolts	Setas de bronze	interface	generalUI	skillGuide
-Opal-tipped bronze bolts	Setas de bronze com ponta de opala	interface	generalUI	skillGuide
-Blurite bolts (after Knight's Sword quest)	Setas de blurita (após Knight's Sword)	interface	generalUI	skillGuide
-Jade-tipped blurite bolts	Setas de blurita com ponta de jade	interface	generalUI	skillGuide
-Kebbit-tipped hunting bolts	Setas de caça com ponta de kebbit	interface	generalUI	skillGuide
+Opal-tipped bronze bolts	Setas de bronze com ponta de opala<br>	interface	generalUI	skillGuide
+Blurite bolts (after Knight's Sword quest)	Setas de blurita<br>(após Knight's Sword)	interface	generalUI	skillGuide
+Jade-tipped blurite bolts	Setas de blurita com ponta de jade<br>	interface	generalUI	skillGuide
+Kebbit-tipped hunting bolts	Setas de caça com ponta de kebbit<br>	interface	generalUI	skillGuide
 Iron bolts	Setas de ferro	interface	generalUI	skillGuide
-Pearl-tipped iron bolts	Setas de ferro com ponta de pérola	interface	generalUI	skillGuide
-Long kebbit-tipped hunting bolts	Setas longas de caça com ponta de kebbit	interface	generalUI	skillGuide
+Pearl-tipped iron bolts	Setas de ferro com ponta de pérola<br>	interface	generalUI	skillGuide
+Long kebbit-tipped hunting bolts	Setas longas de caça com ponta de<br>kebbit	interface	generalUI	skillGuide
 Silver bolts	Setas de prata	interface	generalUI	skillGuide
 Steel bolts	Setas de aço	interface	generalUI	skillGuide
-Red topaz-tipped steel bolts	Setas de aço com ponta de topázio	interface	generalUI	skillGuide
+Red topaz-tipped steel bolts	Setas de aço com ponta de topázio<br>	interface	generalUI	skillGuide
 Barbed-tipped bolts	Setas com ponta farpada	interface	generalUI	skillGuide
 Mithril bolts	Setas de mithril	interface	generalUI	skillGuide
 Broad bolts	Setas largas	interface	generalUI	skillGuide
-Sapphire-tipped mithril bolts	Setas de mithril com ponta de safira	interface	generalUI	skillGuide
-Emerald-tipped mithril bolts	Setas de mithril com ponta de esmeralda	interface	generalUI	skillGuide
+Sapphire-tipped mithril bolts	Setas de mithril com ponta de safira<br>	interface	generalUI	skillGuide
+Emerald-tipped mithril bolts	Setas de mithril com ponta de<br>esmeralda	interface	generalUI	skillGuide
 Mithril grapple-tipped bolts	Arpéu de mithirl	interface	generalUI	skillGuide
 Adamantite bolts	Setas de adamantio	interface	generalUI	skillGuide
 Sunlight bolts	Setas solares	interface	generalUI	skillGuide
-Ruby-tipped adamantite bolts	Setas de adamantio com ponta de rubi	interface	generalUI	skillGuide
-Diamond-tipped adamantite bolts	Setass de adamantio com ponta de diamante	interface	generalUI	skillGuide
+Ruby-tipped adamantite bolts	Setas de adamantio com ponta de<br>rubi	interface	generalUI	skillGuide
+Diamond-tipped adamantite bolts	Setass de adamantio com ponta de<br>diamante	interface	generalUI	skillGuide
 Runite bolts	Setas rúnicas	interface	generalUI	skillGuide
-Dragonstone-tipped runite bolts	Setas rúnicas com ponta de dragolito	interface	generalUI	skillGuide
+Dragonstone-tipped runite bolts	Setas rúnicas com ponta de dragolito<br>	interface	generalUI	skillGuide
 Moonlight bolts	Setas lunares	interface	generalUI	skillGuide
-Onyx-tipped runite bolts	Setas rúnicas com ponta de ônix	interface	generalUI	skillGuide
-Amethyst broad bolts	Setas de pontas largas de ametista	interface	generalUI	skillGuide
+Onyx-tipped runite bolts	Setas rúnicas com ponta de ônix<br>	interface	generalUI	skillGuide
+Amethyst broad bolts	Setas de pontas largas de ametista<br>	interface	generalUI	skillGuide
 Dragon bolts	Setas dragônicas	interface	generalUI	skillGuide
 Darts - Members Only	Dardos - Para Membros	interface	generalUI	skillGuide
 Bronze darts	Dardo de bronze	interface	generalUI	skillGuide
@@ -3610,17 +3616,18 @@ Iron darts	Dardo de ferro	interface	generalUI	skillGuide
 Steel darts	Dardo de aço	interface	generalUI	skillGuide
 Mithril darts	Dardo de mithril	interface	generalUI	skillGuide
 Adamant darts	Dardo de adamantio	interface	generalUI	skillGuide
+Atlatl darts	Dardo atlatl	interface	generalUI	skillGuide
 Rune darts	Dardo rúnico	interface	generalUI	skillGuide
 Crossbows - Members Only	Balestras - Para Membros	interface	generalUI	skillGuide
 Bronze/wooden crossbows	Balestras de bronze e lenha	interface	generalUI	skillGuide
-Blurite/oak crossbows (after Knight's Sword quest)	Balestras de blurita e carvalho (após Knight's Sword)	interface	generalUI	skillGuide
-Iron/willow crossbows	Balestras de salgueiro e ferro	interface	generalUI	skillGuide
+Blurite/oak crossbows (after Knight's Sword quest)	Balestras de blurita e carvalho<br>(após Knight's Sword)	interface	generalUI	skillGuide
+Iron/willow crossbows	Balestras de salgueiro e ferro<br>	interface	generalUI	skillGuide
 Steel/teak crossbows	Balestras de teca e aço	interface	generalUI	skillGuide
 Mithril/maple crossbows	Balestras de bordo e mithril	interface	generalUI	skillGuide
 Adamantite/mahogany crossbows	Balestras de mogno e mithril	interface	generalUI	skillGuide
-Runite/yew crossbows	Balestras de teixo e adamantio	interface	generalUI	skillGuide
-Sunlight hunters' crossbow	Balestras dos caçadores do sol	interface	generalUI	skillGuide
-Dragon/magic crossbows	Balestras dragônicas e mágica	interface	generalUI	skillGuide
+Runite/yew crossbows	Balestras de teixo e adamantio<br>	interface	generalUI	skillGuide
+Sunlight hunters' crossbow	Balestras dos caçadores do sol<br>	interface	generalUI	skillGuide
+Dragon/magic crossbows	Balestras dragônicas e mágica<br>	interface	generalUI	skillGuide
 Javelins - Members Only	Dardos longos - Para membros	interface	generalUI	skillGuide
 Bronze javelins	Dardo longo de bronze	interface	generalUI	skillGuide
 Iron javelins	Dardo longo de ferro	interface	generalUI	skillGuide
@@ -3638,8 +3645,18 @@ Maple shield	Escudo de bordo	interface	generalUI	skillGuide
 Yew shield	Escudo de teixo	interface	generalUI	skillGuide
 Magic shield	Escudo mágico	interface	generalUI	skillGuide
 Redwood shield	Escudo de Sequoia	interface	generalUI	skillGuide
+Vale Totems - Members Only	Totens do Vale - Para Membros	interface	generalUI	skillGuide
+Oak vale totems	Totem de carvalho	interface	generalUI	skillGuide
+Willow vale totems	Totem de salgueiro	interface	generalUI	skillGuide
+Maple vale totems	Totem de bordo	interface	generalUI	skillGuide
+Yew vale totems	Totem de teixo	interface	generalUI	skillGuide
+Magic vale totems	Totem de lenha mágica	interface	generalUI	skillGuide
+Redwood vale totems	Totem de sequoia	interface	generalUI	skillGuide
 Battlestaves	Bastão	interface	generalUI	skillGuide
+Greenman statue	Estátua do Greenman	interface	generalUI	skillGuide
 Hunter's spears	Lança de caçador	interface	generalUI	skillGuide
+Greenman carving	Escultura do Greenman	interface	generalUI	skillGuide
+Redwood hiking staff	Bastão de caminhada de sequóia<br> 	interface	generalUI	skillGuide
 Woodcutting	Corte de Lenha	interface	generalUI	skillGuide
 Trees	Árvores	interface	generalUI	skillGuide
 Normal trees	Árvores comuns	interface	generalUI	skillGuide
@@ -3654,16 +3671,17 @@ Members: Juniper trees	Membros: Árvore de zinco	interface	generalUI	skillGuide
 Maple trees	Bordo	interface	generalUI	skillGuide
 Members: Hollow trees	Membros: Árvore oca	interface	generalUI	skillGuide
 Members: Mahogany trees	Membros: Árvore de mogno	interface	generalUI	skillGuide
-Members: Arctic pine trees	Membros: Árvore de pinheiro do ártico	interface	generalUI	skillGuide
+Members: Arctic pine trees	Membros: Árvore de pinheiro do<br>ártico	interface	generalUI	skillGuide
 Yew trees	Teixo	interface	generalUI	skillGuide
 Members: Blisterwood tree	Membros: Inflamadeira	interface	generalUI	skillGuide
-Members: Sulliuscep mushroom trees	Membros: Árvore de suliuscepe	interface	generalUI	skillGuide
+Members: Sulliuscep mushroom trees	Membros: Árvore de suliuscepe<br> 	interface	generalUI	skillGuide
 Members: Magic trees	Membros: Árvore mágica	interface	generalUI	skillGuide
+Members: Infected tree roots	Membros: Raízes infectadas	interface	generalUI	skillGuide
 Members: Redwood trees	Membros: Árvore de sequóia	interface	generalUI	skillGuide
 Axes	Machados	interface	generalUI	skillGuide
 Forestry	Silvicultura	interface	generalUI	skillGuide
 Bronze axe	Machado de bronze	interface	generalUI	skillGuide
-Members: Bronze felling axe	Membros: Machado de corte de bronze	interface	generalUI	skillGuide
+Members: Bronze felling axe	Membros: Machado de corte de<br>bronze	interface	generalUI	skillGuide
 Iron axe	Machado de ferro	interface	generalUI	skillGuide
 Members: Iron felling axe	Membros: Machado de corte de ferro	interface	generalUI	skillGuide
 Steel axe	Machado de aço	interface	generalUI	skillGuide
@@ -3671,31 +3689,31 @@ Members: Steel felling axe	Membros: Machado de corte de aço	interface	generalUI
 Black axe	Machado negro	interface	generalUI	skillGuide
 Members: Black felling axe	Membros: Machado de corte negro	interface	generalUI	skillGuide
 Mithril axe	Machado de mithril	interface	generalUI	skillGuide
-Members: Mithril felling axe	Membros: Machado de corte de mithril	interface	generalUI	skillGuide
+Members: Mithril felling axe	Membros: Machado de corte de<br>mithril	interface	generalUI	skillGuide
 Adamant axe	Machado de adamantio	interface	generalUI	skillGuide
-Members: Adamant felling axe	Membros: Machado de corte de adamantio	interface	generalUI	skillGuide
+Members: Adamant felling axe	Membros: Machado de corte de<br>adamantio	interface	generalUI	skillGuide
 Rune axe	Machado rúnico	interface	generalUI	skillGuide
 Members: Rune felling axe	Membros: Machado de corte rúnico	interface	generalUI	skillGuide
 Gilded axe	Machado dourado	interface	generalUI	skillGuide
 Members: Dragon axe	Membros: Machado dragônico	interface	generalUI	skillGuide
-Members: Dragon felling axe	Membros: Machado de corte dragônico	interface	generalUI	skillGuide
+Members: Dragon felling axe	Membros: Machado de corte<br>dragônico	interface	generalUI	skillGuide
 Members: <Num0>rd age axe	Membros: Machado da <Num0>a Era	interface	generalUI	skillGuide
-Members: <Num0>rd age felling axe	Membros: Machado de corte da <Num0>a Era	interface	generalUI	skillGuide
-Members: Infernal axe (with <Num0> Firemaking)	Membros: Machado Infernal (com <Num0> Arte do Fogo)	interface	generalUI	skillGuide
-Members: Crystal axe (after Song of the Elves)	Membros: Machado de cristal (após Song of the Elves)	interface	generalUI	skillGuide
-Members: Crystal felling axe (after Song of the Elves)	Membros: Machado de corte de cristal (após Song of the Elves)	interface	generalUI	skillGuide
+Members: <Num0>rd age felling axe	Membros: Machado de corte da<br><Num0>a Era	interface	generalUI	skillGuide
+Members: Infernal axe (with <Num0> Firemaking)	Membros: Machado Infernal<br>(com <Num0> Arte do Fogo)	interface	generalUI	skillGuide
+Members: Crystal axe (after Song of the Elves)	Membros: Machado de cristal<br>(após Song of the Elves)	interface	generalUI	skillGuide
+Members: Crystal felling axe (after Song of the Elves)	Membros: Machado de corte de<br>cristal (após Song of the Elves)	interface	generalUI	skillGuide
 Forestry kit	Kit florestal	interface	generalUI	skillGuide
-Members: Forester's ration (with <Num0> Cooking)	Membros: Ração do florestal (com <Num0> Culinária)	interface	generalUI	skillGuide
-Members: Secateurs Attachment (with <Num0> Smithing)	Membros: Acessório para podadeira (com <Num0> Metalurgia)	interface	generalUI	skillGuide
-Members: Clothes Pouch (with <Num0> Crafting)	Membros: Bolsa para roupas (com <Num0> Artesanato)	interface	generalUI	skillGuide
-Members: Nature Offerings (with <Num0> Farming)	Membros: Ofertas da natureza (com <Num0> Agricultura)	interface	generalUI	skillGuide
-Members: Sturdy Harness (with <Num0> Smithing)	Membros: Arnês resistente (com <Num0> Metalurgia)	interface	generalUI	skillGuide
+Members: Forester's ration (with <Num0> Cooking)	Membros: Ração do florestal<br>(com <Num0> Culinária)	interface	generalUI	skillGuide
+Members: Secateurs Attachment (with <Num0> Smithing)	Membros: Acessório para podadeira<br>(com <Num0> Metalurgia)	interface	generalUI	skillGuide
+Members: Clothes Pouch (with <Num0> Crafting)	Membros: Bolsa para roupas<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
+Members: Nature Offerings (with <Num0> Farming)	Membros: Ofertas da natureza<br>(com <Num0> Agricultura)	interface	generalUI	skillGuide
+Members: Sturdy Harness (with <Num0> Smithing)	Membros: Arnês resistente<br>(com <Num0> Metalurgia)	interface	generalUI	skillGuide
 Log canoe	Canoa de madeira	interface	generalUI	skillGuide
 Dugout canoe	Canoa escavada	interface	generalUI	skillGuide
 Stable dugout canoe	Canoa escavada estável	interface	generalUI	skillGuide
-Members: Lumberjack and Forestry outfit.	Membros: Roupas de lenhador e florestal	interface	generalUI	skillGuide
+Members: Lumberjack and Forestry outfit.	Membros: Roupas de lenhador e<br>florestal	interface	generalUI	skillGuide
 Members: Fremennik round shield	Membros: Escudo fremennik	interface	generalUI	skillGuide
-Members: Split arctic pine logs	Membros: Partir Lenha de pinheiro do ártico	interface	generalUI	skillGuide
+Members: Split arctic pine logs	Membros: Partir Lenha de pinheiro do<br>ártico	interface	generalUI	skillGuide
 Waka canoe	Canoa waka	interface	generalUI	skillGuide
 Runecraft	Criação de Runa	interface	generalUI	skillGuide
 Runes	Runas	interface	generalUI	skillGuide
