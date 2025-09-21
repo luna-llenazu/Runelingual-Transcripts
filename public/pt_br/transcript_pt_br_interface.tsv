@@ -1531,7 +1531,7 @@ Black	Negra	interface	generalUI	skillGuide
 Members: White	Membros: Branca	interface	generalUI	skillGuide
 Mithril	Mithril	interface	generalUI	skillGuide
 Adamant	Adamantio	interface	generalUI	skillGuide
-Members: Battlestaves (with <Num0> Magic)	Membros: Bastões (com <Num0> Magia)<br> 	interface	generalUI	skillGuide
+Members: Battlestaves (with <Num0> Magic)	Membros: Bastões<br>(com <Num0> Magia)	interface	generalUI	skillGuide
 Rune	Rúnico	interface	generalUI	skillGuide
 Barronite mace (requires Below Ice Mountain)	Maça de Barronita<br>(exige Below Ice Mountain)	interface	generalUI	skillGuide
 Members: Brine sabre	Membros: Sabre aquático	interface	generalUI	skillGuide
@@ -1598,14 +1598,14 @@ Members: Osmumten's Fang	 <br>Membros: Presa de Osmumten	interface	generalUI	ski
 Armour	Armadura	interface	generalUI	skillGuide
 Salamanders	Salamandras	interface	generalUI	skillGuide
 Armour - Members Only	Armadura - Para Membros	interface	generalUI	skillGuide
-Void Knight equipment (with <Num0> combat stats and <Num1> Prayer)	Equipamento do Vácuo (com <Num0> stats de combate e ´<Num1> Oração)	interface	generalUI	skillGuide
-Members: Ferocious Gloves (with <Num0> Defence)	Membros: Luvas ferozes (com <Num0> Defesa)	interface	generalUI	skillGuide
+Void Knight equipment (with <Num0> combat stats and <Num1> Prayer)	Equipamento do Vácuo<br>(com <Num0> stats de combate e<br><Num1> Oração)	interface	generalUI	skillGuide
+Members: Ferocious Gloves (with <Num0> Defence)	Membros: Luvas ferozes<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
 Salamanders - Members Only	Salamandras - Para Membros	interface	generalUI	skillGuide
-Swamp lizard (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Lagarto do pântano (com <Num0> Ataque, <Num1> Cbt. à Distância & <Num2> Magia)	interface	generalUI	skillGuide
-Orange salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra alaranjada (com <Num0> Ataque, <Num1> Cbt. à Distância & <Num2> Magia)	interface	generalUI	skillGuide
-Red salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra vermelha (com <Num0> Ataque, <Num1> Cbt. à Distância & <Num2> Magia)	interface	generalUI	skillGuide
-Black salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra negra (com <Num0> Ataque, <Num1> Cbt. à Distância & <Num2> Magia)	interface	generalUI	skillGuide
-Tecu salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra tecu (com <Num0> Ataque, <Num1> Cbt. à Distância & <Num2> Magia)	interface	generalUI	skillGuide
+Swamp lizard (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Lagarto do pântano<br>(com <Num0> Ataque, Cbt. à<br>Distância & Magia)	interface	generalUI	skillGuide
+Orange salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra alaranjada<br>(com <Num0> Ataque, Cbt. à<br>Distância & Magia)	interface	generalUI	skillGuide
+Red salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra vermelha<br>(com <Num0> Ataque, Cbt. à<br>Distância & Magia)	interface	generalUI	skillGuide
+Black salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra negra<br>(com <Num0> Ataque, Cbt. à<br>Distância & Magia)	interface	generalUI	skillGuide
+Tecu salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra tecu<br>(com <Num0> Ataque, Cbt. à<br>Distância & Magia)	interface	generalUI	skillGuide
 Hitpoints	Pontos de Vida	interface	generalUI	skillGuide
 Hitpoints are used to tell you how healthy your character is. A character who reaches <Num0> Hitpoints has died, but will reappear in their chosen respawn location (normally Lumbridge).	Os pontos de vida indicam a saúde do<br>personagem. Ao chegar a <Num0>, ele<br>morre e reaparece no local de<br>respawn escolhido (geralmente<br>Lumbridge).	interface	generalUI	skillGuide
 If you see any red 'hit splats' during combat, the number shown corresponds to the number of Hitpoints lost as a result of that strike.	Hitsplats vermelhos mostram a quantidade de<br>pontos de vida perdidos no golpe.	interface	generalUI	skillGuide
@@ -1616,105 +1616,106 @@ Orange hit splats are disease damage. (Members)	Hitsplats laranja são danos por
 Dark purple hit splats are corruption damage. (Members)	Hitsplats roxos escuros são danos por<br>corrupção. (Membros)	interface	generalUI	skillGuide
 Healing	Cura	interface	generalUI	skillGuide
 Equipment	Equipamento	interface	generalUI	skillGuide
-Purple Sweets: Restores <Num0>-<Num1> Hitpoints (Members)	Doces púrpuras: Recupera <Num0>-<Num1> de Vida (Membros)	interface	generalUI	skillGuide
+Purple Sweets: Restores <Num0>-<Num1> Hitpoints (Members)	Doces púrpuras: Recupera <Num0>-<Num1> de<br>Vida (Membros)	interface	generalUI	skillGuide
 Anchovies: Restores <Num0> Hitpoint	Anchovas: Recupera <Num0> de Vida	interface	generalUI	skillGuide
 Shrimp: Restores <Num0> Hitpoints	Camarões: Recupera <Num0> de Vida	interface	generalUI	skillGuide
 Cooked chicken: Restores <Num0> Hitpoints	Galinha cozida: Recupera <Num0> de Vida	interface	generalUI	skillGuide
 Sardine: Restores <Num0> Hitpoints	Sardinha: Recupera <Num0> de Vida	interface	generalUI	skillGuide
 Cooked meat: Restores <Num0> Hitpoints	Carne cozida: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Cooked mystery meat: Restores <Num0> Hitpoints	Carne misteriosa cozida: Recupera <Num0> de Vida	interface	generalUI	skillGuide
+Cooked mystery meat: Restores <Num0> Hitpoints	Carne misteriosa cozida: Recupera<br><Num0> de Vida	interface	generalUI	skillGuide
 Bread: Restores <Num0> Hitpoints	Pão: Recupera <Num0> de Vida	interface	generalUI	skillGuide
 Herring: Restores <Num0> Hitpoints	Arenque: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Cooked Rabbit: Restores <Num0> Hitpoints (Members)	Coelho cozido: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Steak Sandwich: Restores <Num0> Hitpoints	Sanduíche de bife: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Mackerel: Restores <Num0> Hitpoints (Members)	Cavalinha: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Botanical Pie: Restores <Num0> Hitpoints (Members)	Torta botânica: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Slimy Eel: Restores <Num0>-<Num1> Hitpoints (Members)	Enguia viscosa: Recupera <Num0>-<Num1> de Vida (Membros)	interface	generalUI	skillGuide
+Cooked Rabbit: Restores <Num0> Hitpoints (Members)	Coelho cozido: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Steak Sandwich: Restores <Num0> Hitpoints	Sanduíche de bife: Recupera <Num0> de<br>Vida	interface	generalUI	skillGuide
+Mackerel: Restores <Num0> Hitpoints (Members)	Cavalinha: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Botanical Pie: Restores <Num0> Hitpoints (Members)	Torta botânica: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Slimy Eel: Restores <Num0>-<Num1> Hitpoints (Members)	Enguia viscosa: Recupera <Num0>-<Num1> de<br>Vida (Membros)	interface	generalUI	skillGuide
 Trout: Restores <Num0> Hitpoints	Truta: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Cod: Restores <Num0> Hitpoints (Members)	Bacalhau: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Roast Rabbit: Restores <Num0> Hitpoints (Members)	Coelho assado: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Cave Eel: Restores <Num0>-<Num1> Hitpoints (Members)	Enguia de gruta: Recupera <Num0>-<Num1> de Vida (Membros)	interface	generalUI	skillGuide
+Cod: Restores <Num0> Hitpoints (Members)	Bacalhau: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Roast Rabbit: Restores <Num0> Hitpoints (Members)	Coelho assado: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Cave Eel: Restores <Num0>-<Num1> Hitpoints (Members)	Enguia de gruta: Recupera <Num0>-<Num1> de<br>Vida (Membros)	interface	generalUI	skillGuide
 Pike: Restores <Num0> Hitpoints	Lúcio: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Wild kebbit: Restores <Num0> Hitpoints (Members)	Kebbit selvagem: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
+Wild kebbit: Restores <Num0> Hitpoints (Members)	Kebbit selvagem: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
 Salmon: Restores <Num0> Hitpoints	Salmão: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Redberry pie: Restores <Num0> Hitpoints	Torta de vermelhora: Recupera <Num0> de Vida	interface	generalUI	skillGuide
+Redberry pie: Restores <Num0> Hitpoints	Torta de vermelhora: Recupera <Num0><br>de Vida	interface	generalUI	skillGuide
 Tuna: Restores <Num0> Hitpoints	Atum: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Crab meat: Restores <Num0> Hitpoints (Members)	Carne de caranguejo: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Cooked fishcake: Restores <Num0> Hitpoints (Members)	Bolo de peixe cozido: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Jug of wine: Restores <Num0> Hitpoints	Jarro de suco de uva: Recupera <Num0> de Vida	interface	generalUI	skillGuide
+Crab meat: Restores <Num0> Hitpoints (Members)	Carne de caranguejo: Recupera <Num0><br>de Vida (Membros)	interface	generalUI	skillGuide
+Cooked fishcake: Restores <Num0> Hitpoints (Members)	Bolo de peixe cozido: Recupera <Num0><br>de Vida (Membros)	interface	generalUI	skillGuide
+Jug of wine: Restores <Num0> Hitpoints	Jarro de suco de uva: Recupera <Num0><br>de Vida	interface	generalUI	skillGuide
 Meat pie: Restores <Num0> Hitpoints	Torta de carne: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Lava Eel: Restores <Num0> Hitpoints (Members)	Enguia de lava: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Larupia: Restores <Num0> Hitpoints (Members)	Larupia: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Garden pie: Restores <Num0> Hitpoints (Members)	Torta de verduras: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Fish pie: Restores <Num0> Hitpoints (Members)	Torta de peixe: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
+Lava Eel: Restores <Num0> Hitpoints (Members)	Enguia de lava: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Larupia: Restores <Num0> Hitpoints (Members)	Larupia: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Garden pie: Restores <Num0> Hitpoints (Members)	Torta de verduras: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Fish pie: Restores <Num0> Hitpoints (Members)	Torta de peixe: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
 Cake: Restores <Num0> Hitpoints	Bolo: Recupera <Num0> de Vida	interface	generalUI	skillGuide
 Lobster: Restores <Num0> Hitpoints	Lagosta: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Barb-tailed kebbit: Restores <Num0> Hitpoints (Members)	Kebbit cauda farpada: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Bass: Restores <Num0> Hitpoints (Members)	Garoupa: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
+Barb-tailed kebbit: Restores <Num0> Hitpoints (Members)	Kebbit cauda farpada: Recupera <Num0><br>de Vida (Membros)	interface	generalUI	skillGuide
+Bass: Restores <Num0> Hitpoints (Members)	Garoupa: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
 Swordfish: Restores <Num0> Hitpoints	Peixe-espada: Recupera <Num0> de Vida	interface	generalUI	skillGuide
 Plain pizza: Restores <Num0> Hitpoints	Pizza simples: Recupera <Num0> de Vida	interface	generalUI	skillGuide
 Apple pie: Restores <Num0> Hitpoints	Torta de maçã: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Potato with butter: Restores <Num0> Hitpoints (Members)	Batata com manteiga: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Chilli Potato: Restores <Num0> Hitpoints (Members)	Batata com Chilli: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Graahk: Restores <Num0> Hitpoints (Members)	Graahk: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Chocolate Cake: Restores <Num0> Hitpoints	Bolo de chocolate: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Monkfish: Restores <Num0> Hitpoints (Members)	Tamboril: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Admiral pie: Restores <Num0> Hitpoints (Members)	Torta do almirante: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
+Potato with butter: Restores <Num0> Hitpoints (Members)	Batata com manteiga: Recupera <Num0><br>de Vida (Membros)	interface	generalUI	skillGuide
+Chilli Potato: Restores <Num0> Hitpoints (Members)	Batata com Chilli: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Graahk: Restores <Num0> Hitpoints (Members)	Graahk: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Chocolate Cake: Restores <Num0> Hitpoints	Bolo de chocolate: Recupera <Num0> de<br>Vida	interface	generalUI	skillGuide
+Monkfish: Restores <Num0> Hitpoints (Members)	Tamboril: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Admiral pie: Restores <Num0> Hitpoints (Members)	Torta do almirante: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
 Meat pizza: Restores <Num0> Hitpoints	Pizza de carne: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Potato with cheese: Restores <Num0> Hitpoints (Members)	Batata com queijo: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Egg Potato: Restores <Num0> Hitpoints (Members)	Ovos com batata: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Kyatt: Restores <Num0> Hitpoints (Members)	Kyatt: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Cooked karambwan: Restores <Num0> Hitpoints (Members)	Karambwan cozido: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Anchovy pizza: Restores <Num0> Hitpoints	Pizza de anchovas: Recupera <Num0> de Vida	interface	generalUI	skillGuide
-Ugthanki kebab: Restores <Num0> Hitpoints (Members)	Kebab de ugthanki: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Pyre fox: Restores <Num0> Hitpoints (Members)	Piroraposa: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Shark: Restores <Num0> Hitpoints (Members)	Tubarão: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Mushroom Potato: Restores <Num0> Hitpoints (Members)	Cogumelo e batata: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Sea Turtle: Restores <Num0> Hitpoints (Members)	Tartaruga do mar: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Sunlight antelope: Restores <Num0> Hitpoints (Members)	Antílope solar: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Manta Ray: Restores <Num0> Hitpoints (Members)	Arraia jamanta: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Dark Crab: Restores <Num0> Hitpoints (Members)	Caranguejo escuro: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Tuna Potato: Restores <Num0> Hitpoints (Members)	Batata assada com atum: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Wild pie: Restores <Num0> Hitpoints (Members)	Torta selvagem: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Summer pie: Restores <Num0> Hitpoints (Members)	Torta de verão: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Pineapple pizza: Restores <Num0> Hitpoints (Members)	Pizza de abacaxi: Recupera <Num0> de Vida (Membros)	interface	generalUI	skillGuide
-Dashing kebbit: Restores <Num0> Hitpoints and <Num1> Run Energy (Members)	Kebbit furtivo: Recupera <Num0> de Vida e <Num1> de Corrida (Membros)	interface	generalUI	skillGuide
-Moonlight antelope: Restores <Num0> Hitpoints and cures <Num1> level of poison (Members)	Antílope do luar: Recupera <Num0> de Vida and cura <Num1> nível de veneno (Membros)	interface	generalUI	skillGuide
-Anglerfish: Restores Hitpoints based on your Hitpoints level up to a maximum of <Num0> - can boost beyond your level (Members)	Peixe-diabo: Recupera Vida baseada nos seus Pontos totais até um máximo de <Num0> - pode aumentar além do seu nível (Membros)	interface	generalUI	skillGuide
-Saradomin brew: Restores <Num0>% of your Hitpoints level plus <Num1> - can boost beyond your level (Members)	[Saradomin brew]: Recupera <Num0>% de sua Vida mais <Num1> - pode aumentar além do seu nível (Membros)	interface	generalUI	skillGuide
-Equipment - Members Only	Equipamento - Para Membros	interface	generalUI	skillGuide
-Nightmare Staff (without orb) (with <Num0> Magic)	Cajado do pesadelo (sem orbe) (com <Num0> Magia)	interface	generalUI	skillGuide
-Nightmare Staff (with orb) (with <Num0> Magic)	Cajado do pesadelo (com orb) (com <Num0> Magia)	interface	generalUI	skillGuide
+Potato with cheese: Restores <Num0> Hitpoints (Members)	Batata com queijo: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Egg Potato: Restores <Num0> Hitpoints (Members)	Ovos com batata: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Kyatt: Restores <Num0> Hitpoints (Members)	Kyatt: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Cooked karambwan: Restores <Num0> Hitpoints (Members)	Karambwan cozido: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Anchovy pizza: Restores <Num0> Hitpoints	Pizza de anchovas: Recupera <Num0> de<br>Vida	interface	generalUI	skillGuide
+Ugthanki kebab: Restores <Num0> Hitpoints (Members)	Kebab de ugthanki: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Pyre fox: Restores <Num0> Hitpoints (Members)	Piroraposa: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Shark: Restores <Num0> Hitpoints (Members)	Tubarão: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Mushroom Potato: Restores <Num0> Hitpoints (Members)	Cogumelo e batata: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Sea Turtle: Restores <Num0> Hitpoints (Members)	Tartaruga do mar: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Sunlight antelope: Restores <Num0> Hitpoints (Members)	Antílope solar: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Manta Ray: Restores <Num0> Hitpoints (Members)	Arraia jamanta: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Dark Crab: Restores <Num0> Hitpoints (Members)	Caranguejo escuro: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Tuna Potato: Restores <Num0> Hitpoints (Members)	Batata assada com atum: Recupera<br><Num0> de Vida (Membros)	interface	generalUI	skillGuide
+Wild pie: Restores <Num0> Hitpoints (Members)	Torta selvagem: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Summer pie: Restores <Num0> Hitpoints (Members)	Torta de verão: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
+Pineapple pizza: Restores <Num0> Hitpoints (Members)	Pizza de abacaxi: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
+Dashing kebbit: Restores <Num0> Hitpoints and <Num1> Run Energy (Members)	Kebbit furtivo: Recupera <Num0> de Vida<br>e <Num1> de Corrida (Membros)	interface	generalUI	skillGuide
+Moonlight antelope: Restores <Num0> Hitpoints and cures <Num1> level of poison (Members)	Antílope do luar: Recupera <Num0> de<br>Vida and cura <Num1> nível de veneno	interface	generalUI	skillGuide
+Anglerfish: Restores Hitpoints based on your Hitpoints level up to a maximum of <Num0> - can boost beyond your level (Members)	(Membros)	interface	generalUI	skillGuide
+Saradomin brew: Restores <Num0>% of your Hitpoints level plus <Num1> - can boost beyond your level (Members)	Peixe-diabo: Recupera Vida baseada<br>nos seus Pontos totais até um<br>máximo de <Num0> - pode aumentar além<br>do seu nível (Membros)	interface	generalUI	skillGuide
+Equipment - Members Only	Preparado de Saradomin: Recupera<br><Num0>% de sua Vida mais <Num1> - pode<br>aumentar além do seu nível<br>(Membros)	interface	generalUI	skillGuide
+Nightmare Staff (without orb) (with <Num0> Magic)	Cajado do pesadelo (sem orbe)<br>(com <Num0> Magia)	interface	generalUI	skillGuide
+Nightmare Staff (with orb) (with <Num0> Magic)	Cajado do pesadelo (com orb)<br>(com <Num0> Magia)	interface	generalUI	skillGuide
 Enchanted zenyte jewellery	Joias de Zenita encantadas	interface	generalUI	skillGuide
 Amulet of Rancour	Amuleto do rancor	interface	generalUI	skillGuide
 Mining	Mineração	interface	generalUI	skillGuide
+Confliction gauntlets	Manoplas de conflito	interface	generalUI	skillGuide
 Rocks	Rochas	interface	generalUI	skillGuide
-Rune essence (after Rune Mysteries)	Essência rúnica (after Rune Mysteries)	interface	generalUI	skillGuide
+Rune essence (after Rune Mysteries)	Essência rúnica<br>(após Rune Mysteries)	interface	generalUI	skillGuide
 Clay	Argila	interface	generalUI	skillGuide
 Copper ore	Minério de cobre	interface	generalUI	skillGuide
 Tin ore	Minério de estanho	interface	generalUI	skillGuide
 Blurite ore	Minério de azulito	interface	generalUI	skillGuide
 Members: Limestone	Membros: Pedra calcária	interface	generalUI	skillGuide
-Barronite (after Below Ice Mountain)	Barronite (após Below Ice Mountain)	interface	generalUI	skillGuide
+Barronite (after Below Ice Mountain)	Barronite<br>(após Below Ice Mountain)	interface	generalUI	skillGuide
 Iron ore	Minério de ferro	interface	generalUI	skillGuide
 Silver ore	Minério de prata	interface	generalUI	skillGuide
 Members: Volcanic ash	Membros: Cinza vulcânica	interface	generalUI	skillGuide
 Coal	Carvão mineral	interface	generalUI	skillGuide
-Members: Pure essence (after Rune Mysteries)	Membros: Essência Pura (após Rune Mysteries)	interface	generalUI	skillGuide
-Members: Motherlode mine (lower level)	Membros: Mina Motherload (andar inferior)	interface	generalUI	skillGuide
+Members: Pure essence (after Rune Mysteries)	Membros: Essência Pura<br>(após Rune Mysteries)	interface	generalUI	skillGuide
+Members: Motherlode mine (lower level)	Membros: Mina Motherload<br>(andar inferior)	interface	generalUI	skillGuide
 Members: Sandstone	Membros: Arenito	interface	generalUI	skillGuide
-Members: Dense essence (with <Num0> Crafting)	Membros: Essência densa (com <Num0> Artesanato)	interface	generalUI	skillGuide
+Members: Dense essence (with <Num0> Crafting)	Membros: Essência densa<br>(com <Num0> Artesanato)	interface	generalUI	skillGuide
 Gold	Ouro	interface	generalUI	skillGuide
 Members: Gem rocks	Membros: Rochas de gemas	interface	generalUI	skillGuide
 Members: Calcified rocks	Membros: Rochas calcificadas	interface	generalUI	skillGuide
 Members: Volcanic sulphur	Membros: Enxofre vulcânico	interface	generalUI	skillGuide
 Members: Lovakengj Blast Mine	Membros: Granite	interface	generalUI	skillGuide
-Members: Granite	Membros: Mina Explosiva de Lovakengj	interface	generalUI	skillGuide
+Members: Granite	Membros: Mina Explosiva de<br>Lovakengj	interface	generalUI	skillGuide
 Members: Volcanic Mine	Membros: Mina Volcânica	interface	generalUI	skillGuide
 Mithril ore	Minério de mithril	interface	generalUI	skillGuide
-Members: Motherlode mine (upper level)	Membros: Mina Motherload (andar superior)	interface	generalUI	skillGuide
-Members: Daeyalt essence (after Sins of the Father)	Membros: Essência de Daeyalt (após Sins of the Father)	interface	generalUI	skillGuide
-Members: Tainted essence chunk	Membros: Pedaço de essência contaminada	interface	generalUI	skillGuide
+Members: Motherlode mine (upper level)	Membros: Mina Motherload<br>(andar superior)	interface	generalUI	skillGuide
+Members: Daeyalt essence (after Sins of the Father)	Membros: Essência de Daeyalt<br>(após Sins of the Father)	interface	generalUI	skillGuide
+Members: Tainted essence chunk	Membros: Pedaço de essência<br>contaminada	interface	generalUI	skillGuide
 Members: Lovakite ore	Membros: Minério de Lovakite	interface	generalUI	skillGuide
 Adamantite ore	Minério de adamantio	interface	generalUI	skillGuide
 Members: Soft clay	Membros: Argila macia	interface	generalUI	skillGuide
@@ -1722,7 +1723,7 @@ Members: Te Salt	Membros: Sal Te	interface	generalUI	skillGuide
 Members: Efh Salt	Membros: Sal Efh	interface	generalUI	skillGuide
 Members: Urt Salt	Membros: Sal Urt	interface	generalUI	skillGuide
 Members: Basalt	Membros: Basalto	interface	generalUI	skillGuide
-Members: Ancient essence (after Secrets of the North)	Membros: Essência antiga (após Secrets of the North)	interface	generalUI	skillGuide
+Members: Ancient essence (after Secrets of the North)	Membros: Essência antiga<br>(após Secrets of the North)	interface	generalUI	skillGuide
 Runite ore	Minério de runita	interface	generalUI	skillGuide
 Members: Amethyst	Membros: Ametista	interface	generalUI	skillGuide
 Areas	Áreas	interface	generalUI	skillGuide
@@ -1736,45 +1737,45 @@ Mithril pickaxe	Picareta de mithril	interface	generalUI	skillGuide
 Adamant pickaxe	Picareta de adamantio	interface	generalUI	skillGuide
 Rune pickaxe	Picareta rúnica	interface	generalUI	skillGuide
 Gilded pickaxe	Picareta dourada	interface	generalUI	skillGuide
-Members: Superior mining gloves	Membros: Luvas de mineração superior	interface	generalUI	skillGuide
+Members: Superior mining gloves	Membros: Luvas de mineração<br>superior	interface	generalUI	skillGuide
 Members: Dragon pickaxe	Membros: Picareta dragônica	interface	generalUI	skillGuide
 Members: <Num0>rd age pickaxe	Membros: Picareta da <Num0>a Era	interface	generalUI	skillGuide
-Members: Infernal pickaxe (with <Num0> Smithing)	Membros: Picareta Infernal (com <Num0> Metalurgia)	interface	generalUI	skillGuide
-Members: Expert mining gloves	Membros: Luvas de mineração especialista	interface	generalUI	skillGuide
-Members: Crystal pickaxe (after Song of the Elves)	Membros: Picareta de cristal (após Song of the Elves)	interface	generalUI	skillGuide
+Members: Infernal pickaxe (with <Num0> Smithing)	Membros: Picareta Infernal<br>(com <Num0> Metalurgia)	interface	generalUI	skillGuide
+Members: Expert mining gloves	Membros: Luvas de mineração<br>especialista	interface	generalUI	skillGuide
+Members: Crystal pickaxe (after Song of the Elves)	Membros: Picareta de cristal<br>(após Song of the Elves)	interface	generalUI	skillGuide
 Members: Motherlode Mine	Membros: Mina Motherload	interface	generalUI	skillGuide
-Members: Motherlode Mine upper area	Membros: Mina Motherload (andar superior)	interface	generalUI	skillGuide
+Members: Motherlode Mine upper area	Membros: Mina Motherload<br>andar superior)	interface	generalUI	skillGuide
 Mining Guild	Guilda de Mineração	interface	generalUI	skillGuide
 Size-<Num0> stars	Estrelas tamanho-<Num0>	interface	generalUI	skillGuide
 Strength	Força	interface	generalUI	skillGuide
 Bronze warhammer	Martelo de guerra bronze	interface	generalUI	skillGuide
 Iron warhammer	Martelo de guerra de ferro	interface	generalUI	skillGuide
 Steel warhammer	Martelo de guerra de aço	interface	generalUI	skillGuide
-Members: Black halberd (with <Num0> Attack)	Membros: Alabarda negra (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: White halberd (with <Num0> Attack)	Membros: Alabarda branca (com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Black halberd (with <Num0> Attack)	Membros: Alabarda negra<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: White halberd (with <Num0> Attack)	Membros: Alabarda branca<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Black warhammer	Martelo de guerra negro	interface	generalUI	skillGuide
-Members: White warhammer (with <Num0> Prayer)	Membros: Martelo de guerra branco (com <Num0> Oração)	interface	generalUI	skillGuide
-Members: Mithril halberd (with <Num0> Attack)	Membros: Alabarda de mithril (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Adamant halberd (with <Num0> Attack)	Membros: Alabarda de adamantio (com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: White warhammer (with <Num0> Prayer)	Membros: Martelo de guerra branco<br>(com <Num0> Oração)	interface	generalUI	skillGuide
+Members: Mithril halberd (with <Num0> Attack)	Membros: Alabarda de mithril<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Adamant halberd (with <Num0> Attack)	Membros: Alabarda de adamantio<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Mithril warhammer	Martelo de guerra de mithril	interface	generalUI	skillGuide
-Members: Rune halberd (with <Num0> Attack)	Membros: Alabarda rúnica (com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Rune halberd (with <Num0> Attack)	Membros: Alabarda rúnica<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Adamant warhammer	Martelo de guerra de adamantio	interface	generalUI	skillGuide
-Members: Hunter's spears (with <Num0> Ranged)	Membros: Lança de caçador (com <Num0> Combate à Distância)	interface	generalUI	skillGuide
-Members: Dragon halberd (with <Num0> Attack)	Membros: Alabarda dragônica (com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Hunter's spears (with <Num0> Ranged)	Membros: Lança de caçador<br>(com <Num0> Combate à Distância)	interface	generalUI	skillGuide
+Members: Dragon halberd (with <Num0> Attack)	Membros: Alabarda dragônica<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Rune warhammer	Martelo de guerra rúnico	interface	generalUI	skillGuide
-Members: Barrelchest Anchor (with <Num0> Attack)	Membros: Âncora do Barrilgudo (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Granite maul (with <Num0> Attack)	Membros: Malho de granito (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Granite longsword (with <Num0> Attack)	Membros: Espada longa de granito (com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Barrelchest Anchor (with <Num0> Attack)	Membros: Âncora do Barrilgudo<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Granite maul (with <Num0> Attack)	Membros: Malho de granito<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Granite longsword (with <Num0> Attack)	Membros: Espada longa de granito<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Members: TzHaar-Ket-Om	Membros: Tzhaar-Ket-Om	interface	generalUI	skillGuide
 Members: Dragon warhammer	Membros: Martelo de guerra dragônico	interface	generalUI	skillGuide
-Members: Ancient sceptre (requires Secrets of the North, <Num0> Attack and <Num1> Magic)	Membros: Cetro antigo (requer Secrets of the North, <Num0> Ataque e <Num1> Magia)	interface	generalUI	skillGuide
-Members: Dharok's greataxe (with <Num0> Attack)	Membros: Machado de Dharok (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Torag's hammers (with <Num0> Attack)	Membros: Martelo de Torag (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Abyssal bludgeon (with <Num0> Attack)	Membros: Maço abissal (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Elder maul (with <Num0> Attack)	Membros: Malho Ancião (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Dual Macuahuitl (with <Num0> Attack)	Membros: Macuahuitl duplo (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Soulreaper axe (with <Num0> Attack)	Membros: Machado Ceifador de Almas (com <Num0> Ataque)	interface	generalUI	skillGuide
-Members: Scythe of Vitur (with <Num0> Attack)	Membros: Foice de Vitur (com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Ancient sceptre (requires Secrets of the North, <Num0> Attack and <Num1> Magic)	Membros: Cetro antigo<br>(requer Secrets of the North,<br><Num0> Ataque e <Num1> Magia)	interface	generalUI	skillGuide
+Members: Dharok's greataxe (with <Num0> Attack)	Membros: Machado de Dharok<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Torag's hammers (with <Num0> Attack)	Membros: Martelo de Torag<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Abyssal bludgeon (with <Num0> Attack)	Membros: Maço abissal<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Elder maul (with <Num0> Attack)	Membros: Malho Ancião<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Dual Macuahuitl (with <Num0> Attack)	Membros: Macuahuitl duplo<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Soulreaper axe (with <Num0> Attack)	Membros: Machado Ceifador de Almas<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
+Members: Scythe of Vitur (with <Num0> Attack)	Membros: Foice de Vitur<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Shortcuts	Atalhos	interface	generalUI	skillGuide
 Barbarian	Bárbara	interface	generalUI	skillGuide
 Granite armour (with <Num0> Defence)	Armadura de granito (com <Num0> Defesa)	interface	generalUI	skillGuide
@@ -1783,49 +1784,49 @@ Members: Inquisitor's armour (with <Num0> Defence)	Membros: Armadura do inquisid
 Primordial boots (with <Num0> Defence)	Botas primordiais (com <Num0> Defesa)	interface	generalUI	skillGuide
 Members: Bloodrager set (with <Num0> Defence)	Membros: Conj. da Lua de Sangue (com <Num0> Defesa)	interface	generalUI	skillGuide
 Shortcuts - Members Only	Atalhos - Para Membros	interface	generalUI	skillGuide
-Cross the River Lum to Al Kharid (with <Num0> Agility and <Num1> Ranged)	Atravesse o rio Lum até Al Kharid (com <Num0> Agilidade e <Num1> Combate à Distância)	interface	generalUI	skillGuide
-Karamja (with <Num0> Agility and <Num1> Ranged)	Karamja (com <Num0> Agilidade e <Num1> Combate à Distância)	interface	generalUI	skillGuide
-Escape from the water obelisk island (with <Num0> Agility and <Num1> Ranged)	Fuja da ilha do obelisco de água (com <Num0> Agilidade e <Num1> Combate à Distância)	interface	generalUI	skillGuide
-Scale the Observatory cliff (with <Num0> Agility and <Num1> Ranged, after completing the Observatory quest)	Escalar o penhasco do Observatório (com <Num0> Agilidade e <Num1> Combate à Distância, após completar a missão Observatory)	interface	generalUI	skillGuide
-Scale the Catherby cliff (with <Num0> Agility and <Num1> Ranged)	Escalar o penhasco de Catherby (com <Num0> Agilidade e <Num1> Combate à Distância)	interface	generalUI	skillGuide
-Scale Falador wall (with <Num0> Agility and <Num1> Ranged)	Escalar a muralha de Falador (com <Num0> Agilidade e <Num1> Combate à Distância)	interface	generalUI	skillGuide
-Scale Yanille wall (with <Num0> Agility and <Num1> Ranged)	Escalar a muralha de Yanille (com <Num0> Agilidade e <Num1> Combate à Distância)	interface	generalUI	skillGuide
-Cross cave, south of Dorgesh-Kaan  (with <Num0> Agility and <Num1> Strength, after completing Death to the Dorgeshuun)	Atravesse a caverna, ao sul de Dorgesh-Kaan (com <Num0> Agilidade e <Num1> Força, após completar Death to the Dorgeshuun)	interface	generalUI	skillGuide
+Cross the River Lum to Al Kharid (with <Num0> Agility and <Num1> Ranged)	Atravesse o rio Lum até Al Kharid<br>(com <Num0> Agilidade e <Num1> Distância)	interface	generalUI	skillGuide
+Karamja (with <Num0> Agility and <Num1> Ranged)	Karamja<br>(com <Num0> Agilidade e <Num1> Distância)	interface	generalUI	skillGuide
+Escape from the water obelisk island (with <Num0> Agility and <Num1> Ranged)	Fuja da ilha do obelisco de água<br>(com <Num0> Agilidade e <Num1> Distância)	interface	generalUI	skillGuide
+Scale the Observatory cliff (with <Num0> Agility and <Num1> Ranged, after completing the Observatory quest)	Escalar o penhasco do Observatório<br>(com <Num0> Agilidade e <Num1> Distância,<br>após completar Observatory)	interface	generalUI	skillGuide
+Scale the Catherby cliff (with <Num0> Agility and <Num1> Ranged)	Escalar o penhasco de Catherby<br>(com <Num0> Agilidade e <Num1> Distância)	interface	generalUI	skillGuide
+Scale Falador wall (with <Num0> Agility and <Num1> Ranged)	Escalar a muralha de Falador<br>(com <Num0> Agilidade e <Num1> Distância)	interface	generalUI	skillGuide
+Scale Yanille wall (with <Num0> Agility and <Num1> Ranged)	Escalar a muralha de Yanille<br>(com <Num0> Agilidade e <Num1> Distância)	interface	generalUI	skillGuide
+Cross cave, south of Dorgesh-Kaan  (with <Num0> Agility and <Num1> Strength, after completing Death to the Dorgeshuun)	Caverna ao sul de Dorgesh-Kaan<br>(com <Num0> Agilidade e <Num1> Força,<br>após Death to the Dorgeshuun)	interface	generalUI	skillGuide
 Areas - Members Only	Áreas - Para Membros	interface	generalUI	skillGuide
-Access the God Wars Dungeon via the Strength route	Acesse a Masmorra das Guerras dos Deuses pela rota da Força	interface	generalUI	skillGuide
-Enter the Bandos area of the God Wars Dungeon	Entre na área de Bandos da Masmorra das Guerras dos Deuses	interface	generalUI	skillGuide
+Access the God Wars Dungeon via the Strength route	Acesso pela rota de Força à<br>Masmorra das Guerras dos Deuses	interface	generalUI	skillGuide
+Enter the Bandos area of the God Wars Dungeon	Entre na área de Bandos da<brMasmorra das Guerras dos Deuses	interface	generalUI	skillGuide
 Barbarian - Members Only	Bárbaro - Para Membros	interface	generalUI	skillGuide
-To start fishing like a Barbarian, talk to Otto Godblessed when you have at least level <Num0> Fishing, level <Num1> Agility and level <Num2> Strength.	Para começar a pescar como um bárbaro, fale com Otto Godblessed quando tiver pelo menos <Num0> Pesca, <Num1> Agilidade e <Num2> Força.	interface	generalUI	skillGuide
-Leaping trout (with <Num0> Agility & <Num1> Fishing)	Truta saltitante (com <Num0> Agilidade & <Num1> Pesca)	interface	generalUI	skillGuide
-Leaping salmon (with <Num0> Agility & <Num1> Fishing)	Salmão saltitante (com <Num0> Agilidade & <Num1> Pesca)	interface	generalUI	skillGuide
-Tuna (with <Num0> Fishing)	Atum (com <Num0> Pesca)	interface	generalUI	skillGuide
-Harpoonfish (with <Num0> Fishing)	Peixe-arpão (com <Num0> Pesca)	interface	generalUI	skillGuide
-Leaping sturgeon (with <Num0> Agility & <Num1> Fishing)	Esturjão saltitante (com <Num0> Agilidade & <Num1> Pesca)	interface	generalUI	skillGuide
-Swordfish (with <Num0> Fishing)	Peixe-espada (com <Num0> Pesca)	interface	generalUI	skillGuide
-Shark (with <Num0> Fishing)	Tubarão (com <Num0> Pesca)	interface	generalUI	skillGuide
+To start fishing like a Barbarian, talk to Otto Godblessed when you have at least level <Num0> Fishing, level <Num1> Agility and level <Num2> Strength.	Para começar a pescar como um<br>bárbaro, fale com Otto Godblessed<br>quando tiver pelo menos <Num0> Pesca,<br><Num1> Agilidade e <Num2> Força.	interface	generalUI	skillGuide
+Leaping trout (with <Num0> Agility & <Num1> Fishing)	Truta saltitante<br>(com <Num0> Agilidade & <Num1> Pesca)	interface	generalUI	skillGuide
+Leaping salmon (with <Num0> Agility & <Num1> Fishing)	Salmão saltitante<br>(com <Num0> Agilidade & <Num1> Pesca)	interface	generalUI	skillGuide
+Tuna (with <Num0> Fishing)	Atum<br>(com <Num0> Pesca)	interface	generalUI	skillGuide
+Harpoonfish (with <Num0> Fishing)	Peixe-arpão<br>(com <Num0> Pesca)	interface	generalUI	skillGuide
+Leaping sturgeon (with <Num0> Agility & <Num1> Fishing)	Esturjão saltitante<br>(com <Num0> Agilidade & <Num1> Pesca)	interface	generalUI	skillGuide
+Swordfish (with <Num0> Fishing)	Peixe-espada<br>(com <Num0> Pesca)	interface	generalUI	skillGuide
+Shark (with <Num0> Fishing)	Tubarão<br>(com <Num0> Pesca)	interface	generalUI	skillGuide
 Agility	Agilidade	interface	generalUI	skillGuide
 Courses - Members Only	Percursos - Para Membros	interface	generalUI	skillGuide
-Gnome Stronghold Agility Course	Percurso de agilidade da Fortaleza dos Gnomos	interface	generalUI	skillGuide
-Gnomeball game	Jogo de Gnomeball	interface	generalUI	skillGuide
-Low-level Agility Arena obstacles	Obstáculos de nível baixo da Arena de Agilidade	interface	generalUI	skillGuide
+Gnome Stronghold Agility Course	Percurso de agilidade da Fortaleza<br>dos Gnomos	interface	generalUI	skillGuide
+Gnomeball game	Jogo de Gnomobol	interface	generalUI	skillGuide
+Low-level Agility Arena obstacles	Obstáculos de nível baixo da Arena<br>de Agilidade	interface	generalUI	skillGuide
 Shayzien Basic Course	Percurso Básico de Shayzien	interface	generalUI	skillGuide
-Draynor Village Rooftop Course	Percurso dos Telhados da Vila de Draynor	interface	generalUI	skillGuide
+Draynor Village Rooftop Course	Percurso dos Telhados da Vila de<br>Draynor	interface	generalUI	skillGuide
 Al Kharid Rooftop Course	Percurso dos Telhados de Al Kharid	interface	generalUI	skillGuide
-Medium-level Agility Arena obstacles	Obstáculos de nível médio da Arena de Agilidade	interface	generalUI	skillGuide
-Werewolf Skullball game	Jogo de Skullball do Lobisomem	interface	generalUI	skillGuide
+Medium-level Agility Arena obstacles	Obstáculos de nível médio da Arena<br>de Agilidade	interface	generalUI	skillGuide
+Werewolf Skullball game	Jogo de Caveirobol do Lobisomem<br> 	interface	generalUI	skillGuide
 Agility Pyramid	Pirâmide de Agilidade	interface	generalUI	skillGuide
 Varrock Rooftop Course	Percurso dos Telhados de Varrock	interface	generalUI	skillGuide
 Penguin Agility Course	Percurso de Agilidade dos Pinguins	interface	generalUI	skillGuide
-Barbarian Outpost Agility Course	Percurso de agilidade do Posto Avançado Bárbaro	interface	generalUI	skillGuide
+Barbarian Outpost Agility Course	Percurso de agilidade do Posto<br>Avançado Bárbaro	interface	generalUI	skillGuide
 Canifis Rooftop Course	Percurso no telhado de Canifis	interface	generalUI	skillGuide
-High-level Agility Arena obstacles	Obstáculos de alto nível da Arena de Agilidade	interface	generalUI	skillGuide
+High-level Agility Arena obstacles	Obstáculos de alto nível da Arena de<br>Agilidade	interface	generalUI	skillGuide
 Shayzien Advanced Course	Percurso avançado de Shayzien	interface	generalUI	skillGuide
-Ape Atoll Agility Course	Percurso de agilidade do Atol dos Macacos	interface	generalUI	skillGuide
+Ape Atoll Agility Course	Percurso de agilidade do Atol dos<br>Macacos	interface	generalUI	skillGuide
 Falador Rooftop Course	Percurso no telhado de Falador	interface	generalUI	skillGuide
 Colossal Wyrm Basic Course	Percurso básico do Wyrm Colossal	interface	generalUI	skillGuide
 Wilderness Course	Percurso na Selva	interface	generalUI	skillGuide
 Werewolf Agility Course	Percurso de agilidade do Lobisomem	interface	generalUI	skillGuide
-Seers' Village Rooftop Course	Percurso no telhado da Vila dos Videntes	interface	generalUI	skillGuide
+Seers' Village Rooftop Course	Percurso no telhado da Vila dos<br>Videntes	interface	generalUI	skillGuide
 Colossal Wyrm Advanced Course	Percurso avançado do Wyrm Colossal	interface	generalUI	skillGuide
 Caves south of Dorgesh-Kaan	Cavernas ao sul de Dorgesh-Kaan	interface	generalUI	skillGuide
 Pollnivneach Rooftop Course	Percurso no telhado de Pollnivneach	interface	generalUI	skillGuide
@@ -4559,7 +4560,7 @@ As with any skill, you will restore <Num0> missing Hitpoint every minute, but th
 Mining allows you to get various minerals from the world, for use in other skills; primarily Smithing.	Mineração permite extrair minerais<br>pelo mundo, principalmente para<br>Metalurgia.	interface	generalUI	skillGuide
 To mine a rock, simply interact with it while holding a pickaxe you have the level to use and you'll start mining it. Eventually, you'll collect the ore and the rock will deplete. Low level rocks will replenish themselves fairly quickly, but higher level ones will take longer and longer to come back.	Para minerar, equipe uma picareta<br>adequada e interaja com a rocha.<br>Colete o minério até a rocha se<br>esgotar. Rochas de baixo nível se<br>regeneram rápido; as de nível mais<br>alto levam mais tempo.	interface	generalUI	skillGuide
 At higher mining levels, you'll have an increased chance of successfully mining a rock. You'll also be able to use more powerful pickaxes, which decrease the amount of time between mining attempts.	Níveis mais altos de Mineração<br>aumentam a chance de sucesso e<br>permitem usar picaretas mais<br>poderosas, reduzindo o tempo entre<br>tentativas.	interface	generalUI	skillGuide
-Note that while most pickaxes have an Attack level requirement to equip them, you're still able to use them from within your inventory if you have the required Mining level.	Embora a maioria das picaretas exija nível de Ataque para equipar, você pode usá-las do inventário se tiver o nível necessário de Mineração.	interface	generalUI	skillGuide
+Note that while most pickaxes have an Attack level requirement to equip them, you're still able to use them from within your inventory if you have the required Mining level.	Embora a maioria das picaretas<br>exija nível de Ataque para equipar,<br>você pode usá-las do inventário se<br>tiver o nv necessário de Mineração.	interface	generalUI	skillGuide
 Your Strength level determines your max hit in combat. Whenever you hit your opponent, you will deal a random amount of damage up to your max hit.	O nível de Força define seu dano<br>máximo em combate. Cada acerto<br>causa um valor aleatório até esse<br>limite.	interface	generalUI	skillGuide
 Most weapons have a Strength bonus that will also increase your max hit. You can view your Strength bonus (and all of your equipment's stats) by selecting 'View equipment stats' under the Worn Equipment side panel.	A maioria das armas concede bônus<br>de Força, aumentando o dano<br>máximo. Esse bônus e outras<br>estatísticas podem ser vistos em<br>'Ver estatísticas do equipamento'<br>no painel de Equipamento Vestido.	interface	generalUI	skillGuide
 Agility - Members Only	Agilidade - Para Membros	interface	generalUI	skillGuide

@@ -10830,7 +10830,7 @@ Eye of ayak (uncharged)	Olho de ayak (sem carga)	name	item	Eye of ayak (uncharge
 Old letter	Carta antiga	name	item	Old letter
 Blueberry muffin	Bolinho de mirtilo	name	item	Blueberry muffin
 Dom	Dom	name	item	Dom
-level	nível	name	level	
+level	nível-	name	level	
 Redemption	Redenção	name	menu	prayerTab
 Protect Item	Proteção de Item	name	menu	prayerTab
 Incredible Reflexes	Megarreflexo	name	menu	prayerTab
