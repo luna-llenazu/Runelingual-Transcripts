@@ -1601,11 +1601,11 @@ Armour - Members Only	Armadura - Para Membros	interface	generalUI	skillGuide
 Void Knight equipment (with <Num0> combat stats and <Num1> Prayer)	Equipamento do Vácuo<br>(com <Num0> stats de combate e<br><Num1> Oração)	interface	generalUI	skillGuide
 Members: Ferocious Gloves (with <Num0> Defence)	Membros: Luvas ferozes<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
 Salamanders - Members Only	Salamandras - Para Membros	interface	generalUI	skillGuide
-Swamp lizard (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Lagarto do pântano<br>(com <Num0> Ataque, Cbt. à<br>Distância & Magia)	interface	generalUI	skillGuide
-Orange salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra alaranjada<br>(com <Num0> Ataque, Cbt. à<br>Distância & Magia)	interface	generalUI	skillGuide
-Red salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra vermelha<br>(com <Num0> Ataque, Cbt. à<br>Distância & Magia)	interface	generalUI	skillGuide
-Black salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra negra<br>(com <Num0> Ataque, Cbt. à<br>Distância & Magia)	interface	generalUI	skillGuide
-Tecu salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra tecu<br>(com <Num0> Ataque, Cbt. à<br>Distância & Magia)	interface	generalUI	skillGuide
+Swamp lizard (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Lagarto do pântano<br>(com <Num0> Ataque, Distância & Magia)	interface	generalUI	skillGuide
+Orange salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra alaranjada<br>(com <Num0> Ataque, Distância & Magia)	interface	generalUI	skillGuide
+Red salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra vermelha<br>(com <Num0> Ataque, Distância & Magia)	interface	generalUI	skillGuide
+Black salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra negra<br>(com <Num0> Ataque, Distância & Magia)	interface	generalUI	skillGuide
+Tecu salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	Salamandra tecu<br>(com <Num0> Ataque, Distância & Magia)	interface	generalUI	skillGuide
 Hitpoints	Pontos de Vida	interface	generalUI	skillGuide
 Hitpoints are used to tell you how healthy your character is. A character who reaches <Num0> Hitpoints has died, but will reappear in their chosen respawn location (normally Lumbridge).	Os pontos de vida indicam a saúde do<br>personagem. Ao chegar a <Num0>, ele<br>morre e reaparece no local de<br>respawn escolhido (geralmente<br>Lumbridge).	interface	generalUI	skillGuide
 If you see any red 'hit splats' during combat, the number shown corresponds to the number of Hitpoints lost as a result of that strike.	Hitsplats vermelhos mostram a quantidade de<br>pontos de vida perdidos no golpe.	interface	generalUI	skillGuide
@@ -1679,10 +1679,10 @@ Wild pie: Restores <Num0> Hitpoints (Members)	Torta selvagem: Recupera <Num0> de
 Summer pie: Restores <Num0> Hitpoints (Members)	Torta de verão: Recupera <Num0> de Vida<br>(Membros)	interface	generalUI	skillGuide
 Pineapple pizza: Restores <Num0> Hitpoints (Members)	Pizza de abacaxi: Recupera <Num0> de<br>Vida (Membros)	interface	generalUI	skillGuide
 Dashing kebbit: Restores <Num0> Hitpoints and <Num1> Run Energy (Members)	Kebbit furtivo: Recupera <Num0> de Vida<br>e <Num1> de Corrida (Membros)	interface	generalUI	skillGuide
-Moonlight antelope: Restores <Num0> Hitpoints and cures <Num1> level of poison (Members)	Antílope do luar: Recupera <Num0> de<br>Vida and cura <Num1> nível de veneno	interface	generalUI	skillGuide
-Anglerfish: Restores Hitpoints based on your Hitpoints level up to a maximum of <Num0> - can boost beyond your level (Members)	(Membros)	interface	generalUI	skillGuide
-Saradomin brew: Restores <Num0>% of your Hitpoints level plus <Num1> - can boost beyond your level (Members)	Peixe-diabo: Recupera Vida baseada<br>nos seus Pontos totais até um<br>máximo de <Num0> - pode aumentar além<br>do seu nível (Membros)	interface	generalUI	skillGuide
-Equipment - Members Only	Preparado de Saradomin: Recupera<br><Num0>% de sua Vida mais <Num1> - pode<br>aumentar além do seu nível<br>(Membros)	interface	generalUI	skillGuide
+Moonlight antelope: Restores <Num0> Hitpoints and cures <Num1> level of poison (Members)	Antílope do luar: Recupera <Num0> de<br>Vida and cura <Num1> nível de veneno (Membros)	interface	generalUI	skillGuide
+Anglerfish: Restores Hitpoints based on your Hitpoints level up to a maximum of <Num0> - can boost beyond your level (Members)	Peixe-diabo: Recupera Vida baseada<br>nos seus Pontos totais até um<br>máximo de <Num0> - pode aumentar além<br>do seu nível (Membros)	interface	generalUI	skillGuide
+Saradomin brew: Restores <Num0>% of your Hitpoints level plus <Num1> - can boost beyond your level (Members)	Preparado de Saradomin: Recupera<br><Num0>% de sua Vida mais <Num1> - pode<br>aumentar além do seu nível<br>(Membros)	interface	generalUI	skillGuide
+Equipment - Members Only	Equipamento - Para Membros	interface	generalUI	skillGuide
 Nightmare Staff (without orb) (with <Num0> Magic)	Cajado do pesadelo (sem orbe)<br>(com <Num0> Magia)	interface	generalUI	skillGuide
 Nightmare Staff (with orb) (with <Num0> Magic)	Cajado do pesadelo (com orb)<br>(com <Num0> Magia)	interface	generalUI	skillGuide
 Enchanted zenyte jewellery	Joias de Zenita encantadas	interface	generalUI	skillGuide
@@ -2300,68 +2300,69 @@ Members: Elidinis' Ward (with <Num0> Prayer and <Num1> Magic)	Membros: Protetor 
 Herblore	Herbologia	interface	generalUI	skillGuide
 Potions - Members Only	Poções - Para Membros	interface	generalUI	skillGuide
 You must complete the Druidic Ritual quest before you can use Herblore.	É necessário completar a missão<br>Druidic Ritual para usar Herbologia.	interface	generalUI	skillGuide
-Attack potion Guam leaf & eye of newt	1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 	interface	generalUI	skillGuide
-Anti-poison potion Marrentill & ground unicorn horn	Antiveneno Marrentil & Pó de chifre de unicórnio	interface	generalUI	skillGuide
+Attack potion Guam leaf & eye of newt	Poção do ataque<br>Guam & Olho de salamandra	interface	generalUI	skillGuide
+Anti-poison potion Marrentill & ground unicorn horn	Antiveneno<br>Marrentil & Pó de chifre de unicórnio	interface	generalUI	skillGuide
 Relicym's balm	Bálsamo de Relicym	interface	generalUI	skillGuide
-Strength potion Tarromin & limpwurt root	Poção da força Tarromin & Raiz de talsichão	interface	generalUI	skillGuide
-Serum <Num0> Tarromin & ashes	Soro <Num0> Tarromin & Cinzas	interface	generalUI	skillGuide
-Guam tar Guam leaf & swamp tar	Piche de guam Guam & Piche do pântano	interface	generalUI	skillGuide
-Compost potion Harralander & volcanic ash	Poção de adubo Harralander & Cinza vulcânica	interface	generalUI	skillGuide
-Stat restore potion Harralander & red spiders' eggs	Poção restauradora Harralander & Ovos de aranha vermelha	interface	generalUI	skillGuide
-Guthix balance potion Restore potion, garlic & silver dust	Equilíbrio de Guthix Poção restauradora, Alho & Pó de prata	interface	generalUI	skillGuide
-Energy potion Harralander & chocolate dust	Poção da energia Harralander & Chocolate em pó	interface	generalUI	skillGuide
-Defence potion Ranarr weed & white berries	Poção da defesa Ranarr & Alvamoras	interface	generalUI	skillGuide
-Marrentill tar Marrentill & swamp tar	Piche de marrentil Marrentil & Piche do pântano	interface	generalUI	skillGuide
-Agility potion Toadflax & toad legs	Poção da agilidade Sapolinho & Pernas de sapo	interface	generalUI	skillGuide
-Combat potion Harralander & ground desert goat horn	Poção de combate Harralander & Pó de chifre de bode	interface	generalUI	skillGuide
-Prayer restore potion Ranarr weed & snape grass	Poção do devoto Ranarr & Capim da cura	interface	generalUI	skillGuide
-Moonlight Potion Vial of water & Moonlight grub paste	Poção de luar  Frasco de água & Pasta de larva do luar	interface	generalUI	skillGuide
-Tarromin tar Tarromin & swamp tar	Piche de tarromin Tarromin & Piche do pântano	interface	generalUI	skillGuide
-Harralander tar Harralander & swamp tar	Piche de harralander Harralander & Piche do pântano	interface	generalUI	skillGuide
-Super attack potion Irit leaf & eye of newt	Superataque Irita & Olho de salamandra	interface	generalUI	skillGuide
-Super anti-poison potion Irit leaf & ground unicorn horn	Super antiveneno Irita & Pó de chifre de unicórnio	interface	generalUI	skillGuide
-Fishing potion Avantoe & snape grass	Poção do pescador Avantoé & Capim da cura	interface	generalUI	skillGuide
-Super energy potion Avantoe & Mort Myre fungi	Superenergia Avantoé & Fungo de Mort Myre	interface	generalUI	skillGuide
-Hunting potion - Avantoe & ground sabre-toothed kebbit teeth	Poção do caçador - Avantoé & Pó de dentes de kebbit	interface	generalUI	skillGuide
-Goading potion Harralander & aldarium	Poção da provocação  Harralander & Aldarium	interface	generalUI	skillGuide
-Super strength potion Kwuarm & limpwurt root	Superforça Kwuarm & Raiz de talsichão	interface	generalUI	skillGuide
-Irit tar Irit leaf & swamp tar	Piche de irita Irita & Piche do pântano	interface	generalUI	skillGuide
-Magic essence potion Star flower & ground gorak's claw	Essência mágica Flor estelar & Pó de garra de Gorak	interface	generalUI	skillGuide
-Prayer regeneration potion Huasca & aldarium	Poção de regeneração de oração  Huasca & Aldarium	interface	generalUI	skillGuide
-Weapon poison Kwuarm & ground blue dragon scale	Veneno de arma Kwuarm & Pó de escama de dragão	interface	generalUI	skillGuide
-Super restore potion Snapdragon & red spiders' eggs	Super-restauradora Dragoerva & Ovos de aranha vermelha	interface	generalUI	skillGuide
-Sanfew serum cure all Super restore potion, snake weed, ground unicorn horn and nail beast nails.	Soro de Sanfew cura tudo Super-restauradora, Serpenteira, Pó de chifre de unicórnio e Unhas de ferunha.	interface	generalUI	skillGuide
-Super defence potion Cadantine & white berries	Superdefesa Cadantina & Alvamoras	interface	generalUI	skillGuide
-Antidote+ Coconut milk, toadflax & yew roots	Antídoto+ Leite de coco, Sapolinho & Raízes de teixo	interface	generalUI	skillGuide
-Anti-firebreath potion Lantadyme & ground blue dragon scale	Antifogo Lantadima & Pó de escama de dragão	interface	generalUI	skillGuide
-Divine super attack potion Crystal dust & super attack potion	Poção divina de superataque Pó de cristal & Superataque	interface	generalUI	skillGuide
-Divine super strength potion Crystal dust & super strength potion	Poção divina de superforça Pó de cristal & Superforça	interface	generalUI	skillGuide
-Divine super defence potion Crystal dust & super defence potion	Poção divina de superdefesa Pó de cristal & Superdefesa	interface	generalUI	skillGuide
-Ranging potion Dwarf weed & wine of Zamorak	Poção do arqueiro Erva dos anões & Suco de uva de Zamorak	interface	generalUI	skillGuide
-Weapon poison(+) Coconut milk, cactus spine & red spiders' eggs	Veneno de arma+ Leite de coco, Espinhos de cacto & Ovos de aranha vermelha	interface	generalUI	skillGuide
-Divine ranging potion Crystal dust & ranging potion	Poção divina do arqueiro Pó de cristal & Poção do arqueiro	interface	generalUI	skillGuide
-Magic potion Lantadyme & potato cactus	Poção de magia Lantadima & Cacto batata	interface	generalUI	skillGuide
-Stamina potion Amylase & super energy potion	Poção de vigor Cristal de amilase & Superenergia	interface	generalUI	skillGuide
-Zamorak brew Torstol & jangerberries	Preparado de Zamorak Torstol & Jangoesas	interface	generalUI	skillGuide
-Divine magic potion Crystal dust & magic potion	Poção divina de magia Pó de cristal & Poção de magia	interface	generalUI	skillGuide
-Antidote++ Coconut milk, irit leaf & magic tree roots	Antídoto++ Leite de coco, Irita & Raízes mágicas	interface	generalUI	skillGuide
-Bastion potion Cadantine & wine of Zamorak mixed in a vial of blood	Poção de bastião  Cadantina & Suco de uva de Zamorak com Frasco de sangue	interface	generalUI	skillGuide
-Battlemage potion Cadantine & potato cactus mixed in a vial of blood	Poção de mago de batalha  Cadantina & Cacto batata com a Frasco de sangue	interface	generalUI	skillGuide
-Saradomin brew Toadflax & crushed birdnest	Preparado de Saradomin Sapolinho & Ninho moído	interface	generalUI	skillGuide
-Weapon poison(++) Coconut milk, nightshade & poison ivy berries	Veneno de arma++ Leite de coco, Noctisombra & Frutinha de hera venenosa	interface	generalUI	skillGuide
-Extended antifire potion Antifire potion & lava scale shards	Antifogo extendida Antifogo & Fragmento de lava	interface	generalUI	skillGuide
-Ancient brew Dwarf weed & nihil dust	Preparado ancião  Erva dos anões & Pó de Nihil	interface	generalUI	skillGuide
-Divine bastion potion Crystal dust & bastion potion	Poção divina de bastião  Pó de cristal & Poção de bastião 	interface	generalUI	skillGuide
-Divine battlemage potion Crystal dust & battlemage potion	Poção divina de mago de batalha  Pó de cristal & Poção de mago de batalha 	interface	generalUI	skillGuide
-Anti-venom Antidote++ & Zulrah's scales	Anti-peçonha   Antídoto++ & Escamas de Zulrah	interface	generalUI	skillGuide
-Menaphite remedy Dwarf weed & Lily of the sands	Remédio menaphita  Erva dos anões & Lírio das areias	interface	generalUI	skillGuide
-Super combat potion Super attack potion, super defence potion, super strength potion & torstol	Poção de supercombate Superataque, Superdefesa, Superforça & Torstol	interface	generalUI	skillGuide
-Forgotten brew Ancient brew & ancient essence	Poção esquecida  Preparado ancião  & Essência antiga	interface	generalUI	skillGuide
-Super antifire potion Antifire potion & crushed superior dragon bones (after Dragon Slayer II)	Super antifogo (4) Antifogo & Ossos de dragão superiores triturados (após Dragon Slayer II)	interface	generalUI	skillGuide
-Anti-venom+ Anti-venom & Torstol	Anti-peçonha +  Anti-peçonha   & Torstol	interface	generalUI	skillGuide
-Extended anti-venom+ Anti-venom+ & Araxyte venom sack	Anti-peçonha extendida+ Anti-peçonha +  & Saco de veneno de aracnita	interface	generalUI	skillGuide
-Divine super combat potion Crystal dust & super combat potion	Poção divina de supercombate Pó de cristal & Poção de supercombate	interface	generalUI	skillGuide
-Extended super antifires Super antifire potion & lava scale shards (after Dragon Slayer II)	Super antifogo estendida Super antifogo (4) & Fragmento de lava (após Dragon Slayer II)	interface	generalUI	skillGuide
+Strength potion Tarromin & limpwurt root	Poção da força<br>Tarromin & Raiz de talsichão	interface	generalUI	skillGuide
+Serum <Num0> Tarromin & ashes	Soro <Num0><br>Tarromin & Cinzas	interface	generalUI	skillGuide
+Guam tar Guam leaf & swamp tar	Piche de guam<br>Guam & Piche do pântano	interface	generalUI	skillGuide
+Compost potion Harralander & volcanic ash	Poção de adubo<br>Harralander & Cinza vulcânica	interface	generalUI	skillGuide
+Stat restore potion Harralander & red spiders' eggs	Poção restauradora<br>Harralander & Ovos de aranha<br>vermelha	interface	generalUI	skillGuide
+Guthix balance potion Restore potion, garlic & silver dust	Equilíbrio de Guthix<br>Poção restauradora, Alho & Pó de<br>prata	interface	generalUI	skillGuide
+Energy potion Harralander & chocolate dust	Poção da energia<br>Harralander & Chocolate em pó	interface	generalUI	skillGuide
+Defence potion Ranarr weed & white berries	Poção da defesa<br>Ranarr & Alvamoras	interface	generalUI	skillGuide
+Marrentill tar Marrentill & swamp tar	Piche de marrentil<br>Marrentil & Piche do pântano	interface	generalUI	skillGuide
+Agility potion Toadflax & toad legs	Poção da agilidade<br>Sapolinho & Pernas de sapo	interface	generalUI	skillGuide
+Combat potion Harralander & ground desert goat horn	Poção de combate<br>Harralander & Pó de chifre de bode	interface	generalUI	skillGuide
+Prayer restore potion Ranarr weed & snape grass	Poção do devoto<br>Ranarr & Capim da cura	interface	generalUI	skillGuide
+Moonlight Potion Vial of water & Moonlight grub paste	Poção de luar<br>Frasco de água & Pasta de larva do<br>luar	interface	generalUI	skillGuide
+Tarromin tar Tarromin & swamp tar	Piche de tarromin<br>Tarromin & Piche do pântano	interface	generalUI	skillGuide
+Harralander tar Harralander & swamp tar	Piche de harralander<br>Harralander & Piche do pântano	interface	generalUI	skillGuide
+Super attack potion Irit leaf & eye of newt	Superataque<br>Irita & Olho de salamandra	interface	generalUI	skillGuide
+Super anti-poison potion Irit leaf & ground unicorn horn	Super antiveneno<br>Irita & Pó de chifre de unicórnio	interface	generalUI	skillGuide
+Fishing potion Avantoe & snape grass	Poção do pescador<br>Avantoé & Capim da cura	interface	generalUI	skillGuide
+Super energy potion Avantoe & Mort Myre fungi	Superenergia<br>Avantoé & Fungo de Mort Myre	interface	generalUI	skillGuide
+Hunting potion - Avantoe & ground sabre-toothed kebbit teeth	Poção do caçador<br>Avantoé & Pó de dentes de kebbit	interface	generalUI	skillGuide
+Goading potion Harralander & aldarium	Poção da provocação<br>Harralander & Aldarium	interface	generalUI	skillGuide
+Super strength potion Kwuarm & limpwurt root	Superforça<br>Kwuarm & Raiz de talsichão	interface	generalUI	skillGuide
+Irit tar Irit leaf & swamp tar	Piche de irita<br>Irita & Piche do pântano	interface	generalUI	skillGuide
+Magic essence potion Star flower & ground gorak's claw	Essência mágica<br>Flor estelar & Pó de garra de Gorak	interface	generalUI	skillGuide
+Prayer regeneration potion Huasca & aldarium	Poção de regeneração de oração<br>Huasca & Aldarium	interface	generalUI	skillGuide
+Weapon poison Kwuarm & ground blue dragon scale	Veneno de arma<br>Kwuarm & Pó de escama de dragão	interface	generalUI	skillGuide
+Super restore potion Snapdragon & red spiders' eggs	Super-restauradora<br>Dragoerva & Ovos de aranha<br>vermelha	interface	generalUI	skillGuide
+Sanfew serum cure all Super restore potion, snake weed, ground unicorn horn and nail beast nails.	Soro de Sanfew cura tudo<br>Super-restauradora, Serpenteira,<br>Pó de chifre de unicórnio e Unhas de<br>ferunha.	interface	generalUI	skillGuide
+Super defence potion Cadantine & white berries	Superdefesa<br>Cadantina & Alvamoras	interface	generalUI	skillGuide
+Antidote+ Coconut milk, toadflax & yew roots	Antídoto+<br>Leite de coco, Sapolinho & Raízes de<br>teixo	interface	generalUI	skillGuide
+Anti-firebreath potion Lantadyme & ground blue dragon scale	Antifogo<br>Lantadima & Pó de escama de dragão	interface	generalUI	skillGuide
+Divine super attack potion Crystal dust & super attack potion	Poção divina de superataque<br>Pó de cristal & Superataque	interface	generalUI	skillGuide
+Divine super strength potion Crystal dust & super strength potion	Poção divina de superforça<br>Pó de cristal & Superforça	interface	generalUI	skillGuide
+Divine super defence potion Crystal dust & super defence potion	Poção divina de superdefesa<br>Pó de cristal & Superdefesa	interface	generalUI	skillGuide
+Ranging potion Dwarf weed & wine of Zamorak	Poção do arqueiro<br>Erva dos anões & Suco de uva de<br>Zamorak	interface	generalUI	skillGuide
+Weapon poison(+) Coconut milk, cactus spine & red spiders' eggs	Veneno de arma+<br>Leite de coco, Espinhos de cacto &<br>Ovos de aranha vermelha	interface	generalUI	skillGuide
+Divine ranging potion Crystal dust & ranging potion	Poção divina do arqueiro<br>Pó de cristal & Poção do arqueiro	interface	generalUI	skillGuide
+Magic potion Lantadyme & potato cactus	Poção de magia<br>Lantadima & Cacto batata	interface	generalUI	skillGuide
+Stamina potion Amylase & super energy potion	Poção de vigor<br>Cristal de amilase & Superenergia	interface	generalUI	skillGuide
+Zamorak brew Torstol & jangerberries	Preparado de Zamorak<br>Torstol & Jangoesas	interface	generalUI	skillGuide
+Divine magic potion Crystal dust & magic potion	Poção divina de magia<br>Pó de cristal & Poção de magia	interface	generalUI	skillGuide
+Antidote++ Coconut milk, irit leaf & magic tree roots	Antídoto++<br>Leite de coco, Irita & Raízes mágicas	interface	generalUI	skillGuide
+Bastion potion Cadantine & wine of Zamorak mixed in a vial of blood	Poção de bastião<br>Cadantina & Suco de uva de Zamorak<br>com Frasco de sangue	interface	generalUI	skillGuide
+Battlemage potion Cadantine & potato cactus mixed in a vial of blood	Poção de mago de batalha<br>Cadantina & Cacto batata com a<br>Frasco de sangue	interface	generalUI	skillGuide
+Saradomin brew Toadflax & crushed birdnest	Preparado de Saradomin<br>Sapolinho & Ninho moído	interface	generalUI	skillGuide
+Surge potion Torstol & demonic tallow	Poção do impulso<br>Torstol & Sebo demoníaco	interface	generalUI	skillGuide
+Weapon poison(++) Coconut milk, nightshade & poison ivy berries	Veneno de arma++<br>Leite de coco, Noctisombra &<br>Frutinha de hera venenosa	interface	generalUI	skillGuide
+Extended antifire potion Antifire potion & lava scale shards	Antifogo extendida<br>Antifogo & Fragmento de lava	interface	generalUI	skillGuide
+Ancient brew Dwarf weed & nihil dust	Preparado ancião<br>Erva dos anões & Pó de Nihil	interface	generalUI	skillGuide
+Divine bastion potion Crystal dust & bastion potion	Poção divina de bastião<br>Pó de cristal & Poção de bastião	interface	generalUI	skillGuide
+Divine battlemage potion Crystal dust & battlemage potion	Poção divina de mago de batalha<br>Pó de cristal & Poção de mago de<br>batalha	interface	generalUI	skillGuide
+Anti-venom Antidote++ & Zulrah's scales	Anti-peçonha<br>Antídoto++ & Escamas de Zulrah	interface	generalUI	skillGuide
+Menaphite remedy Dwarf weed & Lily of the sands	Remédio menaphita<br>Erva dos anões & Lírio das areias	interface	generalUI	skillGuide
+Super combat potion Super attack potion, super defence potion, super strength potion & torstol	Poção de supercombate<br>Superataque, Superdefesa,<br>Superforça & Torstol	interface	generalUI	skillGuide
+Forgotten brew Ancient brew & ancient essence	Poção esquecida<br>Preparado ancião & Essência antiga	interface	generalUI	skillGuide
+Super antifire potion Antifire potion & crushed superior dragon bones (after Dragon Slayer II)	Antifogo & Ossos de dragão<br>superiores triturados<br>(após Dragon Slayer II)	interface	generalUI	skillGuide
+Anti-venom+ Anti-venom & Torstol	Anti-peçonha +<br>Anti-peçonha & Torstol	interface	generalUI	skillGuide
+Extended anti-venom+ Anti-venom+ & Araxyte venom sack	Anti-peçonha extendida+<br>Anti-peçonha + & Saco de veneno de<br>aracnita	interface	generalUI	skillGuide
+Divine super combat potion Crystal dust & super combat potion	Poção divina de supercombate<br>Pó de cristal & Poção de<br>supercombate	interface	generalUI	skillGuide
+Extended super antifires Super antifire potion & lava scale shards (after Dragon Slayer II)	Super antifogo estendida<br>Super antifogo & Fragmento de lava<br>(após Dragon Slayer II)	interface	generalUI	skillGuide
 Potions	Poções	interface	generalUI	skillGuide
 Herbs	Ervas	interface	generalUI	skillGuide
 Barbarian Potions	Bárbaras	interface	generalUI	skillGuide
@@ -2391,128 +2392,128 @@ Attack mix	Mistura do ataque(1)	interface	generalUI	skillGuide
 Antipoison mix	Mistura antiveneno(1)	interface	generalUI	skillGuide
 Relicym's mix	Mistura do Relicym(1)	interface	generalUI	skillGuide
 Strength mix	Mistura da força(1)	interface	generalUI	skillGuide
-Restore mix	Mistura restauradora(1)	interface	generalUI	skillGuide
+Restore mix	Mistura restauradora(1)<br>	interface	generalUI	skillGuide
 Energy mix	Mistura da energia(1)	interface	generalUI	skillGuide
 Defence mix	Mistura da defesa(1)	interface	generalUI	skillGuide
-Agility mix	Mistura de agilidade(1)	interface	generalUI	skillGuide
+Agility mix	Mistura de agilidade(1)<br>	interface	generalUI	skillGuide
 Combat mix	Mistura do combate(1)	interface	generalUI	skillGuide
 Prayer mix	Mistura do devoto(1)	interface	generalUI	skillGuide
-Super attack mix	Mistura de superataque (1)	interface	generalUI	skillGuide
-Anti-poison supermix	Mistura super antivene. (1)	interface	generalUI	skillGuide
+Super attack mix	Mistura de superataque (1)<br>	interface	generalUI	skillGuide
+Anti-poison supermix	Mistura super antivene. (1)<br>	interface	generalUI	skillGuide
 Fishing mix	Mistura da pesca(1)	interface	generalUI	skillGuide
-Super energy mix	Mistura da superenergia(1)	interface	generalUI	skillGuide
+Super energy mix	Mistura da superenergia(1)<br>	interface	generalUI	skillGuide
 Hunting mix	Mistura da caça(1)	interface	generalUI	skillGuide
-Super strength mix	Mistura da superforça (1)	interface	generalUI	skillGuide
-Magic essence mix	Mistura essência mágica(1)	interface	generalUI	skillGuide
-Super restore mix	Mistura super-restauradora (1)	interface	generalUI	skillGuide
-Super defence mix	Mistura da superdefesa(1)	interface	generalUI	skillGuide
+Super strength mix	Mistura da superforça (1)<br>	interface	generalUI	skillGuide
+Magic essence mix	Mistura essência mágica(1)<br>	interface	generalUI	skillGuide
+Super restore mix	Mistura super-restauradora (1)<br>	interface	generalUI	skillGuide
+Super defence mix	Mistura da superdefesa(1)<br>	interface	generalUI	skillGuide
 Antidote+ mix	Mistura antídoto(1)	interface	generalUI	skillGuide
 Antifire mix	Mistura antifogo(1)	interface	generalUI	skillGuide
 Ranging mix	Mistura do arqueiro(1)	interface	generalUI	skillGuide
 Magic mix	Mistura da magia(1)	interface	generalUI	skillGuide
 Zamorak mix	Mistura de Zamorak(1)	interface	generalUI	skillGuide
 Stamina mix	Mistura de vigor(1)	interface	generalUI	skillGuide
-Extended antifire mix	Mistura de antifogo extendida(1)	interface	generalUI	skillGuide
+Extended antifire mix	Mistura de antifogo extendida(1)<br>	interface	generalUI	skillGuide
 Ancient mix	Mistura anciã(1)	interface	generalUI	skillGuide
-Super antifire mix	Mistura de super antifogo(1)	interface	generalUI	skillGuide
-Extended super antifire mix	Mistura de super antifogo(1)	interface	generalUI	skillGuide
+Super antifire mix	Mistura de super antifogo(1)<br>	interface	generalUI	skillGuide
+Extended super antifire mix	Mistura de super antifogo(1)<br>	interface	generalUI	skillGuide
 Raids - Members Only	Raids - Para Membros	interface	generalUI	skillGuide
 Potions may be <colNum0>strong</col>, <colNum1>standard</col> or <colNum2>weak</col>, depending on your Herblore level.	Poções podem ser <colNum0>fortes</col>, <colNum1>comuns</col> ou <colNum2>fracas</col>, dependendo da sua Herbologia	interface	generalUI	skillGuide
-Weak Golpar potions:	Poções fracas de Golpar	interface	generalUI	skillGuide
-Standard Golpar potions	Poções comuns de Golpar	interface	generalUI	skillGuide
-Strong Golpar potions	Poções fortes de Golpar	interface	generalUI	skillGuide
-Elder potions with Stinkhorn mushroom	Poções anciâs com Cogumelo-fétido	interface	generalUI	skillGuide
-Kodai potions with Endarkened juice	Poções kodai com Suco enegrecido	interface	generalUI	skillGuide
-Twisted potions with Cicely	Poção degeneradas com Cicélia	interface	generalUI	skillGuide
-Weak Buchu leaf potions:	Pocões fracas de Buchu	interface	generalUI	skillGuide
-Standard Buchu leaf potions	Poções comuns de Buchu	interface	generalUI	skillGuide
-Strong Buchu leaf potions	Poções fortes de Buchu	interface	generalUI	skillGuide
-Revitalisation potions with Stinkhorn mushroom	Poções de revitalização com Cogumelo-fétido	interface	generalUI	skillGuide
-Xeric's Aid potions with Endarkened juice	Poções de amparo de Xeric com Suco enegrecido	interface	generalUI	skillGuide
-Prayer enhance potions with Cicely	Poções de fortalecimento de oração com Cicélia	interface	generalUI	skillGuide
-Weak Noxifer potions:	Poções fracas de Noctífero	interface	generalUI	skillGuide
-Standard Noxifer potions	Poções comuns de Noctífero	interface	generalUI	skillGuide
-Strong Noxifer potions	Poções fortes de Noctífero	interface	generalUI	skillGuide
-Antipoison potions with Cicely	Poção antiveneno com Cicélia	interface	generalUI	skillGuide
-Overload with Elder, Kodai & Twisted potions	Sobrecarregamento com poções Anciã, Kodai e Degenerada	interface	generalUI	skillGuide
-For overload potions, the tier is capped at the tier of the potions used to make it.	O nível de poções de sobrecarregamento é limitado ao nível das poções usadas para fazê-las.	interface	generalUI	skillGuide
+Weak Golpar potions:	Poções fracas de Golpar<br>	interface	generalUI	skillGuide
+Standard Golpar potions	Poções comuns de Golpar<br>	interface	generalUI	skillGuide
+Strong Golpar potions	Poções fortes de Golpar<br>	interface	generalUI	skillGuide
+Elder potions with Stinkhorn mushroom	Poções anciâs com Cogumelo-fétido<br>	interface	generalUI	skillGuide
+Kodai potions with Endarkened juice	Poções kodai com Suco enegrecido<br>	interface	generalUI	skillGuide
+Twisted potions with Cicely	Poção degeneradas com Cicélia<br>	interface	generalUI	skillGuide
+Weak Buchu leaf potions:	Pocões fracas de Buchu<br>	interface	generalUI	skillGuide
+Standard Buchu leaf potions	Poções comuns de Buchu<br>	interface	generalUI	skillGuide
+Strong Buchu leaf potions	Poções fortes de Buchu<br>	interface	generalUI	skillGuide
+Revitalisation potions with Stinkhorn mushroom	Poções de revitalização com<br>Cogumelo-fétido	interface	generalUI	skillGuide
+Xeric's Aid potions with Endarkened juice	Poções de amparo de Xeric com Suco<br>enegrecido	interface	generalUI	skillGuide
+Prayer enhance potions with Cicely	Poções de fortalecimento de oração<br>com Cicélia	interface	generalUI	skillGuide
+Weak Noxifer potions:	Poções fracas de Noctífero<br>	interface	generalUI	skillGuide
+Standard Noxifer potions	Poções comuns de Noctífero<br>	interface	generalUI	skillGuide
+Strong Noxifer potions	Poções fortes de Noctífero<br>	interface	generalUI	skillGuide
+Antipoison potions with Cicely	Poção antiveneno com Cicélia<br>	interface	generalUI	skillGuide
+Overload with Elder, Kodai & Twisted potions	Sobrecarregamento com poções<br>Anciã, Kodai e Degenerada<br>	interface	generalUI	skillGuide
+For overload potions, the tier is capped at the tier of the potions used to make it.	O nível de poções de<br>sobrecarregamento é limitado ao<br>nível das poções usadas para<br>fazê-las.	interface	generalUI	skillGuide
 Harvest herbs from the <colNum0>Herbiboar</col> on <colNum1>Fossil Island</col> (with <Num0> Hunter).	Colha ervas do <colNum0>Herbiboar</col> na <colNum1>Ilha Fóssil</col> (com o <Num0> Caça).	interface	generalUI	skillGuide
-Use the Herb Sack reward item, purchased from the Tithe Farm or Slayer Masters.	Usar o Saco de ervas, comprado na Fazenda Tithe ou Mestres de Extermínio	interface	generalUI	skillGuide
-Mammoth-might mix (Mastering Mixology).	Mega Mistura Mortal (Mixologia)	interface	generalUI	skillGuide
-Alco-augmentator (Mastering Mixology).	Álcool Avassalador Absoluto (Mixologia)	interface	generalUI	skillGuide
-Liplack liquor (Mastering Mixology).	Licor Lábios Loucos (Mixologia)	interface	generalUI	skillGuide
-Mystic mana amalgam (Mastering Mixology).	Mistura de Mana Arcana (Mixologia)	interface	generalUI	skillGuide
-Marley's moonlight (Mastering Mixology).	Magia da Meia-Lua (Mixologia)	interface	generalUI	skillGuide
-Azure aura mix (Mastering Mixology).	Amálgama Azul Mágico (Mixologia)	interface	generalUI	skillGuide
-Aqualux amalgam (Mastering Mixology).	Amálgama Lume-áqua (Mixologia)	interface	generalUI	skillGuide
-Megalite liquid (Mastering Mixology).	Mega Líquido Luminoso (Mixologia)	interface	generalUI	skillGuide
-Anti-leech lotion (Mastering Mixology).	Anti-Lagarto Lelé (Mixologia)	interface	generalUI	skillGuide
-Mixalot (Mastering Mixology).	Mistura Aloprada (Mixologia)	interface	generalUI	skillGuide
-Use the Secondary Pouch reward item, purchased from the Mastering Mixology activity.	Usar a Bolsa de reagentes, comprada da atividade de Mixologia	interface	generalUI	skillGuide
+Use the Herb Sack reward item, purchased from the Tithe Farm or Slayer Masters.	Usar o Saco de ervas, comprado na<br>Fazenda Tithe ou Mestres de<br>Extermínio	interface	generalUI	skillGuide
+Mammoth-might mix (Mastering Mixology).	Mega Mistura Mortal<br>(Mixologia)	interface	generalUI	skillGuide
+Alco-augmentator (Mastering Mixology).	Álcool Avassalador Absoluto<br>(Mixologia)	interface	generalUI	skillGuide
+Liplack liquor (Mastering Mixology).	Licor Lábios Loucos<br>(Mixologia)	interface	generalUI	skillGuide
+Mystic mana amalgam (Mastering Mixology).	Mistura de Mana Arcana<br>(Mixologia)	interface	generalUI	skillGuide
+Marley's moonlight (Mastering Mixology).	Magia da Meia-Lua<br>(Mixologia)	interface	generalUI	skillGuide
+Azure aura mix (Mastering Mixology).	Amálgama Azul Mágico<br>(Mixologia)	interface	generalUI	skillGuide
+Aqualux amalgam (Mastering Mixology).	Amálgama Lume-áqua<br>(Mixologia)	interface	generalUI	skillGuide
+Megalite liquid (Mastering Mixology).	Mega Líquido Luminoso<br>(Mixologia)	interface	generalUI	skillGuide
+Anti-leech lotion (Mastering Mixology).	Anti-Lagarto Lelé<br>(Mixologia)	interface	generalUI	skillGuide
+Mixalot (Mastering Mixology).	Mistura Aloprada<br>(Mixologia)	interface	generalUI	skillGuide
+Use the Secondary Pouch reward item, purchased from the Mastering Mixology activity.	Usar a Bolsa de reagentes,<br>comprada da atividade de Mixologia<br> 	interface	generalUI	skillGuide
 Fishing	Tutu tubarão	interface	generalUI	skillGuide
 Small Net	Rede pequena	interface	generalUI	skillGuide
 Shrimp - Small fishing net	Camarão - rede pequena	interface	generalUI	skillGuide
-Members: Karambwanji - Small fishing net	Membros: Karambwanji - rede pequena	interface	generalUI	skillGuide
-Guppy - Small fishing net (After Below Ice Mountain)	Barrigudinho - rede pequena (após Below Ice Mountain)	interface	generalUI	skillGuide
+Members: Karambwanji - Small fishing net	Membros: Karambwanji - rede<br>pequena	interface	generalUI	skillGuide
+Guppy - Small fishing net (After Below Ice Mountain)	Barrigudinho - rede pequena (após<br>Below Ice Mountain)	interface	generalUI	skillGuide
 Anchovies - Small fishing net	Anchovas - rede pequena	interface	generalUI	skillGuide
-Cavefish - Small fishing net (After Below Ice Mountain)	Peixe-caverna - rede pequena (após Below Ice Mountain)	interface	generalUI	skillGuide
+Cavefish - Small fishing net (After Below Ice Mountain)	Peixe-caverna - rede pequena (após<br>Below Ice Mountain)	interface	generalUI	skillGuide
 Members: Giant frogspawn - Small fishing net	Membros: Ovas de rã - rede pequena	interface	generalUI	skillGuide
-Tetra - Small fishing net (After Below Ice Mountain)	Tetra - rede pequena (após Below Ice Mountain)	interface	generalUI	skillGuide
+Tetra - Small fishing net (After Below Ice Mountain)	Tetra - rede pequena (após Below Ice<br>Mountain)	interface	generalUI	skillGuide
 Members: Monkfish - Small fishing net	Membros: Tamboril - rede pequena	interface	generalUI	skillGuide
-Members: Minnow - Small fishing net (after Fishing Contest)	Membros: Vairão - rede pequena (após Fishing Contest)	interface	generalUI	skillGuide
+Members: Minnow - Small fishing net (after Fishing Contest)	Membros: Vairão - rede pequena<br>(após Fishing Contest)	interface	generalUI	skillGuide
 Big Net	Rede grande	interface	generalUI	skillGuide
 Rod	Vara de pescar	interface	generalUI	skillGuide
 Harpoon	Arpão	interface	generalUI	skillGuide
 Aerial	Aérea	interface	generalUI	skillGuide
 Cage	Jaula	interface	generalUI	skillGuide
-Members: Mackerel - Big fishing net	Membros: Cavalinha - Rede de pesca grande	interface	generalUI	skillGuide
-Members: Oyster - Big fishing net	Membros: Ostra - Rede de pesca grande	interface	generalUI	skillGuide
-Members: Caskets - Big fishing net	Membros: Cofre - Rede de pesca grande	interface	generalUI	skillGuide
-Members: Bream - Big fishing net	Membros: Sargo - Rede de pesca grande	interface	generalUI	skillGuide
-Members: Cod - Big fishing net	Membros: Bacalhau - Rede de pesca grande	interface	generalUI	skillGuide
-Members: Bass - Big fishing net	Membros: Garoupa - Rede de pesca grande	interface	generalUI	skillGuide
-Members: Catfish - Big fishing net (After Below Ice Mountain)	Membros: Bagre - Rede de pesca grande (após Below Ice Mountain)	interface	generalUI	skillGuide
-Sardine - Fishing rod & Fishing bait	Sardinha - Vara de pescar & Iscas de pesca	interface	generalUI	skillGuide
-Herring - Fishing rod & Fishing bait	Arenque - Vara de pescar & Iscas de pesca	interface	generalUI	skillGuide
-Trout - Fly fishing rod & Feathers	Truta - Vara com isca artificial & Pena	interface	generalUI	skillGuide
-Pike - Fishing rod & Fishing bait	Lúcio - Vara de pescar & Iscas de pesca	interface	generalUI	skillGuide
-Members: Slimy eel - Fishing rod & Fishing bait	Membros: Enguia viscosa - Vara de pescar & Iscas de pesca	interface	generalUI	skillGuide
-Salmon - Fly fishing rod & feathers	Salmão - Vara com isca artificial & Pena	interface	generalUI	skillGuide
-Members: Rainbow fish - Fly fishing rod & Stripy feathers	Membros: Peixe arco-íris - Vara com isca artificial & Pena listrada	interface	generalUI	skillGuide
-Members: Cave eel - Fishing rod & Fishing bait	Membros: Enguia de gruta - Vara de pescar & Iscas de pesca	interface	generalUI	skillGuide
-Members: Lava eel - Oily fishing rod & Fishing bait	Membros: Enguia de lava - Vara de pescar oleosa & Iscas de pesca	interface	generalUI	skillGuide
-Members: Infernal eel - Oily fishing rod & Fishing bait	Membros: Enguia infernal - Vara de pescar oleosa & Iscas de pesca	interface	generalUI	skillGuide
-Members: Anglerfish - Fishing rod & Sandworms	Membros: Peixe-diabo - Vara de pescar & Sandworms	interface	generalUI	skillGuide
-Members: Sacred eel - Fishing rod & Fishing bait	Membros: Enguia sagrada - Vara de pescar & Iscas de pesca	interface	generalUI	skillGuide
+Members: Mackerel - Big fishing net	Membros: Cavalinha - Rede de pesca<br>grande	interface	generalUI	skillGuide
+Members: Oyster - Big fishing net	Membros: Ostra - Rede de pesca<br>grande	interface	generalUI	skillGuide
+Members: Caskets - Big fishing net	Membros: Cofre - Rede de pesca<br>grande	interface	generalUI	skillGuide
+Members: Bream - Big fishing net	Membros: Sargo - Rede de pesca<br>grande	interface	generalUI	skillGuide
+Members: Cod - Big fishing net	Membros: Bacalhau - Rede de pesca<br>grande	interface	generalUI	skillGuide
+Members: Bass - Big fishing net	Membros: Garoupa - Rede de pesca<br>grande	interface	generalUI	skillGuide
+Members: Catfish - Big fishing net (After Below Ice Mountain)	Membros: Bagre - Rede de pesca<br>grande (após Below Ice Mountain)	interface	generalUI	skillGuide
+Sardine - Fishing rod & Fishing bait	Sardinha - Vara de pescar & Iscas de<br>pesca	interface	generalUI	skillGuide
+Herring - Fishing rod & Fishing bait	Arenque - Vara de pescar & Iscas de<br>pesca	interface	generalUI	skillGuide
+Trout - Fly fishing rod & Feathers	Truta - Vara com isca artificial &<br>Pena	interface	generalUI	skillGuide
+Pike - Fishing rod & Fishing bait	Lúcio - Vara de pescar & Iscas de<br>pesca	interface	generalUI	skillGuide
+Members: Slimy eel - Fishing rod & Fishing bait	Membros: Enguia viscosa - Vara de<br>pescar & Iscas de pesca	interface	generalUI	skillGuide
+Salmon - Fly fishing rod & feathers	Salmão - Vara com isca artificial &<br>Pena	interface	generalUI	skillGuide
+Members: Rainbow fish - Fly fishing rod & Stripy feathers	Membros: Peixe arco-íris - Vara com<br>isca artificial & Pena listrada	interface	generalUI	skillGuide
+Members: Cave eel - Fishing rod & Fishing bait	Membros: Enguia de gruta - Vara de<br>pescar & Iscas de pesca	interface	generalUI	skillGuide
+Members: Lava eel - Oily fishing rod & Fishing bait	Membros: Enguia de lava - Vara de<br>pescar oleosa & Iscas de pesca	interface	generalUI	skillGuide
+Members: Infernal eel - Oily fishing rod & Fishing bait	Membros: Enguia infernal - Vara de<br>pescar oleosa & Iscas de pesca	interface	generalUI	skillGuide
+Members: Anglerfish - Fishing rod & Sandworms	Membros: Peixe-diabo - Vara de<br>pescar & Verme de areia	interface	generalUI	skillGuide
+Members: Sacred eel - Fishing rod & Fishing bait	Membros: Enguia sagrada - Vara de<br>pescar & Iscas de pesca	interface	generalUI	skillGuide
 Tuna - Harpoon	Atum - Arpão	interface	generalUI	skillGuide
 Swordfish - Harpoon	Peixe-espada - Arpão	interface	generalUI	skillGuide
 Members: Shark - Harpoon	Membros: Tubarão - Arpão	interface	generalUI	skillGuide
 Aerial - Members Only	Aérea - Para Membros	interface	generalUI	skillGuide
-Members: Bluegill - Aerial fishing (With <Num0> hunter)	Membros: Peixe-sol - Pesca aérea (com <Num0> caça)	interface	generalUI	skillGuide
-Members: Common tench - Aerial fishing (With <Num0> hunter)	Membros: Tenca comum - Pesca aérea (com <Num0> caça)	interface	generalUI	skillGuide
-Members: Mottled eel - Aerial fishing (With <Num0> hunter)	Membros: Enguia malhada - Pesca aérea (com <Num0> caça)	interface	generalUI	skillGuide
-Members: Greater siren - Aerial fishing (With <Num0> hunter)	Membros: Sereia maior - Pesca aérea (com <Num0> caça)	interface	generalUI	skillGuide
+Members: Bluegill - Aerial fishing (With <Num0> hunter)	Membros: Peixe-sol<br>Pesca aérea (com <Num0> caça)	interface	generalUI	skillGuide
+Members: Common tench - Aerial fishing (With <Num0> hunter)	Membros: Tenca comum<br>Pesca aérea (com <Num0> caça)	interface	generalUI	skillGuide
+Members: Mottled eel - Aerial fishing (With <Num0> hunter)	Membros: Enguia malhada<br>Pesca aérea (com <Num0> caça)	interface	generalUI	skillGuide
+Members: Greater siren - Aerial fishing (With <Num0> hunter)	Membros: Sereia maior<br>Pesca aérea (com <Num0> caça)	interface	generalUI	skillGuide
 Lobster - Lobster pot	Lagosta - Puçá de lagostas	interface	generalUI	skillGuide
-Members: Dark crab - Lobster pot & Dark fishing bait	Membros: Caranguejo escuro - Puçá de lagostas & Isca de pesca escura	interface	generalUI	skillGuide
-Leaping trout - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	Truta saltitante - Vara de pescar bárbara e maioria das iscas (com <Num0> Agilidade & <Num1> Força)	interface	generalUI	skillGuide
-Tuna (with <Num0> Strength)	Atum (com <Num0> Força)	interface	generalUI	skillGuide
-Harpoonfish (with <Num0> Strength)	Peixe-arpão (com <Num0> Força)	interface	generalUI	skillGuide
-Leaping salmon - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	Salmão saltitante - Vara de pescar bárbara e maioria das iscas (com <Num0> Agilidade & <Num1> Força)	interface	generalUI	skillGuide
-Leaping sturgeon - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	Esturjão saltitante - Vara de pescar bárbara e maioria das iscas (com <Num0> Agilidade & <Num1> Força)	interface	generalUI	skillGuide
-Swordfish (with <Num0> Strength)	Peixe-espada (com <Num0> Força)	interface	generalUI	skillGuide
-Shark (with <Num0> Strength)	Tubarão (com <Num0> Força)	interface	generalUI	skillGuide
+Members: Dark crab - Lobster pot & Dark fishing bait	Membros: Caranguejo escuro - Puçá<br>de lagostas & Isca de pesca escura	interface	generalUI	skillGuide
+Leaping trout - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	Truta saltitante - Vara de pescar<br>bárbara e maioria das iscas<br>(com <Num0> Agilidade & <Num1> Força)	interface	generalUI	skillGuide
+Tuna (with <Num0> Strength)	Atum<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Harpoonfish (with <Num0> Strength)	Peixe-arpão<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Leaping salmon - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	Salmão saltitante - Vara de pescar<br>bárbara e maioria das iscas<br>(com <Num0> Agilidade & <Num1> Força)	interface	generalUI	skillGuide
+Leaping sturgeon - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	Esturjão saltitante - Vara de pescar<br>bárbara e maioria das iscas<br>(com <Num0> Agilidade & <Num1> Força)	interface	generalUI	skillGuide
+Swordfish (with <Num0> Strength)	Peixe-espada<br>(com <Num0> Força)	interface	generalUI	skillGuide
+Shark (with <Num0> Strength)	Tubarão<br>(com <Num0> Força)	interface	generalUI	skillGuide
 Small fishing net	Rede de pesca pequena	interface	generalUI	skillGuide
 Fishing rod	Vara de pescar	interface	generalUI	skillGuide
 Members: Big fishing net	Membros: Rede de pesca grande	interface	generalUI	skillGuide
 Fly fishing rod	Vara com isca artificial	interface	generalUI	skillGuide
 Lobster pot	Puçá de lagostas	interface	generalUI	skillGuide
-Members: Karambwan vessel (after Tai Bwo Wannai Trio)	Membros: Vasilha de Karambwan (após Tai Bwo Wannai Trio)	interface	generalUI	skillGuide
+Members: Karambwan vessel (after Tai Bwo Wannai Trio)	Membros: Vasilha de Karambwan<br>(após Tai Bwo Wannai Trio)	interface	generalUI	skillGuide
 Members: Angler's outfit	Membros: Roupa de pescador	interface	generalUI	skillGuide
-Members: Cormorant's glove (with <Num0> hunter)	Membros: Luvas de corvo-marinho (com <Num0> caça)	interface	generalUI	skillGuide
-Members: Barbarian rod (with <Num0> strength & <Num1> agility)	Membros: Vara de pescar bárbara (com <Num0> força e <Num1> agilidade)	interface	generalUI	skillGuide
+Members: Cormorant's glove (with <Num0> hunter)	Membros: Luvas de corvo-marinho<br>(com <Num0> caça)	interface	generalUI	skillGuide
+Members: Barbarian rod (with <Num0> strength & <Num1> agility)	Membros: Vara de pescar bárbara<br>(com <Num0> força e <Num1> agilidade)	interface	generalUI	skillGuide
 Members: Dragon harpoon	Membros: Arpão dragônico	interface	generalUI	skillGuide
-Members: Crystal harpoon (after Song of the Elves)	Membros: Arpão de cristal (após Song of the Elves)	interface	generalUI	skillGuide
-Members: Infernal harpoon (with <Num0> Cooking)	Membros: Arpão infernal (com <Num0> Culinária)	interface	generalUI	skillGuide
+Members: Crystal harpoon (after Song of the Elves)	Membros: Arpão de cristal<br>(após Song of the Elves)	interface	generalUI	skillGuide
+Members: Infernal harpoon (with <Num0> Cooking)	Membros: Arpão infernal<br>(com <Num0> Culinária)	interface	generalUI	skillGuide
 Pysk fish	Peixe pysk	interface	generalUI	skillGuide
 Suphi fish	Peixe suphi	interface	generalUI	skillGuide
 Leckish fish	Peixe leckish	interface	generalUI	skillGuide
@@ -2521,30 +2522,30 @@ Mycil fish	Peixe mycil	interface	generalUI	skillGuide
 Roqed fish	Peixe roqed	interface	generalUI	skillGuide
 Kyren fish	Peixe kyren	interface	generalUI	skillGuide
 Members: Fighting Tempoross	Membros: Enfrentar Tempoross	interface	generalUI	skillGuide
-Members: Accessing drift net fishing on Fossil Island (with <Num0> hunter)	Membros: Acessar a pesca com rede à deriva na Ilha Fóssil (com <Num0> caça)	interface	generalUI	skillGuide
-Members: Karambwan - Karambwan vessel	Membros: Karambwan - Vasilha de karambwan	interface	generalUI	skillGuide
-Members: Sea turtle - Trawler & Tempoross	Membros - Tartaruga do mar - Arrasto e Tempoross	interface	generalUI	skillGuide
-Members: Manta ray - Trawler & Tempoross	Membros: Arraia jamanta - Arrasto e Tempoross	interface	generalUI	skillGuide
+Members: Accessing drift net fishing on Fossil Island (with <Num0> hunter)	Membros: Acessar a pesca com rede<br>à deriva na Ilha Fóssil<br>(com <Num0> caça)	interface	generalUI	skillGuide
+Members: Karambwan - Karambwan vessel	Membros: Karambwan - Vasilha de<br>karambwan	interface	generalUI	skillGuide
+Members: Sea turtle - Trawler & Tempoross	Membros - Tartaruga do mar<br>Arrasto e Tempoross	interface	generalUI	skillGuide
+Members: Manta ray - Trawler & Tempoross	Membros: Arraia jamanta<br>Arrasto e Tempoross	interface	generalUI	skillGuide
 Ranged	Cbt à Dist.	interface	generalUI	skillGuide
 Bows	Arcos	interface	generalUI	skillGuide
-Standard bows Ammo: Arrows up to iron	Arcos comuns Munição: Flechas até ferro	interface	generalUI	skillGuide
-Oak bows Ammo: Arrows up to steel	Arcos de carvalho Munição: Flechas até ferro	interface	generalUI	skillGuide
-Willow bows Ammo: Arrows up to mithril	Arcos de salgueiro Munição: Flechas até mithril	interface	generalUI	skillGuide
-Maple bows Ammo: Arrows up to adamant	Arcos de bordo Munição: Flechas até adamantio	interface	generalUI	skillGuide
-Members: Ogre composite bows Ammo: 'Brutal' arrows up to rune	Membros: Arcos compoto de ogro Munição: Flecha brutal até rúnica	interface	generalUI	skillGuide
-Members: Yew bows Ammo: Arrows up to rune	Membros: Arcos de teixo Munição: Flechas até rúnica	interface	generalUI	skillGuide
-Members: Magic bows Ammo: Arrows up to amethyst	Membros: Arcos mágicos Munição: Flechas até ametista	interface	generalUI	skillGuide
-Members: Bone shortbow Ammo: Arrows up to amethyst	Membros: Arco curto de osso Munição: Flechas até ametista	interface	generalUI	skillGuide
-Members: Seerculls Ammo: Arrows up to amethyst	Membros: Magicida Munição: Flechas até ametista	interface	generalUI	skillGuide
-Members: Dark bows Ammo: Arrows up to dragon	Membros: Arco escuro Munição: Flechas até dragônica	interface	generalUI	skillGuide
-Members: Craw's bow Ammo: None	Membros: Arco de Craw Munição: Nenhuma	interface	generalUI	skillGuide
-Members: <Num0>rd age bow Ammo: Arrows up to dragon	Membros: Arco da <Num0>a Era Munição: Flechas até dragônica	interface	generalUI	skillGuide
-Members: Crystal bows (with <Num0> Agility) Ammo: None	Membros: Arco de cristal (com <Num0> Agilidade) Munição: Nenhuma	interface	generalUI	skillGuide
+Standard bows Ammo: Arrows up to iron	Arcos comuns<br>Munição: Flechas até ferro	interface	generalUI	skillGuide
+Oak bows Ammo: Arrows up to steel	Arcos de carvalho<br>Munição: Flechas até ferro	interface	generalUI	skillGuide
+Willow bows Ammo: Arrows up to mithril	Arcos de salgueiro<br>Munição: Flechas até mithril	interface	generalUI	skillGuide
+Maple bows Ammo: Arrows up to adamant	Arcos de bordo<br>Munição: Flechas até adamantio	interface	generalUI	skillGuide
+Members: Ogre composite bows Ammo: 'Brutal' arrows up to rune	Membros: Arcos compoto de ogro<br>Munição: Flecha brutal até rúnica	interface	generalUI	skillGuide
+Members: Yew bows Ammo: Arrows up to rune	Membros: Arcos de teixo<br>Munição: Flechas até rúnica	interface	generalUI	skillGuide
+Members: Magic bows Ammo: Arrows up to amethyst	Membros: Arcos mágicos<br>Munição: Flechas até ametista	interface	generalUI	skillGuide
+Members: Bone shortbow Ammo: Arrows up to amethyst	Membros: Arco curto de osso<br>Munição: Flechas até ametista	interface	generalUI	skillGuide
+Members: Seerculls Ammo: Arrows up to amethyst	Membros: Magicida<br>Munição: Flechas até ametista	interface	generalUI	skillGuide
+Members: Dark bows Ammo: Arrows up to dragon	Membros: Arco escuro<br>Munição: Flechas até dragônica	interface	generalUI	skillGuide
+Members: Craw's bow Ammo: None	Membros: Arco de Craw<br>Munição: Nenhuma	interface	generalUI	skillGuide
+Members: <Num0>rd age bow Ammo: Arrows up to dragon	Membros: Arco da <Num0>a Era<br>Munição: Flechas até dragônica	interface	generalUI	skillGuide
+Members: Crystal bows (with <Num0> Agility) Ammo: None	Membros: Arco de cristal (com <Num0> Agilidade)<br>Munição: Nenhuma	interface	generalUI	skillGuide
 Members: Webweaver bow Ammo: None	Membros: Arco tece-teias	interface	generalUI	skillGuide
-Members: Scorching bows Ammo: Arrows up to dragon	Membros: Arco incandescente Munição: Flechas até dragônica	interface	generalUI	skillGuide
-Members: Bow of Faerdhinen (with <Num0> Agility) Ammo: None	Membros: Arco de Faerdhinen (com <Num0> Agilidade) Munição: Nenhuma	interface	generalUI	skillGuide
-Members: Venator bow Ammo: Arrows up to dragon	Membros: Arco de Venator Munição: Flechas até dragônica	interface	generalUI	skillGuide
-Members: Twisted bow Ammo: Arrows up to dragon	Membros: Arco retorcido Munição: Flechas até dragônica	interface	generalUI	skillGuide
+Members: Scorching bows Ammo: Arrows up to dragon	Membros: Arco incandescente<br>Munição: Flechas até dragônica	interface	generalUI	skillGuide
+Members: Bow of Faerdhinen (with <Num0> Agility) Ammo: None	Membros: Arco de Faerdhinen (com <Num0> Agilidade)<br>Munição: Nenhuma	interface	generalUI	skillGuide
+Members: Venator bow Ammo: Arrows up to dragon	Membros: Arco de Venator<br>Munição: Flechas até dragônica	interface	generalUI	skillGuide
+Members: Twisted bow Ammo: Arrows up to dragon	Membros: Arco retorcido<br>Munição: Flechas até dragônica	interface	generalUI	skillGuide
 Thrown	Arremesso	interface	generalUI	skillGuide
 Crossbows	Balestras	interface	generalUI	skillGuide
 Miscellaneous	Variados	interface	generalUI	skillGuide
@@ -2559,98 +2560,99 @@ Rune items	Itens rúnicos	interface	generalUI	skillGuide
 Chinchompas	Chinchompas	interface	generalUI	skillGuide
 Amethyst darts	Dardos de ametista	interface	generalUI	skillGuide
 Carnivorous chinchompas	Chinchompas carnívoras	interface	generalUI	skillGuide
-Hunter's Spears (with <Num0> Strength)	Lanças de caçador (com <Num0> Força)	interface	generalUI	skillGuide
+Hunter's Spears (with <Num0> Strength)	Lanças de caçador<br>(com <Num0> Força)	interface	generalUI	skillGuide
 Dragon darts	Dardos dragônicos	interface	generalUI	skillGuide
 Dragon knives	Facas dragônicas	interface	generalUI	skillGuide
 TokTz-Xil-Ul	Toktz-xil-ul	interface	generalUI	skillGuide
-Dragon thrownaxes	Machados de arremesso dragônicos	interface	generalUI	skillGuide
+Dragon thrownaxes	Machados de arremesso dragônicos<br> 	interface	generalUI	skillGuide
 Black chinchompas	Chincompas negras	interface	generalUI	skillGuide
-Eclipse Atlatl (With <Num0> Strength and <Num1> Attack) Ammo: Atlatl darts	Atlatl do eclipse (com <Num0> Força e <Num1> Ataque) Munição: Dardos atatl	interface	generalUI	skillGuide
+Eclipse Atlatl (With <Num0> Strength and <Num1> Attack) Ammo: Atlatl darts	Atlatl do eclipse<br>(com <Num0> Força e <Num1> Ataque)<br>Munição: Dardos atatl	interface	generalUI	skillGuide
 Toxic blowpipe	Zarabatana tóxica	interface	generalUI	skillGuide
 Tonalztics of Ralos	Tonalztics de Ralos	interface	generalUI	skillGuide
-Crossbow Ammo: Bronze crossbow bolts	Balestra Munição: Setas de bronze	interface	generalUI	skillGuide
-Phoenix crossbow Ammo: Bronze crossbow bolts	Balestra Fênix Munição: Setas de bronze	interface	generalUI	skillGuide
-Members: Bronze crossbow Ammo: Bronze crossbow bolts	Membros: Balestra de bronze Munição: Setas de bronze	interface	generalUI	skillGuide
-Members: Blurite crossbow Ammo: Bolts up to blurite	Membros: Balestra de blurita Munição: Setas até blurita	interface	generalUI	skillGuide
-Members: Iron crossbow Ammo: Bolts up to iron	Membros: Balestra de ferro Munição: Setas até ferro	interface	generalUI	skillGuide
-Members: Dorgeshuun crossbow Ammo: Bolts up to iron	Membros: Balestra de Dorgeshuun Munição: Setas até ferro	interface	generalUI	skillGuide
-Members: Steel crossbow Ammo: Bolts up to steel	Membros: Balestra de aço Munição: Setas até aço	interface	generalUI	skillGuide
-Members: Mithril crossbow Ammo: Bolts up to mithril	Membros: Balestra de mithril Munição: Setas até mithril	interface	generalUI	skillGuide
-Members: Adamantite crossbow Ammo: Bolts up to adamant	Membros: Balestra de adamantio Munição: Setas até adamantio	interface	generalUI	skillGuide
-Members: Hunters' crossbow Ammo: Kebbit bolts	Membros: Balestra de caçadores Munição: Setas de kebbit	interface	generalUI	skillGuide
-Members: Runite crossbow Ammo: Bolts up to runite	Membros: Balestra rúnica Munição: Setas até rúnica	interface	generalUI	skillGuide
-Members: Dragon crossbow Ammo: Bolts up to dragon	Membros: Balestra dragônica Munição: Setas até dragônica	interface	generalUI	skillGuide
-Members: Sunlight hunters' crossbow Ammo: Antler bolts.	Membros: Balestra dos caçadores do sol Munição: Setas de chifre	interface	generalUI	skillGuide
-Members: Dragon hunter crossbow Ammo: Bolts up to dragon	Membros: Balestra de caçador de dragão Munição: Setas até dragônica	interface	generalUI	skillGuide
-Members: Armadyl crossbow Ammo: Bolts up to dragon	Membros: Balestra de Armadyl Munição: Setas até dragônica	interface	generalUI	skillGuide
+Crossbow Ammo: Bronze crossbow bolts	Balestra<br>Munição: Setas de bronze	interface	generalUI	skillGuide
+Phoenix crossbow Ammo: Bronze crossbow bolts	Balestra Fênix<br>Munição: Setas de bronze	interface	generalUI	skillGuide
+Members: Bronze crossbow Ammo: Bronze crossbow bolts	Membros: Balestra de bronze<br>Munição: Setas de bronze	interface	generalUI	skillGuide
+Members: Blurite crossbow Ammo: Bolts up to blurite	Membros: Balestra de blurita<br>Munição: Setas até blurita	interface	generalUI	skillGuide
+Members: Iron crossbow Ammo: Bolts up to iron	Membros: Balestra de ferro<br>Munição: Setas até ferro	interface	generalUI	skillGuide
+Members: Dorgeshuun crossbow Ammo: Bolts up to iron	Membros: Balestra de Dorgeshuun<br>Munição: Setas até ferro	interface	generalUI	skillGuide
+Members: Steel crossbow Ammo: Bolts up to steel	Membros: Balestra de aço<br>Munição: Setas até aço	interface	generalUI	skillGuide
+Members: Mithril crossbow Ammo: Bolts up to mithril	Membros: Balestra de mithril<br>Munição: Setas até mithril	interface	generalUI	skillGuide
+Members: Adamantite crossbow Ammo: Bolts up to adamant	Membros: Balestra de adamantio<br>Munição: Setas até adamantio	interface	generalUI	skillGuide
+Members: Hunters' crossbow Ammo: Kebbit bolts	Membros: Balestra de caçadores<br>Munição: Setas de kebbit	interface	generalUI	skillGuide
+Members: Runite crossbow Ammo: Bolts up to runite	Membros: Balestra rúnica<br>Munição: Setas até rúnica	interface	generalUI	skillGuide
+Members: Dragon crossbow Ammo: Bolts up to dragon	Membros: Balestra dragônica<br>Munição: Setas até dragônica	interface	generalUI	skillGuide
+Members: Sunlight hunters' crossbow Ammo: Antler bolts.	Membros: Balestra dos caçadores do<br>sol Munição: Setas de chifre	interface	generalUI	skillGuide
+Members: Dragon hunter crossbow Ammo: Bolts up to dragon	Membros: Balestra de caçador de<br>dragão Munição: Setas até dragônica	interface	generalUI	skillGuide
+Members: Armadyl crossbow Ammo: Bolts up to dragon	Membros: Balestra de Armadyl<br>Munição: Setas até dragônica	interface	generalUI	skillGuide
 Members: Karil's crossbow	Membros: Balestra de Karil	interface	generalUI	skillGuide
 Members: Zaryte crossbow Ammo: Bolts up to dragon	Membros: Balestra de Zaryte	interface	generalUI	skillGuide
 Plain leather items	Itens de couro simples	interface	generalUI	skillGuide
-Hard leather body (with <Num0> Defence)	Cota de couro duro (com <Num0> Defesa)	interface	generalUI	skillGuide
-Studded leather body (with <Num0> Defence)	Cota de guarnecida (com <Num0> Defesa)	interface	generalUI	skillGuide
-Studded leather chaps	Perneiras guarnecidas (com <Num0> Defesa)	interface	generalUI	skillGuide
+Hard leather body (with <Num0> Defence)	Cota de couro duro<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Studded leather body (with <Num0> Defence)	Cota de guarnecida<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Studded leather chaps	Perneiras guarnecidas<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
 Coif	Coifa	interface	generalUI	skillGuide
-Members: Hard leather shield  (with <Num0> Defence)	Membros: Escudo de couro duro (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Frog-leather  (with <Num0> Defence)	Membros: Couro de rã (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Snakeskin armour (with <Num0> Defence)	Membros: Armadura de couro de cobra (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Snakeskin shield  (with <Num0> Defence)	Membros: Escudo de couro de cobra (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Ava's attractor (after Animal Magnetism)	Membros Mochila básica de Ava (após Animal Magnetism)	interface	generalUI	skillGuide
+Members: Hard leather shield  (with <Num0> Defence)	Membros: Escudo de couro duro<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Frog-leather  (with <Num0> Defence)	Membros: Couro de rã<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Snakeskin armour (with <Num0> Defence)	Membros: Armadura de couro de cobra<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Snakeskin shield  (with <Num0> Defence)	Membros: Escudo de couro de cobra<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Ava's attractor (after Animal Magnetism)	Membros Mochila básica de Ava<br>(após Animal Magnetism)	interface	generalUI	skillGuide
 Members: Ranger boots	Membros: Botas do arqueiro	interface	generalUI	skillGuide
 Members: Robin Hood hat	Membros: Chapéu de Robin Hood	interface	generalUI	skillGuide
 Members: Rangers' tunic	Membros: Túnica do arqueiro	interface	generalUI	skillGuide
 Members: Ranger gloves	Membros: Luvas do arqueiro	interface	generalUI	skillGuide
 Members: Rangers' tights	Membros: Calças do arqueiro	interface	generalUI	skillGuide
-Members: Spined armour (after The Fremennik Trials, with <Num0> Defence)	Membros; Armadura de espinhos (após The Fremennik Trials, com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Spined armour (after The Fremennik Trials, with <Num0> Defence)	Membros; Armadura de espinhos<br>(após The Fremennik Trials,<br>com <Num0> Defesa)	interface	generalUI	skillGuide
 Green dragonhide vambraces	Braceleiras de dragão verde	interface	generalUI	skillGuide
 Green dragonhide chaps	Perneiras de dragão verde	interface	generalUI	skillGuide
-Green dragonhide body (with <Num0> Defence)	Cota de pele de dragão verde (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Green dragonhide shield  (with <Num0> Defence)	Membros: Escudo de pele de dragão verde (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Ava's accumulator (after Animal Magnetism)	Membros: Mochila avançada de Ava (após Animal Magnetism)	interface	generalUI	skillGuide
-Members: Blue dragonhide vambraces	Membros: Braceleiras de dragão azul	interface	generalUI	skillGuide
+Green dragonhide body (with <Num0> Defence)	Cota de pele de dragão verde<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Green dragonhide shield  (with <Num0> Defence)	Membros: Escudo de pele de dragão<br>verde (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Ava's accumulator (after Animal Magnetism)	Membros: Mochila avançada de Ava<br>(após Animal Magnetism)	interface	generalUI	skillGuide
+Members: Blue dragonhide vambraces	Membros: Braceleiras de dragão<br>azul	interface	generalUI	skillGuide
 Members: Blue dragonhide chaps	Membros: Perneiras de dragão azul	interface	generalUI	skillGuide
-Members: Blue dragonhide body (with <Num0> Defence)	Membros: Cota de pele de dragão azul (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Blue dragonhide shield  (with <Num0> Defence)	Membros: Escudo de pele de dragão azul (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Penance skirt (with <Num0> Defence)	Membros: Escarcela da penitência (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Red dragonhide vambraces	Membros: Braceleiras de dragão vermelho	interface	generalUI	skillGuide
-Members: Red dragonhide chaps	Membros: Perneiras de dragão vermelho	interface	generalUI	skillGuide
-Members: Red dragonhide body (with <Num0> Defence)	Membros: Cota de pele de dragão vermelho (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Red dragonhide shield  (with <Num0> Defence)	Membros: Escudo de pele de dragão vermelho (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Blue dragonhide body (with <Num0> Defence)	Membros: Cota de pele de dragão<br>azul (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Blue dragonhide shield  (with <Num0> Defence)	Membros: Escudo de pele de dragão<br>azul (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Penance skirt (with <Num0> Defence)	Membros: Escarcela da penitência<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Red dragonhide vambraces	Membros: Braceleiras de dragão<br>vermelho	interface	generalUI	skillGuide
+Members: Red dragonhide chaps	Membros: Perneiras de dragão<br>vermelho	interface	generalUI	skillGuide
+Members: Red dragonhide body (with <Num0> Defence)	Membros: Cota de pele de dragão<br>vermelho (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Red dragonhide shield  (with <Num0> Defence)	Membros: Escudo de pele de dragão<br>vermelho (com <Num0> Defesa)	interface	generalUI	skillGuide
 Members: Mixed hide legs	Membros: Calça de couro misto	interface	generalUI	skillGuide
-Members: Mixed hide top, cape, and boots (with <Num0> Defence)	Membros: Camisa, capa e botas de couro misto (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: <Num0>rd age range armour (with <Num1> Defence)	Membros: Armadura de arqueiro da <Num0>a Era (com <Num1> Defesa)	interface	generalUI	skillGuide
-Members: Ava's Assembler (after Dragon Slayer II)	Membros: Mochila suprema de Ava (após Dragon Slayer II)	interface	generalUI	skillGuide
-Members: Black dragonhide vambraces	Membros: Braceleiras de dragão negro	interface	generalUI	skillGuide
+Members: Mixed hide top, cape, and boots (with <Num0> Defence)	Membros: Camisa, capa e botas de<br>couro misto (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: <Num0>rd age range armour (with <Num1> Defence)	Membros: Armadura de arqueiro da<br><Num0>a Era (com <Num1> Defesa)	interface	generalUI	skillGuide
+Members: Ava's Assembler (after Dragon Slayer II)	Membros: Mochila suprema de Ava<br>(após Dragon Slayer II)	interface	generalUI	skillGuide
+Members: Black dragonhide vambraces	Membros: Braceleiras de dragão<br>negro	interface	generalUI	skillGuide
 Members: Black dragonhide chaps	Membros: Perneiras de dragão negro	interface	generalUI	skillGuide
-Members: Black dragonhide body (with <Num0> Defence)	Membros: Cota de pele de dragão negro (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Black dragonhide shield (with <Num0> Defence)	Membros: Escudo de pele de dragão negro (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: God dragonhide shields (with <Num0> Defence)	Membros: Escudo de couro dos deuses (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: God dragonhide armour (with <Num0> Defence)	Membros: Armadura de couro dos deuses (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Hueycoatl hide vambraces	Membros: Braceleiras de pele de Hueycoatl	interface	generalUI	skillGuide
+Members: Black dragonhide body (with <Num0> Defence)	Membros: Cota de pele de dragão<br>negro (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Black dragonhide shield (with <Num0> Defence)	Membros: Escudo de pele de dragão<br>negro (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: God dragonhide shields (with <Num0> Defence)	Membros: Escudo de couro dos<br>deuses (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: God dragonhide armour (with <Num0> Defence)	Membros: Armadura de couro dos<br>deuses (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Hueycoatl hide vambraces	Membros: Braceleiras de pele de<br>Hueycoatl	interface	generalUI	skillGuide
 Members: Hueycoatl hide chaps	Membros: Cota de pele de Hueycoatl	interface	generalUI	skillGuide
-Members: Hueycoatl hide body (with <Num0> Defence)	Membros: Cota de pele de Hueycoatl (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Hueycoatl hide coif (with <Num0> Defence)	Membros: Coifa de pele de Hueycoatl (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Armadyl armour (with <Num0> Defence)	Membros: Armadura de Armadyl (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Karil's leather armour (with <Num0> Defence)	Membros: Armadura de Karil (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Dragonfire ward (with <Num0> Defence)	Membros: Protetor Fogo de dragão (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Boots of brimstone (with <Num0> Defence and Magic)	Membros: Botas de enxofre (com <Num0> Defesa e Magia)	interface	generalUI	skillGuide
-Dizana's Quiver Ammo storage: Bolts or Arrows	Aljava de Dizana Munição: Setas ou flechas	interface	generalUI	skillGuide
-Members: Eclipse set (with <Num0> Defence)	Membros: Conjunto do Eclipse (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Hueycoatl hide body (with <Num0> Defence)	Membros: Cota de pele de Hueycoatl<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Hueycoatl hide coif (with <Num0> Defence)	Membros: Coifa de pele de Hueycoatl<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Armadyl armour (with <Num0> Defence)	Membros: Armadura de Armadyl<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Karil's leather armour (with <Num0> Defence)	Membros: Armadura de Karil<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Dragonfire ward (with <Num0> Defence)	Membros: Protetor Fogo de dragão<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Boots of brimstone (with <Num0> Defence and Magic)	Membros: Botas de enxofre<br>(com <Num0> Defesa e Magia)	interface	generalUI	skillGuide
+Dizana's Quiver Ammo storage: Bolts or Arrows	Aljava de Dizana<br>Munição: Setas ou flechas	interface	generalUI	skillGuide
+Members: Eclipse set (with <Num0> Defence)	Membros: Conjunto do Eclipse<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
 Members: Pegasian boots (with <Num0> Defence)	Membros: Botás do pégaso	interface	generalUI	skillGuide
-Members: Twisted buckler (with <Num0> Defence)	Membros: Escudo retorcido (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Zaryte vambraces (with <Num0> Defence)	Membros: Braceleiras de Zaryte (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Masori armour (with <Num0> Defence)	Membros: Armadura Masori (com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Twisted buckler (with <Num0> Defence)	Membros: Escudo retorcido<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Zaryte vambraces (with <Num0> Defence)	Membros: Braceleiras de Zaryte<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Masori armour (with <Num0> Defence)	Membros: Armadura Masori<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Avernic treads (with <Num0> Strength, <Num1> Defence and <Num2> Magic)	Members: Botas avernianas<br>(com <Num0> Força, <Num1> Defesa e<br><Num2> Magia)	interface	generalUI	skillGuide
 Miscellaneous - Members Only	Variados - Para Membros	interface	generalUI	skillGuide
-Light ballista Ammo: All Javelins	Balista leve Munição: Qualquer dardo longo	interface	generalUI	skillGuide
-Heavy ballista (after Monkey Madness II) Ammo: All Javelins	Balista pesada (após Monkey Madness II) Munição: Qualquer dardo longo	interface	generalUI	skillGuide
-Scale Falador wall (with <Num0> Agility and <Num1> Strength)	Escalar a muralha de Falador (com <Num0> Agilidade e <Num1> Força)	interface	generalUI	skillGuide
-Scale Yanille wall (with <Num0> Agility and <Num1> Strength)	Escalar a muralha de Yanille (com <Num1> Força e <Num0> Agilidade)	interface	generalUI	skillGuide
-Scale Observatory cliff (after Observatory quest) (with <Num0> Agility and <Num1> Strength)	Escalar o penhasco do Observatório (com <Num1> Força e <Num0> Agilidade, após completar a missão Observatory)	interface	generalUI	skillGuide
-Scale the Catherby cliff (with <Num0> Agility and <Num1> Strength)	Escalar o penhasco de Catherby (com <Num1> Força e <Num0> Agilidade)	interface	generalUI	skillGuide
-Cross the River Lum to Al Kharid (with <Num0> Agility and <Num1> Strength)	Atravesse o rio Lum até Al Kharid (com <Num1> Força e <Num0> Agilidade)	interface	generalUI	skillGuide
-Escape from the water obelisk island (with <Num0> Agility and <Num1> Strength)	Fugir da ilha do obelisco de água (com <Num1> Força e <Num0> Agilidade)	interface	generalUI	skillGuide
-Karamja, south of the volcano (with <Num0> Agility and <Num1> Strength)	Travessia de Karamja, ao sul do vulcão (com <Num1> Força e <Num0> Agilidade)	interface	generalUI	skillGuide
-Hallowed Sepulchre - Grapple swing	Sepulcro Sagrado - Balanço com árpeu	interface	generalUI	skillGuide
-Cross cave south of Dorgesh-Kaan (with <Num0> Agility and <Num1> Strength)	Atravesse a caverna, ao sul de Dorgesh-Kaan (com <Num0> Agilidade e <Num1> Força, após completar Death to the Dorgeshuun)	interface	generalUI	skillGuide
+Light ballista Ammo: All Javelins	Balista leve<br>Munição: Qualquer dardo longo	interface	generalUI	skillGuide
+Heavy ballista (after Monkey Madness II) Ammo: All Javelins	Balista pesada<br>(após Monkey Madness II)<br>Munição: Qualquer dardo longo	interface	generalUI	skillGuide
+Scale Falador wall (with <Num0> Agility and <Num1> Strength)	Escalar a muralha de Falador<br>(com <Num0> Agilidade e <Num1> Força)	interface	generalUI	skillGuide
+Scale Yanille wall (with <Num0> Agility and <Num1> Strength)	Escalar a muralha de Yanille<br>(com <Num1> Força e <Num0> Agilidade)	interface	generalUI	skillGuide
+Scale Observatory cliff (after Observatory quest) (with <Num0> Agility and <Num1> Strength)	Escalar o penhasco do Observatório<br>(com <Num1> Força e <Num0> Agilidade,<br>após Observatory)	interface	generalUI	skillGuide
+Scale the Catherby cliff (with <Num0> Agility and <Num1> Strength)	Escalar o penhasco de Catherby<br>(com <Num1> Força e <Num0> Agilidade)	interface	generalUI	skillGuide
+Cross the River Lum to Al Kharid (with <Num0> Agility and <Num1> Strength)	Atravesse o rio Lum até Al Kharid<br>(com <Num1> Força e <Num0> Agilidade)	interface	generalUI	skillGuide
+Escape from the water obelisk island (with <Num0> Agility and <Num1> Strength)	Fugir da ilha do obelisco de água<br>(com <Num1> Força e <Num0> Agilidade)	interface	generalUI	skillGuide
+Karamja, south of the volcano (with <Num0> Agility and <Num1> Strength)	Travessia de Karamja, ao sul do<br>vulcão (com <Num1> Força e <Num0> Agilidade)	interface	generalUI	skillGuide
+Hallowed Sepulchre - Grapple swing	Sepulcro Sagrado<br>Balanço com árpeu	interface	generalUI	skillGuide
+Cross cave south of Dorgesh-Kaan (with <Num0> Agility and <Num1> Strength)	Caverna ao sul de Dorgesh-Kaan<br>(com <Num0> Agilidade e <Num1> Força,<br>após Death to the Dorgeshuun)	interface	generalUI	skillGuide
 Thieving	Roubo	interface	generalUI	skillGuide
 Pickpocket - Members Only	Roubar - Para Membros	interface	generalUI	skillGuide
 Citizen	Cidadão	interface	generalUI	skillGuide
@@ -2662,7 +2664,7 @@ Cave goblin	Duende da caverna	interface	generalUI	skillGuide
 Master farmer	Agricultor mestre	interface	generalUI	skillGuide
 Guard	Guarda	interface	generalUI	skillGuide
 Fremennik	Fremennik	interface	generalUI	skillGuide
-Bearded Pollnivnian bandit	Bandoleiro barbado de Pollnivneach	interface	generalUI	skillGuide
+Bearded Pollnivnian bandit	Bandoleiro barbado de Pollnivneach<br> 	interface	generalUI	skillGuide
 Wealthy citizen	Cidadão rico	interface	generalUI	skillGuide
 Desert bandit	Bandoleiro do deserto	interface	generalUI	skillGuide
 Knight	Cavaleiro	interface	generalUI	skillGuide
@@ -2698,35 +2700,35 @@ Spices stall	Barraca de condimentos	interface	generalUI	skillGuide
 Gems stall	Barraca de gemas	interface	generalUI	skillGuide
 Ore stall	Barraca de minérios	interface	generalUI	skillGuide
 Chests - Members Only	Baús - Para Membros	interface	generalUI	skillGuide
-Ardougne, Rellekka and the Wilderness	Ardougne, Rellekka e Wilderness	interface	generalUI	skillGuide
-Upstairs in Ardougne and Rellekka	Andar superior em Ardougne e Rellekka	interface	generalUI	skillGuide
+Ardougne, Rellekka and the Wilderness	Ardougne, Rellekka e Wilderness<br> 	interface	generalUI	skillGuide
+Upstairs in Ardougne and Rellekka	Andar superior em Ardougne e<br>Rellekka	interface	generalUI	skillGuide
 The Isle of Souls	Ilha das Almas	interface	generalUI	skillGuide
-Aldarin Villas	Villas Aldarin 	interface	generalUI	skillGuide
+Aldarin Villas	Villas Aldarin	interface	generalUI	skillGuide
 Upstairs in Ardougne	Andar superior em Ardougne	interface	generalUI	skillGuide
 Hemenster and Rellekka	Hemenster e Rellekka	interface	generalUI	skillGuide
 Dorgesh-Kaan (average chests)	Dorgesh-Kaan (baús comuns)	interface	generalUI	skillGuide
-Chaos druid tower north of Ardougne	Torre dos druidas do caos ao norte de Ardougne	interface	generalUI	skillGuide
-Lizardman Temple beneath Molch	Templo dos homens-lagarto abaixo de Molch	interface	generalUI	skillGuide
+Chaos druid tower north of Ardougne	Torre dos druidas do caos ao norte<br>de Ardougne	interface	generalUI	skillGuide
+Lizardman Temple beneath Molch	Templo dos homens-lagarto abaixo<br>de Molch	interface	generalUI	skillGuide
 Ardougne Castle	Castelo de Ardougne	interface	generalUI	skillGuide
 Dorgesh-Kaan (rich chests)	Dorgesh-Kaan (baús ricos)	interface	generalUI	skillGuide
-Wilderness Rogues' Castle	Castle dos Párias na Wilderness	interface	generalUI	skillGuide
-Sorceress's Garden minigame - Winter Al Kharid region	Minijogo Jardim da Feiticeira - Região de Inverno em Al-Kharid	interface	generalUI	skillGuide
-Can steal cowbells from dairy cows	É possível roubar sinos de vacas leiteiras	interface	generalUI	skillGuide
-Pyramid Plunder minigame - Room <Num0> In the Jalsavrah Pyramid in Sophanem	Minijogo Pilhagem à Pirâmide - Sala <Num0> Na Pirâmide de Jalsavrah em Sophanem	interface	generalUI	skillGuide
-Sorceress's Garden minigame - Spring Al Kharid region	Minijogo Jardim da Feiticeira - Região de Primavera em Al-Kharid	interface	generalUI	skillGuide
+Wilderness Rogues' Castle	Castelo dos Párias na Wilderness<br> 	interface	generalUI	skillGuide
+Sorceress's Garden minigame - Winter Al Kharid region	Minijogo Jardim da Feiticeira<br>Região de Inverno em Al-Kharid	interface	generalUI	skillGuide
+Can steal cowbells from dairy cows	É possível roubar sinos de vacas<br>leiteiras	interface	generalUI	skillGuide
+Pyramid Plunder minigame - Room <Num0> In the Jalsavrah Pyramid in Sophanem	Minijogo Pilhagem à Pirâmide - Sala <Num0><br>Na Pirâmide de Jalsavrah em<br>Sophanem	interface	generalUI	skillGuide
+Sorceress's Garden minigame - Spring Al Kharid region	Minijogo Jardim da Feiticeira<br>Região de Primavera em Al-Kharid	interface	generalUI	skillGuide
 Pyramid Plunder - Room <Num0>	Pilhagem à Pirâmide - Sala <Num0>	interface	generalUI	skillGuide
-Can steal wire from the Dorgeshuun wire machine	Pode roubar fios da máquina de fios Dorgeshuun	interface	generalUI	skillGuide
-Sorceress's Garden minigame - Autumn Al Kharid region	Minijogo Jardim da Feiticeira - Região de Outono em Al-Kharid	interface	generalUI	skillGuide
-Can pick locks in Port Piscarilius.	Pode arrombar fechaduras em Porto Piscarilius.	interface	generalUI	skillGuide
-Can crack the wall safes in Rogues' Den	É possível arrombar os cofres nas paredes do Covil dos Párias	interface	generalUI	skillGuide
-Can rob houses in Civitas illa Fortis	É possível roubar casas em Civitas illa Fortis	interface	generalUI	skillGuide
-Can pick-lock the door to the Grubby Chest in the Forthos Dungeon.	É possível arrombar a porta do Baú Sujo na Masmorra de Forthos.	interface	generalUI	skillGuide
-Sorceress's Garden minigame - Summer Al Kharid region	Minijogo Jardim da Feiticeira - Região de Verão em Al-Kharid	interface	generalUI	skillGuide
-Hallowed Sepulchre - Can pick-lock the coffins found on each floor.	Sepulcro Sagrado - É possível arrombar os caixões encontrados em cada andar.	interface	generalUI	skillGuide
+Can steal wire from the Dorgeshuun wire machine	Pode roubar fios da máquina de fios<br>Dorgeshuun	interface	generalUI	skillGuide
+Sorceress's Garden minigame - Autumn Al Kharid region	Minijogo Jardim da Feiticeira<br>Região de Outono em Al-Kharid	interface	generalUI	skillGuide
+Can pick locks in Port Piscarilius.	Pode arrombar fechaduras em Porto<br>Piscarilius.	interface	generalUI	skillGuide
+Can crack the wall safes in Rogues' Den	É possível arrombar os cofres nas<br>paredes do Covil dos Párias	interface	generalUI	skillGuide
+Can rob houses in Civitas illa Fortis	É possível roubar casas em Civitas<br>illa Fortis	interface	generalUI	skillGuide
+Can pick-lock the door to the Grubby Chest in the Forthos Dungeon.	É possível arrombar a porta do Baú<br>Sujo na Masmorra de Forthos.	interface	generalUI	skillGuide
+Sorceress's Garden minigame - Summer Al Kharid region	Minijogo Jardim da Feiticeira<br>Região de Verão em Al-Kharid	interface	generalUI	skillGuide
+Hallowed Sepulchre - Can pick-lock the coffins found on each floor.	Sepulcro Sagrado - Arrombar os<br>caixões encontrados em cada andar.	interface	generalUI	skillGuide
 Cooking	Culinária	interface	generalUI	skillGuide
 Meats	Carnes	interface	generalUI	skillGuide
 Meat	Carne	interface	generalUI	skillGuide
-Members: Sinew (made by drying beef or bear meat on a range)	Membros: Tendão (feito ao secar carne de vaca ou urso num fogão)	interface	generalUI	skillGuide
+Members: Sinew (made by drying beef or bear meat on a range)	Membros: Tendão (feito ao secar<br>carne de vaca ou urso num fogão)	interface	generalUI	skillGuide
 Shrimp	Camarão	interface	generalUI	skillGuide
 Chicken	Galinha	interface	generalUI	skillGuide
 Members: Rabbit	Membros: Coelho	interface	generalUI	skillGuide
@@ -2736,7 +2738,7 @@ Members: Karambwan	Membros: Karambwan	interface	generalUI	skillGuide
 Members: Ugthanki kebab	Membros: Kebab de ugthanki	interface	generalUI	skillGuide
 Herring	Arenque	interface	generalUI	skillGuide
 Members: Mackerel	Membros: Cavalinha	interface	generalUI	skillGuide
-Members: Roasted bird meat	Membros: Carne assada de pássaro	interface	generalUI	skillGuide
+Members: Roasted bird meat	Membros: Carne assada de pássaro<br> 	interface	generalUI	skillGuide
 Members: Thin snail	Membros: Caracol fino	interface	generalUI	skillGuide
 Trout	Truta	interface	generalUI	skillGuide
 Members: Spider	Membros: Aranha	interface	generalUI	skillGuide
@@ -2744,7 +2746,7 @@ Members: Roasted rabbit	Membros: Coelho assado	interface	generalUI	skillGuide
 Members: Lean snail	Membros: Caracol magro	interface	generalUI	skillGuide
 Members: Cod	Membros: Bacalhau	interface	generalUI	skillGuide
 Pike	Lúcio	interface	generalUI	skillGuide
-Members: Roasted beast meat	Membros: Carne de fera assada	interface	generalUI	skillGuide
+Members: Roasted beast meat	Membros: Carne de fera assada<br> 	interface	generalUI	skillGuide
 Members: Giant crab meat	Membros: Carne de caranguejo	interface	generalUI	skillGuide
 Members: Fat snail	Membros: Caracol gordo	interface	generalUI	skillGuide
 Members: Wild kebbit	Membros: Kebbit selvagem	interface	generalUI	skillGuide
@@ -2756,9 +2758,9 @@ Members: Mossy Lizard	Membros: Lagarto-líquen	interface	generalUI	skillGuide
 Members: Bream	Membros: Sargo	interface	generalUI	skillGuide
 Members: Fishcakes	Membros: Bolo de peixe	interface	generalUI	skillGuide
 Members: Larupia	Membros: Larupia	interface	generalUI	skillGuide
-Members: Barb-tailed kebbit	Membros: Kebbit cauda farpada	interface	generalUI	skillGuide
+Members: Barb-tailed kebbit	Membros: Kebbit cauda farpada<br> 	interface	generalUI	skillGuide
 Members: Rainbow fish	Membros: Peixe arco-íris	interface	generalUI	skillGuide
-Members: Forester's ration (with <Num0> Woodcutting)	Membros: Ração do florestal (com <Num0> Corte de Lenha)	interface	generalUI	skillGuide
+Members: Forester's ration (with <Num0> Woodcutting)	Membros: Ração do florestal<br>(com <Num0> Corte de Lenha)	interface	generalUI	skillGuide
 Members: Cave eel	Membros: Enguia de gruta	interface	generalUI	skillGuide
 Lobster	Lagosta	interface	generalUI	skillGuide
 Members: Jubbly	Membros: Jubbly	interface	generalUI	skillGuide
@@ -2770,7 +2772,7 @@ Members: Lava eel	Membros: Enguia de lava	interface	generalUI	skillGuide
 Members: Pyre fox	Membros: Piroraposa	interface	generalUI	skillGuide
 Members: Monkfish	Membros: Tamboril	interface	generalUI	skillGuide
 Members: Sunlight antelope	Membros: Antílope solar	interface	generalUI	skillGuide
-Members: Dissect sacred eels	Membros: Dissecar enguia sagrada	interface	generalUI	skillGuide
+Members: Dissect sacred eels	Membros: Dissecar enguia sagrada<br> 	interface	generalUI	skillGuide
 Members: Shark	Membros: Tubarão	interface	generalUI	skillGuide
 Members: Sea turtle	Membros: Tartaruga do mar	interface	generalUI	skillGuide
 Members: Dashing kebbit	Membros: Kebbit furtivo	interface	generalUI	skillGuide
@@ -2790,10 +2792,10 @@ Vegetable	Vegetais	interface	generalUI	skillGuide
 Dairy	Laticínios	interface	generalUI	skillGuide
 Offerings	Oferendas	interface	generalUI	skillGuide
 Members: Pitta bread	Membros: Pão árabe	interface	generalUI	skillGuide
-<Num0>. Pick some grain and take it to a windmill to make flour.	<Num0>. Colha grãos e leve-os a um moinho de vento para fazer farinha.	interface	generalUI	skillGuide
-<Num0>. Use a pot to collect the flour you have made.	<Num0>. Use uma pote para coletar a farinha que você preparou.	interface	generalUI	skillGuide
-<Num0>. Fill a bucket or jug with water from a sink or fountain.	<Num0>. Encha um balde ou jarro com água de uma pia ou fonte.	interface	generalUI	skillGuide
-<Num0>. Mix the flour and water to make some bread dough.	<Num0>. Misture a farinha e a água para fazer uma massa de pão.	interface	generalUI	skillGuide
+<Num0>. Pick some grain and take it to a windmill to make flour.	<Num0>. Colha grãos e leve-os a um moinho de vento<br>para fazer farinha.	interface	generalUI	skillGuide
+<Num0>. Use a pot to collect the flour you have made.	<Num0>. Use uma pote para coletar a farinha que você<br>preparou.	interface	generalUI	skillGuide
+<Num0>. Fill a bucket or jug with water from a sink or fountain.	<Num0>. Encha um balde ou jarro com água de uma pia<br>ou fonte.	interface	generalUI	skillGuide
+<Num0>. Mix the flour and water to make some bread dough.	<Num0>. Misture a farinha e a água para fazer uma<br>massa de pão.	interface	generalUI	skillGuide
 <Num0>. Cook the dough by using it with a stove.	<Num0>. Cozinhe a massa usando um fogão.	interface	generalUI	skillGuide
 Redberry pie	Torta de vermelhora	interface	generalUI	skillGuide
 Meat pie	Torta de carne	interface	generalUI	skillGuide
@@ -2809,24 +2811,24 @@ Members: Wild pie	Membros: Torta selvagem	interface	generalUI	skillGuide
 Members: Summer pie	Membros: Torta de verão	interface	generalUI	skillGuide
 To make a pie:	Para fazer uma torta:	interface	generalUI	skillGuide
 <Num0>. Mix flour and water to make pastry dough.	<Num0>. Misture farinha e água para fazer a massa.	interface	generalUI	skillGuide
-<Num0>. Place the dough in an empty pie dish.	<Num0>. Coloque a massa em uma forma de torta vazia.	interface	generalUI	skillGuide
-<Num0>. Use your choice of filling with the empty pie (refer to pie recipe book).	<Num0>. Use o recheio de sua escolha com a torta vazia (consulte o livro de receitas).	interface	generalUI	skillGuide
+<Num0>. Place the dough in an empty pie dish.	<Num0>. Coloque a massa em uma forma de torta<br>vazia.	interface	generalUI	skillGuide
+<Num0>. Use your choice of filling with the empty pie (refer to pie recipe book).	<Num0>. Use o recheio de sua escolha com a torta<br>vazia (consulte o livro de receitas).	interface	generalUI	skillGuide
 <Num0>. Cook the pie by using it with a stove.	<Num0>. Cozinhe a torta no fogão.	interface	generalUI	skillGuide
 Stew	Ensopado	interface	generalUI	skillGuide
 Members: Curry	Membros: Curry	interface	generalUI	skillGuide
 To make stew:	Para fazer ensopado:	interface	generalUI	skillGuide
-<Num0>. Obtain a bowl and fill it with water from a sink or fountain.	<Num0>. Pegue uma tigela e encha-a com água de uma pia ou fonte.	interface	generalUI	skillGuide
+<Num0>. Obtain a bowl and fill it with water from a sink or fountain.	<Num0>. Pegue uma tigela e encha-a com água de uma<br>pia ou fonte.	interface	generalUI	skillGuide
 <Num0>. Pick a potato and place it in the bowl.	<Num0>. Pegue uma batata e coloque-a na tigela.	interface	generalUI	skillGuide
-<Num0>. Cook some meat and place it in the bowl.	<Num0>. Cozinhe um pouco de carne e coloque-a na tigela.	interface	generalUI	skillGuide
-<Num0>. Cook the stew by using it with a stove or fire.	<Num0>. Cozinhe o ensopado usando um fogão ou fogo.	interface	generalUI	skillGuide
-After completing Evil Dave's miniquest from Recipe for Disaster, I can add spices to cooked stew.	Depois de completar a minimissão do Dave Maligno em Recipe for Disaster, posso adicionar temperos ao ensopado cozido.	interface	generalUI	skillGuide
-To make curry: make uncooked stew as above. Before cooking, add some spices or <Num0> curry leaves.	Para fazer curry: prepare o ensopado cru como acima. Antes de cozinhar, adicione alguns temperos ou <Num0> folhas de curry.	interface	generalUI	skillGuide
+<Num0>. Cook some meat and place it in the bowl.	<Num0>. Cozinhe um pouco de carne e coloque-a na<br>tigela.	interface	generalUI	skillGuide
+<Num0>. Cook the stew by using it with a stove or fire.	<Num0>. Cozinhe o ensopado usando um fogão ou<br>fogo.	interface	generalUI	skillGuide
+After completing Evil Dave's miniquest from Recipe for Disaster, I can add spices to cooked stew.	Depois da minimissão do Dave Maligno em Recipe for<br>Disaster, é possível adicionar temperos ao ensopado.	interface	generalUI	skillGuide
+To make curry: make uncooked stew as above. Before cooking, add some spices or <Num0> curry leaves.	Para fazer curry, adicione temperos ou <Num0> folhas de<br>curry antes de cozinhar o ensopado cru.	interface	generalUI	skillGuide
 Plain pizza	Pizza simples	interface	generalUI	skillGuide
 Meat pizza	Pizza de carne	interface	generalUI	skillGuide
 Anchovy pizza	Pizza de anchovas	interface	generalUI	skillGuide
 Members: Pineapple pizza	Membros: Pizza de abacaxi	interface	generalUI	skillGuide
 To make a pizza:	Para fazer uma pizza:	interface	generalUI	skillGuide
-<Num0>. Mix flour and water to make a pizza base.	<Num0>. Misture farinha e água para fazer uma massa de pizza.	interface	generalUI	skillGuide
+<Num0>. Mix flour and water to make a pizza base.	<Num0>. Misture farinha e água para fazer uma<br>massa de pizza.	interface	generalUI	skillGuide
 <Num0>. Add a tomato to the pizza.	<Num0>. Adicione um tomate à pizza.	interface	generalUI	skillGuide
 <Num0>. Add some cheese to the pizza.	<Num0>. Adicione um pouco de queijo à pizza.	interface	generalUI	skillGuide
 <Num0>. Cook the pizza by using it with a stove.	<Num0>. Cozinhe a pizza no fogão.	interface	generalUI	skillGuide
@@ -2834,68 +2836,68 @@ To make a pizza:	Para fazer uma pizza:	interface	generalUI	skillGuide
 Cake	Bolo	interface	generalUI	skillGuide
 Chocolate cake	Bolo de chocolate	interface	generalUI	skillGuide
 To make a cake:	Para fazer um bolo:	interface	generalUI	skillGuide
-<Num0>. Mix flour, eggs and milk together in a cake tin.	<Num0>. Misture a farinha, os ovos e o leite em uma forma de bolo.	interface	generalUI	skillGuide
+<Num0>. Mix flour, eggs and milk together in a cake tin.	<Num0>. Misture a farinha, os ovos e o leite em uma<br>forma de bolo.	interface	generalUI	skillGuide
 <Num0>. Cook the cake by using it with a stove.	<Num0>. Cozinhe o bolo usando um fogão.	interface	generalUI	skillGuide
-<Num0>. Optional: Buy some chocolate and add it to the cake to make a chocolate cake.	<Num0>. Opcional: Compre um pouco de chocolate e adicione ao bolo para fazer um bolo de chocolate.	interface	generalUI	skillGuide
+<Num0>. Optional: Buy some chocolate and add it to the cake to make a chocolate cake.	<Num0>. Opcional: Compre um pouco de chocolate e<br>adicione ao bolo para fazer um bolo de chocolate.	interface	generalUI	skillGuide
 Members: Wine of Zamorak	Membros: Vinho de Zamorak	interface	generalUI	skillGuide
 To make wine:	Para fazer vinho:	interface	generalUI	skillGuide
 <Num0>. Fill a jug with water.	<Num0>. Encha uma jarra com água.	interface	generalUI	skillGuide
 <Num0>. Use grapes with the jug of water.	<Num0>. Use uvas com a jarra de água.	interface	generalUI	skillGuide
 <Num0>. Wait until the wine ferments.	<Num0>. Espere o vinho fermentar.	interface	generalUI	skillGuide
-Wine will ferment when left in your inventory or the bank.	O vinho fermentará quando deixado no seu inventário ou no banco.	interface	generalUI	skillGuide
-Hot Drinks - Members Only	Bebidas quentes - Para Membros	interface	generalUI	skillGuide
+Wine will ferment when left in your inventory or the bank.	O vinho fermentará quando deixado no seu inventário<br>ou no banco.	interface	generalUI	skillGuide
+Hot Drinks - Members Only	Infusões - Para Membros	interface	generalUI	skillGuide
 Nettle tea	Chá de urtiga	interface	generalUI	skillGuide
-To make nettle tea:	Para fazer chá de urtiga:	interface	generalUI	skillGuide
+To make tea:	Para fazer chá:	interface	generalUI	skillGuide
 <Num0>. Fill a bowl with water.	<Num0>. Encha uma tigela com água.	interface	generalUI	skillGuide
-<Num0>. Put some picked nettles into the bowl of water.	<Num0>. Coloque algumas urtigas colhidas na tigela com água.	interface	generalUI	skillGuide
-<Num0>. Boil the nettle-water by using it with a range or a fire.	<Num0>. Ferva a água com urtiga usando um fogão ou fogo.	interface	generalUI	skillGuide
-<Num0>. Use the bowl of nettle tea with a cup.	<Num0>. Use a tigela de chá de urtiga com uma xícara.	interface	generalUI	skillGuide
-<Num0>. If you take milk, use a bucket of milk on the nettle tea.	<Num0>. Se tiver leite, use um balde de leite no chá de urtiga.	interface	generalUI	skillGuide
+<Num0>. Add the relevant ingredient (nettles or damiana leaves) into the bowl of water.	<Num0>. Adicione o ingrediente relevante (urtigas ou folhas<br>de damiana) na tigela com água.	interface	generalUI	skillGuide
+<Num0>. Boil the water on a range or a fire.	<Num0>. Ferva a água no fogão ou no fogo.	interface	generalUI	skillGuide
+<Num0>. Transfer the bowl of tea into a cup.	<Num0>. Transfira a tigela de chá para uma xícara.	interface	generalUI	skillGuide
+<Num0>. If desired, add a bucket of milk to the tea.	<Num0>. Se desejar, adicione um balde de leite ao chá.	interface	generalUI	skillGuide
 Brewing - Members Only	Fermentação - Para Membros	interface	generalUI	skillGuide
-Cider <Num0> Apple mush	Cidra <Num0> Creme de maçã	interface	generalUI	skillGuide
-Dwarven Stout <Num0> Hammerstone hops	Corote dos anões <Num0> Lúpulo de Hammerstone	interface	generalUI	skillGuide
-Asgarnian Ale <Num0> Asgarnian hops	Cerveja de Asgarnia <Num0> Lúpulo de Asgarnia	interface	generalUI	skillGuide
-Greenman's Ale <Num0> Harralander leaves	Vitamina do Homenzinho Verde <Num0> Harralander	interface	generalUI	skillGuide
-Wizard's Mind Bomb <Num0> Yanillian hops	Explosão mental <Num0> Lúpulos de Yanille	interface	generalUI	skillGuide
-Dragon Bitter <Num0> Krandorian hops	Sumo do dragão <Num0> Lúpulo kradoriano	interface	generalUI	skillGuide
-Moonlight Mead <Num0> Bittercap mushrooms	Hidromel Luz da Lua <Num0> Cogumelo amargorro	interface	generalUI	skillGuide
-Axeman's Folly <Num0> Oak root	Geladinha do lenhador <Num0> Raízes de carvalho	interface	generalUI	skillGuide
-Chef's Delight <Num0> Portions of chocolate dust	Delícia do chefe <Num0> Chocolate em pó	interface	generalUI	skillGuide
-Slayer's Respite <Num0> Wildblood hops	Cerveja do exterminador <Num0> Lúpulos de hemoerva	interface	generalUI	skillGuide
+Cider <Num0> Apple mush	Cidra<br><Num0> Creme de maçã	interface	generalUI	skillGuide
+Dwarven Stout <Num0> Hammerstone hops	Corote dos anões<br><Num0> Lúpulo de Hammerstone	interface	generalUI	skillGuide
+Asgarnian Ale <Num0> Asgarnian hops	Cerveja de Asgarnia<br><Num0> Lúpulo de Asgarnia	interface	generalUI	skillGuide
+Greenman's Ale <Num0> Harralander leaves	Vitamina do Homenzinho Verde<br><Num0> Harralander	interface	generalUI	skillGuide
+Wizard's Mind Bomb <Num0> Yanillian hops	Explosão mental<br><Num0> Lúpulos de Yanille	interface	generalUI	skillGuide
+Dragon Bitter <Num0> Krandorian hops	Sumo do dragão<br><Num0> Lúpulo kradoriano	interface	generalUI	skillGuide
+Moonlight Mead <Num0> Bittercap mushrooms	Hidromel Luz da Lua<br><Num0> Cogumelo amargorro	interface	generalUI	skillGuide
+Axeman's Folly <Num0> Oak root	Geladinha do lenhador<br><Num0> Raízes de carvalho	interface	generalUI	skillGuide
+Chef's Delight <Num0> Portions of chocolate dust	Delícia do chefe<br><Num0> Chocolate em pó	interface	generalUI	skillGuide
+Slayer's Respite <Num0> Wildblood hops	Cerveja do exterminador<br><Num0> Lúpulos de hemoerva	interface	generalUI	skillGuide
 Vegetable - Members Only	Vegetais - Para Membros	interface	generalUI	skillGuide
 Baked potato	Batata assada	interface	generalUI	skillGuide
-Spicy sauce (topping ingredient)	Molho picante (ingrediente da cobertura)	interface	generalUI	skillGuide
+Spicy sauce (topping ingredient)	Molho picante (ingrediente da<br>cobertura)	interface	generalUI	skillGuide
 Chilli con carne (topping)	Chilli com carne (cobertura)	interface	generalUI	skillGuide
-Scrambled egg (topping ingredient)	Ovos mexidos (ingrediente da cobertura)	interface	generalUI	skillGuide
-Scrambled egg and tomato (topping)	Ovos mexidos com tomate (cobertura)	interface	generalUI	skillGuide
+Scrambled egg (topping ingredient)	Ovos mexidos (ingrediente da<br>cobertura)	interface	generalUI	skillGuide
+Scrambled egg and tomato (topping)	Ovos mexidos com tomate<br>(cobertura)	interface	generalUI	skillGuide
 Sweetcorn	Milho verde	interface	generalUI	skillGuide
 Baked potato with butter	Batata com manteiga	interface	generalUI	skillGuide
 Baked potato with chilli con carne	Batata com Chilli	interface	generalUI	skillGuide
-Fried onion (topping ingredient)	Cebola frita (ingrediente da cobertura)	interface	generalUI	skillGuide
-Fried mushroom (topping ingredient)	Cogumelo frito (ingrediente da cobertura)	interface	generalUI	skillGuide
+Fried onion (topping ingredient)	Cebola frita (ingrediente da<br>cobertura)	interface	generalUI	skillGuide
+Fried mushroom (topping ingredient)	Cogumelo frito (ingrediente da<br>cobertura)	interface	generalUI	skillGuide
 Baked potato with butter and cheese	Batata com queijo	interface	generalUI	skillGuide
 Baked potato with egg and tomato	Ovos com batata	interface	generalUI	skillGuide
-Fried mushroom and onion (topping)	Cogumelos e cebola fritos (cobertura)	interface	generalUI	skillGuide
+Fried mushroom and onion (topping)	Cogumelos e cebola fritos<br>(cobertura)	interface	generalUI	skillGuide
 Baked potato with mushroom and onion	Cogumelo e batata	interface	generalUI	skillGuide
-Tuna and sweetcorn (topping)	Atum e milho doce (cobertura)	interface	generalUI	skillGuide
+Tuna and sweetcorn (topping)	Atum e milho doce (cobertura)<br> 	interface	generalUI	skillGuide
 Baked potato with tuna and sweetcorn	Batata assada com atum	interface	generalUI	skillGuide
 To make baked potatoes with toppings:	Para fazer batatas assadas com cobertura:	interface	generalUI	skillGuide
 <Num0>. Bake the potato on a range.	<Num0>. Asse a batata no fogão.	interface	generalUI	skillGuide
 <Num0>. Add some butter.	<Num0>. Adicione um pouco de manteiga.	interface	generalUI	skillGuide
-<Num0>. If needed, combine topping ingredients by chopping them into a bowl.	<Num0>. Se necessário, misture os ingredientes da cobertura cortando-os em uma tigela.	interface	generalUI	skillGuide
+<Num0>. If needed, combine topping ingredients by chopping them into a bowl.	<Num0>. Se necessário, misture os ingredientes da<br>cobertura cortando-os em uma tigela.	interface	generalUI	skillGuide
 Ingredients for toppings:	Ingredientes para a cobertura:	interface	generalUI	skillGuide
-<Num0>. Chilli con carne: meat & spicy sauce (made from garlic and gnome spice)	<Num0>. Chilli com carne: carne e molho picante (feito com alho e tempero de gnomo)	interface	generalUI	skillGuide
+<Num0>. Chilli con carne: meat & spicy sauce (made from garlic and gnome spice)	<Num0>. Chilli com carne: carne e molho picante (feito<br>com alho e tempero de gnomo)	interface	generalUI	skillGuide
 <Num0>. Egg and tomato: scrambled egg & tomato	<Num0>. Ovo e tomate: ovo mexido e tomate	interface	generalUI	skillGuide
-<Num0>. Mushroom and onion: fried bittercap mushroom & fried onion	<Num0>. Cogumelo e cebola: cogumelo amargorro frito e cebola frita	interface	generalUI	skillGuide
+<Num0>. Mushroom and onion: fried bittercap mushroom & fried onion	<Num0>. Cogumelo e cebola: cogumelo amargorro frito<br>e cebola frita	interface	generalUI	skillGuide
 <Num0>. Tuna and sweetcorn: tuna & cooked sweetcorn	<Num0>. Atum e milho: atum e milho cozido	interface	generalUI	skillGuide
 Dairy - Members Only	Laticínios - Para Membros	interface	generalUI	skillGuide
 Cream	Creme	interface	generalUI	skillGuide
 Butter	Manteiga	interface	generalUI	skillGuide
 Cheese	Queijo	interface	generalUI	skillGuide
 To make dairy products:	Para fazer laticínios:	interface	generalUI	skillGuide
-<Num0>. Get a bucket of milk, a pot of cream or a pot of butter.	<Num0>. Pegue um balde de leite, um pote de creme de leite ou uma porção de manteiga.	interface	generalUI	skillGuide
-<Num0>. Use the milk, cream or butter in a churn.	<Num0>. Use o leite, o creme ou a manteiga em uma batedeira.	interface	generalUI	skillGuide
-<Num0>. Milk can be churned into cream, then into butter, then into cheese.	<Num0>. O leite pode ser batido até virar creme, depois manteiga e, por fim, queijo.	interface	generalUI	skillGuide
+<Num0>. Get a bucket of milk, a pot of cream or a pot of butter.	<Num0>. Pegue um balde de leite, um pote de creme de<br>leite ou uma porção de manteiga.	interface	generalUI	skillGuide
+<Num0>. Use the milk, cream or butter in a churn.	<Num0>. Use o leite, o creme ou a manteiga em uma<br>batedeira.	interface	generalUI	skillGuide
+<Num0>. Milk can be churned into cream, then into butter, then into cheese.	<Num0>. O leite pode ser batido até virar creme,<br>depois manteiga e, por fim, queijo.	interface	generalUI	skillGuide
 Gnome - Members Only	Gnomo - Para Membros	interface	generalUI	skillGuide
 Fruit Blast	Explosão de Frutas	interface	generalUI	skillGuide
 Pineapple Punch	Ponche de Abacaxi	interface	generalUI	skillGuide
@@ -2917,18 +2919,24 @@ Vegetable ball	Bola vegetariana	interface	generalUI	skillGuide
 Blurberry Special	Blurberry Especial	interface	generalUI	skillGuide
 Tangled toads' legs	Pernas de sapos trançadas	interface	generalUI	skillGuide
 Chocolate bomb	Bomba de chocolate	interface	generalUI	skillGuide
-Guanic bat	Morcego guanic	interface	generalUI	skillGuide
-Prael bat	Morcego prael	interface	generalUI	skillGuide
-Giral bat	Morcego giral	interface	generalUI	skillGuide
-Phluxia bat	Morcego phluxia	interface	generalUI	skillGuide
-Kryket bat	Morcego kryket	interface	generalUI	skillGuide
-Murng bat	Morcego murng	interface	generalUI	skillGuide
-Psykk bat	Morcego psykk 	interface	generalUI	skillGuide
-Ritual Offering are used in the Ancient Offering Ritual in the ruins of Camdozaal (After Below Ice Mountain).	Oferendas são usadas no Ritual de Oferenda Antigo nas ruínas de Camdozaal (após Below Ice Mountain).	interface	generalUI	skillGuide
-Guppy	Barrigudinho	interface	generalUI	skillGuide
-Cavefish	Peixe das cavernas	interface	generalUI	skillGuide
-Tetra	Tetra	interface	generalUI	skillGuide
-Members: Catfish	Membros: Bagre	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Pysk fish	Membros: Câmaras de Xeric<br>Peixe pysk	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Guanic bat	Membros: Câmaras de Xeric<br>Morcego Guanic	interface	generalUI	skillGuide
+Ritual Offering - Guppy	Oferenda do ritual - Glub	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Suphi fish	Membros: Câmaras de Xeric<br>Peixe suphi	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Prael bat	Membros: Câmaras de Xeric<br>Morcego prael	interface	generalUI	skillGuide
+Ritual Offering - Cavefish	Oferenda do ritual - Peixe-caverna	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Leckish fish	Membros: Câmaras de Xeric<br>Peixe leckish	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Giral bat	Membros: Câmaras de Xeric<br>Morcego giral	interface	generalUI	skillGuide
+Ritual Offering - Tetra	Oferenda do ritual - Tetra	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Brawk fish	Membros: Câmaras de Xeric<br>Peixe brawk	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Phluxia bat	Membros: Câmaras de Xeric<br>Morcego phluxia	interface	generalUI	skillGuide
+Members: Ritual Offering - Catfish	Membros: Oferenda do ritual - Bagre	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Mycil fish	Membros: Câmaras de Xeric<br>Peixe mycil	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Kryket bat	Membros: Câmaras de Xeric<br>Morcego kryket	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Roqed fish	Membros: Câmaras de Xeric<br>Peixe roqed	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Murng bat	Membros: Câmaras de Xeric<br>Morcego murng	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Kyren fish	Membros: Câmaras de Xeric<br>Peixe kyren	interface	generalUI	skillGuide
+Members: Chambers of Xeric - Psykk bat	Membros: Câmaras de Xeric<br>Morcego psykk	interface	generalUI	skillGuide
 Prayer	Oração	interface	generalUI	skillGuide
 Standard Prayers	Padrões	interface	generalUI	skillGuide
 While any of your prayers are active, your prayer points will drain. Once you have run out of prayer points, you will no longer be able to use prayers. Visit an altar to recharge your prayer points.	Enquanto uma oração estiver ativa, seus pontos de oração serão consumidos. Ao zerar, você não poderá usá-las até recarregar em um altar.	interface	generalUI	skillGuide
