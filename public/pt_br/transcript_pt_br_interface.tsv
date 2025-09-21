@@ -1778,11 +1778,12 @@ Members: Soulreaper axe (with <Num0> Attack)	Membros: Machado Ceifador de Almas<
 Members: Scythe of Vitur (with <Num0> Attack)	Membros: Foice de Vitur<br>(com <Num0> Ataque)	interface	generalUI	skillGuide
 Shortcuts	Atalhos	interface	generalUI	skillGuide
 Barbarian	Bárbara	interface	generalUI	skillGuide
-Granite armour (with <Num0> Defence)	Armadura de granito (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Zombie helmet (with <Num0> Defence)	Membros: Elmo de zumbi (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Inquisitor's armour (with <Num0> Defence)	Membros: Armadura do inquisidor (com <Num0> Defesa)	interface	generalUI	skillGuide
-Primordial boots (with <Num0> Defence)	Botas primordiais (com <Num0> Defesa)	interface	generalUI	skillGuide
-Members: Bloodrager set (with <Num0> Defence)	Membros: Conj. da Lua de Sangue (com <Num0> Defesa)	interface	generalUI	skillGuide
+Granite armour (with <Num0> Defence)	Armadura de granito<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Zombie helmet (with <Num0> Defence)	Membros: Elmo de zumbi<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Inquisitor's armour (with <Num0> Defence)	Membros: Armadura do inquisidor<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Primordial boots (with <Num0> Defence)	Membros: Botas primordiais<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Bloodrager set (with <Num0> Defence)	Membros: Conj. da Lua de Sangue<br>(com <Num0> Defesa)	interface	generalUI	skillGuide
+Members: Avernic treads (with <Num0> Ranged, <Num1> Magic and <Num2> Defence)	Membros: Botas avernianas<br>(com <Num0> Distância, <Num1> Magia e<br><Num2> Defesa)	interface	generalUI	skillGuide
 Shortcuts - Members Only	Atalhos - Para Membros	interface	generalUI	skillGuide
 Cross the River Lum to Al Kharid (with <Num0> Agility and <Num1> Ranged)	Atravesse o rio Lum até Al Kharid<br>(com <Num0> Agilidade e <Num1> Distância)	interface	generalUI	skillGuide
 Karamja (with <Num0> Agility and <Num1> Ranged)	Karamja<br>(com <Num0> Agilidade e <Num1> Distância)	interface	generalUI	skillGuide
@@ -1794,7 +1795,7 @@ Scale Yanille wall (with <Num0> Agility and <Num1> Ranged)	Escalar a muralha de 
 Cross cave, south of Dorgesh-Kaan  (with <Num0> Agility and <Num1> Strength, after completing Death to the Dorgeshuun)	Caverna ao sul de Dorgesh-Kaan<br>(com <Num0> Agilidade e <Num1> Força,<br>após Death to the Dorgeshuun)	interface	generalUI	skillGuide
 Areas - Members Only	Áreas - Para Membros	interface	generalUI	skillGuide
 Access the God Wars Dungeon via the Strength route	Acesso pela rota de Força à<br>Masmorra das Guerras dos Deuses	interface	generalUI	skillGuide
-Enter the Bandos area of the God Wars Dungeon	Entre na área de Bandos da<brMasmorra das Guerras dos Deuses	interface	generalUI	skillGuide
+Enter the Bandos area of the God Wars Dungeon	Entre na área de Bandos da<br>Masmorra das Guerras dos Deuses	interface	generalUI	skillGuide
 Barbarian - Members Only	Bárbaro - Para Membros	interface	generalUI	skillGuide
 To start fishing like a Barbarian, talk to Otto Godblessed when you have at least level <Num0> Fishing, level <Num1> Agility and level <Num2> Strength.	Para começar a pescar como um<br>bárbaro, fale com Otto Godblessed<br>quando tiver pelo menos <Num0> Pesca,<br><Num1> Agilidade e <Num2> Força.	interface	generalUI	skillGuide
 Leaping trout (with <Num0> Agility & <Num1> Fishing)	Truta saltitante<br>(com <Num0> Agilidade & <Num1> Pesca)	interface	generalUI	skillGuide
@@ -1811,28 +1812,28 @@ Gnomeball game	Jogo de Gnomobol	interface	generalUI	skillGuide
 Low-level Agility Arena obstacles	Obstáculos de nível baixo da Arena<br>de Agilidade	interface	generalUI	skillGuide
 Shayzien Basic Course	Percurso Básico de Shayzien	interface	generalUI	skillGuide
 Draynor Village Rooftop Course	Percurso dos Telhados da Vila de<br>Draynor	interface	generalUI	skillGuide
-Al Kharid Rooftop Course	Percurso dos Telhados de Al Kharid	interface	generalUI	skillGuide
+Al Kharid Rooftop Course	Percurso dos Telhados de Al Kharid<br> 	interface	generalUI	skillGuide
 Medium-level Agility Arena obstacles	Obstáculos de nível médio da Arena<br>de Agilidade	interface	generalUI	skillGuide
 Werewolf Skullball game	Jogo de Caveirobol do Lobisomem<br> 	interface	generalUI	skillGuide
 Agility Pyramid	Pirâmide de Agilidade	interface	generalUI	skillGuide
-Varrock Rooftop Course	Percurso dos Telhados de Varrock	interface	generalUI	skillGuide
-Penguin Agility Course	Percurso de Agilidade dos Pinguins	interface	generalUI	skillGuide
+Varrock Rooftop Course	Percurso dos Telhados de Varrock<br> 	interface	generalUI	skillGuide
+Penguin Agility Course	Percurso de Agilidade dos Pinguins<br> 	interface	generalUI	skillGuide
 Barbarian Outpost Agility Course	Percurso de agilidade do Posto<br>Avançado Bárbaro	interface	generalUI	skillGuide
-Canifis Rooftop Course	Percurso no telhado de Canifis	interface	generalUI	skillGuide
+Canifis Rooftop Course	Percurso no telhado de Canifis<br> 	interface	generalUI	skillGuide
 High-level Agility Arena obstacles	Obstáculos de alto nível da Arena de<br>Agilidade	interface	generalUI	skillGuide
-Shayzien Advanced Course	Percurso avançado de Shayzien	interface	generalUI	skillGuide
+Shayzien Advanced Course	Percurso avançado de Shayzien<br> 	interface	generalUI	skillGuide
 Ape Atoll Agility Course	Percurso de agilidade do Atol dos<br>Macacos	interface	generalUI	skillGuide
-Falador Rooftop Course	Percurso no telhado de Falador	interface	generalUI	skillGuide
-Colossal Wyrm Basic Course	Percurso básico do Wyrm Colossal	interface	generalUI	skillGuide
+Falador Rooftop Course	Percurso no telhado de Falador<br> 	interface	generalUI	skillGuide
+Colossal Wyrm Basic Course	Percurso básico do Wyrm Colossal<br> 	interface	generalUI	skillGuide
 Wilderness Course	Percurso na Selva	interface	generalUI	skillGuide
-Werewolf Agility Course	Percurso de agilidade do Lobisomem	interface	generalUI	skillGuide
+Werewolf Agility Course	Percurso de agilidade do Lobisomem<br> 	interface	generalUI	skillGuide
 Seers' Village Rooftop Course	Percurso no telhado da Vila dos<br>Videntes	interface	generalUI	skillGuide
-Colossal Wyrm Advanced Course	Percurso avançado do Wyrm Colossal	interface	generalUI	skillGuide
-Caves south of Dorgesh-Kaan	Cavernas ao sul de Dorgesh-Kaan	interface	generalUI	skillGuide
-Pollnivneach Rooftop Course	Percurso no telhado de Pollnivneach	interface	generalUI	skillGuide
-Prifddinas Agility Course	Percurso de agilidade de Prifddinas	interface	generalUI	skillGuide
-Rellekka Rooftop Course	Percurso no telhado de Rellekka	interface	generalUI	skillGuide
-Ardougne Rooftop Course	Percurso no telhado de Ardougne	interface	generalUI	skillGuide
+Colossal Wyrm Advanced Course	Percurso avançado do Wyrm Colossal<br> 	interface	generalUI	skillGuide
+Caves south of Dorgesh-Kaan	Cavernas ao sul de Dorgesh-Kaan<br> 	interface	generalUI	skillGuide
+Pollnivneach Rooftop Course	Percurso no telhado de Pollnivneach<br> 	interface	generalUI	skillGuide
+Prifddinas Agility Course	Percurso de agilidade de Prifddinas<br> 	interface	generalUI	skillGuide
+Rellekka Rooftop Course	Percurso no telhado de Rellekka<br> 	interface	generalUI	skillGuide
+Ardougne Rooftop Course	Percurso no telhado de Ardougne<br> 	interface	generalUI	skillGuide
 Courses	Percursos	interface	generalUI	skillGuide
 Other	Outros	interface	generalUI	skillGuide
 Rope-swing to Moss Giant Island	Balanço de corda para a Ilha do Gigante Musgo	interface	generalUI	skillGuide
@@ -3710,8 +3711,8 @@ Swampbark boots and gauntlets	Botas e manoplas de tronco de pântano	interface	g
 Swampbark helm	Elmo de tronco de pântano	interface	generalUI	skillGuide
 Swampbark body and legs	Perneiras e cota de tronco de pântano	interface	generalUI	skillGuide
 Eternal boots (with <Num0> Magic)	Botas da eternidade (com <Num0> Magia)	interface	generalUI	skillGuide
-Pegasian boots (with <Num0> Magic)	Botas primordiais (com <Num0> Magia)	interface	generalUI	skillGuide
-Primordial boots (with <Num0> Magic)	Botas de pégaso (com <Num0> Magia)	interface	generalUI	skillGuide
+Pegasian boots (with <Num0> Magic)	Botas de pégaso (com <Num0> Magia)	interface	generalUI	skillGuide
+Primordial boots (with <Num0> Magic)	Botas primordiais (com <Num0> Magia)	interface	generalUI	skillGuide
 Bloodbark boots and gauntlets	Botas e manoplas de tronco de sangue	interface	generalUI	skillGuide
 Bloodbark helm	Elmo de tronco de sangue	interface	generalUI	skillGuide
 Bloodbark body and legs	Perneiras e cota de tronco de sangue	interface	generalUI	skillGuide
