@@ -845,7 +845,7 @@ Spin	Moldar	actions	object	Spinning wheel
 Capture	Capturar	actions	object	Standard Stand
 Jump-to	Pular-para	actions	object	Stepping stone
 Collapse	Colapsar	actions	object	Cave wall
-Lock	Arrombar	actions	object	Door
+Lock	Trancar	actions	object	Door
 View	Ver	actions	object	Scoreboard
 View Stats	Ver estatísticas	actions	object	Scoreboard
 Build	Construir	actions	object	Chair space

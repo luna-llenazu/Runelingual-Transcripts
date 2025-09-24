@@ -1,18 +1,18 @@
 english	translation	category	sub_category	source
 All	Tudo	interface	chatButtons	
-Game	Jogo	interface	chatButtons	
-Public	Público	interface	chatButtons	
-Private	Privado	interface	chatButtons	
-On		interface	chatButtons	
-Channel	Canal	interface	chatButtons	
-Clan	Clã	interface	chatButtons	
-Trade	Troca	interface	chatButtons	
-Group	Grupo	interface	chatButtons	
-<colNum0>Autochat</col>	<colNum0>Autochat</col>	interface	chatButtons	
-<colNum0>Friends</col>	<colNum0>Amigos</col>	interface	chatButtons	
-<colNum0>Filtered</col>	<colNum0>Filtrado</col>	interface	chatButtons	
-<colNum0>Hide</col>	<colNum0>Oculto</col>	interface	chatButtons	
-<colNum0>Off</col>	<colNum0>Desligado</col>	interface	chatButtons	
+Game 	Jogo	interface	chatButtons	
+Public 	Público	interface	chatButtons	
+Private 	Privado	interface	chatButtons	
+ On		interface	chatButtons	
+Channel 	Canal	interface	chatButtons	
+Clan 	Clã	interface	chatButtons	
+Trade 	Troca	interface	chatButtons	
+Group 	Grupo	interface	chatButtons	
+ <colNum0>Autochat</col>	 <colNum0>Autochat</col>	interface	chatButtons	
+ <colNum0>Friends</col>	 <colNum0>Amigos</col>	interface	chatButtons	
+ <colNum0>Filtered</col>	 <colNum0>Filtrado</col>	interface	chatButtons	
+ <colNum0>Hide</col>	 <colNum0>Oculto</col>	interface	chatButtons	
+ <colNum0>Off</col>	 <colNum0>Desligado</col>	interface	chatButtons	
 Combat Achievements - Overview	Maestrias de Combate - Visão geral	interface	combAchvmt	
 Total Points: <Num0> - Next unlock in <Num1> points	Pontos totais: <Num0> - Próximo desb. ao chegar em <Num1> pontos.	interface	combAchvmt	
 Difficulty Tiers	Classes de Dificuldade	interface	combAchvmt	
@@ -1522,6 +1522,7 @@ Phosanis Nightmare		interface	combAchvmt
 The Royal Titans		interface	combAchvmt	
 Combat Achievements - <!NPC_NAME0>		interface	combAchvmt	
 Monster: <colNum0><!NPC_NAME0></col>		interface	combAchvmt	
+		interface	combAchvmt	
 Attack	Ataque	interface	generalUI	skillGuide
 Weapons	Armas	interface	generalUI	skillGuide
 Bronze	Bronze	interface	generalUI	skillGuide
@@ -6732,3 +6733,4 @@ A very high level Fire missile<br><colNum0>Members Only</col>	Um projétil mági
 For use on dragonstone jewellery<br><colNum0>Members Only</col>	Para uso em joias de dragolito<br><colNum0>Para Membros</col>	interface	mainTabs	spellBookTab
 For use on onyx jewellery<br><colNum0>Members Only</col>	Para uso em joias com ônix<br><colNum0>Para Membros</col>	interface	mainTabs	spellBookTab
 For use on zenyte jewellery<br><colNum0>Members Only</col>	Para uso em joias de zenita<br><colNum0>Para Membros</col>	interface	mainTabs	spellBookTab
+Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes<br><colNum0>Requires Mage Arena I</col>		interface	mainTabs	spellBookTab

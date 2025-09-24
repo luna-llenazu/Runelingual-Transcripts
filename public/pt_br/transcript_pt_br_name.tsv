@@ -1,4 +1,5 @@
 english	translation	category	sub_category	source
+3rd age platebody	Cota de placa da 3a Era	name	item	3rd age platebody
 Dwarf remains	Restos de anões	name	item	Dwarf remains
 Toolkit	Caixa de ferramentas	name	item	Toolkit
 Cannonball	Bala de canhão	name	item	Cannonball
@@ -258,7 +259,7 @@ Tin ore	Minério de estanho	name	item	Tin ore
 Iron ore	Minério de ferro	name	item	Iron ore
 Silver ore	Minério de prata	name	item	Silver ore
 Gold ore	Minério de ouro	name	item	Gold ore
-perfect' gold ore	"Minério de ouro ""perfeito"""	name	item	perfect' gold ore
+'perfect' gold ore	"Minério de ouro ""perfeito"""	name	item	'perfect' gold ore
 Mithril ore	Minério de mithril	name	item	Mithril ore
 Adamantite ore	Minério de adamantio	name	item	Adamantite ore
 Runite ore	Minério de runita	name	item	Runite ore
@@ -462,8 +463,8 @@ Certificate	Certificado	name	item	Certificate
 Ardougne cloak	Capa de Ardougne	name	item	Ardougne cloak
 Dramen branch	Ramo de dramen	name	item	Dramen branch
 Dramen staff	Cajado Dramen	name	item	Dramen staff
-perfect' ring	"Anel ""perfeito"""	name	item	perfect' ring
-perfect' necklace	"Colar ""perfeito"""	name	item	perfect' necklace
+'perfect' ring	"Anel ""perfeito"""	name	item	'perfect' ring
+'perfect' necklace	"Colar ""perfeito"""	name	item	'perfect' necklace
 Cooking gauntlets	Manoplas de Culinária	name	item	Cooking gauntlets
 Goldsmith gauntlets	Manoplas de ourives	name	item	Goldsmith gauntlets
 Chaos gauntlets	Manoplas do caos	name	item	Chaos gauntlets
@@ -1252,7 +1253,7 @@ Gold bar	Barra de ouro	name	item	Gold bar
 Mithril bar	Barra de mithril	name	item	Mithril bar
 Adamantite bar	Barra de adamantio	name	item	Adamantite bar
 Runite bar	Barra rúnica	name	item	Runite bar
-perfect' gold bar	"Barra de ouro ""perfeita"""	name	item	perfect' gold bar
+'perfect' gold bar	"Barra de ouro ""perfeita"""	name	item	'perfect' gold bar
 Shield left half	Metade esquerda do escudo	name	item	Shield left half
 Shield right half	Metade direita do escudo	name	item	Shield right half
 Steel studs	Tachas de aço	name	item	Steel studs
@@ -4875,7 +4876,6 @@ Purple logs	Lenha púrpura	name	item	Purple logs
 3rd age mage hat	Chapéu de mago da 3a Era	name	item	3rd age mage hat
 3rd age amulet	Amuleto da 3a Era	name	item	3rd age amulet
 3rd age platelegs	Perneiras da 3a Era	name	item	3rd age platelegs
-3rd age platebody	Cota de placa da 3a Era	Cota de placa da Terceira Era	item	3rd age platebody
 3rd age full helmet	Elmo completo da 3a Era	name	item	3rd age full helmet
 3rd age kiteshield	Escudo ogival da 3a Era	name	item	3rd age kiteshield
 Amulet of glory (t4)	Amuleto da glória (t4)	name	item	Amulet of glory (t4)
@@ -8248,7 +8248,7 @@ Runner hat (broken)	Chapéu de corredor (quebrado)	name	item	Runner hat (broken)
 Runner hat (l)	Chapéu de corredor (l)	name	item	Runner hat (l)
 Magic egg ball	Ovo mágico	name	item	Magic egg ball
 Carrot sword	Espanoura	name	item	Carrot sword
-24-carat' sword	Espada de “24 quilates”	name	item	24-carat' sword
+'24-carat' sword	Espada de “24 quilates”	name	item	'24-carat' sword
 Painted fake magic egg	Ovo mágico falso pintado	name	item	Painted fake magic egg
 Unpainted fake magic egg	Ovo mágico falso sem pintura	name	item	Unpainted fake magic egg
 Conch shell	Concha	name	item	Conch shell
@@ -10830,6 +10830,21 @@ Eye of ayak (uncharged)	Olho de ayak (sem carga)	name	item	Eye of ayak (uncharge
 Old letter	Carta antiga	name	item	Old letter
 Blueberry muffin	Bolinho de mirtilo	name	item	Blueberry muffin
 Dom	Dom	name	item	Dom
+Mausoleum bridge repair		name	item	Mausoleum bridge repair
+Agility strength		name	item	Agility strength
+Agility swing		name	item	Agility swing
+Blood moon armour set	Conjunto de armadura da Lua Sangrenta	name	item	Blood moon armour set
+Blue moon armour set	Conjunto de armadura da Lua Azul	name	item	Blue moon armour set
+Eclipse moon armour set	Conjunto de armadura do Eclipse	name	item	Eclipse moon armour set
+Torva armour set	Conjunto de armadura de Torva	name	item	Torva armour set
+Virtus armour set	Conjunto de armadura de Virtus	name	item	Virtus armour set
+Rock-shell armour set	Conjunto de armadura de rocha	name	item	Rock-shell armour set
+Skeletal armour set	Conjunto de armadura esquelética	name	item	Skeletal armour set
+Spined armour set	Conjunto de armadura de espinhos	name	item	Spined armour set
+Swampbark armour set	Conjunto de armadura de tronco de pântano	name	item	Swampbark armour set
+Bloodbark armour set	Conjunto de armadura de tronco de sangue	name	item	Bloodbark armour set
+Mixed hide armour set	Conjunto de armadura de couro misto	name	item	Mixed hide armour set
+Hueycoatl hide armour set	Conjunto de armadura de pele de Hueycoatl	name	item	Hueycoatl hide armour set
 level	nível-	name	level	
 Redemption	Redenção	name	menu	prayerTab
 Protect Item	Proteção de Item	name	menu	prayerTab
@@ -12546,7 +12561,7 @@ Dessous	Dessous	name	npc	Dessous
 Ruantun	Ruantun	name	npc	Ruantun
 Cyrisus	Cyrisus	name	npc	Cyrisus
 Fallen Man	Homem caído	name	npc	Fallen Man
-Bird's-Eye' Jack	Jack 'olho de pássaro'	name	npc	Bird's-Eye' Jack
+'Bird's-Eye' Jack	"Jão ""Olho de Pássaro"""	name	npc	'Bird's-Eye' Jack
 The Inadequacy	A Insuficiência	name	npc	The Inadequacy
 The Everlasting	A Eternidade	name	npc	The Everlasting
 The Untouchable	O Intocável	name	npc	The Untouchable
@@ -12622,12 +12637,12 @@ Effigy	Effigy	name	npc	Effigy
 Bonafido	Bonafido	name	npc	Bonafido
 Homunculus	Homúnculo	name	npc	Homunculus
 Cage	Jaula	name	npc	Cage
-Transmute' The Alchemist	Transmutador, o Alquimista	name	npc	Transmute' The Alchemist
-Currency' The Alchemist	Moedeiro, o Alquimista	name	npc	Currency' The Alchemist
-Black-eye'	Olho-roxo	name	npc	Black-eye'
-No fingers'	O Sem-dedos	name	npc	No fingers'
-Gummy'	Gomoso	name	npc	Gummy'
-The Guns'	Músculos	name	npc	The Guns'
+'Transmute' The Alchemist	"""Transmuto"" o Alquimista"	name	npc	'Transmute' The Alchemist
+'Currency' The Alchemist	"""Troco"" o Alquimista"	name	npc	'Currency' The Alchemist
+'Black-eye'	"""Olho-roxo"""	name	npc	'Black-eye'
+'No fingers'	"""Sem-dedos"""	name	npc	'No fingers'
+'Gummy'	"""Banguela"""	name	npc	'Gummy'
+'The Guns'	"""Muque"""	name	npc	'The Guns'
 Frogeel	Sapia	name	npc	Frogeel
 Unicow	Vacórnio	name	npc	Unicow
 Spidine	Sardanha	name	npc	Spidine
@@ -12714,23 +12729,23 @@ Enchanted Bucket	Balde encantado	name	npc	Enchanted Bucket
 Bouquet Mac Hyacinth	Bouquet Mac Hyacinth	name	npc	Bouquet Mac Hyacinth
 Lokar Searunner	Lokar Corremar	name	npc	Lokar Searunner
 Cabin boy	Grumete	name	npc	Cabin boy
-Beefy' Burns	Burns 'Musculoso'	name	npc	Beefy' Burns
-Eagle-eye' Shultz	Shultz 'Olhos de Águia'	name	npc	Eagle-eye' Shultz
-First mate 'Davey-boy'	Imediato 'Garoto Davey'	name	npc	First mate 'Davey-boy'
-Birds-Eye' Jack	Jack Olhos de Pássaro	name	npc	Birds-Eye' Jack
-Picarron' Pete	Pete 'Picarron'	name	npc	Picarron' Pete
+'Beefy' Burns	"Beto ""Brasas"""	name	npc	'Beefy' Burns
+'Eagle-eye' Shultz	"Chico ""Olho de Águia"""	name	npc	'Eagle-eye' Shultz
+First mate 'Davey-boy'	"Imediato ""Davizinho"""	name	npc	First mate 'Davey-boy'
+'Birds-Eye' Jack	"Jão ""Olho de Pássaro"""	name	npc	'Birds-Eye' Jack
+'Picarron' Pete	"Pedro ""Picareta"""	name	npc	'Picarron' Pete
 Jake	Jake	name	npc	Jake
-Bedread the bold	Bedread o corajoso	name	npc	Bedread the bold
+Bedread the bold	Charles Camapédia	name	npc	Bedread the bold
 Wilson	Wilson	name	npc	Wilson
-Tommy 2-times	Tommy 2 vezes	name	npc	Tommy 2-times
+Tommy 2-times	Tomé Repeteco	name	npc	Tommy 2-times
 Murky Pat	Pat Sombrio	name	npc	Murky Pat
 Jack Sails	Jack Velas	name	npc	Jack Sails
 Palmer	Marco Palmeira	name	npc	Palmer
-Betty' B.Boppin	Betty' B.Boppin	name	npc	Betty' B.Boppin
-Beedy-eye' Jones	Jones Olhos de Bolita	name	npc	Beedy-eye' Jones
-Jenny Blade	Jenny Lâmina	name	npc	Jenny Blade
-Lecherous' Lee	Lee Lascivo	name	npc	Lecherous' Lee
-Sticky' Sanders	Sticky' Sanders	name	npc	Sticky' Sanders
+'Betty' B.Boppin	"""Bete"" B.Balanço"	name	npc	'Betty' B.Boppin
+'Beedy-eye' Jones	"Jones ""Olhos de Bolita"""	name	npc	'Beedy-eye' Jones
+Jenny Blade	Jana Lâmina	name	npc	Jenny Blade
+'Lecherous' Lee	"Lee ""Tarado"""	name	npc	'Lecherous' Lee
+'Sticky' Sanders	"Sandro ""Grudento"""	name	npc	'Sticky' Sanders
 Jex	Jex	name	npc	Jex
 Maisa	Maisa	name	npc	Maisa
 Sophanem Guard	Guarda de Sophanem	name	npc	Sophanem Guard
@@ -15442,7 +15457,7 @@ Salius	Salius	name	npc	Salius
 Salvager	Salvager	name	npc	Salvager
 Chosen Aluinus	Escolhido Aluinus	name	npc	Chosen Aluinus
 Izel	Izel	name	npc	Izel
-Worm Tongue	Worm Tongue	name	npc	Worm Tongue
+Worm Tongue	Língua de Minhoca	name	npc	Worm Tongue
 Construction Worker	Trabalhador da construção	name	npc	Construction Worker
 Antonia	Antonia	name	npc	Antonia
 Taala	Taala	name	npc	Taala
@@ -15557,9 +15572,9 @@ Mature custodian stalker	Perseguidor maduro	name	npc	Mature custodian stalker
 Elder custodian stalker	Perseguidor idoso	name	npc	Elder custodian stalker
 Baby custodian stalker	Perseguidor bebê	name	npc	Baby custodian stalker
 Strange creature	Criatura estranha	name	npc	Strange creature
-Doom of Mokhaiotl	FIm de Mokhaiotl	name	npc	Doom of Mokhaiotl
-Doom of Mokhaiotl (Shielded)	FIm de Mokhaiotl (Blindado)	name	npc	Doom of Mokhaiotl (Shielded)
-Doom of Mokhaiotl (Burrowed)	FIm de Mokhaiotl (Enterrado)	name	npc	Doom of Mokhaiotl (Burrowed)
+Doom of Mokhaiotl	Fim de Mokhaiotl	name	npc	Doom of Mokhaiotl
+Doom of Mokhaiotl (Shielded)	Fim de Mokhaiotl (Blindado)	name	npc	Doom of Mokhaiotl (Shielded)
+Doom of Mokhaiotl (Burrowed)	Fim de Mokhaiotl (Enterrado)	name	npc	Doom of Mokhaiotl (Burrowed)
 Demonic larva	Larva demoníaca	name	npc	Demonic larva
 Demonic range larva	Larva demoníaca de longo alcance	name	npc	Demonic range larva
 Demonic magic larva	Larva demoníaca mágica	name	npc	Demonic magic larva
@@ -15601,12 +15616,15 @@ Tombs of Amascut	Tumbas de Amascut	name	npc
 Tombs of Amascut: Expert Mode	Túmulos de Amascut: Modo Expert	name	npc	
 TzHaar-Ket-Rak's Challenges	Desafios de TzHaar-Ket-Rak	name	npc	
 Wintertodt	Wintertodt	name	npc	
-	Nenhum	name	npc	
+		name	npc	
 Royal Titans	Titãs Reais	name	npc	
 Other	Outros	name	npc	
 Mimic	Mímico	name	npc	
 Thermy	Thermy	name	npc	
 Chambers of Xeric: CM	Câmaras de Xeric: MD	name	npc	
+Harvester	Coletor	name	npc	Harvester
+Wizguard	Guardamago	name	npc	Wizguard
+	Nenhum	name	npc	
 Crate	Engradado	name	object	Crate
 Cave Entrance	Entrada da caverna	name	object	Cave Entrance
 Door	Porta	name	object	Door
@@ -20407,3 +20425,6 @@ Strange statue	Estátua estranha	name	object	Strange statue
 Picnic	Piquenique	name	object	Picnic
 Gemstone rock	Pedra preciosa	name	object	Gemstone rock
 Debug Wall	Debug wall	name	object	Debug Wall
+Ivy	Videira	name	object	Ivy
+Broken window	Janela quebrada	name	object	Broken window
+Bridge support	Suporte da ponte	name	object	Bridge support
