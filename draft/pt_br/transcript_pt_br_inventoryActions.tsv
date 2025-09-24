@@ -474,7 +474,7 @@ Check-memories	Checar-memórias	inventoryActions	item	Crystal of echoes
 Save-memory	Salvar-memória	inventoryActions	item	Crystal of echoes
 League Debug	League Debug	inventoryActions	item	League tomato
 Setups	Setups	inventoryActions	item	League tomato
-Skill Emote	Ação de habilidae	inventoryActions	item	Shattered cane
+Skill Emote	Ação de habilidade	inventoryActions	item	Shattered cane
 Boss Emote	Ação de chefe	inventoryActions	item	Shattered cane
 Quest Emote	Ação de missão	inventoryActions	item	Shattered cane
 Fragment Emote	Ação de fragmento	inventoryActions	item	Shattered cane
@@ -532,8 +532,9 @@ Rummage	Vasculhar	inventoryActions	item	Vale offerings
 Hasty-rummage	Vasculhar-logo	inventoryActions	item	Vale offerings
 Examine	Examinar	inventoryActions	item	
 Remove	Remover	inventoryActions	item	
-Add	Add	inventoryActions	item	
-Add-5	Add-5	inventoryActions	item	
-Add-10	Add-10	inventoryActions	item	
-Add-All	Add-Tudo	inventoryActions	item	
-Add-X	Add-X	inventoryActions	item	
+Add	Adicionar	inventoryActions	item	
+Add-5	Adicionar-5	inventoryActions	item	
+Add-10	Adicionar-10	inventoryActions	item	
+Add-All	Adicionar-Tudo	inventoryActions	item	
+Add-X	Adicionar-X	inventoryActions	item	
+Use		inventoryActions	item	Tackle box

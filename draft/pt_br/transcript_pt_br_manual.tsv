@@ -308,6 +308,7 @@ Cooking Guild	Guilda dos Cozinheiros	manual	location
 Woodcutting Guild	Guilda dos Lenhadores	manual	location	
 Farming Guild	Guilda de Agricultura	manual	location	
 Edgeville	Fronteiriça	manual	location	
+Champion's Guild 		manual	location	
 Vision	Visão	manual	music	
 at the Wizards' Tower.	na Torre dos Magos.	manual	music	
 Volcanic Vikings	Vikings no vulcão	manual	music	
@@ -364,7 +365,6 @@ Wild Side	Lado obscuro da vida	manual	music
 Wilderness	Terra Selvagem	manual	music	
 Revenants	Revenants	manual	music	
 in the Revenant Caves.	nas cavernas dos Revenants.	manual	music	
-Wilderness	Terra Selvagem	manual	music	
 Wildwood	Mata virgem	manual	music	
 Winter Funfair	Fanfarra Invernal	manual	music	
 during a Christmas event.	durante um evento de Natal.	manual	music	
@@ -481,6 +481,7 @@ during the Perilous Moons quest.	durante a missão As Luas da Ruína.	manual	mus
 Lost to Time	Perdido no Tempo	manual	music	
 Sunny Side Up	Alegria do Chocolate	manual	music	
 during the Easter  Holiday Event.	durante o evento de Páscoa.	manual	music	
+Wilderness 		manual	music	
 Animal Magnetism		manual	quest	
 Learn how to equip Ava's ranged devices.	Aprenda como equipar os dispositivos de Arqueiro, de Ava.	manual	quest	
 Another Slice of H.A.M.		manual	quest	
@@ -1215,6 +1216,7 @@ Gain the ability to store your task, allowing you to take it at a later point in
 Krystilia will be able to assign Jellies, Dust Devils, Nechryaels and Abyssal Demons as your task.	Krystilia será capaz de atribuir Geleias, Diabos do Pó, Necriéis e Demônios Abissais como sua tarefa.	manual	slayer_reward	
 Whenever you get a Revenants task, it will be a bigger task.	Sempre que você receber tarefas de Revenants, ela será mais extensa.	manual	slayer_reward	
 Konar, Duradel, Nieve and Chaeldar will be able to assign Warped Creatures as your task.	Konar, Duradel, Nieve e Chaeldar serão capazes de atribuir Criaturas Deformadas como sua tarefa.	manual	slayer_reward	
+'Shroom Sprayer	Dá Uma Fungada	manual	slayer_reward	
 Karamja easy	Karamja fáceis	manual	task	
 Karamja medium	Karamja médias	manual	task	
 Karamja hard	Karamja difíceis	manual	task	
